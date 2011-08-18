@@ -1,0 +1,18 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1281505988
+host=114.243.71.194
+keywords=娱乐,初音的消失,死之妖精,略鬼畜 
+name=Acfun2.1151
+rev=1
+targets=Category.娱乐,Category.初音的消失,Category.死之妖精,Category.略鬼畜
+text=%0a(:VideoStr:6Q23YX8broN:)%0a(:title 【死の妖精】张东健的消失 -DEAD END- :)%0a(:keywords 娱乐,初音的消失,死之妖精,略鬼畜 :)%0a(:sourcelink:http://acfun.cn/html/ent/20100616/112033.html:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1281505988
+title=【死の妖精】张东健的消失 -DEAD END- 
+author:1281505988=Admin
+diff:1281505988:1281505988:=1,11d0%0a%3c %0a%3c (:VideoStr:6Q23YX8broN:)%0a%3c (:title 【死の妖精】张东健的消失 -DEAD END- :)%0a%3c (:keywords 娱乐,初音的消失,死之妖精,略鬼畜 :)%0a%3c (:sourcelink:http://acfun.cn/html/ent/20100616/112033.html:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1281505988=114.243.71.194

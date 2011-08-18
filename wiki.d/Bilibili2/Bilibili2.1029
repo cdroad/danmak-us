@@ -1,0 +1,18 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1295854222
+host=114.243.101.20
+keywords=动画,天元 
+name=Bilibili2.1029
+rev=1
+targets=Category.动画,Category.天元
+text=(:VideoStr:7mv2usbT1B1:)%0a(:title 天元突破×創聖のアクエリオン :)%0a(:keywords 动画,天元 :)%0a(:sourcelink:http://ct.bilibili.us/video/av16370/:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1295854222
+title=天元突破×創聖のアクエリオン 
+author:1295854222=aUser
+diff:1295854222:1295854222:=1,10d0%0a%3c (:VideoStr:7mv2usbT1B1:)%0a%3c (:title 天元突破×創聖のアクエリオン :)%0a%3c (:keywords 动画,天元 :)%0a%3c (:sourcelink:http://ct.bilibili.us/video/av16370/:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1295854222=114.243.101.20

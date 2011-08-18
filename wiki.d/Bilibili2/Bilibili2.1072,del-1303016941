@@ -1,0 +1,48 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20100101 Firefox/4.0
+author=面瘫半宅
+cauthor=面瘫半宅
+charset=UTF-8
+csum=
+ctime=1303010834
+host=221.212.116.49
+keywords=音乐,专业级, 
+name=Bilibili2.1072
+rev=11
+targets=Category.音乐,Category.专业级
+text=(:VideoStr:7RRtr1ffNRn:)%0a(:if enabled LOADPLAYER:)%0a(:title 【ニコニコインディーズ】 Hands 【GARNiDELiA】 :)%0a(:keywords 音乐,专业级, :)%0a(:sourcelink:http://www.bilibili.us/video/av25852/:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a弹幕填坑……%0a[[#commentend]]%0a(:ifend:)%0a%0a(:DMR:OFF:)%0a(:DML:OFF:)
+time=1303015581
+title=【ニコニコインディーズ】 Hands 【GARNiDELiA】 
+author:1303015581=面瘫半宅
+diff:1303015581:1303015426:=2c2%0a%3c (:if enabled LOADPLAYER:)%0a---%0a> %0a
+host:1303015581=221.212.116.49
+author:1303015426=面瘫半宅
+diff:1303015426:1303015123:=2c2%0a%3c %0a---%0a> (:nogroupfooter:)%0a
+host:1303015426=221.212.116.49
+author:1303015123=面瘫半宅
+diff:1303015123:1303014738:=2d1%0a%3c (:nogroupfooter:)%0a
+host:1303015123=221.212.116.49
+author:1303014738=面瘫半宅
+diff:1303014738:1303012315:=10,13c10%0a%3c (:ifend:)%0a%3c %0a%3c (:DMR:OFF:)%0a%3c (:DML:OFF:)%0a\ No newline at end of file%0a---%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1303014738=221.212.116.49
+author:1303012315=面瘫半宅
+diff:1303012315:1303012285:=
+host:1303012315=221.212.116.49
+author:1303012285=面瘫半宅
+diff:1303012285:1303012235:=
+host:1303012285=221.212.116.49
+author:1303012235=啊
+diff:1303012235:1303011100:=1c1%0a%3c (:VideoStr:7RRtr1ffNRn:)%0a---%0a> (:VideoStr:http://vhot2.qqvideo.tc.qq.com/48543759/7RRtr1ffNRn.flv?sdtfrom=v2&r=490:)%0a
+host:1303012235=117.136.19.94
+author:1303011100=面瘫半宅
+diff:1303011100:1303010994:=1c1%0a%3c (:VideoStr:http://vhot2.qqvideo.tc.qq.com/48543759/7RRtr1ffNRn.flv?sdtfrom=v2&r=490:)%0a---%0a> (:VideoStr:http://vhot2.qqvideo.tc.qq.com/48543759/7RRtr1ffNRn.flv:)%0a
+host:1303011100=221.212.116.49
+author:1303010994=面瘫半宅
+diff:1303010994:1303010988:=
+host:1303010994=221.212.116.49
+author:1303010988=面瘫半宅
+diff:1303010988:1303010834:=1c1%0a%3c (:VideoStr:http://vhot2.qqvideo.tc.qq.com/48543759/7RRtr1ffNRn.flv:)%0a---%0a> (:VideoStr:http://vhot2.qqvideo.tc.qq.com/48543759/7RRtr1ffNRn.flv?sdtfrom=v2&r=490:)%0a
+host:1303010988=221.212.116.49
+author:1303010834=面瘫半宅
+diff:1303010834:1303010834:=1,10d0%0a%3c (:VideoStr:http://vhot2.qqvideo.tc.qq.com/48543759/7RRtr1ffNRn.flv?sdtfrom=v2&r=490:)%0a%3c (:title 【ニコニコインディーズ】 Hands 【GARNiDELiA】 :)%0a%3c (:keywords 音乐,专业级, :)%0a%3c (:sourcelink:http://www.bilibili.us/video/av25852/:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c 弹幕填坑……%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1303010834=221.212.116.49

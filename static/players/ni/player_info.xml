@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<player_information>
+	<eco_ex_link>
+		<start>201010151600</start>
+		<end>201010312300</end>
+		<text color="0xFFCC33">プレミアム会員登録で500ポイントプレゼントキャンペーン実施中！</text>
+		<link>http%3A%2F%2Fpoint.nicovideo.jp%2Findex%2Fpresent%2Fca%2F2010quiz%2Fstart%3Fppc_nicoeco</link>
+	</eco_ex_link>
+	<no_banner_targets>
+		<watch_id>sm10309737</watch_id>
+		<watch_id>sm10450502</watch_id>
+		<watch_id>sm11461670</watch_id>
+		<watch_id>sm11522738</watch_id>
+	</no_banner_targets>
+	<playstats_count>1</playstats_count>
+	<playlist_limit>10</playlist_limit>
+	<no_load_adslivebanner>0</no_load_adslivebanner>
+	<leaf_filter>
+	</leaf_filter>
+</player_information>

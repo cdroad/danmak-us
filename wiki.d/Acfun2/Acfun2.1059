@@ -1,0 +1,18 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1279507707
+host=114.243.82.82
+keywords=音乐,东方,手绘 
+name=Acfun2.1059
+rev=1
+targets=Category.音乐,Category.东方,Category.手绘
+text=%0a(:VideoStr:26584078:)%0a(:title 【東方】 有頂天入り ４話(前編) :)%0a(:keywords 音乐,东方,手绘 :)%0a(:sourcelink:http://124.228.254.234/html/anime/20091204/60786.html :)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1279507707
+title=【東方】 有頂天入り ４話(前編) 
+author:1279507707=Admin
+diff:1279507707:1279507707:=1,11d0%0a%3c %0a%3c (:VideoStr:26584078:)%0a%3c (:title 【東方】 有頂天入り ４話(前編) :)%0a%3c (:keywords 音乐,东方,手绘 :)%0a%3c (:sourcelink:http://124.228.254.234/html/anime/20091204/60786.html :)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279507707=114.243.82.82

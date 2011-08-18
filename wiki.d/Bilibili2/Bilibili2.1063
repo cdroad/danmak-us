@@ -1,0 +1,18 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0) Gecko/20100101 Firefox/4.0
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1300100512
+host=180.110.97.133
+keywords=动画,亿千万,童年,回忆,,数码宝贝,数码暴龙,EVA,灌篮高手,高达,燃,全金属狂潮,FATE,夏娜,天元突破,鲁鲁修,炮 
+name=Bilibili2.1063
+rev=1
+targets=Category.动画,Category.亿千万,Category.童年,Category.回忆,Category.数码宝贝,Category.数码暴龙,Category.EVA,Category.灌篮高手,Category.高达,Category.燃,Category.全金属狂潮,Category.FATE,Category.夏娜,Category.天元突破,Category.鲁鲁修,Category.炮
+text=(:VideoStr:47717346:)%0a(:title 【亿千万】思い出はおっくせんまん!_嗶哩嗶哩 :)%0a(:keywords 动画,亿千万,童年,回忆,,数码宝贝,数码暴龙,EVA,灌篮高手,高达,燃,全金属狂潮,FATE,夏娜,天元突破,鲁鲁修,炮 :)%0a(:sourcelink:http://www.bilibili.us/video/av68311/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1300100512
+title=【亿千万】思い出はおっくせんまん!_嗶哩嗶哩 
+author:1300100512=Admin
+diff:1300100512:1300100512:=1,10d0%0a%3c (:VideoStr:47717346:)%0a%3c (:title 【亿千万】思い出はおっくせんまん!_嗶哩嗶哩 :)%0a%3c (:keywords 动画,亿千万,童年,回忆,,数码宝贝,数码暴龙,EVA,灌篮高手,高达,燃,全金属狂潮,FATE,夏娜,天元突破,鲁鲁修,炮 :)%0a%3c (:sourcelink:http://www.bilibili.us/video/av68311/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1300100512=180.110.97.133

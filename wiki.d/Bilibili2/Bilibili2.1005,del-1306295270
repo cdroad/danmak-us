@@ -1,0 +1,57 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0) Gecko/20100101 Firefox/4.0
+author=Admin
+cauthor=KPX
+charset=UTF-8
+csum=
+ctime=1296974866
+host=117.88.221.238
+name=Bilibili2.1005
+passwdattr=@lock
+passwddelete=@lock
+passwdedit=$1$W8MU.sEY$GpTfvjFwX60fm9dIWbVYe0
+passwdupload=@lock
+rev=19
+targets=Profiles.KPX
+text=(:title 弹幕测试:)%0a%25red small%25 五一左右本页将不复存在，自觉做好备份。 [[~KPX]] 2011 年 04 月 18 日, 10:55 下午 %25%25%0a(:if ! enabled LOADPLAYER:)%0a(:nogroupfooter:)%0a(:input form "{$PageUrl}" GET:)%0a||border=1 %0a||带*为必填项 ||(:input hidden name=action value="LoadPlayer":)||%0a||视频类型(*) ||(:input select name=xViType value=Nor label="渣浪":)(:input select name=xViType value=QQ label="QQ":)(:input select name=xViType value=Link label="Link":)(:input select name=xViType value=YK label="优酷":)(:input select name=xViType value=TD label="土豆（不支持）":)||%0a||视频ID / flv地址 (*) ||(:input text name=xViStr:) ||%0a|| ||(:input submit value="提交":)(:input end:) ||%0a(:ifend:)
+time=1303138552
+title=弹幕测试
+author:1303138552=Admin
+diff:1303138552:1303138521:=2c2%0a%3c %25red small%25 五一左右本页将不复存在，自觉做好备份。 [[~KPX]] 2011 年 04 月 18 日, 10:55 下午 %25%25%0a---%0a> %25red small%25 五一左右本页将不复存在，自觉做好备份。 [[~Admin]] 2011 年 04 月 18 日, 10:55 下午 %25%25%0a
+host:1303138552=117.88.221.238
+author:1303138521=Admin
+diff:1303138521:1299819353:=2d1%0a%3c %25red small%25 五一左右本页将不复存在，自觉做好备份。 [[~Admin]] 2011 年 04 月 18 日, 10:55 下午 %25%25%0a
+host:1303138521=117.88.221.238
+author:1299681257=Admin
+diff:1299681257:1298987890:=7c7%0a%3c ||视频类型(*) ||(:input select name=xViType value=Nor label="渣浪":)(:input select name=xViType value=QQ label="QQ":)(:input select name=xViType value=Link label="Link":)(:input select name=xViType value=YK label="优酷":)(:input select name=xViType value=TD label="土豆（不支持）":)||%0a---%0a> ||视频类型(*) ||(:input select name=xViType value=Nor label="渣浪":)(:input select name=xViType value=QQ label="QQ":)(:input select name=xViType value=ftp label="ftp":)(:input select name=xViType value=Youku label="优酷":)(:input select name=xViType value=Tudou label="土豆（不支持）":)||%0a
+host:1299681257=49.74.55.87
+author:1298986979=Admin
+diff:1298986979:1298986896:=2c2%0a%3c (:if ! enabled LOADPLAYER:)%0a---%0a> (:if enabled LOADPLAYER:)%0a
+host:1298986979=49.74.52.6
+author:1298986896=Admin
+diff:1298986896:1298986656:=2c2%0a%3c (:if enabled LOADPLAYER:)%0a---%0a> (:if equal "{$DMID}" "" :)%0a
+host:1298986896=49.74.52.6
+author:1298986656=Admin
+diff:1298986656:1298983686:=2c2%0a%3c (:if equal "{$DMID}" "" :)%0a---%0a> (:if equal {$:VideoType} "" :)%0a
+host:1298986656=49.74.52.6
+author:1298466732=Admin
+diff:1298466732:1298466692:=1c1%0a%3c (:title 弹幕测试:)%0a---%0a> (:title:弹幕测试:)%0a
+host:1298466732=222.95.39.97
+author:1298466692=Admin
+diff:1298466692:1298024307:=1d0%0a%3c (:title:弹幕测试:)%0a
+host:1298466692=222.95.39.97
+author:1298009903=Admin
+diff:1298009903:1298009855:=2d1%0a%3c (:nogroupfooter:)%0a
+host:1298009903=222.95.38.213
+author:1298009855=Admin
+diff:1298009855:1298009758:=1,8c1,13%0a%3c (:if equal {$:VideoType} "" :)%0a%3c (:input form "{$PageUrl}" GET:)%0a%3c ||border=1 %0a%3c ||带*为必填项 ||(:input hidden name=action value="LoadPlayer":)||%0a%3c ||视频类型(*) ||(:input select name=xViType value=Nor label="渣浪":)(:input select name=xViType value=QQ label="QQ":)(:input select name=xViType value=ftp label="ftp":)(:input select name=xViType value=Youku label="优酷":)(:input select name=xViType value=Tudou label="土豆（不支持）":)||%0a%3c ||视频ID / flv地址 (*) ||(:input text name=xViStr:) ||%0a%3c || ||(:input submit value="提交":)(:input end:) ||%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> (:VideoStr:45631508TEST:)%0a> (:title 弹幕测试 :)%0a> (:keywords 测试, :)%0a> (:sourcelink::)%0a> (:VideoType:Nor:)%0a> (:if false:)%0a> [[#comment]]%0a> %0a> [[#commentend]]%0a> (:ifend:)%0a> %0a> (:DMR:OFF:)%0a> (:DML:OFF:)%0a\ No newline at end of file%0a
+host:1298009855=222.95.38.213
+author:1297323955=aUser
+diff:1297323955:1296975111:=1c1%0a%3c (:VideoStr:45631508TEST:)%0a---%0a> (:VideoStr:45631508TEST{(ftime %25s)}:)%0a
+host:1297323955=114.243.102.181
+author:1296975111=KPX
+diff:1296975111:1296974937:=1c1%0a%3c (:VideoStr:45631508TEST{(ftime %25s)}:)%0a---%0a> (:VideoStr:45631508TEST:)%0a
+host:1296975111=114.243.69.133
+author:1296974866=KPX
+diff:1296974866:1296974866:=1,13d0%0a%3c (:VideoStr:45631508TEST:)%0a%3c (:title 弹幕测试 :)%0a%3c (:keywords 测试, :)%0a%3c (:sourcelink::)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a%3c %0a%3c (:DMR:OFF:)%0a%3c (:DML:OFF:)%0a\ No newline at end of file%0a
+host:1296974866=114.243.69.133

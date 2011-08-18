@@ -1,0 +1,21 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=Admin
+cauthor=雪月华
+charset=UTF-8
+csum=
+ctime=1298784349
+host=222.95.38.30
+keywords=音乐,vocaloid,歌ってみた,钢兵,初音ミク 
+name=Acfun2.1192
+rev=2
+targets=Category.音乐,Category.Vocaloid,Category.歌ってみた,Category.钢兵,Category.初音ミク
+text=(:VideoStr:46904892:)%0a(:title 【鋼兵】僕はまだ本気出してないだけ 燃翻唱 :)%0a(:keywords 音乐,vocaloid,歌ってみた,钢兵,初音ミク :)%0a(:sourcelink:http://124.228.254.229/html/music/20110221/174960.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1298789049
+title=【鋼兵】僕はまだ本気出してないだけ 燃翻唱 
+author:1298789049=Admin
+diff:1298789049:1298784349:=3c3%0a%3c (:keywords 音乐,vocaloid,歌ってみた,钢兵,初音ミク :)%0a---%0a> (:keywords 音乐,神字幕 :)%0a
+host:1298789049=222.95.38.30
+author:1298784349=雪月华
+diff:1298784349:1298784349:=1,10d0%0a%3c (:VideoStr:46904892:)%0a%3c (:title 【鋼兵】僕はまだ本気出してないだけ 燃翻唱 :)%0a%3c (:keywords 音乐,神字幕 :)%0a%3c (:sourcelink:http://124.228.254.229/html/music/20110221/174960.html:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1298784349=123.232.30.120

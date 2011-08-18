@@ -1,0 +1,21 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1285485852
+host=180.110.99.26
+keywords=动画,MAD,幸运星组曲,黑岩·镜 
+name=Bilibili2.1004
+rev=2
+targets=Category.动画,Category.MAD,Category.幸运星组曲,Category.黑岩·镜
+text=(:VideoStr:20100221levelupAV1063841797:)%0a(:title 【幸运星组曲】「らき☆すた動画」 :)%0a(:keywords 动画,MAD,幸运星组曲,黑岩·镜 :)%0a(:sourcelink:http://bilibili.us/video/av2810/:)%0a(:VideoType:BLink:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1299562762
+title=【幸运星组曲】「らき☆すた動画」 
+author:1299562762=Admin
+diff:1299562762:1285485852:=5c5%0a%3c (:VideoType:BLink:)%0a---%0a> (:VideoType:bftp:)%0a
+host:1299562762=180.110.99.26
+author:1285485852=Admin
+diff:1285485852:1285485852:=1,10d0%0a%3c (:VideoStr:20100221levelupAV1063841797:)%0a%3c (:title 【幸运星组曲】「らき☆すた動画」 :)%0a%3c (:keywords 动画,MAD,幸运星组曲,黑岩·镜 :)%0a%3c (:sourcelink:http://bilibili.us/video/av2810/:)%0a%3c (:VideoType:bftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1285485852=58.212.116.43

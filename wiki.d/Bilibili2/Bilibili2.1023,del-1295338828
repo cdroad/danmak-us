@@ -1,0 +1,21 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1295338733
+host=114.249.59.55
+keywords=测试,x 
+name=Bilibili2.1023
+rev=2
+targets=Category.测试,Category.X
+text=(:VideoStr:http://danmaku.us/test.php:)%0a(:title x :)%0a(:keywords 测试,x :)%0a(:sourcelink:x:)%0a(:VideoType:FTP:)%0a(:if false:)%0a[[#comment]]%0ax%0a[[#commentend]]%0a(:ifend:)
+time=1295338759
+title=x 
+author:1295338759=aUser
+diff:1295338759:1295338733:=5c5%0a%3c (:VideoType:FTP:)%0a---%0a> (:VideoType:ftp:)%0a
+host:1295338759=114.249.59.55
+author:1295338733=aUser
+diff:1295338733:1295338733:=1,10d0%0a%3c (:VideoStr:http://danmaku.us/test.php:)%0a%3c (:title x :)%0a%3c (:keywords 测试,x :)%0a%3c (:sourcelink:x:)%0a%3c (:VideoType:ftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c x%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1295338733=114.249.59.55

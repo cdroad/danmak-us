@@ -1,0 +1,15 @@
+version=pmwiki-2.2.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+author=
+cauthor=
+charset=UTF-8
+csum=
+host=127.0.0.1
+name=Main.WikiSandbox
+rev=4
+targets=
+text=>>id=sTsf%3c%3c%0a>>width=542px float=left%3c%3c%0a模式%0a外框%0a宽屏%0a。。。%0a坐标%0a>>%3c%3c%0atextarea%0a>>id=sTbox%3c%3c%0a>>id=flashcontent%3c%3c%0a>>%3c%3c%0a>>id=msgshow%3c%3c%0a>>id=sTxt%3c%3c%0a>>class=TTr id=rcTxt%3c%3c%0a>>%3c%3c%0a>>%3c%3c%0a>>%3c%3c%0a>>%3c%3c%0a>>%3c%3c
+time=1311253108
+author:1311253108=
+diff:1311253108:1093548433:=1,20c1,2%0a%3c >>id=sTsf%3c%3c%0a%3c >>width=542px float=left%3c%3c%0a%3c 模式%0a%3c 外框%0a%3c 宽屏%0a%3c 。。。%0a%3c 坐标%0a%3c >>%3c%3c%0a%3c textarea%0a%3c >>id=sTbox%3c%3c%0a%3c >>id=flashcontent%3c%3c%0a%3c >>%3c%3c%0a%3c >>id=msgshow%3c%3c%0a%3c >>id=sTxt%3c%3c%0a%3c >>class=TTr id=rcTxt%3c%3c%0a%3c >>%3c%3c%0a%3c >>%3c%3c%0a%3c >>%3c%3c%0a%3c >>%3c%3c%0a%3c >>%3c%3c%0a\ No newline at end of file%0a---%0a> Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a> ----%0a
+host:1311253108=127.0.0.1

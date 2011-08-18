@@ -1,0 +1,21 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1278981250
+host=114.243.101.74
+keywords=动画,治愈,⑨,TH,东方 
+name=Acfun2.1005
+rev=2
+targets=Category.动画,Category.治愈,Category.⑨,Category.TH,Category.东方
+text=(:VideoStr:23862380:)%0a(:title [强治愈]感人的琪露诺无字短漫 :)%0a(:keywords 动画,治愈,⑨,TH,东方 :)%0a(:sourcelink:http://220.170.79.48/html/anime/20090825/44319.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a原视频作者为KarmaMusic.强治愈属性.⑨果然要和雪妈在一起才感人啊.%0a[[#commentend]]%0a(:ifend:)
+time=1278981880
+title=[强治愈]感人的琪露诺无字短漫 
+author:1278981880=Admin
+diff:1278981880:1278981250:=0a1%0a> %0a3c4%0a%3c (:keywords 动画,治愈,⑨,TH,东方 :)%0a---%0a> (:keywords 治愈,⑨,TH,东方 :)%0a
+host:1278981880=114.243.101.74
+author:1278981250=Admin
+diff:1278981250:1278981250:=1,11d0%0a%3c %0a%3c (:VideoStr:23862380:)%0a%3c (:title [强治愈]感人的琪露诺无字短漫 :)%0a%3c (:keywords 治愈,⑨,TH,东方 :)%0a%3c (:sourcelink:http://220.170.79.48/html/anime/20090825/44319.html:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c 原视频作者为KarmaMusic.强治愈属性.⑨果然要和雪妈在一起才感人啊.%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1278981250=114.243.101.74

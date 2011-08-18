@@ -1,0 +1,18 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16
+author=剑羽翎
+cauthor=剑羽翎
+charset=UTF-8
+csum=
+ctime=1301054981
+host=114.222.89.25
+keywords=娱乐,出师表,咆哮体,有木有 
+name=Bilibili2.1064
+rev=1
+targets=Category.娱乐,Category.出师表,Category.咆哮体,Category.有木有
+text=(:VideoStr:48151642:)%0a(:title 诸葛亮的咆哮【字幕】 :)%0a(:keywords 娱乐,出师表,咆哮体,有木有 :)%0a(:sourcelink:http://www.bilibili.us/video/av72514/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1301054981
+title=诸葛亮的咆哮【字幕】 
+author:1301054981=剑羽翎
+diff:1301054981:1301054981:=1,10d0%0a%3c (:VideoStr:48151642:)%0a%3c (:title 诸葛亮的咆哮【字幕】 :)%0a%3c (:keywords 娱乐,出师表,咆哮体,有木有 :)%0a%3c (:sourcelink:http://www.bilibili.us/video/av72514/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1301054981=114.222.89.25

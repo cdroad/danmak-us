@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: *
+Allow: *action=sitemap
+Allow: *action=rss
+Allow: *action=rdf
+Allow: /Acfun2/
+Allow: /Bilibili2/
+Allow: /Main/
+Allow: /Acfun2/*
+Allow: /Bilibili2/*
+Allow: /Main/*
+Allow: /
+Allow: /Site/AllRecentChanges
+Disallow: /Main/NicoBridge
+Disallow: /Main/N1c0
+Disallow: /Main/Flvcache
+Disallow: /Bilibili2/1005
+
+User-Agent: W3C-checklink
+Disallow:

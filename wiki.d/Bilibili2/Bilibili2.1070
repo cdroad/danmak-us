@@ -1,0 +1,18 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0) Gecko/20100101 Firefox/4.0
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1302007984
+host=65.49.2.176
+keywords=音乐,水曜日,虐舌,弱爆了,无加速,电音,TDGBLS,翻唱良曲,无快进,国人,av662,神语速 
+name=Bilibili2.1070
+rev=1
+targets=Category.音乐,Category.水曜日,Category.虐舌,Category.弱爆了,Category.无加速,Category.电音,Category.TDGBLS,Category.翻唱良曲,Category.无快进,Category.国人,Category.Av662,Category.神语速
+text=(:VideoStr:47332014:)%0a(:title 【弱爆了】国人裏表ラバーズ【水曜日】 :)%0a(:keywords 音乐,水曜日,虐舌,弱爆了,无加速,电音,TDGBLS,翻唱良曲,无快进,国人,av662,神语速 :)%0a(:sourcelink:http://www.bilibili.us/video/av66416/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1302007984
+title=【弱爆了】国人裏表ラバーズ【水曜日】 
+author:1302007984=Admin
+diff:1302007984:1302007984:=1,10d0%0a%3c (:VideoStr:47332014:)%0a%3c (:title 【弱爆了】国人裏表ラバーズ【水曜日】 :)%0a%3c (:keywords 音乐,水曜日,虐舌,弱爆了,无加速,电音,TDGBLS,翻唱良曲,无快进,国人,av662,神语速 :)%0a%3c (:sourcelink:http://www.bilibili.us/video/av66416/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1302007984=65.49.2.176

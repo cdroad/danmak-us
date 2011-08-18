@@ -1,0 +1,24 @@
+version=pmwiki-2.2.18 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729; .NET4.0E)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1278981182
+host=58.212.118.232
+keywords=动画,音乐,初音,PV,hombre,初音ミクの消 
+name=Acfun2.1004
+rev=3
+targets=Category.动画,Category.音乐,Category.初音,Category.PV,Category.Hombre,Category.初音ミクの消
+text=(:VideoStr:23738938:)%0a(:title 【神PV】「初音ミクの消失」【by hombre】 :)%0a(:keywords 动画,音乐,初音,PV,hombre,初音ミクの消 :)%0a(:sourcelink:http://www.acfun.cn/html/anime/20090818/43111.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0asm7963737%0a酝酿了半年的时间，hombre终于在8月17日20点36分放出他所制作的消失PV，此刻吾等等候多时的观众真是泪流满面，看过预告的人一定很期待吧，现在就来好好欣赏完成版吧。%0a[[#commentend]]%0a(:ifend:)
+time=1284612079
+title=【神PV】「初音ミクの消失」【by hombre】 
+author:1284612079=Admin
+diff:1284612079:1278981871:=2c2%0a%3c (:title 【神PV】「初音ミクの消失」【by hombre】 :)%0a---%0a> (:title 神PV】「初音ミクの消失」【by hombre】 :)%0a
+host:1284612079=58.212.118.232
+author:1278981871=Admin
+diff:1278981871:1278981182:=0a1%0a> %0a3c4%0a%3c (:keywords 动画,音乐,初音,PV,hombre,初音ミクの消 :)%0a---%0a> (:keywords 初音,PV,hombre,初音ミクの消 :)%0a
+host:1278981871=114.243.101.74
+author:1278981182=Admin
+diff:1278981182:1278981182:=1,12d0%0a%3c %0a%3c (:VideoStr:23738938:)%0a%3c (:title 神PV】「初音ミクの消失」【by hombre】 :)%0a%3c (:keywords 初音,PV,hombre,初音ミクの消 :)%0a%3c (:sourcelink:http://www.acfun.cn/html/anime/20090818/43111.html:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c sm7963737%0a%3c 酝酿了半年的时间，hombre终于在8月17日20点36分放出他所制作的消失PV，此刻吾等等候多时的观众真是泪流满面，看过预告的人一定很期待吧，现在就来好好欣赏完成版吧。%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1278981182=114.243.101.74

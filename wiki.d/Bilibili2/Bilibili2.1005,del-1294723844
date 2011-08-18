@@ -1,0 +1,23 @@
+version=pmwiki-2.2.18 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+biliid=38914176
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1286259114
+host=180.110.98.215
+keywords=音乐,东方,音乐,萃香,萃梦想,长恨歌,西瓜,酔恋花 
+name=Bilibili2.1005
+oldsource=http://bilibili.us/video/av28161/
+rev=2
+targets=Category.音乐,Category.东方,Category.萃香,Category.萃梦想,Category.长恨歌,Category.西瓜,Category.酔恋花
+text=%0a(:VideoStr:38914176:)%0a(:title [碎月]酔恋花 -suirenka- :)%0a(:keywords 音乐,东方,音乐,萃香,萃梦想,长恨歌,西瓜,酔恋花 :)%0a(:sourcelink:http://bilibili.us/video/av28161/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a湿了。。%0a[[#commentend]]%0a(:ifend:)
+time=1287987007
+title=[碎月]酔恋花 -suirenka- 
+author:1287987007=aUser
+diff:1287987007:1286259114:=
+host:1287987007=180.110.98.215
+author:1286259114=aUser
+diff:1286259114:1286259114:=1,11d0%0a%3c %0a%3c (:VideoStr:38914176:)%0a%3c (:title [碎月]酔恋花 -suirenka- :)%0a%3c (:keywords 音乐,东方,音乐,萃香,萃梦想,长恨歌,西瓜,酔恋花 :)%0a%3c (:sourcelink:http://bilibili.us/video/av28161/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c 湿了。。%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1286259114=114.243.96.30

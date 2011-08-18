@@ -1,0 +1,26 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+author=KPX
+cauthor=KPX
+charset=UTF-8
+csum=
+ctime=1265448548
+host=123.114.189.16
+name=System.MutiNorTmpl
+rev=4
+targets=
+text=(:table border=0 width=100%25 cellpadding=5 cellspacing=0:)%0a(:cell:)%0a>>recipeinfo%3c%3c%0a(:VideoIDT:{VideoID}:)%0a(:title {Xtitle} :)%0aCategories:{Categories} {xTags}%0aSummary:{ACFLink}%0a>>%3c%3c%0a(:nogroupfooter:)%0a{data3}%0a(:include System.DMfooterNEW#MUTI#MUTIEND basepage={data2} :)%0a%0a{Summary}%0a----%0a(:cell rowspan=3 bgcolor=#f7f7f7 :)%0a>>font-size:small%3c%3c%0a(:include Parts.{VideoID} :)%0a>>%3c%3c%0a(:cellnr:)%0a(:include Acfun.GroupFooter basepage={data2} :)%0a(:cellnr:)%0a----%0a{data1} : (:makepartlink {VideoID}:)%0a(:cell:)%0a----%0a(:tableend:)
+time=1265450275
+title={Xtitle} 
+author:1265450275=KPX
+diff:1265450275:1265449817:=10c10%0a%3c {data3}%0a---%0a> (:VideoID:{data3}P0{$breakpageEX}:)%0a
+host:1265450275=123.114.189.16
+author:1265449817=KPX
+diff:1265449817:1265448863:=4c4%0a%3c (:VideoIDT:{VideoID}:)%0a---%0a> (:VideoID:{VideoID}:)%0a10c10%0a%3c (:VideoID:{data3}P0{$breakpageEX}:)%0a---%0a> (:VideoID:{{$FullName}$:VideoIDT}P0{$breakpageEX}:)%0a
+host:1265449817=123.114.189.16
+author:1265448863=KPX
+diff:1265448863:1265448548:=9d8%0a%3c (:nogroupfooter:)%0a12,13d10%0a%3c %0a%3c {Summary}%0a
+host:1265448863=123.114.189.16
+author:1265448548=KPX
+diff:1265448548:1265448548:=1,23d0%0a%3c (:table border=0 width=100%25 cellpadding=5 cellspacing=0:)%0a%3c (:cell:)%0a%3c >>recipeinfo%3c%3c%0a%3c (:VideoID:{VideoID}:)%0a%3c (:title {Xtitle} :)%0a%3c Categories:{Categories} {xTags}%0a%3c Summary:{ACFLink}%0a%3c >>%3c%3c%0a%3c (:VideoID:{{$FullName}$:VideoIDT}P0{$breakpageEX}:)%0a%3c (:include System.DMfooterNEW#MUTI#MUTIEND basepage={data2} :)%0a%3c ----%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 :)%0a%3c >>font-size:small%3c%3c%0a%3c (:include Parts.{VideoID} :)%0a%3c >>%3c%3c%0a%3c (:cellnr:)%0a%3c (:include Acfun.GroupFooter basepage={data2} :)%0a%3c (:cellnr:)%0a%3c ----%0a%3c {data1} : (:makepartlink {VideoID}:)%0a%3c (:cell:)%0a%3c ----%0a%3c (:tableend:)%0a\ No newline at end of file%0a
+host:1265448548=123.114.189.16

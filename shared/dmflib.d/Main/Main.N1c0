@@ -1,0 +1,78 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1290004028
+host=180.110.99.26
+name=Main.N1c0
+passwdattr=@lock
+passwddelete=@lock
+passwdedit=@lock
+passwdread=$1$rEkENPVL$.oJWDarZb3N466FXEmBdH.
+passwdupload=$1$U.y4ZgnM$nbbX2e6wAOQHDNzBM.vqE/
+rev=28
+targets=Profiles.KPX,Profiles.Admin
+text=(:input form "http://danmaku.us/Main/N1c0?action=NicoBridge" POST :)%0a||border=0 %0a||Nico号: ||(:input text vid:)    ||%0a||(:input hidden xVerify "e6a6e248-d783-4ffd-a031-1bfd4382f62b":) ||(:input submit value="提交":) ||%0a||%25red%25 未知错误 %25%25||%25red%25 不定期姨妈中 %25%25||%0a||确认不支持： ||N/A ||%0a||禁止泄露密码.最长处理时间30秒||%0a(:input end:)%0a%0a(:messages:)%0a%0a(:newattachlist:)%0a%0a%0a[[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀%0a[[~KPX]] 2011 年 01 月 12 日, 05:44 上午 增加Debug模式(隐藏)%0a[[~Admin]] 2011 年 02 月 28 日, 09:58 下午 减少处理时间到30秒(服务器CPU限制OTL)%0a[[~Admin]] 2011 年 02 月 28 日, 10:02 下午 现在没有下载完成的文件会添加IMCOMPLETE_前缀%0a[[~Admin]] 2011 年 02 月 28 日, 10:05 下午 返回日志由HTML变更为text/plain  下载完成后不会自动跳转%0a[[~Admin]] 2011 年 03 月 08 日, 12:44 下午 会自动删掉vid里面的空格。
+time=1299559498
+author:1299559498=Admin
+diff:1299559498:1298901946:=19,20c19%0a%3c [[~Admin]] 2011 年 02 月 28 日, 10:05 下午 返回日志由HTML变更为text/plain  下载完成后不会自动跳转%0a%3c [[~Admin]] 2011 年 03 月 08 日, 12:44 下午 会自动删掉vid里面的空格。%0a\ No newline at end of file%0a---%0a> [[~Admin]] 2011 年 02 月 28 日, 10:05 下午 返回日志由HTML变更为text/plain  下载完成后不会自动跳转%0a\ No newline at end of file%0a
+host:1299559498=180.110.99.26
+author:1298901946=Admin
+diff:1298901946:1298901728:=18,19c18%0a%3c [[~Admin]] 2011 年 02 月 28 日, 10:02 下午 现在没有下载完成的文件会添加IMCOMPLETE_前缀%0a%3c [[~Admin]] 2011 年 02 月 28 日, 10:05 下午 返回日志由HTML变更为text/plain  下载完成后不会自动跳转%0a\ No newline at end of file%0a---%0a> [[~Admin]] 2011 年 02 月 28 日, 10:02 下午 现在没有下载完成的文件会添加IMCOMPLETE_前缀%0a\ No newline at end of file%0a
+host:1298901946=222.94.164.53
+author:1298901728=Admin
+diff:1298901728:1298901538:=17,18c17%0a%3c [[~Admin]] 2011 年 02 月 28 日, 09:58 下午 减少处理时间到30秒(服务器CPU限制OTL)%0a%3c [[~Admin]] 2011 年 02 月 28 日, 10:02 下午 现在没有下载完成的文件会添加IMCOMPLETE_前缀%0a\ No newline at end of file%0a---%0a> [[~Admin]] 2011 年 02 月 28 日, 09:58 下午  减少处理时间到30秒(服务器CPU限制OTL)%0a\ No newline at end of file%0a
+host:1298901728=222.94.164.53
+author:1298901538=Admin
+diff:1298901538:1296922674:=7c7%0a%3c ||禁止泄露密码.最长处理时间30秒||%0a---%0a> ||禁止泄露密码.最长处理时间180秒||%0a16,17c16%0a%3c [[~KPX]] 2011 年 01 月 12 日, 05:44 上午 增加Debug模式(隐藏)%0a%3c [[~Admin]] 2011 年 02 月 28 日, 09:58 下午  减少处理时间到30秒(服务器CPU限制OTL)%0a\ No newline at end of file%0a---%0a> [[~KPX]] 2011 年 01 月 12 日, 05:44 上午 增加Debug模式(隐藏)%0a\ No newline at end of file%0a
+host:1298901538=222.94.164.53
+author:1296922674=aUser
+diff:1296922674:1296922629:=1c1%0a%3c (:input form "http://danmaku.us/Main/N1c0?action=NicoBridge" POST :)%0a---%0a> (:input form "http://danmaku.us/Main/N1c0?action=NNicoBridge" POST :)%0a5c5%0a%3c ||%25red%25 未知错误 %25%25||%25red%25 不定期姨妈中 %25%25||%0a---%0a> ||%25red%25 未知错误 %25%25||%25red%25 系统已关闭 %25%25||%0a
+host:1296922674=114.243.69.133
+author:1296886143=KPX
+diff:1296886143:1296886124:=5c5%0a%3c ||%25red%25 未知错误 %25%25||%25red%25 系统已关闭 %25%25||%0a---%0a> ||%25red%25 位置错误 %25%25||%25red%25 系统已关闭 %25%25||%0a
+host:1296886143=114.243.69.133
+author:1296886124=KPX
+diff:1296886124:1295524608:=1c1%0a%3c (:input form "http://danmaku.us/Main/N1c0?action=NNicoBridge" POST :)%0a---%0a> (:input form "http://danmaku.us/Main/N1c0?action=NicoBridge" POST :)%0a5d4%0a%3c ||%25red%25 位置错误 %25%25||%25red%25 系统已关闭 %25%25||%0a
+host:1296886124=114.243.69.133
+author:1295524608=aUser
+diff:1295524608:1295410242:=1c1%0a%3c (:input form "http://danmaku.us/Main/N1c0?action=NicoBridge" POST :)%0a---%0a> (:input form "http://danmaku.us/Main/NicoBridge?action=NicoBridge" POST :)%0a
+host:1295524608=114.243.86.188
+author:1294836297=KPX
+diff:1294836297:1294836282:=15c15%0a%3c [[~KPX]] 2011 年 01 月 12 日, 05:44 上午 增加Debug模式(隐藏)%0a\ No newline at end of file%0a---%0a> [[~aUser]] 2011 年 01 月 12 日, 05:44 上午 增加Debug模式(隐藏)%0a\ No newline at end of file%0a
+host:1294836297=58.212.118.0
+author:1294836282=aUser
+diff:1294836282:1294753828:=14,15c14%0a%3c [[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀%0a%3c [[~aUser]] 2011 年 01 月 12 日, 05:44 上午 增加Debug模式(隐藏)%0a\ No newline at end of file%0a---%0a> [[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀%0a\ No newline at end of file%0a
+host:1294836282=58.212.118.0
+author:1294753828=KPX
+diff:1294753828:1294721148:=1c1%0a%3c (:input form "http://danmaku.us/Main/NicoBridge?action=NicoBridge" POST :)%0a---%0a> (:input form "http://danmaku.us/pmfun/Main/NicoBridge?action=NicoBridge" POST :)%0a
+host:1294753828=114.222.89.207
+author:1294721148=KPX
+diff:1294721148:1294721131:=8c8%0a%3c %0a---%0a> [[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀%0a11,14c11%0a%3c (:newattachlist:)%0a%3c %0a%3c %0a%3c [[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀%0a\ No newline at end of file%0a---%0a> (:newattachlist:)%0a\ No newline at end of file%0a
+host:1294721148=114.222.89.207
+author:1294721131=KPX
+diff:1294721131:1294721110:=5a6%0a> ||[[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀 ||%0a8c9%0a%3c [[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀%0a---%0a> %0a
+host:1294721131=114.222.89.207
+author:1294721110=KPX
+diff:1294721110:1291783849:=5,6c5%0a%3c ||确认不支持： ||N/A ||%0a%3c ||[[~KPX]] 2011 年 01 月 10 日, 09:45 下午 支持nm视频 并会根据服务器返回结果尝试修改后缀 ||%0a---%0a> ||确认不支持： ||nm ||%0a
+host:1294721110=114.222.89.207
+author:1291783849=aUser
+diff:1291783849:1290082171:=5d4%0a%3c ||确认不支持： ||nm ||%0a
+host:1291783849=114.222.152.74
+author:1290082171=Admin
+diff:1290082171:1290058873:=5c5%0a%3c ||禁止泄露密码.最长处理时间180秒||%0a---%0a> ||禁止泄露密码 ||%0a
+host:1290082171=114.222.89.145
+author:1290057893=aUser
+diff:1290057893:1290057682:=8,10c8%0a%3c (:messages:)%0a%3c %0a%3c (:newattachlist:)%0a\ No newline at end of file%0a---%0a> (:messages:)%0a\ No newline at end of file%0a
+host:1290057893=114.222.89.145
+author:1290057682=aUser
+diff:1290057682:1290004097:=3c3%0a%3c ||Nico号: ||(:input text vid:)    ||%0a---%0a> ||Nico号: ||(:input text xURL:)    ||%0a
+host:1290057682=114.222.89.145
+author:1290004051=aUser
+diff:1290004051:1290004028:=4,5c4,6%0a%3c ||(:input hidden xVerify "e6a6e248-d783-4ffd-a031-1bfd4382f62b":) ||(:input submit value="提交":) ||%0a%3c ||禁止泄露密码 ||%0a---%0a> ||(:input hidden xVerify "e6a6e248-d783-4ffd-a031-1bfd4382f62b":) ||(:input submit value="提交保存":) ||%0a> ||本页面用于向网站快速提交弹幕，\\%0a> 提交后由管理员完成条目添加 ||%0a
+host:1290004051=58.212.116.146
+author:1290004028=aUser
+diff:1290004028:1290004028:=1,9d0%0a%3c (:input form "http://danmaku.us/pmfun/Main/NicoBridge?action=NicoBridge" POST :)%0a%3c ||border=0 %0a%3c ||Nico号: ||(:input text xURL:)    ||%0a%3c ||(:input hidden xVerify "e6a6e248-d783-4ffd-a031-1bfd4382f62b":) ||(:input submit value="提交保存":) ||%0a%3c ||本页面用于向网站快速提交弹幕，\\%0a%3c 提交后由管理员完成条目添加 ||%0a%3c (:input end:)%0a%3c %0a%3c (:messages:)%0a\ No newline at end of file%0a
+host:1290004028=58.212.116.146

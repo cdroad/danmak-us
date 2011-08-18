@@ -1,0 +1,18 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1303554793
+host=222.95.38.174
+keywords=音乐, 
+name=Bilibili2.1075
+rev=1
+targets=Category.音乐
+text=(:VideoStr:49903656:)%0a(:title 大事なものは目蓋の裏【KOKIA】 :)%0a(:keywords 音乐, :)%0a(:sourcelink:http://www.bilibili.us/video/av79943/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1303554793
+title=大事なものは目蓋の裏【KOKIA】 
+author:1303554793=Admin
+diff:1303554793:1303554793:=1,10d0%0a%3c (:VideoStr:49903656:)%0a%3c (:title 大事なものは目蓋の裏【KOKIA】 :)%0a%3c (:keywords 音乐, :)%0a%3c (:sourcelink:http://www.bilibili.us/video/av79943/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1303554793=222.95.38.174

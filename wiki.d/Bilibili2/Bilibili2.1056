@@ -1,0 +1,21 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+author=Admin
+cauthor=KPX
+charset=UTF-8
+csum=
+ctime=1297744269
+host=114.249.56.131
+keywords=音乐,诗经,邶风,击鼓,storia 
+name=Bilibili2.1056
+rev=2
+targets=Category.音乐,Category.诗经,Category.邶风,Category.击鼓,Category.Storia
+text=(:VideoStr:46300014:)%0a(:title 詩經 X storia :)%0a(:keywords 音乐,诗经,邶风,击鼓,storia :)%0a(:sourcelink:http://bilibili.us/video/av59524/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1297820904
+title=詩經 X storia 
+author:1297820904=Admin
+diff:1297820904:1297744269:=
+host:1297820904=114.249.56.131
+author:1297744269=KPX
+diff:1297744269:1297744269:=1,10d0%0a%3c (:VideoStr:46300014:)%0a%3c (:title 詩經 X storia :)%0a%3c (:keywords 音乐,诗经,邶风,击鼓,storia :)%0a%3c (:sourcelink:http://bilibili.us/video/av59524/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1297744269=114.249.56.131

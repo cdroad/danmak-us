@@ -1,0 +1,21 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1296267493
+host=125.69.145.156
+keywords=音乐, 
+name=Bilibili2.1047
+rev=2
+targets=Category.音乐
+text=(:VideoStr:ZWGS1d4Wsvt:)%0a(:title [第7日][蓝组]哇 :)%0a(:keywords 音乐, :)%0a(:sourcelink::)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1296305520
+title=[第7日][蓝组]哇 
+author:1296305520=aUser
+diff:1296305520:1296267493:=8c8%0a%3c %0a---%0a> XML错误。。等待修复%0a
+host:1296305520=125.69.145.156
+author:1296267493=aUser
+diff:1296267493:1296267493:=1,10d0%0a%3c (:VideoStr:ZWGS1d4Wsvt:)%0a%3c (:title [第7日][蓝组]哇 :)%0a%3c (:keywords 音乐, :)%0a%3c (:sourcelink::)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c XML错误。。等待修复%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1296267493=125.69.145.156

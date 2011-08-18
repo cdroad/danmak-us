@@ -1,0 +1,20 @@
+version=pmwiki-2.2.18 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729; .NET4.0E)
+author=Admin
+biliid=29355535
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1285304328
+host=58.212.116.43
+keywords=音乐,亿千万,asl08,美鄉あき,project,jam,asl 
+name=Bilibili2.1000
+oldsource=http://bilibili.us/video/av2683/
+rev=7
+targets=Category.音乐,Category.亿千万,Category.Asl08,Category.美鄉あき,Category.Project,Category.Jam,Category.Asl
+text=(:VideoStr:19825347:)%0a(:title 思い出は亿千万 ASL08 LIVE.ver. :)%0a(:keywords 音乐,亿千万,asl08,美鄉あき,project,jam,asl :)%0a(:sourcelink:http://bilibili.us/video/av2683/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0aJust a test.%0a[[#commentend]]%0a(:ifend:)
+time=1285483708
+title=思い出は亿千万 ASL08 LIVE.ver. 
+author:1285483708=Admin
+diff:1285483708:1285483691:=
+host:1285483708=58.212.116.43

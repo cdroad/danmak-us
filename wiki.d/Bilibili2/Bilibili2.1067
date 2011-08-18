@@ -1,0 +1,18 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0) Gecko/20100101 Firefox/4.0
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1301402117
+host=114.222.152.239
+keywords=动画,分身战士,远藤自燃机,GOD,KNOWS 
+name=Bilibili2.1067
+rev=1
+targets=Category.动画,Category.分身战士,Category.远藤自燃机,Category.GOD,Category.KNOWS
+text=(:VideoStr:47830410:)%0a(:title GOD KNOWS 远藤VER. （分身战士） :)%0a(:keywords 动画,分身战士,远藤自燃机,GOD,KNOWS :)%0a(:sourcelink:http://www.bilibili.us/video/av69068/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1301402117
+title=GOD KNOWS 远藤VER. （分身战士） 
+author:1301402117=Admin
+diff:1301402117:1301402117:=1,10d0%0a%3c (:VideoStr:47830410:)%0a%3c (:title GOD KNOWS 远藤VER. （分身战士） :)%0a%3c (:keywords 动画,分身战士,远藤自燃机,GOD,KNOWS :)%0a%3c (:sourcelink:http://www.bilibili.us/video/av69068/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1301402117=114.222.152.239

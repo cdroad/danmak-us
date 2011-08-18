@@ -1,0 +1,23 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+biliid=
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1296021911
+host=114.243.109.239
+keywords=娱乐,乌贼娘,エルシャダイ 
+name=Bilibili2.1040
+oldsource=http://bilibili.us/video/av34589/
+rev=2
+targets=Category.娱乐,Category.乌贼娘,Category.エルシャダイ
+text=(:VideoStr:7UDGKHaxVWc:)%0a(:title そんな侵略！で大丈夫か？ :)%0a(:keywords 娱乐,乌贼娘,エルシャダイ :)%0a(:sourcelink:http://bilibili.us/video/av34589/:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1296021914
+title=そんな侵略！で大丈夫か？ 
+author:1296021914=aUser
+diff:1296021914:1296021911:=
+host:1296021914=114.243.109.239
+author:1296021911=aUser
+diff:1296021911:1296021911:=1,10d0%0a%3c (:VideoStr:7UDGKHaxVWc:)%0a%3c (:title そんな侵略！で大丈夫か？ :)%0a%3c (:keywords 娱乐,乌贼娘,エルシャダイ :)%0a%3c (:sourcelink:http://bilibili.us/video/av34589/:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1296021911=114.243.109.239

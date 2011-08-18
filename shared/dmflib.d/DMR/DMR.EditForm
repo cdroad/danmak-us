@@ -1,0 +1,21 @@
+version=pmwiki-2.2.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+author=KPX
+cauthor=KPX
+charset=UTF-8
+csum=
+ctime=1312385720
+host=127.0.0.1
+name=DMR.EditForm
+passwdedit=@lock
+passwdread=@nopass
+rev=4
+targets=
+text=(:Summary:XML编辑器:)%0a%0a!! $[Editing {*$FullName}] %25block class=wikiaction%25%0a(:div id='wikiedit':)%0a(:input e_form:)[[#top]](:e_guibuttons:)\\%0a(:input e_textarea:)\\%0a$[Summary]: (:input e_changesummary:)\\%0a$[Author]: (:input e_author:) (:input e_minorcheckbox:) $[This is a minor edit]\\%0a(:input e_saveeditbutton:) (:input e_cancelbutton:)%0a(:input end:)%0a(:divend:)%0a(:messages:)%0a(:ifend:)
+time=1312385868
+author:1312385868=KPX
+diff:1312385868:1312385814:=1,13d0%0a%3c (:Summary:XML编辑器:)%0a%3c %0a%3c !! $[Editing {*$FullName}] %25block class=wikiaction%25%0a%3c (:div id='wikiedit':)%0a%3c (:input e_form:)[[#top]](:e_guibuttons:)\\%0a%3c (:input e_textarea:)\\%0a%3c $[Summary]: (:input e_changesummary:)\\%0a%3c $[Author]: (:input e_author:) (:input e_minorcheckbox:) $[This is a minor edit]\\%0a%3c (:input e_saveeditbutton:) (:input e_cancelbutton:)%0a%3c (:input end:)%0a%3c (:divend:)%0a%3c (:messages:)%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1312385868=127.0.0.1
+author:1312385720=
+diff:1312385720:1312385720:=
+host:1312385720=127.0.0.1

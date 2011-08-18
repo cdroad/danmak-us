@@ -1,0 +1,21 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1288708592
+host=180.110.99.26
+keywords=娱乐,苏维埃,万碎,北极熊,红色瘟疫,MIKU,,毛子给力,呜啦~呜啦~,＾＿＾,好多星星啊,神空耳,苏维埃进行曲,步兵哥相当, 
+name=Bilibili2.1008
+rev=2
+targets=Category.娱乐,Category.苏维埃,Category.万碎,Category.北极熊,Category.红色瘟疫,Category.MIKU,Category.毛子给力,Category.呜啦呜啦,Category.＾＿＾,Category.好多星星啊,Category.神空耳,Category.苏维埃进行曲,Category.步兵哥相当
+text=(:VideoStr:XMTg4NTgyOTU2:)%0a(:title 苏维埃进行曲 燃中字 :)%0a(:keywords 娱乐,苏维埃,万碎,北极熊,红色瘟疫,MIKU,,毛子给力,呜啦~呜啦~,＾＿＾,好多星星啊,神空耳,苏维埃进行曲,步兵哥相当, :)%0a(:sourcelink:http://bilibili.us/video/av32887/:)%0a(:VideoType:YK:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1299562892
+title=苏维埃进行曲 燃中字 
+author:1299562892=Admin
+diff:1299562892:1288708592:=0a1%0a> %0a5c6%0a%3c (:VideoType:YK:)%0a---%0a> (:VideoType:Youku:)%0a
+host:1299562892=180.110.99.26
+author:1288708592=aUser
+diff:1288708592:1288708592:=1,11d0%0a%3c %0a%3c (:VideoStr:XMTg4NTgyOTU2:)%0a%3c (:title 苏维埃进行曲 燃中字 :)%0a%3c (:keywords 娱乐,苏维埃,万碎,北极熊,红色瘟疫,MIKU,,毛子给力,呜啦~呜啦~,＾＿＾,好多星星啊,神空耳,苏维埃进行曲,步兵哥相当, :)%0a%3c (:sourcelink:http://bilibili.us/video/av32887/:)%0a%3c (:VideoType:Youku:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1288708592=114.222.152.43

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1302091216
+host=222.95.38.174
+keywords=音乐, 
+name=Bilibili2.1071
+rev=2
+targets=Category.音乐
+text=(:VideoStr:7HtRPZFFhzZ:)%0a(:title 字幕菌的生長丶 :)%0a(:keywords 音乐, :)%0a(:sourcelink:http://www.bilibili.us/video/av34878/:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1303553126
+title=字幕菌的生長丶 
+author:1303553126=Admin
+diff:1303553126:1302091216:=5c5%0a%3c (:VideoType:QQ:)%0a---%0a> (:VideoType:Nor:)%0a
+host:1303553126=222.95.38.174
+author:1302091216=Admin
+diff:1302091216:1302091216:=1,10d0%0a%3c (:VideoStr:7HtRPZFFhzZ:)%0a%3c (:title 字幕菌的生長丶 :)%0a%3c (:keywords 音乐, :)%0a%3c (:sourcelink:http://www.bilibili.us/video/av34878/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1302091216=65.49.2.176

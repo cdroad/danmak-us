@@ -1,0 +1,27 @@
+version=pmwiki-2.2.12 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; CIBA; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MAXTHON 2.0)
+author=Admin
+cauthor=KPX
+charset=UTF-8
+csum=
+ctime=1263892085
+host=114.249.56.149
+keywords={Categories},{xTags} 
+name=System.PostFTPTmpl
+rev=4
+targets=Category.Categories,Category.XTags
+text=(:comment {xComment}:)%0a>>recipeinfo%3c%3c%0a(:VideoURL:{VideoURL}:)%0a(:title {Xtitle} :)(:keywords {Categories},{xTags} :)%0a{data3}%0aSummary:{ACFLink}%0a>>%3c%3c%0a(:include System.DMfooterNEW#FTP#FTPEND basepage={data2} :)%0a%25comment%25 VideoID:%0a{Summary}
+time=1273918081
+title={Xtitle} 
+author:1273918081=Admin
+diff:1273918081:1263956828:=4,5c4,5%0a%3c (:title {Xtitle} :)(:keywords {Categories},{xTags} :)%0a%3c {data3}%0a---%0a> (:title {Xtitle} :)%0a> Categories:{Categories} {xTags}%0a
+host:1273918081=114.249.56.149
+author:1263956828=KPX
+diff:1263956828:1263892242:=8c8%0a%3c (:include System.DMfooterNEW#FTP#FTPEND basepage={data2} :)%0a---%0a> (:include System.DMfooterNEW#FTP#FTPEND basepage={*$FullName} :)%0a
+host:1263956828=123.114.174.26
+author:1263892242=KPX
+diff:1263892242:1263892085:=6,7c6%0a%3c Summary:{ACFLink}%0a%3c >>%3c%3c%0a---%0a> Summary:{ACFLink}>>%3c%3c%0a
+host:1263892242=123.114.161.123
+author:1263892085=KPX
+diff:1263892085:1263892085:=1,9d0%0a%3c (:comment {xComment}:)%0a%3c >>recipeinfo%3c%3c%0a%3c (:VideoURL:{VideoURL}:)%0a%3c (:title {Xtitle} :)%0a%3c Categories:{Categories} {xTags}%0a%3c Summary:{ACFLink}>>%3c%3c%0a%3c (:include System.DMfooterNEW#FTP#FTPEND basepage={*$FullName} :)%0a%3c %25comment%25 VideoID:%0a%3c {Summary}%0a\ No newline at end of file%0a
+host:1263892085=123.114.161.123

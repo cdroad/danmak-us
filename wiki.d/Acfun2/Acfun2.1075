@@ -1,0 +1,21 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1279510169
+host=180.110.99.26
+keywords=娱乐,导师,修造 
+name=Acfun2.1075
+rev=2
+targets=Category.娱乐,Category.导师,Category.修造
+text=(:VideoStr:http://www.scrpg.net/flv/preview.flv:)%0a(:title 【松冈修造】七色の松岡動画【投稿祭】  :)%0a(:keywords 娱乐,导师,修造 :)%0a(:sourcelink:http://124.228.254.234/html/ent/20100105/66539.html :)%0a(:VideoType:Link:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1299562796
+title=【松冈修造】七色の松岡動画【投稿祭】  
+author:1299562796=Admin
+diff:1299562796:1279510169:=0a1%0a> %0a5c6%0a%3c (:VideoType:Link:)%0a---%0a> (:VideoType:ftp:)%0a
+host:1299562796=180.110.99.26
+author:1279510169=Admin
+diff:1279510169:1279510169:=1,11d0%0a%3c %0a%3c (:VideoStr:http://www.scrpg.net/flv/preview.flv:)%0a%3c (:title 【松冈修造】七色の松岡動画【投稿祭】  :)%0a%3c (:keywords 娱乐,导师,修造 :)%0a%3c (:sourcelink:http://124.228.254.234/html/ent/20100105/66539.html :)%0a%3c (:VideoType:ftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279510169=114.243.82.82

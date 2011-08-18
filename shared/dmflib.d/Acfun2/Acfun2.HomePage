@@ -1,0 +1,65 @@
+version=pmwiki-2.2.18 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.8 Safari/534.7
+author=admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1278915478
+host=74.220.198.81
+name=Acfun2.HomePage
+rev=17
+targets=System.AcFastPostNew,Acfun2.HomePageFull
+text=(:Title {$Group}.首页:)%0a%0a总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a新建页面:%0a* &nbsp;&nbsp;%25newwin%25[[System.AcFastPostNew|点此投稿]]%25%25%0a'''新版投稿说明企划中'''%0a'''目前投稿不支持单贴多视频'''%0a%0a弹幕文件:请使用acfun弹幕文件%0a%0a最新25个视频%0a(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a%0a%0a[[HomePageFull|点此围观全部视频列表]]%0a(:nogroupfooter:)%0a%0a
+time=1285233683
+title=Acfun2.首页
+author:1285233683=admin
+diff:1285233683:1285233661:=18a19,21%0a> (:html:)%0a> %3cscript type="text/javascript">swfobject.embedSWF("https://secure.bluehost.com/~twodland/dmf/p/mukioplayer.swf?file=https%253A%252F%252Fsecure.bluehost.com%252F%257Etwodland%252Fdmf%252Fp%252Fqqvideo.php%253Fvid%253DZW2YbQ97meW&id=ZW2YbQ97meW", "flashcontent", "950", "432", "9.0.0","#FFFFFF")%3c/script>%0a> (:htmlend:)%0a
+host:1285233683=74.220.198.81
+author:1285233661=admin
+diff:1285233661:1285233635:=19a20%0a> %0a20a22%0a> %0a
+host:1285233661=74.220.198.81
+author:1285233635=admin
+diff:1285233635:1284085230:=17,23c17%0a%3c (:nogroupfooter:)%0a%3c %0a%3c (:html:)%0a%3c %0a%3c %3cscript type="text/javascript">swfobject.embedSWF("https://secure.bluehost.com/~twodland/dmf/p/mukioplayer.swf?file=https%253A%252F%252Fsecure.bluehost.com%252F%257Etwodland%252Fdmf%252Fp%252Fqqvideo.php%253Fvid%253DZW2YbQ97meW&id=ZW2YbQ97meW", "flashcontent", "950", "432", "9.0.0","#FFFFFF")%3c/script>%0a%3c %0a%3c (:htmlend:)%0a---%0a> (:nogroupfooter:)%0a\ No newline at end of file%0a
+host:1285233635=74.220.198.81
+author:1284085230=Admin
+diff:1284085230:1284085101:=
+host:1284085230=221.226.174.41
+author:1284085101=Admin
+diff:1284085101:1284085040:=3,4c3,4%0a%3c 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-Acfun2/HomePageFull,-System/NewACtmpl,-System/AcFastPostNew list=normal order=-name fmt=count:)%0a> %0a13c13%0a%3c (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a---%0a> (:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-HomePageFull,-Acfun2/HomePageFull,-System/NewACtmpl,-System/AcFastPostNew list=normal fmt=#title order=-name count=25:)%0a
+host:1284085101=221.226.174.41
+author:1284085040=Admin
+diff:1284085040:1284085026:=13c13%0a%3c (:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-HomePageFull,-Acfun2/HomePageFull,-System/NewACtmpl,-System/AcFastPostNew list=normal fmt=#title order=-name count=25:)%0a---%0a> (:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-Acfun2/HomePageFull,-System/NewACtmpl,-System/AcFastPostNew list=normal fmt=#title order=-name count=25:)%0a
+host:1284085040=221.226.174.41
+author:1284085026=Admin
+diff:1284085026:1284085002:=
+host:1284085026=221.226.174.41
+author:1284085002=Admin
+diff:1284085002:1284084975:=3,4c3,4%0a%3c 总投稿量:(:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-Acfun2/HomePageFull,-System/NewACtmpl,-System/AcFastPostNew list=normal order=-name fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-Acfun2/HomePage,-System/NewACtmpl,-System/AcFastPostNew list=normal order=-name fmt=count:)%0a> %0a13c13%0a%3c (:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-Acfun2/HomePageFull,-System/NewACtmpl,-System/AcFastPostNew list=normal fmt=#title order=-name count=25:)%0a---%0a> (:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-Acfun2/HomePage,-System/NewACtmpl,-System/AcFastPostNew list=normal fmt=#title order=-name count=25:)%0a
+host:1284085002=221.226.174.41
+author:1284084975=Admin
+diff:1284084975:1278939992:=3,4c3,4%0a%3c 总投稿量:(:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-Acfun2/HomePage,-System/NewACtmpl,-System/AcFastPostNew list=normal order=-name fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a> %0a13c13%0a%3c (:pagelist VideoStr name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage,-Acfun2/HomePage,-System/NewACtmpl,-System/AcFastPostNew list=normal fmt=#title order=-name count=25:)%0a---%0a> (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a
+host:1284084975=221.226.174.41
+author:1278939992=Admin
+diff:1278939992:1278915689:=6c6,8%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.AcFastPostNew|点此投稿]]%25%25%0a---%0a> * &nbsp;&nbsp;%25newwin%25[[System.FastPostNor|普通投稿]]%25%25%0a> * &nbsp;&nbsp;%25newwin%25[[System.FastPostFTP|外链投稿]]%25%25%0a> * &nbsp;&nbsp;%25newwin%25[[Acfun2/{(thread)}?action=edit&template=System.AcftmplMUTI|单视频多弹幕投稿]]%25%25%0a
+host:1278939992=114.243.74.123
+author:1278915689=Admin
+diff:1278915689:1278915663:=3,4c3,5%0a%3c 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges fmt=count:)%0a> :(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges:)%0a> %0a15c16%0a%3c (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a---%0a> (:pagelist group={$Group} name=-Groupheader,-Groupfooter,-RecipeList,-HomePageFull list=normal fmt=#title order=-name count=25:)%0a
+host:1278915689=114.243.74.123
+author:1278915663=Admin
+diff:1278915663:1278915631:=4d3%0a%3c :(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges:)%0a
+host:1278915663=114.243.74.123
+author:1278915631=Admin
+diff:1278915631:1278915614:=3c3%0a%3c 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges fmt=count:)%0a---%0a> 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull fmt=count:)%0a
+host:1278915631=114.243.74.123
+author:1278915614=Admin
+diff:1278915614:1278915570:=3c3%0a%3c 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull fmt=count:)%0a---%0a> 总投稿量:(:pagelist group=Acfun2 name=-Groupheader,-Groupfooter,-RecipeList,-HomePageFull fmt=count:)%0a
+host:1278915614=114.243.74.123
+author:1278915570=Admin
+diff:1278915570:1278915536:=3c3%0a%3c 总投稿量:(:pagelist group=Acfun2 name=-Groupheader,-Groupfooter,-RecipeList,-HomePageFull fmt=count:)%0a---%0a> 总投稿量:(:pagelist group=Acfun2 name=-Groupheader,-Groupfooter,-HomePage,-RecipeList fmt=count Categories:)%0a
+host:1278915570=114.243.74.123
+author:1278915536=Admin
+diff:1278915536:1278915478:=15c15%0a%3c (:pagelist group={$Group} name=-Groupheader,-Groupfooter,-RecipeList,-HomePageFull list=normal fmt=#title order=-name count=25:)%0a---%0a> (:pagelist group={$Group} name=-Groupheader,-Groupfooter,-RecipeList,-HomePageFull list=normal fmt=#title order=-name count=25 Summary:)%0a
+host:1278915536=114.243.74.123
+author:1278915478=Admin
+diff:1278915478:1278915478:=1,19d0%0a%3c (:Title {$Group}.首页:)%0a%3c %0a%3c 总投稿量:(:pagelist group=Acfun2 name=-Groupheader,-Groupfooter,-HomePage,-RecipeList fmt=count Categories:)%0a%3c %0a%3c 新建页面:%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.FastPostNor|普通投稿]]%25%25%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.FastPostFTP|外链投稿]]%25%25%0a%3c * &nbsp;&nbsp;%25newwin%25[[Acfun2/{(thread)}?action=edit&template=System.AcftmplMUTI|单视频多弹幕投稿]]%25%25%0a%3c '''新版投稿说明企划中'''%0a%3c '''目前投稿不支持单贴多视频'''%0a%3c %0a%3c 弹幕文件:请使用acfun弹幕文件%0a%3c %0a%3c 最新25个视频%0a%3c (:pagelist group={$Group} name=-Groupheader,-Groupfooter,-RecipeList,-HomePageFull list=normal fmt=#title order=-name count=25 Summary:)%0a%3c %0a%3c %0a%3c [[HomePageFull|点此围观全部视频列表]]%0a%3c (:nogroupfooter:)%0a\ No newline at end of file%0a
+host:1278915478=114.243.74.123

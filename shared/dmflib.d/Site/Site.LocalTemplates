@@ -1,0 +1,31 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1303984596
+host=::1
+name=Site.LocalTemplates
+rev=6
+targets=Site.FullName
+text=(:if false:)%0a[[#DMError]]%0a%3cSYSTEM>  XML错误 -> '''[[{=$FullName}|+]]'''%0a[[#DMErrorend]]%0a(:ifend:)
+time=1303984818
+author:1303984818=Admin
+diff:1303984818:1303984790:=3c3%0a%3c %3cSYSTEM>  XML错误 -> '''[[{=$FullName}|+]]'''%0a---%0a> XML错误 -> '''[[{=$FullName}|+]]'''%0a
+host:1303984818=::1
+author:1303984790=Admin
+diff:1303984790:1303984771:=3c3%0a%3c XML错误 -> '''[[{=$FullName}|+]]'''%0a---%0a> XML错误, -> [[{=$FullName}|'''+''']]%0a
+host:1303984790=::1
+author:1303984771=Admin
+diff:1303984771:1303984760:=
+host:1303984771=::1
+author:1303984760=Admin
+diff:1303984760:1303984691:=1d0%0a%3c (:if false:)%0a3,5c2,3%0a%3c XML错误, -> [[{=$FullName}|'''+''']]%0a%3c [[#DMErrorend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> %25red%25 XML错误, 视频 [[{=$FullName}|+]] %25%25%0a> [[#DMErrorend]]%0a\ No newline at end of file%0a
+host:1303984760=::1
+author:1303984691=Admin
+diff:1303984691:1303984596:=0a1%0a> (:if false:)%0a3c4,5%0a%3c [[#DMErrorend]]%0a\ No newline at end of file%0a---%0a> [[#DMErrorend]]%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1303984691=::1
+author:1303984596=Admin
+diff:1303984596:1303984596:=1,5d0%0a%3c (:if false:)%0a%3c [[#DMError]]%0a%3c %25red%25 XML错误, 视频 [[{=$FullName}|+]] %25%25%0a%3c [[#DMErrorend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1303984596=::1

@@ -1,0 +1,23 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+biliid=43634694
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1291968992
+host=180.110.96.39
+keywords=动画,Yellow,MMD,Lat式,kz(livetune),初音ミク 
+name=Bilibili2.1016
+oldsource=http://bilibili.us/video/av41554/
+rev=2
+targets=Category.动画,Category.Yellow,Category.MMD,Category.Lat式,Category.KzLivetune,Category.初音ミク
+text=%0a(:VideoStr:43634694:)%0a(:title 【MMDPV】我的Miku不可能那么黄！ :)%0a(:keywords 动画,Yellow,MMD,Lat式,kz(livetune),初音ミク :)%0a(:sourcelink:http://bilibili.us/video/av41554/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1291969350
+title=【MMDPV】我的Miku不可能那么黄！ 
+author:1291969350=aUser
+diff:1291969350:1291968992:=
+host:1291969350=180.110.96.39
+author:1291968992=aUser
+diff:1291968992:1291968992:=1,11d0%0a%3c %0a%3c (:VideoStr:43634694:)%0a%3c (:title 【MMDPV】我的Miku不可能那么黄！ :)%0a%3c (:keywords 动画,Yellow,MMD,Lat式,kz(livetune),初音ミク :)%0a%3c (:sourcelink:http://bilibili.us/video/av41554/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1291968992=180.110.96.39

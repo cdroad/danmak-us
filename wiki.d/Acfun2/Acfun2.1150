@@ -1,0 +1,27 @@
+version=pmwiki-2.2.18 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729; .NET4.0E)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1281505897
+host=114.222.89.252
+keywords=测试,动画,Bad,Apple, 
+name=Acfun2.1150
+rev=4
+targets=Category.测试,Category.动画,Category.Bad,Category.Apple
+text=(:VideoStr:33059688:)%0a(:title 【コメントアート構造】bad apple【歌詞CA】 :)%0a(:keywords 测试,动画,Bad,Apple, :)%0a(:sourcelink:http://www.nicovideo.jp/watch/sm10433666// :)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a排版参考用 %0a%0aP.S:近几个月怎么没看到职人弹幕投稿了？　　.De %0a%0a[[#commentend]]%0a(:ifend:)
+time=1284181968
+title=【コメントアート構造】bad apple【歌詞CA】 
+author:1284181968=Admin
+diff:1284181968:1281506275:=4c4%0a%3c (:sourcelink:http://www.nicovideo.jp/watch/sm10433666// :)%0a---%0a> (:sourcelink:http://www.nicovideo.jp/watch/sm10433666 :)%0a
+host:1284181968=114.222.89.252
+author:1281506275=Admin
+diff:1281506275:1281506149:=0a1%0a> %0a11a13,22%0a> [[#commentend]]%0a> (:ifend:)%0a> (:VideoStr:6tubXYOPoTL:)%0a> (:title 【初音ミク】はやぶさ -Welcome Back Version- :)%0a> (:keywords 音乐,泪腺崩坏,初音ミク,隼鸟号 :)%0a> (:sourcelink:http://acfun.cn/html/music/20100617/112196.html:)%0a> (:VideoType:QQ:)%0a> (:if false:)%0a> [[#comment]]%0a> sm11050741 隼鸟酱，欢迎回家，おかえり～%0a
+host:1281506275=114.243.71.194
+author:1281506149=Admin
+diff:1281506149:1281505897:=13,22d12%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a%3c (:VideoStr:6tubXYOPoTL:)%0a%3c (:title 【初音ミク】はやぶさ -Welcome Back Version- :)%0a%3c (:keywords 音乐,泪腺崩坏,初音ミク,隼鸟号 :)%0a%3c (:sourcelink:http://acfun.cn/html/music/20100617/112196.html:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c sm11050741 隼鸟酱，欢迎回家，おかえり～%0a
+host:1281506149=114.243.71.194
+author:1281505897=Admin
+diff:1281505897:1281505897:=1,14d0%0a%3c %0a%3c (:VideoStr:33059688:)%0a%3c (:title 【コメントアート構造】bad apple【歌詞CA】 :)%0a%3c (:keywords 测试,动画,Bad,Apple, :)%0a%3c (:sourcelink:http://www.nicovideo.jp/watch/sm10433666 :)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c 排版参考用 %0a%3c %0a%3c P.S:近几个月怎么没看到职人弹幕投稿了？　　.De %0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1281505897=114.243.71.194

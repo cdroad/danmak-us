@@ -1,0 +1,8 @@
+RewriteEngine on
+
+# You may need RewriteBase on some servers
+RewriteBase static/min
+
+# rewrite URLs like "/min/f=..." to "/min/?f=..."
+RewriteRule ^([bfg]=.*)  index.php?$1 [L,NE]
+

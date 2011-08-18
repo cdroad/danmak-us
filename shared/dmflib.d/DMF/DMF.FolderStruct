@@ -1,0 +1,19 @@
+version=pmwiki-2.2.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+author=
+cauthor=
+charset=UTF-8
+csum=
+ctime=1306598847
+host=127.0.0.1
+name=DMF.FolderStruct
+rev=2
+targets=
+text=[@%0aDMF_LOCAL\HTML%0a├─cookbook%0a│  ├─dmf      // DMF 老 版本核心%0a│  └─dmf_exp  // DMF 新 版本核心%0a├─local       // PmWiki页面配置%0a├─newflvplayer // 播放器使用文件  预计会作为页面配置整合%0a├─p            // 播放器目录，部分播放器依赖的项目%0a│  ├─ac%0a│  ├─bi%0a│  └─ni%0a├─pmfun        // 兼容DMF主站beta2时的链接%0a├─pub          // 界面%0a│  └─css%0a├─shared       // Pmwiki核心目录，浏览器不可直接访问。方便wikifarm架设用%0a│  ├─cookbook%0a│  ├─dmflib.d  // DMF用的页面库%0a│  ├─local%0a│  ├─pub%0a│  │  ├─css%0a│  │  ├─fox%0a│  │  ├─guiedit%0a│  │  └─skins%0a│  ├─scripts%0a│  ├─temp%0a│  └─wikilib.d // PmWiki页面库%0a├─static       // 静态数据，缓存数据存放处%0a│  ├─page%0a│  └─pagelist%0a├─uploads      // 上传附件目录，PmWiki附件和播放器静态池存放处%0a│  ├─Acfun2%0a│  ├─Bilibili2%0a│  └─LocalVideo // 本地视频存放处%0a└─wiki.d%0a@]
+time=1306598971
+author:1306598971=
+diff:1306598971:1306598847:=7c7,8%0a%3c ├─newflvplayer // 播放器使用文件  预计会作为页面配置整合%0a---%0a> ├─newflvplayer // 播放器使用文件%0a> │  └─xml%0a
+host:1306598971=127.0.0.1
+author:1306598847=
+diff:1306598847:1306598847:=1,36d0%0a%3c [@%0a%3c DMF_LOCAL\HTML%0a%3c ├─cookbook%0a%3c │  ├─dmf      // DMF 老 版本核心%0a%3c │  └─dmf_exp  // DMF 新 版本核心%0a%3c ├─local       // PmWiki页面配置%0a%3c ├─newflvplayer // 播放器使用文件%0a%3c │  └─xml%0a%3c ├─p            // 播放器目录，部分播放器依赖的项目%0a%3c │  ├─ac%0a%3c │  ├─bi%0a%3c │  └─ni%0a%3c ├─pmfun        // 兼容DMF主站beta2时的链接%0a%3c ├─pub          // 界面%0a%3c │  └─css%0a%3c ├─shared       // Pmwiki核心目录，浏览器不可直接访问。方便wikifarm架设用%0a%3c │  ├─cookbook%0a%3c │  ├─dmflib.d  // DMF用的页面库%0a%3c │  ├─local%0a%3c │  ├─pub%0a%3c │  │  ├─css%0a%3c │  │  ├─fox%0a%3c │  │  ├─guiedit%0a%3c │  │  └─skins%0a%3c │  ├─scripts%0a%3c │  ├─temp%0a%3c │  └─wikilib.d // PmWiki页面库%0a%3c ├─static       // 静态数据，缓存数据存放处%0a%3c │  ├─page%0a%3c │  └─pagelist%0a%3c ├─uploads      // 上传附件目录，PmWiki附件和播放器静态池存放处%0a%3c │  ├─Acfun2%0a%3c │  ├─Bilibili2%0a%3c │  └─LocalVideo // 本地视频存放处%0a%3c └─wiki.d%0a%3c @]%0a\ No newline at end of file%0a
+host:1306598847=127.0.0.1

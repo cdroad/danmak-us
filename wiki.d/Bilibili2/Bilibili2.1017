@@ -1,0 +1,23 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+biliid=42194960
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1291984783
+host=180.110.96.39
+keywords=动画,amv,绿光 
+name=Bilibili2.1017
+oldsource=http://bilibili.us/video/av33246/
+rev=2
+targets=Category.动画,Category.Amv,Category.绿光
+text=%0a(:VideoStr:42194960:)%0a(:title 【穿越】绿光 :)%0a(:keywords 动画,amv,绿光 :)%0a(:sourcelink:http://bilibili.us/video/av33246/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1291984788
+title=【穿越】绿光 
+author:1291984788=aUser
+diff:1291984788:1291984783:=
+host:1291984788=180.110.96.39
+author:1291984783=aUser
+diff:1291984783:1291984783:=1,11d0%0a%3c %0a%3c (:VideoStr:42194960:)%0a%3c (:title 【穿越】绿光 :)%0a%3c (:keywords 动画,amv,绿光 :)%0a%3c (:sourcelink:http://bilibili.us/video/av33246/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1291984783=180.110.96.39

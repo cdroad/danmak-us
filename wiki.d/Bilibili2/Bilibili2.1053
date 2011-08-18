@@ -1,0 +1,18 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1297249404
+host=114.243.102.181
+keywords=动画, 
+name=Bilibili2.1053
+rev=1
+targets=Category.动画
+text=(:VideoStr:46094928:)%0a(:title 【东方MAD】 Sweets Time-斯卡雷特编年史 :)%0a(:keywords 动画, :)%0a(:sourcelink:http://bilibili.us/video/av56781/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1297249404
+title=【东方MAD】 Sweets Time-斯卡雷特编年史 
+author:1297249404=aUser
+diff:1297249404:1297249404:=1,10d0%0a%3c (:VideoStr:46094928:)%0a%3c (:title 【东方MAD】 Sweets Time-斯卡雷特编年史 :)%0a%3c (:keywords 动画, :)%0a%3c (:sourcelink:http://bilibili.us/video/av56781/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1297249404=114.243.102.181

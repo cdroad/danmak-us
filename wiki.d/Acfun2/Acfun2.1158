@@ -1,0 +1,18 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1281507135
+host=114.243.71.194
+keywords=音乐,東方,魔理沙,IOSYS, 
+name=Acfun2.1158
+rev=1
+targets=Category.音乐,Category.東方,Category.魔理沙,Category.IOSYS
+text=%0a(:VideoStr:23389271:)%0a(:title 魔理沙は大変なものを盗んでいき :)%0a(:keywords 音乐,東方,魔理沙,IOSYS, :)%0a(:sourcelink:http://124.228.254.234/html/music/20090804/41174.html :)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1281507135
+title=魔理沙は大変なものを盗んでいき 
+author:1281507135=Admin
+diff:1281507135:1281507135:=1,11d0%0a%3c %0a%3c (:VideoStr:23389271:)%0a%3c (:title 魔理沙は大変なものを盗んでいき :)%0a%3c (:keywords 音乐,東方,魔理沙,IOSYS, :)%0a%3c (:sourcelink:http://124.228.254.234/html/music/20090804/41174.html :)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1281507135=114.243.71.194

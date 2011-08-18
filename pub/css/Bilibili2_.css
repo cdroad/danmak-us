@@ -1,0 +1,60 @@
+#sTbox { width: 950px; }
+#msgBox {
+	width: 402px;
+	height: 73px;
+}
+#flashcontent { position: absolute; }
+#msgshow {
+	width: 542px;
+	height: 386px;
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	-webkit-perspective: 912.4665103113039px;
+	-moz-perspective: 912.4665103113039px;
+	-o-perspective: 912.4665103113039px;
+	-ms-perspective: 912.4665103113039px;
+	perspective: 912.4665103113039px;
+	-webkit-perspective-origin: 271px 193px;
+	-moz-perspective-origin: 271px 193px;
+	-o-perspective-origin: 271px 193px;
+	-ms-perspective-origin: 271px 193px;
+	perspective-origin: 271px 193px;
+}
+.TTa {
+	position: absolute;
+	width: 551px;
+	left: -4px;
+}
+.TTr {
+	display: table;
+	position: relative;
+	padding: 2px 0px 0px 5px;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+.TTd {
+	text-align: left;
+	font-weight: bold;
+	white-space: pre;
+	padding: 1px 2px 2px;
+	-webkit-text-size-adjust: none;
+	-webkit-transform-origin: top left;
+	-moz-transform-origin: top left;
+	-o-transform-origin: top left;
+	-ms-transform-origin: top left;
+	transform-origin: top left;
+}
+@-moz-document url-prefix() {
+	.TTr { padding: 3px 3px 1px 5px; }
+	.TTd { padding: 1px 0px 0px 2px; }
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	input[name="uploadfile"] { width:156px; }
+	*:focus { outline:none; }
+}
+#sTsf { width:950px; }
+#sTsf input { font-family: "宋体",SimSun; }

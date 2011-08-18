@@ -1,0 +1,21 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=KPX
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1286884288
+host=114.222.89.207
+keywords=娱乐,Shaddai,El,鬼畜,游戏 
+name=Bilibili2.1006
+rev=2
+targets=Category.娱乐,Category.Shaddai,Category.El,Category.鬼畜,Category.游戏
+text=(:VideoStr:38899569:)%0a(:title 喂 你穿这样的装备能打么！ :)%0a(:keywords 娱乐,Shaddai,El,鬼畜,游戏 :)%0a(:sourcelink:http://bilibili.us/video/av28181/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a这货就不过滤无关弹幕了%0a[[#commentend]]%0a(:ifend:)
+time=1294723806
+title=喂 你穿这样的装备能打么！ 
+author:1294723806=KPX
+diff:1294723806:1286884288:=0a1%0a> %0a8c9%0a%3c 这货就不过滤无关弹幕了%0a---%0a> %0a
+host:1294723806=114.222.89.207
+author:1286884288=aUser
+diff:1286884288:1286884288:=1,11d0%0a%3c %0a%3c (:VideoStr:38899569:)%0a%3c (:title 喂 你穿这样的装备能打么！ :)%0a%3c (:keywords 娱乐,Shaddai,El,鬼畜,游戏 :)%0a%3c (:sourcelink:http://bilibili.us/video/av28181/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1286884288=114.222.88.102

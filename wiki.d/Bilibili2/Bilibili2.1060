@@ -1,0 +1,18 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1298820343
+host=124.160.208.59
+keywords=音乐,弹幕,闪亮亮的小夜曲,治愈,音乐 
+name=Bilibili2.1060
+rev=1
+targets=Category.音乐,Category.弹幕,Category.闪亮亮的小夜曲,Category.治愈
+text=(:VideoStr:46389402:)%0a(:title 闪亮亮的小夜曲 :)%0a(:keywords 音乐,弹幕,闪亮亮的小夜曲,治愈,音乐 :)%0a(:sourcelink:http://bilibili.us/video/av59489/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1298820343
+title=闪亮亮的小夜曲 
+author:1298820343=Admin
+diff:1298820343:1298820343:=1,10d0%0a%3c (:VideoStr:46389402:)%0a%3c (:title 闪亮亮的小夜曲 :)%0a%3c (:keywords 音乐,弹幕,闪亮亮的小夜曲,治愈,音乐 :)%0a%3c (:sourcelink:http://bilibili.us/video/av59489/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1298820343=124.160.208.59

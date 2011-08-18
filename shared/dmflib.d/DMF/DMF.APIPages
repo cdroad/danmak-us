@@ -1,0 +1,40 @@
+version=pmwiki-2.2.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1310996009
+host=127.0.0.1
+name=DMF.APIPages
+rev=9
+targets=Category.API,Category.开发,Category.文件列表,Category.本地视频,Category.编程,Category.视频列表
+text=!! getLocalUploads%0a!!! 作用%0a->取得本地视频列表，返回javascript:JSON%0a%0a!!! 支持格式%0a->javascript:json%0a%0a!!! HTTP请求方式%0a->GET%0a%0a!!! 权限要求%0a->对API/Pages页面有'read'权限%0a%0a!!! 请求串%0a->无%0a%0a!!!返回结果 (示例)%0a>>recipeinfo%3c%3c%0a->var files={"Black.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/Black.mp4","CCCCCC.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/CCCCCC.mp4","white.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/white.mp4"};%0a>>%3c%3c%0a%0a(:if false:)%0a[[#tagInfo]] [[! A P I]] | [[! 开发]] | [[! 文件列表]] | [[! 本地视频]] | [[! 编程]] | [[! 视频列表]][[#tagEnd]]%0a(:ifend:)
+time=1310997318
+author:1310997318=Admin
+diff:1310997318:1310997281:=21d20%0a%3c %0a23c22%0a%3c [[#tagInfo]] [[! A P I]] | [[! 开发]] | [[! 文件列表]] | [[! 本地视频]] | [[! 编程]] | [[! 视频列表]][[#tagEnd]]%0a---%0a> [[#tagInfo]] [[! A P I]] | [[! 开发]] | [[! 文件列表]] | [[! 编程]] | [[! 视频列表]][[#tagEnd]]%0a
+host:1310997318=127.0.0.1
+author:1310997281=Admin
+diff:1310997281:1310997273:=20,23c20%0a%3c >>%3c%3c%0a%3c (:if false:)%0a%3c [[#tagInfo]] [[! A P I]] | [[! 开发]] | [[! 文件列表]] | [[! 编程]] | [[! 视频列表]][[#tagEnd]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> >>%3c%3c%0a\ No newline at end of file%0a
+host:1310997281=127.0.0.1
+author:1310997273=
+diff:1310997273:1310997234:=20c20,25%0a%3c >>%3c%3c%0a\ No newline at end of file%0a---%0a> >>%3c%3c%0a> %0a> %0a> (:if false:)%0a> [[#tagInfo]] [[! A P I]] | [[! �发]] | [[! �程]] | [[! �]] | [[! 文件列表]] | [[! �]] | [[! 视频列表]][[#tagEnd]]%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1310997273=127.0.0.1
+author:1310997234=KPX
+diff:1310997234:1310997031:=22,25d21%0a%3c %0a%3c (:if false:)%0a%3c [[#tagInfo]] [[! A P I]] | [[! �发]] | [[! �程]] | [[! �]] | [[! 文件列表]] | [[! �]] | [[! 视频列表]][[#tagEnd]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1310997234=127.0.0.1
+author:1310997031=KPX
+diff:1310997031:1310996916:=17c17%0a%3c !!!返回结果 (示例)%0a---%0a> !!!返回结果%0a
+host:1310997031=127.0.0.1
+author:1310996916=KPX
+diff:1310996916:1310996559:=11c11%0a%3c !!! 权限要求%0a---%0a> !!! 权限%0a
+host:1310996916=127.0.0.1
+author:1310996559=
+diff:1310996559:1310996035:=3,4c3%0a%3c ->取得本地视频列表，返回javascript:JSON%0a%3c %0a---%0a> 取得本地视频列表，返回javascirpt%0a6,7c5%0a%3c ->javascript:json%0a%3c %0a---%0a> javascript:json%0a9,10c7%0a%3c ->GET%0a%3c %0a---%0a> GET%0a12,13c9%0a%3c ->对API/Pages页面有'read'权限%0a%3c %0a---%0a> 对API/Pages页面有'read'权限%0a15,21c11,15%0a%3c ->无%0a%3c %0a%3c !!!返回结果%0a%3c >>recipeinfo%3c%3c%0a%3c ->var files={"Black.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/Black.mp4","CCCCCC.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/CCCCCC.mp4","white.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/white.mp4"};%0a%3c >>%3c%3c%0a%3c %0a---%0a> 无%0a> !!!%0a> 返回结果%0a> %0a> var files={"Black.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/Black.mp4","CCCCCC.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/CCCCCC.mp4","white.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/white.mp4"};%0a
+host:1310996559=127.0.0.1
+author:1310996035=
+diff:1310996035:1310996009:=0a1%0a> %0a14c15%0a%3c %0a---%0a> [@%0a15a17%0a> @]%0a\ No newline at end of file%0a
+host:1310996035=127.0.0.1
+author:1310996009=KPX
+diff:1310996009:1310996009:=1,17d0%0a%3c %0a%3c !! getLocalUploads%0a%3c !!! 作用%0a%3c 取得本地视频列表，返回javascirpt%0a%3c !!! 支持格式%0a%3c javascript:json%0a%3c !!! HTTP请求方式%0a%3c GET%0a%3c !!! 权限%0a%3c 对API/Pages页面有'read'权限%0a%3c !!! 请求串%0a%3c 无%0a%3c !!!%0a%3c 返回结果%0a%3c [@%0a%3c var files={"Black.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/Black.mp4","CCCCCC.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/CCCCCC.mp4","white.mp4":"http:\/\/localhost\/uploads\/LocalVideo\/white.mp4"};%0a%3c @]%0a\ No newline at end of file%0a
+host:1310996009=127.0.0.1

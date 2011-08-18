@@ -1,0 +1,26 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+author=剑羽翎
+cauthor=Admin
+charset=UTF-8
+csum=我只是路过的
+ctime=1279510672
+host=180.208.56.7
+keywords=音乐,飞雪,小缘,Magnet, 
+name=Acfun2.1077
+rev=3
+targets=Category.音乐,Category.飞雪,Category.小缘,Category.Magnet
+text=(:VideoStr:28047657:)%0a(:title 【飞雪小缘】Magnet  :)%0a(:keywords 音乐,飞雪,小缘,Magnet, :)%0a(:sourcelink:http://124.228.254.234/html/music/20100111/68354.html :)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1296958103
+title=【飞雪小缘】Magnet  
+author:1296958103=剑羽翎
+csum:1296958103=我只是路过的
+diff:1296958103:1296958068:minor=
+host:1296958103=180.208.56.7
+author:1296958068=剑羽翎
+csum:1296958068=我只是为了查弹幕的= =
+diff:1296958068:1279510672:minor=0a1%0a> %0a
+host:1296958068=180.208.56.7
+author:1279510672=Admin
+diff:1279510672:1279510672:=1,11d0%0a%3c %0a%3c (:VideoStr:28047657:)%0a%3c (:title 【飞雪小缘】Magnet  :)%0a%3c (:keywords 音乐,飞雪,小缘,Magnet, :)%0a%3c (:sourcelink:http://124.228.254.234/html/music/20100111/68354.html :)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279510672=114.243.82.82

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.18 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1288709611
+host=114.222.152.43
+keywords=音乐,镜音双子,心之奇迹,飞雪,阿灯, 
+name=Bilibili2.1009
+rev=1
+targets=Category.音乐,Category.镜音双子,Category.心之奇迹,Category.飞雪,Category.阿灯
+text=%0a(:VideoStr:7VxNC23THWs:)%0a(:title 【飞雪·阿灯】ココロ&ココロ·キセキ。 :)%0a(:keywords 音乐,镜音双子,心之奇迹,飞雪,阿灯, :)%0a(:sourcelink:http://bilibili.us/video/av32562/:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1288709611
+title=【飞雪·阿灯】ココロ&amp;ココロ·キセキ。 
+author:1288709611=aUser
+diff:1288709611:1288709611:=1,11d0%0a%3c %0a%3c (:VideoStr:7VxNC23THWs:)%0a%3c (:title 【飞雪·阿灯】ココロ&ココロ·キセキ。 :)%0a%3c (:keywords 音乐,镜音双子,心之奇迹,飞雪,阿灯, :)%0a%3c (:sourcelink:http://bilibili.us/video/av32562/:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1288709611=114.222.152.43

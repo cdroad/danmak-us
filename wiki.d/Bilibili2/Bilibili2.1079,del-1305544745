@@ -1,0 +1,17 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1305544718
+host=::1
+name=Bilibili2.1079
+rev=1
+targets=
+text=%0a(:VideoStr:http://localhost/uploads/LocalVideo/CCCCCC.mp4:)%0a(:title x :)%0a(:sourcelink:x:)%0a(:VideoType:LOCAL:)%0a(:IsMuti::)%0a(:if false:)%0a[[#comment]]%0ax%0a[[#commentend]]%0a[[#partinfo]]%0a[[#partend]]%0a(:ifend:)
+time=1305544718
+title=x 
+author:1305544718=Admin
+diff:1305544718:1305544718:=1,13d0%0a%3c %0a%3c (:VideoStr:http://localhost/uploads/LocalVideo/CCCCCC.mp4:)%0a%3c (:title x :)%0a%3c (:sourcelink:x:)%0a%3c (:VideoType:LOCAL:)%0a%3c (:IsMuti::)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c x%0a%3c [[#commentend]]%0a%3c [[#partinfo]]%0a%3c [[#partend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1305544718=::1

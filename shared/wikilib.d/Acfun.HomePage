@@ -1,0 +1,43 @@
+version=pmwiki-2.2.5 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1) Gecko/20070309 Firefox/2.0.0.3
+author=wikiadministration
+charset=UTF-8
+csum=
+ctime=1249949032
+host=123.114.174.139
+name=Acfun.HomePage
+rev=35
+targets=Acfun.1058,System.HowTo
+text=(:Title {$Group}.首页:)%0a%0a总投稿量:(:pagelist group=Acfun name=-Groupheader,-Groupfooter,-HomePage fmt=count VideoID:)%0a%0a新建页面:%0a* [[Acfun/{(thread)}?action=edit&template=System.Acftmpl|普通投稿]]%0a* [[Acfun/{(thread)}?action=edit&template=System.AcftmplFTP|FTP投稿]]%0a* [[Acfun/{(thread)}?action=edit&template=System.AcftmplMUTI|单视频多弹幕投稿]]%0a'''[[System.HowTo|投稿说明见此]]'''%0a'''目前投稿不支持单贴多视频'''%0a%0a弹幕文件:请使用acfun弹幕文件%0a%0a最新15个视频%0a(:pagelist group={$Group} name=-Groupheader,-Groupfooter list=normal fmt=#title order=-name VideoID:)%0a%0a
+time=1257419088
+title=Acfun.首页
+author:1257419088=wikiadministration
+diff:1257419088:1257126099:=10c10%0a%3c '''目前投稿不支持单贴多视频'''%0a---%0a> '''目前投稿不支持多P..因为还在写多P代码'''%0a
+host:1257419088=123.114.174.139
+author:1257126099=wikiadministration
+diff:1257126099:1256809015:=8d7%0a%3c * [[Acfun/{(thread)}?action=edit&template=System.AcftmplMUTI|单视频多弹幕投稿]]%0a
+host:1257126099=123.114.171.188
+author:1256809015=wikiadministration
+diff:1256809015:1256808958:=7c7%0a%3c * [[Acfun/{(thread)}?action=edit&template=System.AcftmplFTP|FTP投稿]]%0a---%0a> * [[Acfun/{(thread)}?action=edit&template=System.Acftmpl|FTP投稿]]%0a
+host:1256809015=123.114.187.195
+author:1256808958=wikiadministration
+diff:1256808958:1256808061:=5,7c5%0a%3c 新建页面:%0a%3c * [[Acfun/{(thread)}?action=edit&template=System.Acftmpl|普通投稿]]%0a%3c * [[Acfun/{(thread)}?action=edit&template=System.Acftmpl|FTP投稿]]%0a---%0a> 新建页面:[[Acfun/{(thread)}?action=edit&template=System.Acftmpl|点此新建]]%0a
+host:1256808958=123.114.187.195
+author:1256808061=wikiadministration
+diff:1256808061:1256808050:=3,4c3,4%0a%3c 总投稿量:(:pagelist group=Acfun name=-Groupheader,-Groupfooter,-HomePage fmt=count VideoID:)%0a%3c %0a---%0a> 总投稿量:(:pagelist group=Acfun name=-Groupheader,-Groupfooter,-HomePage fmt=count VideoID VideoURL:)%0a> %0a12c12%0a%3c (:pagelist group={$Group} name=-Groupheader,-Groupfooter list=normal fmt=#title order=-name VideoID:)%0a---%0a> (:pagelist group={$Group} name=-Groupheader,-Groupfooter list=normal fmt=#title order=-name VideoID VideoURL:)%0a
+host:1256808061=123.114.187.195
+author:1256808050=wikiadministration
+diff:1256808050:1256808031:=12c12%0a%3c (:pagelist group={$Group} name=-Groupheader,-Groupfooter list=normal fmt=#title order=-name VideoID VideoURL:)%0a---%0a> (:pagelist group={$Group} name=-Groupheader,-Groupfooter list=normal fmt=#title order=-name VideoID:)%0a
+host:1256808050=123.114.187.195
+author:1256808031=wikiadministration
+diff:1256808031:1254992749:=3c3%0a%3c 总投稿量:(:pagelist group=Acfun name=-Groupheader,-Groupfooter,-HomePage fmt=count VideoID VideoURL:)%0a---%0a> 总投稿量:(:pagelist group=Acfun name=-Groupheader,-Groupfooter,-HomePage fmt=count VideoID:)%0a
+host:1256808031=123.114.187.195
+author:1254992749=wikiadministration
+diff:1254992749:1254287943:=6c6%0a%3c '''[[System.HowTo|投稿说明见此]]'''%0a---%0a> '''[[http://tieba.baidu.com/f?ct=335675392&tn=baiduPostBrowser&sc=6499285345&z=626832976&pn=0&rn=30&lm=0&word=acfun#6499285345|投稿说明见此]]'''%0a
+host:1254992749=222.131.99.63
+author:1254287943=wikiadministration
+diff:1254287943:1251164702:=12c12%0a%3c (:pagelist group={$Group} name=-Groupheader,-Groupfooter list=normal fmt=#title order=-name VideoID:)%0a---%0a> (:pagelist group={$Group} count=15 name=-Groupheader,-Groupfooter list=normal fmt=#title order=-name VideoID:)%0a
+host:1254287943=123.114.164.7
+author:1251164702=wikiadministrator
+diff:1251164702:1251164084:=12c12%0a%3c (:pagelist group={$Group} count=15 name=-Groupheader,-Groupfooter list=normal fmt=#title order=-name VideoID:)%0a---%0a> (:pagelist group={$Group} count=15 name=-Groupheader,-Groupfooter list=normal fmt=#title order=-time VideoID:)%0a
+host:1251164702=123.114.171.68

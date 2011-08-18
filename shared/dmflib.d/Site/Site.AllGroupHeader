@@ -1,0 +1,130 @@
+version=pmwiki-2.2.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30
+author=
+cauthor=
+charset=UTF-8
+csum=
+ctime=1297149526
+host=127.0.0.1
+name=Site.AllGroupHeader
+rev=39
+targets=
+text=%25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a%25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a%25define=danmakubar color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=2em%25%0a%25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a%25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a%25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a(:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a(:divend:)(:ifend:)%0a%0a(:if auth admin:)%0a(:include Main.BPError:)%0a(:ifend:)
+time=1310800549
+author:1310800549=
+diff:1310800549:1310800173:=2,3c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a%3c %25define=danmakubar color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=2em%25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=2em%25%0a
+host:1310800549=127.0.0.1
+author:1310800173=
+diff:1310800173:1310800141:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=2em%25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=1.75em%25%0a
+host:1310800173=127.0.0.1
+author:1310800141=
+diff:1310800141:1310800121:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=1.75em%25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=1.5em%25%0a
+host:1310800141=127.0.0.1
+author:1310800121=
+diff:1310800121:1310799714:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=1.5em%25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a
+host:1310800121=127.0.0.1
+author:1310799714=
+diff:1310799714:1310799680:=3c3%0a%3c %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a---%0a> %25define=box background-color=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a
+host:1310799714=127.0.0.1
+author:1310799680=
+diff:1310799680:1310799651:=3c3%0a%3c %25define=box background-color=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a---%0a> %25define=box block background-color=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a
+host:1310799680=127.0.0.1
+author:1310799651=
+diff:1310799651:1310799596:=3c3%0a%3c %25define=box block background-color=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a---%0a> %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a
+host:1310799651=127.0.0.1
+author:1310799596=
+diff:1310799596:1310799553:=3a4%0a> %25define=recipebox block bgcolor=#f7f7f7 border='1px solid #ccccc' margin=10px padding=5px%25%0a
+host:1310799596=127.0.0.1
+author:1310799553=
+diff:1310799553:1310799531:=
+host:1310799553=127.0.0.1
+author:1310799531=
+diff:1310799531:1310799427:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' %25%0a4d3%0a%3c %25define=recipebox block bgcolor=#f7f7f7 border='1px solid #ccccc' margin=10px padding=5px%25%0a
+host:1310799531=127.0.0.1
+author:1310799427=
+diff:1310799427:1310799225:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' %25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=2em %25%0a
+host:1310799427=127.0.0.1
+author:1310799225=
+diff:1310799225:1310799220:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=2em %25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=1.5em %25%0a
+host:1310799225=127.0.0.1
+author:1310799220=
+diff:1310799220:1310799207:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=1.5em %25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=1.25em %25%0a
+host:1310799220=127.0.0.1
+author:1310799207=
+diff:1310799207:1310799088:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px line-height=1.25em %25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=2px%25%0a
+host:1310799207=127.0.0.1
+author:1310799088=
+diff:1310799088:1310799076:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=2px%25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=3px%25%0a
+host:1310799088=127.0.0.1
+author:1310799076=
+diff:1310799076:1310799050:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=3px%25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=2px%25%0a
+host:1310799076=127.0.0.1
+author:1310799050=
+diff:1310799050:1310799032:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=2px%25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' %25%0a
+host:1310799050=127.0.0.1
+author:1310799032=
+diff:1310799032:1307944049:=2c2%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' %25%0a---%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a
+host:1310799032=127.0.0.1
+author:1307944049=
+diff:1307944049:1307026567:=8c8,11%0a%3c %0a---%0a> (:html:)%0a> %3cscript type="text/javascript" src="/static/swfobject.js">%3c/script>%0a> %3cscript type="text/javascript" src="/static/jquery-1.6.1.min.js">%3c/script>%0a> (:htmlend:)%0a
+host:1307944049=127.0.0.1
+author:1307026567=
+diff:1307026567:1307026276:=10a11,14%0a> %3cscript type="text/javascript" src="http://apis.google.com/js/plusone.js">%0a>   {lang: 'zh-CN'}%0a> %3c/script>%0a> %3cg:plusone>%3c/g:plusone>%0a
+host:1307026567=127.0.0.1
+author:1307026276=
+diff:1307026276:1307026223:=14d13%0a%3c %3cg:plusone>%3c/g:plusone>%0a
+host:1307026276=127.0.0.1
+author:1307026223=
+diff:1307026223:1306598229:=11,13d10%0a%3c %3cscript type="text/javascript" src="http://apis.google.com/js/plusone.js">%0a%3c   {lang: 'zh-CN'}%0a%3c %3c/script>%0a
+host:1307026223=127.0.0.1
+author:1306598229=
+diff:1306598229:1305540284:=6,7d5%0a%3c (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a%3c (:divend:)(:ifend:)%0a
+host:1306598229=127.0.0.1
+author:1305540284=Admin
+diff:1305540284:1304586077:=8d7%0a%3c %3cscript type="text/javascript" src="/static/jquery-1.6.1.min.js">%3c/script>%0a
+host:1305540284=::1
+author:1304586077=Admin
+diff:1304586077:1303984844:=10c10%0a%3c (:include Main.BPError:)%0a---%0a> (:include Main.XMLError:)%0a
+host:1304586077=::1
+author:1303984844=Admin
+diff:1303984844:1303982155:=9,11c9%0a%3c (:if auth admin:)%0a%3c (:include Main.XMLError:)%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> (:include Main.XMLError:)%0a\ No newline at end of file%0a
+host:1303984844=::1
+author:1303982155=Admin
+diff:1303982155:1303786204:=8,9c8%0a%3c (:htmlend:)%0a%3c (:include Main.XMLError:)%0a\ No newline at end of file%0a---%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1303982155=::1
+author:1303786204=Admin
+diff:1303786204:1301588154:=7c7,8%0a%3c %3cscript type="text/javascript" src="/static/swfobject.js">%3c/script>%0a---%0a> %3cscript type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js">%3c/script>%0a> %3c!--[if lt IE 7]> %3cdiv style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> %3ca href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">%3cimg src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" height="42" width="686" alt="您正在使用联邦的过时科技，Arcturus Mengsk大帝推荐您立刻装备最新8mm C-10高斯来福枪以及X-10标准型幽灵护甲." />%3c/a>%3c/div> %3c![endif]--> %0a
+host:1303786204=::1
+author:1301588154=Admin
+diff:1301588154:1301587865:=8c8%0a%3c %3c!--[if lt IE 7]> %3cdiv style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> %3ca href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">%3cimg src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" height="42" width="686" alt="您正在使用联邦的过时科技，Arcturus Mengsk大帝推荐您立刻装备最新8mm C-10高斯来福枪以及X-10标准型幽灵护甲." />%3c/a>%3c/div> %3c![endif]--> %0a---%0a> %3c!--[if lt IE 7]> %3cdiv style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> %3ca href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">%3cimg src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" height="42" width="686" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />%3c/a>%3c/div> %3c![endif]--> %0a
+host:1301588154=124.160.208.152
+author:1301587865=Admin
+diff:1301587865:1300358125:=8d7%0a%3c %3c!--[if lt IE 7]> %3cdiv style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> %3ca href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">%3cimg src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" height="42" width="686" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />%3c/a>%3c/div> %3c![endif]--> %0a
+host:1301587865=124.160.208.152
+author:1300358125=Admin
+diff:1300358125:1300245785:=8c8,10%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> (:htmlend:)%0a> %0a> %25red%25 收到BlueHost消息，服务器正在物理转移，可能会短时间下线 %25%25%0a\ No newline at end of file%0a
+host:1300358125=114.222.89.227
+author:1300245785=Admin
+diff:1300245785:1298990023:=8,10c8%0a%3c (:htmlend:)%0a%3c %0a%3c %25red%25 收到BlueHost消息，服务器正在物理转移，可能会短时间下线 %25%25%0a\ No newline at end of file%0a---%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1300245785=49.74.10.55
+author:1298990023=Admin
+diff:1298990023:1298981718:=8c8,10%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> (:htmlend:)%0a> %0a> %25red%25 '''部分板块维护中...可能会茶几''' %25%25%0a\ No newline at end of file%0a
+host:1298990023=49.74.52.6
+author:1298981718=Admin
+diff:1298981718:1298976416:=8,10c8%0a%3c (:htmlend:)%0a%3c %0a%3c %25red%25 '''部分板块维护中...可能会茶几''' %25%25%0a\ No newline at end of file%0a---%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1298981718=49.74.52.6
+author:1298976416=Admin
+diff:1298976416:1298976380:=
+host:1298976416=49.74.52.6
+author:1298976380=Admin
+diff:1298976380:1297149787:=1,5d0%0a%3c %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a%3c %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a%3c %25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a%3c %25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a
+host:1298976380=49.74.52.6
+author:1297149787=KPX
+diff:1297149787:1297149719:=
+host:1297149787=127.0.0.1
+author:1297149719=KPX
+diff:1297149719:1297149526:=2c2%0a%3c %3cscript type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js">%3c/script>%0a---%0a> %3cscript type="text/javascript" src="http://danmaku.us/static/swfobject/swfobject.js">%3c/script>%0a
+host:1297149719=127.0.0.1
+author:1297149526=KPX
+diff:1297149526:1297149526:=1,3d0%0a%3c (:html:)%0a%3c %3cscript type="text/javascript" src="http://danmaku.us/static/swfobject/swfobject.js">%3c/script>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a
+host:1297149526=127.0.0.1

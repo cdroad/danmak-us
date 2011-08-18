@@ -1,0 +1,26 @@
+version=pmwiki-2.2.18 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.10) Gecko/20100914 Firefox/3.6.10
+author=・D
+biliid=ZW2p9nhNxHs
+cauthor=O
+charset=UTF-8
+csum=
+ctime=1287570315
+host=119.98.61.223
+keywords=动画,芥川龙之介の河童 
+name=Bilibili2.1007
+oldsource=http://bilibili.us/video/av30008/
+rev=3
+targets=Category.动画,Category.芥川龙之介の河童
+text=(:VideoStr:ZW2p9nhNxHs:)%0a(:title 人間が大好きなこわれた妖怪の唄 :)%0a(:keywords 动画,芥川龙之介の河童 :)%0a(:sourcelink:http://bilibili.us/video/av30008/:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1287570418
+title=人間が大好きなこわれた妖怪の唄 
+author:1287570418=・D
+diff:1287570418:1287570334:=
+host:1287570418=119.98.61.223
+author:1287570334=O
+diff:1287570334:1287570315:=
+host:1287570334=119.98.61.223
+author:1287570315=O
+diff:1287570315:1287570315:=1,10d0%0a%3c (:VideoStr:ZW2p9nhNxHs:)%0a%3c (:title 人間が大好きなこわれた妖怪の唄 :)%0a%3c (:keywords 动画,芥川龙之介の河童 :)%0a%3c (:sourcelink:http://bilibili.us/video/av30008/:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1287570315=119.98.61.223

@@ -1,0 +1,21 @@
+version=pmwiki-2.2.18 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1285671942
+host=114.222.153.217
+keywords=专辑,松冈修造,松岡修造,松岗修造,东方星莲船,东方永夜烧 
+name=Acfun2.1168
+rev=2
+targets=Category.专辑,Category.松冈修造,Category.松岡修造,Category.松岗修造,Category.东方星莲船,Category.东方永夜烧
+text=(:VideoStr:7OsaiqMt9j7:)%0a(:title 【第2回東方ニコ童祭】东方热血汉 恋色マスターフレイム :)%0a(:keywords 专辑,松冈修造,松岡修造,松岗修造,东方星莲船,东方永夜烧 :)%0a(:sourcelink:http://124.228.254.229/html/ent/20100927/142263_2.html:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0aもっと、熱くなれよおおおおおおおお！！%0a[[#commentend]]%0a(:ifend:)
+time=1285672032
+title=【第2回東方ニコ童祭】东方热血汉 恋色マスターフレイム 
+author:1285672032=aUser
+diff:1285672032:1285671942:=0a1%0a> %0a3c4%0a%3c (:keywords 专辑,松冈修造,松岡修造,松岗修造,东方星莲船,东方永夜烧 :)%0a---%0a> (:keywords 专辑,松冈修造,松岡修造,松岗修造,东方星莲船,东方永夜 :)%0a
+host:1285672032=114.222.153.217
+author:1285671942=aUser
+diff:1285671942:1285671942:=1,11d0%0a%3c %0a%3c (:VideoStr:7OsaiqMt9j7:)%0a%3c (:title 【第2回東方ニコ童祭】东方热血汉 恋色マスターフレイム :)%0a%3c (:keywords 专辑,松冈修造,松岡修造,松岗修造,东方星莲船,东方永夜 :)%0a%3c (:sourcelink:http://124.228.254.229/html/ent/20100927/142263_2.html:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c もっと、熱くなれよおおおおおおおお！！%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1285671942=114.222.153.217

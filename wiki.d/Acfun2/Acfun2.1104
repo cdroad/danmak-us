@@ -1,0 +1,27 @@
+version=pmwiki-2.2.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+author=
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1279765861
+host=127.0.0.1
+keywords=音乐,化物语,OP,抚子,化物语, 
+name=Acfun2.1104
+rev=4
+targets=
+text=(:VideoStr:http://dc192.4shared-china.com/img/207568617/a67f22b4/dlink__2Fdownload_2F207568617_2Fa67f22b4_3Ftsid_3D20100126-003429-ddbd46d4/preview.flv:)%0a(:title 抚子OP 恋愛サーキュレーション 完整版 :)%0a(:keywords 音乐,化物语,OP,抚子,化物语, :)%0a(:sourcelink:http://124.228.254.234/html/music/20100126/72365.html:)%0a(:VideoType:Link:)%0a(:IsMuti:true:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a[[#partinfo]]%0a:P1:初版弹幕%0a:P2:蔷薇版弹幕%0a:P3:未使用%0a[[#partend]]%0a(:ifend:)
+time=1306829929
+title=抚子OP 恋愛サーキュレーション 完整版 
+author:1306829929=
+diff:1306829929:1299562662:=11,15d10%0a%3c [[#partinfo]]%0a%3c :P1:初版弹幕%0a%3c :P2:蔷薇版弹幕%0a%3c :P3:未使用%0a%3c [[#partend]]%0a
+host:1306829929=127.0.0.1
+author:1299562662=Admin
+diff:1299562662:1299562574:=5c5%0a%3c (:VideoType:Link:)%0a---%0a> (:VideoType:ftp:)%0a
+host:1299562662=180.110.99.26
+author:1299562574=Admin
+diff:1299562574:1279765861:=0a1%0a> %0a5,6c6%0a%3c (:VideoType:ftp:)%0a%3c (:IsMuti:true:)%0a---%0a> (:VideoType:Mutiftp:)%0a
+host:1299562574=180.110.99.26
+author:1279765861=Admin
+diff:1279765861:1279765861:=1,11d0%0a%3c %0a%3c (:VideoStr:http://dc192.4shared-china.com/img/207568617/a67f22b4/dlink__2Fdownload_2F207568617_2Fa67f22b4_3Ftsid_3D20100126-003429-ddbd46d4/preview.flv:)%0a%3c (:title 抚子OP 恋愛サーキュレーション 完整版 :)%0a%3c (:keywords 音乐,化物语,OP,抚子,化物语, :)%0a%3c (:sourcelink:http://124.228.254.234/html/music/20100126/72365.html:)%0a%3c (:VideoType:Mutiftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279765861=114.243.67.163

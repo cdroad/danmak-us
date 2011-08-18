@@ -1,0 +1,23 @@
+version=pmwiki-2.2.18 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729; .NET4.0E)
+author=Admin
+biliid=ZWMZZAPhdWt
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1289826202
+host=222.95.39.158
+keywords=音乐,VOCALOID,初音ミク 
+name=Bilibili2.1015
+oldsource=http://bilibili.us/video/av36512/
+rev=2
+targets=Category.音乐,Category.VOCALOID,Category.初音ミク
+text=%0a(:VideoStr:ZWMZZAPhdWt:)%0a(:title 【オリジナル曲PV】clock lock works【初音ミク】 :)%0a(:keywords 音乐,VOCALOID,初音ミク :)%0a(:sourcelink:http://bilibili.us/video/av36512/:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1289826218
+title=【オリジナル曲PV】clock lock works【初音ミク】 
+author:1289826218=Admin
+diff:1289826218:1289826202:=
+host:1289826218=222.95.39.158
+author:1289826202=Admin
+diff:1289826202:1289826202:=1,11d0%0a%3c %0a%3c (:VideoStr:ZWMZZAPhdWt:)%0a%3c (:title 【オリジナル曲PV】clock lock works【初音ミク】 :)%0a%3c (:keywords 音乐,VOCALOID,初音ミク :)%0a%3c (:sourcelink:http://bilibili.us/video/av36512/:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1289826202=222.95.39.158

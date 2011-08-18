@@ -1,0 +1,21 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1296358165
+host=180.110.99.26
+keywords=音乐, 
+name=Bilibili2.1050
+rev=2
+targets=Category.音乐
+text=(:VideoStr:http://vs1.zol.com.cn/flv/107/424a5330.flv:)%0a(:title [第8日][蓝组]Little Traveler :)%0a(:keywords 音乐, :)%0a(:sourcelink::)%0a(:VideoType:Link:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1299562727
+title=[第8日][蓝组]Little Traveler 
+author:1299562727=Admin
+diff:1299562727:1296358165:=5c5%0a%3c (:VideoType:Link:)%0a---%0a> (:VideoType:ftp:)%0a
+host:1299562727=180.110.99.26
+author:1296358165=aUser
+diff:1296358165:1296358165:=1,10d0%0a%3c (:VideoStr:http://vs1.zol.com.cn/flv/107/424a5330.flv:)%0a%3c (:title [第8日][蓝组]Little Traveler :)%0a%3c (:keywords 音乐, :)%0a%3c (:sourcelink::)%0a%3c (:VideoType:ftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1296358165=222.209.27.151

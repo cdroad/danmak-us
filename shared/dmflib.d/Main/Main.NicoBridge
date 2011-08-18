@@ -1,0 +1,21 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1295410770
+host=114.249.59.152
+name=Main.NicoBridge
+passwdattr=@lock
+passwddelete=@lock
+passwdedit=@lock
+passwdread=@lock
+passwdupload=@lock
+rev=2
+targets=
+text=恭喜你，被骗了。
+time=1295410798
+author:1295410798=aUser
+diff:1295410798:1295410770:=1d0%0a%3c 恭喜你，被骗了。%0a\ No newline at end of file%0a
+host:1295410798=114.249.59.152

@@ -1,0 +1,23 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+biliid=78pWcdgrGpe
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1291986591
+host=180.110.96.39
+keywords=音乐,钢兵,天樂 
+name=Bilibili2.1021
+oldsource=http://bilibili.us/video/av36927/
+rev=2
+targets=Category.音乐,Category.钢兵,Category.天樂
+text=%0a(:VideoStr:78pWcdgrGpe:)%0a(:title 【鋼兵】天樂を歌ってみた :)%0a(:keywords 音乐,钢兵,天樂 :)%0a(:sourcelink:http://bilibili.us/video/av36927/:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1291986599
+title=【鋼兵】天樂を歌ってみた 
+author:1291986599=aUser
+diff:1291986599:1291986591:=
+host:1291986599=180.110.96.39
+author:1291986591=aUser
+diff:1291986591:1291986591:=1,11d0%0a%3c %0a%3c (:VideoStr:78pWcdgrGpe:)%0a%3c (:title 【鋼兵】天樂を歌ってみた :)%0a%3c (:keywords 音乐,钢兵,天樂 :)%0a%3c (:sourcelink:http://bilibili.us/video/av36927/:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1291986591=180.110.96.39

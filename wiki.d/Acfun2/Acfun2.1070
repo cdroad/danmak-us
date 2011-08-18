@@ -1,0 +1,24 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1279509490
+host=180.110.97.2
+keywords=音乐,MIKU,初音, 
+name=Acfun2.1070
+rev=3
+targets=Category.音乐,Category.MIKU,Category.初音
+text=(:VideoStr:43477651:)%0a(:title 初音ミクオリジナル曲「君の体温」 :)%0a(:keywords 音乐,MIKU,初音, :)%0a(:sourcelink:http://124.228.254.234/html/music/20091225/64735.html :)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0asm9189786%0a%0a[[#commentend]]%0a(:ifend:)
+time=1292075529
+title=初音ミクオリジナル曲「君の体温」 
+author:1292075529=aUser
+diff:1292075529:1292075441:=1c1%0a%3c (:VideoStr:43477651:)%0a---%0a> (:VideoStr:http://dc136.4shared-china.com/img/180624391/9703bd4a/dlink__2Fdownload_2F180624391_2F9703bd4a_3Ftsid_3D20091224-201452-ac7ca433/preview.flv:)%0a5c5%0a%3c (:VideoType:Nor:)%0a---%0a> (:VideoType:ftp:)%0a9c9%0a%3c %0a---%0a> 视频已失效%0a
+host:1292075529=180.110.97.2
+author:1292075441=aUser
+diff:1292075441:1279509490:=0a1%0a> %0a9c10%0a%3c 视频已失效%0a---%0a> 需要firefox浏览器%0a
+host:1292075441=180.110.97.2
+author:1279509490=Admin
+diff:1279509490:1279509490:=1,12d0%0a%3c %0a%3c (:VideoStr:http://dc136.4shared-china.com/img/180624391/9703bd4a/dlink__2Fdownload_2F180624391_2F9703bd4a_3Ftsid_3D20091224-201452-ac7ca433/preview.flv:)%0a%3c (:title 初音ミクオリジナル曲「君の体温」 :)%0a%3c (:keywords 音乐,MIKU,初音, :)%0a%3c (:sourcelink:http://124.228.254.234/html/music/20091225/64735.html :)%0a%3c (:VideoType:ftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c sm9189786%0a%3c 需要firefox浏览器%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279509490=114.243.82.82

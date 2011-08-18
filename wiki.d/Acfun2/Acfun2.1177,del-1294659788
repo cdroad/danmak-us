@@ -1,0 +1,18 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1294659678
+host=58.212.119.46
+keywords=测试,x 
+name=Acfun2.1177
+rev=1
+targets=Category.测试,Category.X
+text=(:VideoStr:https://secure.bluehost.com/~twodland/dmf/pmfun/index.php?n=Main.Flvcache&action=GetFlvUrl&vid=ZWsgaYSM2G5:)%0a(:title x :)%0a(:keywords 测试,x :)%0a(:sourcelink:x:)%0a(:VideoType:ftp:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1294659678
+title=x 
+author:1294659678=aUser
+diff:1294659678:1294659678:=1,10d0%0a%3c (:VideoStr:https://secure.bluehost.com/~twodland/dmf/pmfun/index.php?n=Main.Flvcache&action=GetFlvUrl&vid=ZWsgaYSM2G5:)%0a%3c (:title x :)%0a%3c (:keywords 测试,x :)%0a%3c (:sourcelink:x:)%0a%3c (:VideoType:ftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1294659678=58.212.119.46

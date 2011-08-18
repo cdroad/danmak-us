@@ -1,0 +1,21 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1279508088
+host=180.110.99.26
+keywords=音乐,翻唱,MAD,原创, 
+name=Acfun2.1063
+rev=2
+targets=Category.音乐,Category.翻唱,Category.MAD,Category.原创
+text=(:VideoStr:http://dm.mikufans.cn/newac/get.php?vidnam=zh01:)%0a(:title 暴风雨中的【恋は戦争】 :)%0a(:keywords 音乐,翻唱,MAD,原创, :)%0a(:sourcelink:http://124.228.254.234/html/music/20091212/62357.html :)%0a(:VideoType:Link:)%0a(:if false:)%0a[[#comment]]%0a失效%0a[[#commentend]]%0a(:ifend:)
+time=1299562819
+title=暴风雨中的【恋は戦争】 
+author:1299562819=Admin
+diff:1299562819:1279508088:=0a1%0a> %0a5c6%0a%3c (:VideoType:Link:)%0a---%0a> (:VideoType:ftp:)%0a8c9%0a%3c 失效%0a---%0a> %0a
+host:1299562819=180.110.99.26
+author:1279508088=Admin
+diff:1279508088:1279508088:=1,11d0%0a%3c %0a%3c (:VideoStr:http://dm.mikufans.cn/newac/get.php?vidnam=zh01:)%0a%3c (:title 暴风雨中的【恋は戦争】 :)%0a%3c (:keywords 音乐,翻唱,MAD,原创, :)%0a%3c (:sourcelink:http://124.228.254.234/html/music/20091212/62357.html :)%0a%3c (:VideoType:ftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279508088=114.243.82.82

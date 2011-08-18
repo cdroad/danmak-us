@@ -1,0 +1,290 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1278913550
+host=::1
+name=Acfun2.GroupFooter
+passwdattr=@lock
+passwddelete=@lock
+passwdedit=@lock
+passwdupload=@lock
+rev=92
+targets=
+text=(:ObjInit:)(:if equal "{*$Stats}" "true" :)%0a(:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a(:cell:)%0a>>recipeinfo%3c%3c%0a来源: {*$:sourcelink}%0a(:DMFMessage:)%0a>>%3c%3c%0a(:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a(:if2 equal "{*$IsMuti}" "true" :)%0a>>font-size:small%3c%3c%0a'''分P资料:'''%0a(:include {*$FullName}#Part#PartEnd :)%0a>>%3c%3c%0a-----%0a(:if2end:)%0a'''备注:'''(:include {*$BaseName}#comment#commentend :)%0a(:cellnr width=950  :)%0a----%0a(:DMBarLoader:)%0a>>id=flashcontent%3c%3c%0a>>%3c%3c%0a(:PlayerLoader:)%0a(:cellnr width=950 :)%0a----%0a(:if2 equal "{*$IsMuti}" "true" :)%0a切换Part: (:PartLinkLoader:)%0a(:if2end:)%0a切换播放器：(:PlayerLinkLoader:)%0a(:tableend:)%0a(:ifend:)
+time=1304056681
+author:1304056681=Admin
+diff:1304056681:1299564029:=1c1,2%0a%3c (:ObjInit:)(:if equal "{*$Stats}" "true" :)%0a---%0a> (:ObjInit:)%0a> (:if ! equal "{$DMID}" "" :)%0a4a6%0a> {$TagList}%0a6d7%0a%3c (:DMFMessage:)%0a12c13%0a%3c (:include {*$FullName}#Part#PartEnd :)%0a---%0a> (:include Parts.{*$:SUID}{$BaseID} :)%0a16c17%0a%3c '''备注:'''(:include {*$BaseName}#comment#commentend :)%0a---%0a> '''简介:'''(:include {$BaseName}#comment#commentend :)%0a18a20%0a> (:messages:)%0a20,21c22,24%0a%3c >>id=flashcontent%3c%3c%0a%3c >>%3c%3c%0a---%0a> (:html:)%0a> %3cdiv id="flashcontent">%3c/div>%0a> (:htmlend:)%0a28a32,34%0a> (:cellnr:)%0a> (:comment 短地址: %25nofollow%25 http://{*$:SUID}.danmaku.us/{$Name} :)%0a> (:cell:)%0a
+host:1304056681=::1
+author:1299564029=Admin
+diff:1299564029:1299561922:=1a2%0a> %25comment%25 ObjInit %25%25%0a
+host:1299564029=180.110.99.26
+author:1299561922=Admin
+diff:1299561922:1297149450:=1,3c1%0a%3c (:ObjInit:)%0a%3c %25comment%25 ObjInit %25%25%0a%3c (:if ! equal "{$DMID}" "" :)%0a---%0a> (:comment 定义变量: VideoStr,title,keywords,sourcelink,videotype,VideoComment :)%0a9a8%0a> (:comment 此if判断是否为多弹幕视频并加载右栏 :)%0a11c10%0a%3c (:if2 equal "{*$IsMuti}" "true" :)%0a---%0a> (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a14c13%0a%3c (:include Parts.{*$:SUID}{$BaseID} :)%0a---%0a> (:include Parts.{$PlayerVideoBaseID} :)%0a17c16%0a%3c (:if2end:)%0a---%0a> (:ifend:)%0a19a19%0a> (:comment 播放器加载:)%0a21,30c21,25%0a%3c (:messages:)%0a%3c (:DMBarLoader:)%0a%3c (:html:)%0a%3c %3cdiv id="flashcontent">%3c/div>%0a%3c (:htmlend:)%0a%3c (:PlayerLoader:)%0a%3c (:cellnr width=950 :)%0a%3c ----%0a%3c (:if2 equal "{*$IsMuti}" "true" :)%0a%3c 切换Part: (:PartLinkLoader:)%0a---%0a> (:messages:)(:datapreproc:)%0a> (:comment ------------------------------以下为弹幕条加载模块------------------------------:)%0a> (:if expr ( ! equal "{$CreatedBy}" "" && equal "{$Author}" "{$CreatedBy}" ) || ( equal "{$LastModifiedBy}" "{$Author}" && ! equal "{$Author}" "" ) || authid :)%0a> (:if2 expr ( equal "{*$:VideoType}" "Nor"  || equal "{*$:VideoType}" "QQ"  ) :)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoID}/comment_on.xml|点此获取AC弹幕]] %25%25(:input end:)%0a32,34c27,48%0a%3c 切换播放器：(:PlayerLinkLoader:)%0a%3c (:cellnr:)%0a%3c (:comment 短地址: %25nofollow%25 http://{*$:SUID}.danmaku.us/{$Name} :)%0a---%0a> (:if2 expr ( equal "{*$:VideoType}" "MutiNor" || equal "{*$:VideoType}" "MutiQQ" ) :)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoBaseID}/comment_on.xml|点此获取AC弹幕]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a> (:if2end:)%0a> (:if2 equal "{*$:VideoType}" "ftp" :)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 %25%25(:input end:)%0a> (:if2end:)%0a> (:if2 equal "{*$:VideoType}" "Mutiftp" :)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a> (:if2end:)%0a> (:else:)%0a> %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|查看/下载弹幕]] %25%25 此视频已经保存.不允许直接更改弹幕.%0a> (:ifend:)%0a> (:html:)%0a> %3cdiv id="flashcontent">%3c/div>%0a> (:htmlend:)%0a> (:playerproc:)%0a> (:cellnr width=950 :)%0a> ----%0a> (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a> 切换Part  : (:makepartlink {$PlayerVideoBaseID}:)%0a> (:ifend:)%0a> 切换播放器：(:showplayer:)%0a37c51%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> %0a
+host:1299561922=180.110.99.26
+author:1297149450=KPX
+diff:1297149450:1291969832:=39a40%0a> %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a
+host:1297149450=127.0.0.1
+author:1291969832=aUser
+diff:1291969832:1291969708:=44a45%0a> %0a47c48%0a%3c 切换Part  : (:makepartlink {$PlayerVideoBaseID}:)%0a---%0a> 切换Part{$PlayerVideoBaseID}  : (:makepartlink {$PlayerVideoBaseID}:)%0a
+host:1291969832=180.110.96.39
+author:1291969708=aUser
+diff:1291969708:1291950141:=45d44%0a%3c %0a48c47%0a%3c 切换Part{$PlayerVideoBaseID}  : (:makepartlink {$PlayerVideoBaseID}:)%0a---%0a> 切换Part  : (:makepartlink {$PlayerVideoBaseID}:)%0a
+host:1291969708=180.110.96.39
+author:1291950141=aUser
+diff:1291950141:1291950119:=49c49%0a%3c 切换播放器：(:showplayer:)%0a---%0a> (:showplayer:)%0a
+host:1291950141=180.110.96.39
+author:1291950119=aUser
+diff:1291950119:1291950060:=48d47%0a%3c (:ifend:)%0a
+host:1291950119=180.110.96.39
+author:1291950060=aUser
+diff:1291950060:1291795099:=48c48,52%0a%3c (:showplayer:)%0a---%0a> (:ifend:)%0a> 切换播放器: [[{$PageFullUrl}?Player=mukio|mukioplayer(1.36 web)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold09|acfun播放器(09/08/03)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold|acfun播放器(10/05/02)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acnew|acfun播放器(10/7/11)]]%0a> (:if auth admin:)%0a> 设置默认: [[{$PageFullUrl}?Player=mukio&action=setdef|mukioplayer(1.36 web)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold09&action=setdef|acfun播放器(09/08/03)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold&action=setdef|acfun播放器(10/05/02)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acnew&action=setdef|acfun播放器(10/7/11)]]%0a> (:ifend:)%0a
+host:1291950060=180.110.96.39
+author:1291795099=aUser
+diff:1291795099:1285224917:=50,52d49%0a%3c (:if auth admin:)%0a%3c 设置默认: [[{$PageFullUrl}?Player=mukio&action=setdef|mukioplayer(1.36 web)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold09&action=setdef|acfun播放器(09/08/03)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold&action=setdef|acfun播放器(10/05/02)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acnew&action=setdef|acfun播放器(10/7/11)]]%0a%3c (:ifend:)%0a
+host:1291795099=114.222.152.74
+author:1284612036=Admin
+diff:1284612036:1284611880:=50a51,59%0a> (:tableend:)%0a> -----%0a> (:table border=0 width=100%25 cellpadding=3 cellspacing=2:)%0a> (:cell:)%0a> (:html:)%0a> %3c/a>本站作品默认按照%3ca rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/cn/">CC 署名-非商业性使用-相同方式共享 2.5 中国大陆许可协议%3c/a>发布。%0a> (:htmlend:)%0a> (:cell:)本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。%0a> (:cell:)推荐1280*720以上分辨率 firefox浏览器%0a
+host:1284612036=58.212.118.232
+author:1284611880=Admin
+diff:1284611880:1284611607:=50,54c50%0a%3c (:cell:)%0a%3c (:tableend:)%0a%3c -----%0a%3c (:table border=0 width=100%25 cellpadding=3 cellspacing=2:)%0a%3c (:cell:)%0a---%0a> (:cellnr:)%0a56c52%0a%3c %3c/a>本站作品默认按照%3ca rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/cn/">CC 署名-非商业性使用-相同方式共享 2.5 中国大陆许可协议%3c/a>发布。%0a---%0a> %3ca rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/cn/">%3cimg alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.5/cn/88x31.png" />%3c/a>%3cbr />本站作品默认按照%3ca rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/cn/">CC 署名-非商业性使用-相同方式共享 2.5 中国大陆许可协议%3c/a>发布。%0a58,59c54,55%0a%3c (:cell:)本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。%0a%3c (:cell:)推荐1280*720以上分辨率 firefox浏览器%0a---%0a> (:cell:)[--本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。--]]%0a> (:cell:)[--推荐1280*720以上分辨率 firefox浏览器--]%0a
+host:1284611880=58.212.118.232
+author:1284611607=Admin
+diff:1284611607:1284354207:=50,55c50%0a%3c (:cellnr:)%0a%3c (:html:)%0a%3c %3ca rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/cn/">%3cimg alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.5/cn/88x31.png" />%3c/a>%3cbr />本站作品默认按照%3ca rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/cn/">CC 署名-非商业性使用-相同方式共享 2.5 中国大陆许可协议%3c/a>发布。%0a%3c (:htmlend:)%0a%3c (:cell:)[--本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。--]]%0a%3c (:cell:)[--推荐1280*720以上分辨率 firefox浏览器--]%0a---%0a> (:cell:)%0a57c52,53%0a%3c %0a---%0a> 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。%0a>  %25right%25 [--推荐1280*720以上分辨率 firefox浏览器--]%25%25%0a\ No newline at end of file%0a
+host:1284611607=58.212.118.232
+author:1284354207=Admin
+diff:1284354207:1284354181:=52,53c52%0a%3c 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。%0a%3c  %25right%25 [--推荐1280*720以上分辨率 firefox浏览器--]%25%25%0a\ No newline at end of file%0a---%0a> %25left%25 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。 %25%25  %25right%25 [--推荐1280*720以上分辨率 firefox浏览器--]%25%25%0a\ No newline at end of file%0a
+host:1284354207=58.212.118.81
+author:1284354181=Admin
+diff:1284354181:1284354160:=52c52,53%0a%3c %25left%25 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。 %25%25  %25right%25 [--推荐1280*720以上分辨率 firefox浏览器--]%25%25%0a\ No newline at end of file%0a---%0a> %25left%25 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。 %25%25\%0a> %25right%25 [--推荐1280*720以上分辨率 firefox浏览器--]%25%25%0a\ No newline at end of file%0a
+host:1284354181=58.212.118.81
+author:1284354160=Admin
+diff:1284354160:1284354132:=52c52%0a%3c %25left%25 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。 %25%25\%0a---%0a> %25left%25 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。 %25%25\\%0a
+host:1284354160=58.212.118.81
+author:1284354132=Admin
+diff:1284354132:1284354106:=52c52%0a%3c %25left%25 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。 %25%25\\%0a---%0a> 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。\\%0a
+host:1284354132=58.212.118.81
+author:1284354106=Admin
+diff:1284354106:1283403943:=52d51%0a%3c 本站视频均引用自网络，且本站不保存任何视频文件，视频版权原作所有。如有需要请左上方给管理员留言。\\%0a
+host:1284354106=58.212.118.81
+author:1283403943=Admin
+diff:1283403943:1283403679:=41c41,44%0a%3c %3cdiv id="flashcontent">%3c/div>%0a---%0a> %3cdiv id="flashcontent">%0a>   The video content presented here requires a more recent version of the Adobe Flash Player. If you are you using a browser with JavaScript disabled please enable it now. Otherwise, please update your version of the free Flash Player by http://www.adobe.com/go/getflashplayer .%3cbr />%0a>   本视频要求Adobe Flash Player支持。如果您的浏览器禁用了JavsScript，请启用它。否则请去http://www.adobe.com/go/getflashplayer免费下载最新版本的Adobe Flash Player。%0a> %3c/div>%0a
+host:1283403943=127.0.0.1
+author:1283403679=Admin
+diff:1283403679:1283399640:=44a45,47%0a> %3cscript type="text/javascript">%0a> swfobject.embedSWF("http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed", "flashcontent", "960", "432", "9.0.0","#FFFFFF");%0a> %3c/script>%0a46d48%0a%3c (:playerproc:)%0a
+host:1283403679=127.0.0.1
+author:1283399640=Admin
+diff:1283399640:1283399606:=42c42%0a%3c   The video content presented here requires a more recent version of the Adobe Flash Player. If you are you using a browser with JavaScript disabled please enable it now. Otherwise, please update your version of the free Flash Player by http://www.adobe.com/go/getflashplayer .%3cbr />%0a---%0a>   The video content presented here requires a more recent version of the Adobe Flash Player. If you are you using a browser with JavaScript disabled please enable it now. Otherwise, please update your version of the free Flash Player by http://www.adobe.com/go/getflashplayer .%3c/ br>%0a
+host:1283399640=127.0.0.1
+author:1283399606=Admin
+diff:1283399606:1283399569:=42c42%0a%3c   The video content presented here requires a more recent version of the Adobe Flash Player. If you are you using a browser with JavaScript disabled please enable it now. Otherwise, please update your version of the free Flash Player by http://www.adobe.com/go/getflashplayer .%3c/ br>%0a---%0a>   The video content presented here requires a more recent version of the Adobe Flash Player. If you are you using a browser with JavaScript disabled please enable it now. Otherwise, please update your version of the free Flash Player by http://www.adobe.com/go/getflashplayer .%0a
+host:1283399606=127.0.0.1
+author:1283399569=Admin
+diff:1283399569:1283399202:=42,43c42%0a%3c   The video content presented here requires a more recent version of the Adobe Flash Player. If you are you using a browser with JavaScript disabled please enable it now. Otherwise, please update your version of the free Flash Player by http://www.adobe.com/go/getflashplayer .%0a%3c   本视频要求Adobe Flash Player支持。如果您的浏览器禁用了JavsScript，请启用它。否则请去http://www.adobe.com/go/getflashplayer免费下载最新版本的Adobe Flash Player。%0a---%0a>   少女祈祷中.......%0a
+host:1283399569=127.0.0.1
+author:1283399202=Admin
+diff:1283399202:1283398325:=40d39%0a%3c %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a44,46d42%0a%3c %3cscript type="text/javascript">%0a%3c swfobject.embedSWF("http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed", "flashcontent", "960", "432", "9.0.0","#FFFFFF");%0a%3c %3c/script>%0a47a44%0a> (:playerproc:)%0a
+host:1283399202=127.0.0.1
+author:1283398325=Admin
+diff:1283398325:1283398228:=39a40%0a> %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a42a44,46%0a> %3cscript type="text/javascript">%0a> swfobject.embedSWF("http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed", "flashcontent", "960", "432", "9.0.0","#FFFFFF");%0a> %3c/script>%0a44d47%0a%3c (:playerproc:)%0a
+host:1283398325=127.0.0.1
+author:1283398228=Admin
+diff:1283398228:1283398198:=40c40%0a%3c %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a---%0a> %3cscript type="text/javascript" src="../../swfobject.js">%3c/script>%0a
+host:1283398228=127.0.0.1
+author:1283398198=Admin
+diff:1283398198:1283398161:=40c40%0a%3c %3cscript type="text/javascript" src="../../swfobject.js">%3c/script>%0a---%0a> %3cscript type="text/javascript" src="/swfobject.js">%3c/script>%0a
+host:1283398198=127.0.0.1
+author:1283398161=Admin
+diff:1283398161:1283398031:=41,43d40%0a%3c %3cdiv id="flashcontent">%0a%3c   少女祈祷中.......%0a%3c %3c/div>%0a46a44,47%0a> %0a> %3cdiv id="flashcontent">%0a>   少女祈祷中.......%0a> %3c/div>%0a
+host:1283398161=127.0.0.1
+author:1283398031=Admin
+diff:1283398031:1283397701:=40a41,43%0a> %3cdiv id="flashcontent">%0a>   少女祈祷中.......%0a> %3c/div>%0a42c45,46%0a%3c swfobject.embedSWF("http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed", "flashcontent", "960", "432", "9.0.0","#FFFFFF");%0a---%0a>    var so = new SWFObject("http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed", "mymovie", "950", "432", "7", "#FFFFFF");%0a>    so.write("flashcontent");%0a44,47d47%0a%3c %0a%3c %3cdiv id="flashcontent">%0a%3c   少女祈祷中.......%0a%3c %3c/div>%0a
+host:1283398031=127.0.0.1
+author:1283397701=Admin
+diff:1283397701:1283397560:=40c40%0a%3c %3cscript type="text/javascript" src="/swfobject.js">%3c/script>%0a---%0a> %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a
+host:1283397701=127.0.0.1
+author:1283397560=Admin
+diff:1283397560:1283397486:=40d39%0a%3c %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a
+host:1283397560=127.0.0.1
+author:1283397486=Admin
+diff:1283397486:1283397389:=44c44%0a%3c    var so = new SWFObject("http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed", "mymovie", "950", "432", "7", "#FFFFFF");%0a---%0a>    var so = new SWFObject("http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed", "mymovie", "200", "100", "7", "#336699");%0a
+host:1283397486=127.0.0.1
+author:1283397389=Admin
+diff:1283397389:1280312398:=39,51c39,67%0a%3c (:html:)%0a%3c %3cdiv id="flashcontent">%0a%3c   少女祈祷中.......%0a%3c %3c/div>%0a%3c %3cscript type="text/javascript">%0a%3c    var so = new SWFObject("http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed", "mymovie", "200", "100", "7", "#336699");%0a%3c    so.write("flashcontent");%0a%3c %3c/script>%0a%3c (:htmlend:)%0a%3c (:cellnr width=950 :)%0a%3c ----%0a%3c (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a%3c 切换Part  : (:makepartlink {$PlayerVideoBaseID}:)%0a---%0a> (:comment ------------------------------以下为播放器加载模块------------------------------:)%0a> (:if expr ( equal "{$Player}" "mukio" && ! equal "{*$:VideoStr}" "" ) :)%0a> (:flash http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed width=950 height=432:)%0a> (:ifend:)%0a> (:if expr ( equal "{$Player}" "acold" ) :)%0a> (:if2 expr ( equal "{$PlayerVideoURL}" "" ) :)%0a> {old acplayer sina}%0a> (:flash http://dm.mikufans.cn/player1_old.swf?id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a> (:else2:)%0a> (:flash http://dm.mikufans.cn/player1_old.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a> (:if2end:)%0a> (:ifend:)%0a> (:if expr ( equal "{$Player}" "acold09" ) :)%0a> (:if2 expr ( equal "{$PlayerVideoURL}" "" ) :)%0a> {old acplayer(09) sina}%0a> (:flash http://dm.mikufans.cn/newflvplayer/player1_09.swf?id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a> (:else2:)%0a> (:flash http://dm.mikufans.cn/newflvplayer/playerf_09.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a> (:if2end:)%0a> (:ifend:)%0a> (:if expr ( equal "{$Player}" "acnew" ) :)%0a> (:if2 expr ( equal "{$PlayerVideoURL}" "" ) :)%0a> {NEW acplayer Nor}%0a> (:flash http://dm.mikufans.cn/player1_new.swf?id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a> (:else2:)%0a> {NEW acplayer FTP}%0a> (:flash http://dm.mikufans.cn/player1_new.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a> (:if2end:)%0a> (:ifend:)%0a
+host:1283397389=127.0.0.1
+author:1280312398=Admin
+diff:1280312398:1280312351:=25c25%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoID}/comment_on.xml|点此获取AC弹幕]] %25%25(:input end:)%0a---%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoBaseID}/comment_on.xml|点此获取AC弹幕]] %25%25(:input end:)%0a
+host:1280312398=125.69.144.19
+author:1280312351=Admin
+diff:1280312351:1280312335:=39a40%0a> %0a
+host:1280312351=125.69.144.19
+author:1280312335=Admin
+diff:1280312335:1280312224:=18c18%0a%3c (:cellnr width=950  :)%0a---%0a> (:cellnr width=950 height=472 :)%0a
+host:1280312335=125.69.144.19
+author:1280312224=Admin
+diff:1280312224:1280312190:=9c9%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a---%0a> (:cell rowspan=3 bgcolor=#f7f7f7 width=950 height=472 :)%0a18c18%0a%3c (:cellnr width=950 height=472 :)%0a---%0a> (:cellnr width=950 :)%0a
+host:1280312224=125.69.144.19
+author:1280312190=Admin
+diff:1280312190:1280312175:=9c9%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 width=950 height=472 :)%0a---%0a> (:cell rowspan=3 bgcolor=#f7f7f7 width=950 height=472:)%0a
+host:1280312190=125.69.144.19
+author:1280312175=Admin
+diff:1280312175:1280312113:=9c9%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 width=950 height=472:)%0a---%0a> (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a
+host:1280312175=125.69.144.19
+author:1280312113=Admin
+diff:1280312113:1280312089:=9c9%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a---%0a> (:cell rowspan=3 bgcolor=#f7f7f7 width=950 height=432 :)%0a
+host:1280312113=125.69.144.19
+author:1280312089=Admin
+diff:1280312089:1280215768:=9c9%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 width=950 height=432 :)%0a---%0a> (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a
+host:1280312089=125.69.144.19
+author:1280215768=Admin
+diff:1280215768:1280215713:=37c37%0a%3c %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|查看/下载弹幕]] %25%25 此视频已经保存.不允许直接更改弹幕.%0a---%0a> %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25 此视频已经保存.不允许直接更改弹幕.%0a
+host:1280215768=222.209.24.211
+author:1280215713=Admin
+diff:1280215713:1280215637:=76a77%0a> [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|查看/下载弹幕]]%0a
+host:1280215713=222.209.24.211
+author:1280215637=Admin
+diff:1280215637:1280215615:=36a37%0a> (:else2:)%0a
+host:1280215637=222.209.24.211
+author:1280215615=Admin
+diff:1280215615:1280215575:=25a26,27%0a> (:else2:)%0a> %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25%0a28a31,32%0a> (:else2:)%0a> %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25%0a31a36,37%0a> (:else2:)%0a> %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25%0a35,36d40%0a%3c (:if2end:)%0a%3c (:else:)%0a38c42,45%0a%3c %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25 此视频已经保存.不允许直接更改弹幕.%0a---%0a> %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25%0a> (:if2end:)%0a> (:else:)%0a> 此视频已经保存.不允许直接更改弹幕.%0a
+host:1280215615=222.209.24.211
+author:1280215575=Admin
+diff:1280215575:1280215261:=26,27d25%0a%3c (:else2:)%0a%3c %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25%0a31,32d28%0a%3c (:else2:)%0a%3c %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25%0a36,37d31%0a%3c (:else2:)%0a%3c %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25%0a41,42d34%0a%3c (:else2:)%0a%3c %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]] %25%25%0a
+host:1280215575=222.209.24.211
+author:1280215261=Admin
+diff:1280215261:1279766932:=77d76%0a%3c [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|查看/下载弹幕]]%0a
+host:1280215261=222.209.24.211
+author:1279766932=Admin
+diff:1279766932:1279766242:=70a71%0a> {$PlayerVideoID} {$PlayerVideoBaseID}%0a
+host:1279766932=114.243.67.163
+author:1279766242=Admin
+diff:1279766242:1279685572:=71d70%0a%3c {$PlayerVideoID} {$PlayerVideoBaseID}%0a
+host:1279766242=114.243.67.163
+author:1279685572=Admin
+diff:1279685572:1278942231:=74c74%0a%3c 切换播放器: [[{$PageFullUrl}?Player=mukio|mukioplayer(1.36 web)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold09|acfun播放器(09/08/03)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold|acfun播放器(10/05/02)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acnew|acfun播放器(10/7/11)]]%0a---%0a> 切换播放器: [[{$PageFullUrl}?Player=mukio|mukioplayer(1.36)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold09|acfun播放器(09/08/03)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold|acfun播放器(10/05/20)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acnew|acfun播放器(10/7/11)]]%0a
+host:1279685572=114.243.104.228
+author:1278942231=Admin
+diff:1278942231:1278941613:=41c41%0a%3c (:if expr ( equal "{$Player}" "mukio" && ! equal "{*$:VideoStr}" "" ) :)%0a---%0a> (:if expr ( equal "{$Player}" "mukio" ) :)%0a
+host:1278942231=114.243.74.123
+author:1278941613=Admin
+diff:1278941613:1278941519:=2c2%0a%3c (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a---%0a> (:table border=1 width=100%25 cellpadding=3 cellspacing=0:)%0a
+host:1278941613=114.243.74.123
+author:1278941519=Admin
+diff:1278941519:1278941352:=9c9%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a---%0a> (:cell rowspan=3 bgcolor=#f7f7f7 :)%0a18c18%0a%3c (:cellnr width=950 :)%0a---%0a> (:cellnr:)%0a69c69%0a%3c (:cellnr width=950 :)%0a---%0a> (:cellnr:)%0a
+host:1278941519=114.243.74.123
+author:1278941352=Admin
+diff:1278941352:1278941331:=4d3%0a%3c >>recipeinfo%3c%3c%0a7c6%0a%3c >>%3c%3c%0a---%0a> %0a
+host:1278941352=114.243.74.123
+author:1278941331=Admin
+diff:1278941331:1278941290:=3a4%0a> >>recipeinfo%3c%3c%0a6c7%0a%3c %0a---%0a> >>%3c%3c%0a
+host:1278941331=114.243.74.123
+author:1278941290=Admin
+diff:1278941290:1278941221:=2c2%0a%3c (:table border=1 width=100%25 cellpadding=3 cellspacing=0:)%0a---%0a> (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a9a10%0a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%0a
+host:1278941290=114.243.74.123
+author:1278941221=Admin
+diff:1278941221:1278941202:=10c10%0a%3c &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%0a---%0a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%0a
+host:1278941221=114.243.74.123
+author:1278941202=Admin
+diff:1278941202:1278941177:=10c10%0a%3c &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%0a---%0a> [@                                           @]%0a
+host:1278941202=114.243.74.123
+author:1278941177=Admin
+diff:1278941177:1278919443:=10d9%0a%3c [@                                           @]%0a
+host:1278941177=114.243.74.123
+author:1278919443=Admin
+diff:1278919443:1278915394:=28c28%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoBaseID}/comment_on.xml|点此获取AC弹幕]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a---%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoBaseID}/comment_on.xml|点此获取AC弹幕]] [[Parts.{$PlayerVideoBaseID}|编辑分P文件]]%25%25(:input end:)%0a34c34%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a---%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 [[Parts.{$PlayerVideoBaseID}|编辑分P文件]]%25%25(:input end:)%0a
+host:1278919443=114.243.74.123
+author:1278915394=Admin
+diff:1278915394:1278915353:=77c77%0a%3c %25right%25 [--推荐1280*720以上分辨率 firefox浏览器--]%25%25%0a\ No newline at end of file%0a---%0a> [--推荐1280*720以上分辨率 firefox浏览器--]%0a\ No newline at end of file%0a
+host:1278915394=114.243.74.123
+author:1278915353=Admin
+diff:1278915353:1278915317:=77c77,78%0a%3c [--推荐1280*720以上分辨率 firefox浏览器--]%0a\ No newline at end of file%0a---%0a> [--推荐1280*720以上分辨率 firefox浏览器--]%0a> 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　%0a\ No newline at end of file%0a
+host:1278915353=114.243.74.123
+author:1278915317=Admin
+diff:1278915317:1278915290:=77,78c77,78%0a%3c [--推荐1280*720以上分辨率 firefox浏览器--]%0a%3c 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　%0a\ No newline at end of file%0a---%0a> [----推荐1280*720以上分辨率 firefox浏览器----]%0a> 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　%0a\ No newline at end of file%0a
+host:1278915317=114.243.74.123
+author:1278915290=Admin
+diff:1278915290:1278915017:=76,78c76%0a%3c (:tableend:)%0a%3c [----推荐1280*720以上分辨率 firefox浏览器----]%0a%3c 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　%0a\ No newline at end of file%0a---%0a> (:tableend:)%0a\ No newline at end of file%0a
+host:1278915290=114.243.74.123
+author:1278915017=Admin
+diff:1278915017:1278914962:=15d14%0a%3c -----%0a16a16%0a> -----%0a
+host:1278915017=114.243.74.123
+author:1278914962=Admin
+diff:1278914962:1278914917:=7a8%0a> %0a18a20%0a> %0a
+host:1278914962=114.243.74.123
+author:1278914917=Admin
+diff:1278914917:1278914904:=3c3%0a%3c (:cell:)%0a---%0a> (:cell align=left :)%0a
+host:1278914917=114.243.74.123
+author:1278914904=Admin
+diff:1278914904:1278914878:=3c3%0a%3c (:cell align=left :)%0a---%0a> (:cell colspan=2 :)%0a
+host:1278914904=114.243.74.123
+author:1278914878=Admin
+diff:1278914878:1278914800:=3c3%0a%3c (:cell colspan=2 :)%0a---%0a> (:cell:)%0a22c22%0a%3c ----%0a---%0a> [@----@]%0a72c72%0a%3c ----%0a---%0a> [@----@]%0a
+host:1278914878=114.243.74.123
+author:1278914800=Admin
+diff:1278914800:1278914773:=22c22%0a%3c [@----@]%0a---%0a> ----%0a72c72%0a%3c [@----@]%0a---%0a> ----%0a
+host:1278914800=114.243.74.123
+author:1278914773=Admin
+diff:1278914773:1278914726:=2c2%0a%3c (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a---%0a> (:table border=1 width=100%25 cellpadding=3 cellspacing=0:)%0a
+host:1278914773=114.243.74.123
+author:1278914726=Admin
+diff:1278914726:1278914715:=2c2%0a%3c (:table border=1 width=100%25 cellpadding=3 cellspacing=0:)%0a---%0a> (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a
+host:1278914726=114.243.74.123
+author:1278914715=Admin
+diff:1278914715:1278914654:=2c2%0a%3c (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a---%0a> (:table border=0 width=100%25 cellpadding=5 cellspacing=0:)%0a
+host:1278914715=114.243.74.123
+author:1278914654=Admin
+diff:1278914654:1278914568:=8c8,10%0a%3c %0a---%0a> (:if expr ( equal "{*$:VideoType}" "Nor" ) || ( equal "{*$:VideoType}" "QQ" ) || ( equal "{*$:VideoType}" "ftp" ) :)%0a> (:include {$BaseName}#comment#commentend :)%0a> (:ifend:)%0a10d11%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 :)%0a11a13%0a> (:cell rowspan=3 bgcolor=#f7f7f7 :)%0a16d17%0a%3c (:ifend:)%0a20c21%0a%3c %0a---%0a> (:ifend:)%0a
+host:1278914654=114.243.74.123
+author:1278914568=Admin
+diff:1278914568:1278914553:=6c6%0a%3c 来源: {*$:sourcelink}%0a---%0a> '''来源:''' {*$:sourcelink}%0a
+host:1278914568=114.243.74.123
+author:1278914553=Admin
+diff:1278914553:1278914533:=6c6%0a%3c '''来源:''' {*$:sourcelink}%0a---%0a> 来源: {*$:sourcelink}%0a15c15%0a%3c '''分P资料:'''%0a---%0a> 分P资料:%0a19c19%0a%3c '''简介:'''(:include {$BaseName}#comment#commentend :)%0a---%0a> 简介:(:include {$BaseName}#comment#commentend :)%0a
+host:1278914553=114.243.74.123
+author:1278914533=Admin
+diff:1278914533:1278914505:=19c19,20%0a%3c 简介:(:include {$BaseName}#comment#commentend :)%0a---%0a> 简介:%0a> (:include {$BaseName}#comment#commentend :)%0a
+host:1278914533=114.243.74.123
+author:1278914505=Admin
+diff:1278914505:1278914469:=15d14%0a%3c 分P资料:%0a19d17%0a%3c 简介:%0a
+host:1278914505=114.243.74.123
+author:1278914469=Admin
+diff:1278914469:1278914452:=14a15%0a> -----%0a17d17%0a%3c -----%0a
+host:1278914469=114.243.74.123
+author:1278914452=Admin
+diff:1278914452:1278914423:=15d14%0a%3c -----%0a
+host:1278914452=114.243.74.123
+author:1278914423=Admin
+diff:1278914423:1278914353:=8,10c8%0a%3c (:if expr ( equal "{*$:VideoType}" "Nor" ) || ( equal "{*$:VideoType}" "QQ" ) || ( equal "{*$:VideoType}" "ftp" ) :)%0a%3c (:include {$BaseName}#comment#commentend :)%0a%3c (:ifend:)%0a---%0a> %0a12a11%0a> (:include {$BaseName}#comment#commentend :)%0a17d15%0a%3c (:include {$BaseName}#comment#commentend :)%0a43c41%0a%3c (:flash http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed width=950 height=432:)%0a---%0a> ||(:flash http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed width=950 height=432:) ||(:include {$BaseName}#comment#commentend :) ||%0a68a67,69%0a> (:ifend:)%0a> (:if expr ( equal "{*$:VideoType}" "Nor" ) || ( equal "{*$:VideoType}" "QQ" ) || ( equal "{*$:VideoType}" "ftp" ) :)%0a> %0a
+host:1278914423=114.243.74.123
+author:1278914353=Admin
+diff:1278914353:1278914314:=41c41%0a%3c ||(:flash http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed width=950 height=432:) ||(:include {$BaseName}#comment#commentend :) ||%0a---%0a> (:flash http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed width=950 height=432:)(:include {$BaseName}#comment#commentend :)%0a
+host:1278914353=114.243.74.123
+author:1278914314=Admin
+diff:1278914314:1278914287:=41c41%0a%3c (:flash http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed width=950 height=432:)(:include {$BaseName}#comment#commentend :)%0a---%0a> (:flash http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed width=950 height=432:)%0a69c69%0a%3c %0a---%0a> (:include {$BaseName}#comment#commentend :)%0a
+host:1278914314=114.243.74.123
+author:1278914287=Admin
+diff:1278914287:1278914271:=68a69%0a> (:cell bgcolor=#f7f7f7:)%0a
+host:1278914287=114.243.74.123
+author:1278914271=Admin
+diff:1278914271:1278914254:=39c39%0a%3c %0a---%0a> (:cell:)%0a
+host:1278914271=114.243.74.123
+author:1278914254=Admin
+diff:1278914254:1278914134:=39d38%0a%3c (:cell:)%0a
+host:1278914254=114.243.74.123
+author:1278914134=Admin
+diff:1278914134:1278914046:=68c68%0a%3c (:cell bgcolor=#f7f7f7:)%0a---%0a> (:cell:)%0a
+host:1278914134=114.243.74.123
+author:1278914046=Admin
+diff:1278914046:1278913977:=10c10%0a%3c (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a---%0a> (:if expr ( equal "{**$:VideoType}" "MutiNor" ) || ( equal "{**$:VideoType}" "MutiQQ" ) || ( equal "{**$:VideoType}" "Mutiftp" ) :)%0a67c67%0a%3c (:if expr ( equal "{*$:VideoType}" "Nor" ) || ( equal "{*$:VideoType}" "QQ" ) || ( equal "{*$:VideoType}" "ftp" ) :)%0a---%0a> (:if expr ( equal "{**$:VideoType}" "Nor" ) || ( equal "{**$:VideoType}" "QQ" ) || ( equal "{**$:VideoType}" "ftp" ) :)%0a
+host:1278914046=114.243.74.123
+author:1278913977=Admin
+diff:1278913977:1278913665:=8a9%0a> (:include {$BaseName}#comment#commentend :)%0a11d11%0a%3c (:include {$BaseName}#comment#commentend :)%0a66,69d65%0a%3c (:ifend:)%0a%3c (:if expr ( equal "{**$:VideoType}" "Nor" ) || ( equal "{**$:VideoType}" "QQ" ) || ( equal "{**$:VideoType}" "ftp" ) :)%0a%3c (:cell:)%0a%3c (:include {$BaseName}#comment#commentend :)%0a
+host:1278913977=114.243.74.123
+author:1278913665=Admin
+diff:1278913665:1278913550:=11c11%0a%3c (:if expr ( equal "{**$:VideoType}" "MutiNor" ) || ( equal "{**$:VideoType}" "MutiQQ" ) || ( equal "{**$:VideoType}" "Mutiftp" ) :)%0a---%0a> (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a23c23%0a%3c (:if2 expr ( equal "{*$:VideoType}" "Nor"  || equal "{*$:VideoType}" "QQ"  ) :)%0a---%0a> (:if2 expr ( equal "{$:VideoType}" "Nor"  || equal "{$:VideoType}" "QQ"  ) :)%0a26c26%0a%3c (:if2 expr ( equal "{*$:VideoType}" "MutiNor" || equal "{*$:VideoType}" "MutiQQ" ) :)%0a---%0a> (:if2 expr ( equal "{$:VideoType}" "MutiNor" || equal "{$:VideoType}" "MutiQQ" ) :)%0a29c29%0a%3c (:if2 equal "{*$:VideoType}" "ftp" :)%0a---%0a> (:if2 equal "{$:VideoType}" "ftp" :)%0a32c32%0a%3c (:if2 equal "{*$:VideoType}" "Mutiftp" :)%0a---%0a> (:if2 equal "{$:VideoType}" "Mutiftp" :)%0a69c69%0a%3c (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a---%0a> (:if expr ( equal "{$:VideoType}" "MutiNor" ) || ( equal "{$:VideoType}" "MutiQQ" ) || ( equal "{$:VideoType}" "Mutiftp" ) :)%0a
+host:1278913665=114.243.74.123
+author:1278913550=Admin
+diff:1278913550:1278913550:=1,74d0%0a%3c (:comment 定义变量: VideoStr,title,keywords,sourcelink,videotype,VideoComment :)%0a%3c (:table border=0 width=100%25 cellpadding=5 cellspacing=0:)%0a%3c (:cell:)%0a%3c >>recipeinfo%3c%3c%0a%3c {$TagList}%0a%3c 来源: {*$:sourcelink}%0a%3c >>%3c%3c%0a%3c %0a%3c (:include {$BaseName}#comment#commentend :)%0a%3c (:comment 此if判断是否为多弹幕视频并加载右栏 :)%0a%3c (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 :)%0a%3c >>font-size:small%3c%3c%0a%3c (:include Parts.{$PlayerVideoBaseID} :)%0a%3c >>%3c%3c%0a%3c (:cellnr:)%0a%3c (:ifend:)%0a%3c (:comment 播放器加载:)%0a%3c ----%0a%3c (:messages:)(:datapreproc:)%0a%3c (:comment ------------------------------以下为弹幕条加载模块------------------------------:)%0a%3c (:if expr ( ! equal "{$CreatedBy}" "" && equal "{$Author}" "{$CreatedBy}" ) || ( equal "{$LastModifiedBy}" "{$Author}" && ! equal "{$Author}" "" ) || authid :)%0a%3c (:if2 expr ( equal "{$:VideoType}" "Nor"  || equal "{$:VideoType}" "QQ"  ) :)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoBaseID}/comment_on.xml|点此获取AC弹幕]] %25%25(:input end:)%0a%3c (:if2end:)%0a%3c (:if2 expr ( equal "{$:VideoType}" "MutiNor" || equal "{$:VideoType}" "MutiQQ" ) :)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoBaseID}/comment_on.xml|点此获取AC弹幕]] [[Parts.{$PlayerVideoBaseID}|编辑分P文件]]%25%25(:input end:)%0a%3c (:if2end:)%0a%3c (:if2 equal "{$:VideoType}" "ftp" :)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 %25%25(:input end:)%0a%3c (:if2end:)%0a%3c (:if2 equal "{$:VideoType}" "Mutiftp" :)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 [[Parts.{$PlayerVideoBaseID}|编辑分P文件]]%25%25(:input end:)%0a%3c (:if2end:)%0a%3c (:else:)%0a%3c 此视频已经保存.不允许直接更改弹幕.%0a%3c (:ifend:)%0a%3c (:comment ------------------------------以下为播放器加载模块------------------------------:)%0a%3c (:if expr ( equal "{$Player}" "mukio" ) :)%0a%3c (:flash http://dm.mikufans.cn/mukioplayer/mukioplayer.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type={$PlayerVideoType2}&cfile={$PlayerCFile}&test=Fed width=950 height=432:)%0a%3c (:ifend:)%0a%3c (:if expr ( equal "{$Player}" "acold" ) :)%0a%3c (:if2 expr ( equal "{$PlayerVideoURL}" "" ) :)%0a%3c {old acplayer sina}%0a%3c (:flash http://dm.mikufans.cn/player1_old.swf?id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a%3c (:else2:)%0a%3c (:flash http://dm.mikufans.cn/player1_old.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a%3c (:if2end:)%0a%3c (:ifend:)%0a%3c (:if expr ( equal "{$Player}" "acold09" ) :)%0a%3c (:if2 expr ( equal "{$PlayerVideoURL}" "" ) :)%0a%3c {old acplayer(09) sina}%0a%3c (:flash http://dm.mikufans.cn/newflvplayer/player1_09.swf?id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a%3c (:else2:)%0a%3c (:flash http://dm.mikufans.cn/newflvplayer/playerf_09.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a%3c (:if2end:)%0a%3c (:ifend:)%0a%3c (:if expr ( equal "{$Player}" "acnew" ) :)%0a%3c (:if2 expr ( equal "{$PlayerVideoURL}" "" ) :)%0a%3c {NEW acplayer Nor}%0a%3c (:flash http://dm.mikufans.cn/player1_new.swf?id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a%3c (:else2:)%0a%3c {NEW acplayer FTP}%0a%3c (:flash http://dm.mikufans.cn/player1_new.swf?file={$PlayerVideoURL}&id={$PlayerVideoID}&type=video&sort=new width=950 height=432:)%0a%3c (:if2end:)%0a%3c (:ifend:)%0a%3c (:cellnr:)%0a%3c ----%0a%3c (:if expr ( equal "{$:VideoType}" "MutiNor" ) || ( equal "{$:VideoType}" "MutiQQ" ) || ( equal "{$:VideoType}" "Mutiftp" ) :)%0a%3c 切换Part  : (:makepartlink {$PlayerVideoBaseID}:)%0a%3c (:ifend:)%0a%3c 切换播放器: [[{$PageFullUrl}?Player=mukio|mukioplayer(1.36)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold09|acfun播放器(09/08/03)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acold|acfun播放器(10/05/20)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=acnew|acfun播放器(10/7/11)]]%0a%3c (:cell:)%0a%3c (:tableend:)%0a\ No newline at end of file%0a
+host:1278913550=114.243.74.123

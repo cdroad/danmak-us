@@ -1,0 +1,18 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1283170173
+host=114.243.76.38
+keywords=音乐,初音ミク,niconico,翻唱,东方,vocaloid,巡音,镜音,赤饭 
+name=Acfun2.1161
+rev=1
+targets=Category.音乐,Category.初音ミク,Category.Niconico,Category.翻唱,Category.东方,Category.Vocaloid,Category.巡音,Category.镜音,Category.赤饭
+text=%0a(:VideoStr:70QanCGxjGw:)%0a(:title 【ピコ:两声类】出道庆贺翻唱精选集【P13 镜音-天樂】 :)%0a(:keywords 音乐,初音ミク,niconico,翻唱,东方,vocaloid,巡音,镜音,赤饭 :)%0a(:sourcelink:http://124.228.254.229/html/music/20100829/131451_13.html:)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1283170173
+title=【ピコ:两声类】出道庆贺翻唱精选集【P13 镜音-天樂】 
+author:1283170173=Admin
+diff:1283170173:1283170173:=1,11d0%0a%3c %0a%3c (:VideoStr:70QanCGxjGw:)%0a%3c (:title 【ピコ:两声类】出道庆贺翻唱精选集【P13 镜音-天樂】 :)%0a%3c (:keywords 音乐,初音ミク,niconico,翻唱,东方,vocaloid,巡音,镜音,赤饭 :)%0a%3c (:sourcelink:http://124.228.254.229/html/music/20100829/131451_13.html:)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1283170173=114.243.76.38

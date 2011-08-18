@@ -1,0 +1,18 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1278985816
+host=114.243.101.74
+keywords=动画,原创,MAD,掌上萌虎 
+name=Acfun2.1041
+rev=1
+targets=Category.动画,Category.原创,Category.MAD,Category.掌上萌虎
+text=%0a(:VideoStr:18831678:)%0a(:title 【掌上萌虎】【MAD】离不开你【原创】 :)%0a(:keywords 动画,原创,MAD,掌上萌虎 :)%0a(:sourcelink:http://220.170.79.109/html/anime/20090219/21453.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1278985816
+title=【掌上萌虎】【MAD】离不开你【原创】 
+author:1278985816=Admin
+diff:1278985816:1278985816:=1,11d0%0a%3c %0a%3c (:VideoStr:18831678:)%0a%3c (:title 【掌上萌虎】【MAD】离不开你【原创】 :)%0a%3c (:keywords 动画,原创,MAD,掌上萌虎 :)%0a%3c (:sourcelink:http://220.170.79.109/html/anime/20090219/21453.html:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1278985816=114.243.101.74

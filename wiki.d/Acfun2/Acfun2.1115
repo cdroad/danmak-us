@@ -1,0 +1,21 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1279768431
+host=180.110.99.26
+keywords=音乐,空之境界,空境,kalafina 
+name=Acfun2.1115
+rev=2
+targets=Category.音乐,Category.空之境界,Category.空境,Category.Kalafina
+text=(:VideoStr:http://dc119.4shared-china.com/img/211903514/bdc94a29/dlink__2Fdownload_2F211903514_2Fbdc94a29_3Ftsid_3D20100130-235845-b0a7b531/preview.flv:)%0a(:title 【作業用】 空之境界 主題曲合集[kalafina]  :)%0a(:keywords 音乐,空之境界,空境,kalafina :)%0a(:sourcelink:http://124.228.254.234/html/music/20100131/73569.html :)%0a(:VideoType:Link:)%0a(:if false:)%0a[[#comment]]%0a下載:(MP3)http://www.verycd.com/topics/2733381 (無損)/topics/2733859/%0a[[#commentend]]%0a(:ifend:)
+time=1299562767
+title=【作業用】 空之境界 主題曲合集[kalafina]  
+author:1299562767=Admin
+diff:1299562767:1279768431:=0a1%0a> %0a5c6%0a%3c (:VideoType:Link:)%0a---%0a> (:VideoType:ftp:)%0a
+host:1299562767=180.110.99.26
+author:1279768431=Admin
+diff:1279768431:1279768431:=1,11d0%0a%3c %0a%3c (:VideoStr:http://dc119.4shared-china.com/img/211903514/bdc94a29/dlink__2Fdownload_2F211903514_2Fbdc94a29_3Ftsid_3D20100130-235845-b0a7b531/preview.flv:)%0a%3c (:title 【作業用】 空之境界 主題曲合集[kalafina]  :)%0a%3c (:keywords 音乐,空之境界,空境,kalafina :)%0a%3c (:sourcelink:http://124.228.254.234/html/music/20100131/73569.html :)%0a%3c (:VideoType:ftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c 下載:(MP3)http://www.verycd.com/topics/2733381 (無損)/topics/2733859/%0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279768431=114.243.67.163

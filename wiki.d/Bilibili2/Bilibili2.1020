@@ -1,0 +1,23 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+biliid=41975565
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1291986281
+host=180.110.96.39
+keywords=音乐,碎月,翻唱,华颜,神字幕,up主弹幕,+,野生弹幕,古风,弹幕大好,中文, 
+name=Bilibili2.1020
+oldsource=http://bilibili.us/video/av38027/
+rev=2
+targets=Category.音乐,Category.碎月,Category.翻唱,Category.华颜,Category.神字幕,Category.Up主弹幕,Category.,Category.野生弹幕,Category.古风,Category.弹幕大好,Category.中文
+text=%0a(:VideoStr:41975565:)%0a(:title 【古风】碎月【中文填词翻唱】·DEMO版 :)%0a(:keywords 音乐,碎月,翻唱,华颜,神字幕,up主弹幕,+,野生弹幕,古风,弹幕大好,中文, :)%0a(:sourcelink:http://bilibili.us/video/av38027/:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1291986284
+title=【古风】碎月【中文填词翻唱】·DEMO版 
+author:1291986284=aUser
+diff:1291986284:1291986281:=
+host:1291986284=180.110.96.39
+author:1291986281=aUser
+diff:1291986281:1291986281:=1,11d0%0a%3c %0a%3c (:VideoStr:41975565:)%0a%3c (:title 【古风】碎月【中文填词翻唱】·DEMO版 :)%0a%3c (:keywords 音乐,碎月,翻唱,华颜,神字幕,up主弹幕,+,野生弹幕,古风,弹幕大好,中文, :)%0a%3c (:sourcelink:http://bilibili.us/video/av38027/:)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1291986281=180.110.96.39

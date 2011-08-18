@@ -1,0 +1,28 @@
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+
+<FilesMatch "\.(html|htm)$">
+Header set Cache-Control "max-age=7200, must-revalidate"
+</FilesMatch>
+
+Options -Indexes
+RewriteEngine on
+#####################################################
+RewriteRule ^playtag        PI/Bilibili?action=Playtag&id=$1        [L]
+RewriteRule ^dmerror        PI/Bilibili?action=dmerror              [L]
+RewriteRule ^dad.php        PI/Bilibili?action=Dad				    [QSA,L]
+RewriteRule ^dmduration     PI/Bilibili?action=dmduration           [L]
+RewriteRule ^rec            PI/Bilibili?action=rec                  [L]
+RewriteRule ^member/dmm.php PI/Bilibili?action=dmm                  [L]
+RewriteRule ^dmpost         DMR/Bilibili?action=BiDMR               [L]
+
+RewriteRule ^dm,([^?]*)  API/XMLTool?action=XMLLoad&group=bilibili&id=$1				[QSA,L]
+
+RewriteRule ^newflvplayer/xmldata/(.*)P01/ API/XMLTool?action=XMLLoad&group=acfun&id=$1P0  [L]
+RewriteRule ^newflvplayer/xmldata/(.*)/    API/XMLTool?action=XMLLoad&group=acfun&id=$1    [L]
+
+#RewriteRule ^p/A(.*)P01        API/XMLTool?action=XMLLoad&group=acfun&id=$1P0   [QSA,L]
+#RewriteRule ^p/A([0-9a-zA-Z]*) API/XMLTool?action=XMLLoad&group=acfun&id=$1     [QSA,L]
+#Ò³ÃæÌø×ª##################################
+RewriteRule ^([A-Z0-9\xa0-\xff].*)$ index.php?n=$1  [QSA,L]

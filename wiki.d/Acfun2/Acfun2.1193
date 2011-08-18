@@ -1,0 +1,25 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+DP_P0=acnew
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=Admin
+cauthor=雪月华
+charset=UTF-8
+csum=
+ctime=1298785760
+host=222.95.38.30
+keywords=音乐,leia,evalia 
+name=Acfun2.1193
+rev=7
+targets=Category.音乐,Category.Leia,Category.Evalia
+text=(:VideoStr:47106568:)%0a(:title  	Ｌeia ver.evalia 【重制版】:)%0a(:keywords 音乐,leia,evalia :)%0a(:sourcelink:http://124.228.254.229/html/music/20110224/175620.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1298789017
+title= 	Ｌeia ver.evalia 【重制版】
+author:1298789017=Admin
+diff:1298789017:1298788982:=3c3%0a%3c (:keywords 音乐,leia,evalia :)%0a---%0a> (:keywords 音乐,神弹幕 :)%0a
+host:1298789017=222.95.38.30
+author:1298788982=Admin
+diff:1298788982:1298788966:=2c2%0a%3c (:title  	Ｌeia ver.evalia 【重制版】:)%0a---%0a> (:title  	！国人绝叫！Ｌeia ver.evalia 【重制版】(请选取"Acfun播放器(10/07/11)"观看弹幕) :)%0a
+host:1298788982=222.95.38.30
+author:1298788966=Admin
+diff:1298788966:1298786113:=
+host:1298788966=222.95.38.30

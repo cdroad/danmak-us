@@ -1,0 +1,68 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1278913736
+host=49.74.52.6
+name=Acfun2.GroupHeader
+passwdattr=@lock
+passwddelete=@lock
+passwdedit=@lock
+passwdupload=@lock
+rev=18
+targets=
+text=(:if equal "{*$BaseName}" "Acfun2.GroupHeader" :)(:nogroupfooter:)(:ifend:)
+time=1298976382
+author:1298976382=Admin
+diff:1298976382:1297149427:=0a1,7%0a> %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a> %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a> %25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a> %25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a> (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a> (:divend:)(:ifend:)%0a
+host:1298976382=49.74.52.6
+author:1297149427=KPX
+diff:1297149427:1292075379:=8c8,11%0a%3c (:if equal "{*$BaseName}" "Acfun2.GroupHeader" :)(:nogroupfooter:)(:ifend:)%0a\ No newline at end of file%0a---%0a> (:if equal "{*$BaseName}" "Acfun2.GroupHeader" :)(:nogroupfooter:)(:ifend:)%0a> (:html:)%0a> %3cscript type="text/javascript" src="http://danmaku.us/static/swfobject/swfobject.js">%3c/script>%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1297149427=127.0.0.1
+author:1292075379=aUser
+diff:1292075379:1286005852:=11c11,13%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> (:htmlend:)%0a> [b]这里就是曾经的[@dm.mikufans.cn@][/b]%0a> %25red%25 QQ视频加载模式已经改变，部分浏览器(Chrome等)可能不能观看，请暂时使用Firefox浏览器替代. %25%25%0a\ No newline at end of file%0a
+host:1292075379=180.110.97.2
+author:1286005852=Admin
+diff:1286005852:1285224931:=13c13%0a%3c %25red%25 QQ视频加载模式已经改变，部分浏览器(Chrome等)可能不能观看，请暂时使用Firefox浏览器替代. %25%25%0a\ No newline at end of file%0a---%0a> %25red%25 QQ视频加载模式已经改变，Safari及Google Chrome等基于WebKit的浏览器可能观看不能，请暂时使用Firefox浏览器替代. %25%25%0a\ No newline at end of file%0a
+host:1286005852=114.243.101.69
+author:1285216837=Admin
+diff:1285216837:1285212767:=12,13c12%0a%3c [b]这里就是曾经的[@dm.mikufans.cn@][/b]%0a%3c %25red%25 QQ视频加载模式已经改变，Safari及Google Chrome等基于WebKit的浏览器可能观看不能，请暂时使用Firefox浏览器替代. %25%25%0a\ No newline at end of file%0a---%0a> [b]这里就是曾经的[@dm.mikufans.cn@][/b]%0a\ No newline at end of file%0a
+host:1285216837=222.95.37.113
+author:1285212767=Admin
+diff:1285212767:1285212717:=10c10,11%0a%3c %3cscript type="text/javascript" src="http://danmaku.us/static/swfobject/swfobject.js">%3c/script>%0a---%0a> %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a> %3cscript type="text/javascript" src="../static/swfobject/swfobject.js">%3c/script>%0a
+host:1285212767=74.220.198.81
+author:1285212717=Admin
+diff:1285212717:1285212643:=
+host:1285212717=74.220.198.81
+author:1285212643=Admin
+diff:1285212643:1284352808:=11d10%0a%3c %3cscript type="text/javascript" src="../static/swfobject/swfobject.js">%3c/script>%0a
+host:1285212643=74.220.198.81
+author:1284352808=Admin
+diff:1284352808:1284352777:=12c12%0a%3c [b]这里就是曾经的[@dm.mikufans.cn@][/b]%0a\ No newline at end of file%0a---%0a> [b]这里就是曾经的dm.mikufans.cn[/b]%0a\ No newline at end of file%0a
+host:1284352808=58.212.118.81
+author:1284352777=Admin
+diff:1284352777:1283398285:=12c12%0a%3c [b]这里就是曾经的dm.mikufans.cn[/b]%0a\ No newline at end of file%0a---%0a> %25red%25 QQ视频正在准备修复 %25%25%0a\ No newline at end of file%0a
+host:1284352777=58.212.118.81
+author:1283398285=Admin
+diff:1283398285:1283397548:=9,11d8%0a%3c (:html:)%0a%3c %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a%3c (:htmlend:)%0a
+host:1283398285=127.0.0.1
+author:1283397548=Admin
+diff:1283397548:1283397532:=8a9,13%0a> %0a> (:html:)%0a> %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a> (:htmlend:)%0a> %0a
+host:1283397548=127.0.0.1
+author:1283397532=Admin
+diff:1283397532:1283397156:=9c9%0a%3c %0a---%0a> %25red%25 QQ视频正在准备修复 %25%25%0a12,14c12%0a%3c (:htmlend:)%0a%3c %0a%3c %25red%25 QQ视频正在准备修复 %25%25%0a\ No newline at end of file%0a---%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1283397532=127.0.0.1
+author:1283397156=Admin
+diff:1283397156:1280929219:=9,12c9%0a%3c %25red%25 QQ视频正在准备修复 %25%25%0a%3c (:html:)%0a%3c %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> %25red%25 QQ视频正在准备修复 %25%25%0a\ No newline at end of file%0a
+host:1283397156=127.0.0.1
+author:1280929219=Admin
+diff:1280929219:1278913820:=8,9c8%0a%3c (:if equal "{*$BaseName}" "Acfun2.GroupHeader" :)(:nogroupfooter:)(:ifend:)%0a%3c %25red%25 QQ视频正在准备修复 %25%25%0a\ No newline at end of file%0a---%0a> (:if equal "{*$BaseName}" "Acfun2.GroupHeader" :)(:nogroupfooter:)(:ifend:)%0a\ No newline at end of file%0a
+host:1280929219=222.209.239.111
+author:1278913820=Admin
+diff:1278913820:1278913736:=8c8%0a%3c (:if equal "{*$BaseName}" "Acfun2.GroupHeader" :)(:nogroupfooter:)(:ifend:)%0a\ No newline at end of file%0a---%0a> (:nogroupfooter:)%0a\ No newline at end of file%0a
+host:1278913820=114.243.74.123
+author:1278913736=Admin
+diff:1278913736:1278913736:=1,8d0%0a%3c %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a%3c %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a%3c %25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a%3c %25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a%3c (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a%3c (:divend:)(:ifend:)%0a%3c (:nogroupfooter:)%0a\ No newline at end of file%0a
+host:1278913736=114.243.74.123

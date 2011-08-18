@@ -1,0 +1,24 @@
+version=pmwiki-2.2.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+author=
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1279508920
+host=127.0.0.1
+keywords=娱乐,金柯拉 
+name=Acfun2.1066
+rev=3
+targets=
+text=(:VideoStr:27130221:)%0a(:title 茎刻啦—阿骨打（原歌MV版） :)%0a(:keywords 娱乐,金柯拉 :)%0a(:sourcelink:http://220.170.79.105/html/music/20091217/63384.html:)%0a(:VideoType:Nor:)%0a(:IsMuti:true:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a[[#partinfo]]%0a:P1:2009-12-17 晚间弹幕版本%0a:P2:2009-12-18 弹幕残缺版本%0a[[#partend]]%0a(:ifend:)
+time=1306829968
+title=茎刻啦—阿骨打（原歌MV版） 
+author:1306829968=
+diff:1306829968:1299562606:=11,14d10%0a%3c [[#partinfo]]%0a%3c :P1:2009-12-17 晚间弹幕版本%0a%3c :P2:2009-12-18 弹幕残缺版本%0a%3c [[#partend]]%0a
+host:1306829968=127.0.0.1
+author:1299562606=Admin
+diff:1299562606:1279508920:=0a1%0a> %0a5,6c6%0a%3c (:VideoType:Nor:)%0a%3c (:IsMuti:true:)%0a---%0a> (:VideoType:MutiNor:)%0a
+host:1299562606=180.110.99.26
+author:1279508920=Admin
+diff:1279508920:1279508920:=1,11d0%0a%3c %0a%3c (:VideoStr:27130221:)%0a%3c (:title 茎刻啦—阿骨打（原歌MV版） :)%0a%3c (:keywords 娱乐,金柯拉 :)%0a%3c (:sourcelink:http://220.170.79.105/html/music/20091217/63384.html:)%0a%3c (:VideoType:MutiNor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279508920=114.243.82.82

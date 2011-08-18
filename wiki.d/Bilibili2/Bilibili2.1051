@@ -1,0 +1,27 @@
+version=pmwiki-2.2.26 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+author=
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1296442359
+host=127.0.0.1
+keywords=音乐, 
+name=Bilibili2.1051
+rev=4
+targets=
+text=(:VideoStr:45631508:)%0a(:title 夜降り萃夢郷 A Reverie of Dolls and Stellula :)%0a(:keywords 音乐, :)%0a(:sourcelink::)%0a(:VideoType:Nor:)%0a(:IsMuti:true:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a[[#partinfo]]%0a:P1:原版%0a:P2:中文版%0a:P3:日文版%0a[[#partend]]%0a(:ifend:)
+time=1306825805
+title=夜降り萃夢郷 A Reverie of Dolls and Stellula 
+author:1306825805=
+diff:1306825805:1298983746:=11,15d10%0a%3c [[#partinfo]]%0a%3c :P1:原版%0a%3c :P2:中文版%0a%3c :P3:日文版%0a%3c [[#partend]]%0a
+host:1306825805=127.0.0.1
+author:1298983746=Admin
+diff:1298983746:1298818501:=5,6c5%0a%3c (:VideoType:Nor:)%0a%3c (:IsMuti:true:)%0a---%0a> (:VideoType:MutiNor:)%0a
+host:1298983746=49.74.52.6
+author:1298818501=Admin
+diff:1298818501:1296442359:=5c5%0a%3c (:VideoType:MutiNor:)%0a---%0a> (:VideoType:Nor:)%0a
+host:1298818501=222.95.38.30
+author:1296442359=aUser
+diff:1296442359:1296442359:=1,10d0%0a%3c (:VideoStr:45631508:)%0a%3c (:title 夜降り萃夢郷 A Reverie of Dolls and Stellula :)%0a%3c (:keywords 音乐, :)%0a%3c (:sourcelink::)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1296442359=125.70.66.51

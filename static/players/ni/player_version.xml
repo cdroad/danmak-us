@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<version_information>
+	<swf>
+		<nicoplayer>
+			201101061500
+		</nicoplayer>
+		<marquee_player>
+			201012291400
+		</marquee_player>
+		<nicoscript_player>
+			201101061500
+		</nicoscript_player>
+		<nicoplayer_template>
+			201101061500
+		</nicoplayer_template>
+		<nicoplayer_view_controller>
+			201101061500
+		</nicoplayer_view_controller>
+		<user_sponsor_movie>
+			201012091407
+		</user_sponsor_movie>
+		<hiroba_movie>
+			201012091407
+		</hiroba_movie>
+		<thumbplayer_view>
+			201012091407
+		</thumbplayer_view>
+		<thumbplayer_controller>
+			201012271700
+		</thumbplayer_controller>
+		<hirobaconnector>
+			201012110000
+		</hirobaconnector>
+		<larquee>
+			201012091407
+		</larquee>
+		<premium_news>
+			201012091407
+		</premium_news>
+		<ads_live_banner>
+			201012091407
+		</ads_live_banner>
+		<video_menu>
+			201012091407
+		</video_menu>
+		<pluginloader>
+			201012091407
+		</pluginloader>
+		<cross_sharedobject>
+			201012091407
+		</cross_sharedobject>
+		<applibar>
+			201012241800
+		</applibar>
+		<jsconnector>
+			201012091407
+		</jsconnector>
+	</swf>
+	<updated_logs>
+		<log date="201012281600"><![CDATA[一部OSにおいてマウスホイールスクロールが正常に動作しない不具合を修正]]></log>
+		<log date="201012241800"><![CDATA[動画が0秒の時のコメント一覧の自動スクロール不具合を修正]]></log>
+		<log date="201012161400"><![CDATA[ニコ割時のコメントが重なる不具合を修正]]></log>
+		<log date="201012161400"><![CDATA[コメント一覧の自動スクロール位置がずれる不具合を修正]]></log>
+		<log date="201012091500"><![CDATA[ニコニコアプリに対応]]></log>
+		<log date="201012071800"><![CDATA[Flash Player 10に対応]]></log>
+		<log date="201011171700"><![CDATA[提供表示のデザインを変更]]></log>
+		<log date="201011101500"><![CDATA[連続再生でランダム再生時に「リストをもう一度再生」ボタンが効かない不具合を修正]]></log>
+		<log date="201010281600"><![CDATA[連続再生中に動画説明文・タグの表示を追加]]></log>
+		<log date="201010202130"><![CDATA[投稿者コメントが表示されない不具合を修正]]></log>
+		<log date="201009141630"><![CDATA[連続再生中のランダム再生機能追加]]></log>
+		<log date="201009141630"><![CDATA[連続再生中のインデックス表示を修正]]></log>
+		<log date="201009141630"><![CDATA[連続再生中に削除動画を再生すると動画が切り替わらなくなる不具合を修正]]></log>
+		<log date="201009141630"><![CDATA[連続再生中の「進む」「戻る」時の処理を修正]]></log>
+		<log date="201009141630"><![CDATA[動画が取得できない場合にコメントが再生できない不具合を修正]]></log>
+		<log date="201009101600"><![CDATA[連続再生中は＠ジャンプと＠ポーズが無効になるように修正]]></log>
+		<log date="201009081500"><![CDATA[連続再生機能を追加]]></log>
+		<log date="201009021500"><![CDATA[再生後メニューに「携帯で見る」アイコンを追加]]></log>
+		<log date="201008121700"><![CDATA[一部動画で＠ボタンをクリック後にコメントができない不具合の修正]]></log>
+		<log date="201007301500"><![CDATA[コメント一覧で選択せずに右クリックメニューからNG登録・コメントコピーを出来るように修正]]></log>
+		<log date="201007211430"><![CDATA[正式版リリース]]></log>
+	</updated_logs>
+</version_information>

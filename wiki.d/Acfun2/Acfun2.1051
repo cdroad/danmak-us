@@ -1,0 +1,18 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1278988210
+host=114.243.101.74
+keywords=音乐,轻音,K-on 
+name=Acfun2.1051
+rev=1
+targets=Category.音乐,Category.轻音,Category.K-on
+text=%0a(:VideoStr:21859214:)%0a(:title 【豪华阵容】【K-ON!】Dont say Lazy- Band Edition-【Niconi☆school】  :)%0a(:keywords 音乐,轻音,K-on :)%0a(:sourcelink:http://220.170.79.109/html/music/20090619/34739.html :)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1278988210
+title=【豪华阵容】【K-ON!】Dont say Lazy- Band Edition-【Niconi☆school】  
+author:1278988210=Admin
+diff:1278988210:1278988210:=1,11d0%0a%3c %0a%3c (:VideoStr:21859214:)%0a%3c (:title 【豪华阵容】【K-ON!】Dont say Lazy- Band Edition-【Niconi☆school】  :)%0a%3c (:keywords 音乐,轻音,K-on :)%0a%3c (:sourcelink:http://220.170.79.109/html/music/20090619/34739.html :)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1278988210=114.243.101.74

@@ -1,0 +1,18 @@
+version=pmwiki-2.2.19 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+author=aUser
+cauthor=aUser
+charset=UTF-8
+csum=
+ctime=1296146940
+host=114.243.107.193
+keywords=音乐, 
+name=Bilibili2.1045
+rev=1
+targets=Category.音乐
+text=(:VideoStr:7cK3qZHQQxp:)%0a(:title [第6日][白组]六分之一 :)%0a(:keywords 音乐, :)%0a(:sourcelink::)%0a(:VideoType:QQ:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1296146940
+title=[第6日][白组]六分之一 
+author:1296146940=aUser
+diff:1296146940:1296146940:=1,10d0%0a%3c (:VideoStr:7cK3qZHQQxp:)%0a%3c (:title [第6日][白组]六分之一 :)%0a%3c (:keywords 音乐, :)%0a%3c (:sourcelink::)%0a%3c (:VideoType:QQ:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1296146940=114.243.107.193

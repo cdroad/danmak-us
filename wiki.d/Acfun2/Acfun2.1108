@@ -1,0 +1,18 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1279767480
+host=114.243.67.163
+keywords=音乐,巡音ルカ, 
+name=Acfun2.1108
+rev=1
+targets=Category.音乐,Category.巡音ルカ
+text=%0a(:VideoStr:28637785:)%0a(:title 【巡音ルカ】「指結い。」【オリジナル曲】 :)%0a(:keywords 音乐,巡音ルカ, :)%0a(:sourcelink:http://124.228.254.234/html/music/20100127/72538.html :)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
+time=1279767480
+title=【巡音ルカ】「指結い。」【オリジナル曲】 
+author:1279767480=Admin
+diff:1279767480:1279767480:=1,11d0%0a%3c %0a%3c (:VideoStr:28637785:)%0a%3c (:title 【巡音ルカ】「指結い。」【オリジナル曲】 :)%0a%3c (:keywords 音乐,巡音ルカ, :)%0a%3c (:sourcelink:http://124.228.254.234/html/music/20100127/72538.html :)%0a%3c (:VideoType:Nor:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279767480=114.243.67.163

@@ -1,0 +1,27 @@
+version=pmwiki-2.2.24 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1279509914
+host=180.110.99.26
+keywords=动画,恋愛サーキュレーション,青蛙子,蔷薇, 
+name=Acfun2.1073
+rev=4
+targets=Category.动画,Category.恋愛サーキュレーション,Category.青蛙子,Category.蔷薇
+text=(:VideoStr:http://dc128.4shared-china.com/img/181085199/187e767b/dlink__2Fdownload_2F181085199_2F187e767b_3Ftsid_3D20091225-142133-5b5300cb/preview.flv:)%0a(:title 【青蛙子+导师】恋愛サーキュレーション  :)%0a(:keywords 动画,恋愛サーキュレーション,青蛙子,蔷薇, :)%0a(:sourcelink:http://124.228.254.234/html/anime/20091226/64885_2.html :)%0a(:VideoType:Link:)%0a(:if false:)%0a[[#comment]]%0a视频已失效%0a[[#commentend]]%0a(:ifend:)
+time=1299562802
+title=【青蛙子+导师】恋愛サーキュレーション  
+author:1299562802=Admin
+diff:1299562802:1292075427:=5c5%0a%3c (:VideoType:Link:)%0a---%0a> (:VideoType:ftp:)%0a
+host:1299562802=180.110.99.26
+author:1292075427=aUser
+diff:1292075427:1279509979:=8c8%0a%3c 视频已失效%0a---%0a> 观看需要firefox%0a
+host:1292075427=180.110.97.2
+author:1279509979=Admin
+diff:1279509979:1279509914:=0a1%0a> %0a8c9%0a%3c 观看需要firefox%0a---%0a> %0a
+host:1279509979=114.243.82.82
+author:1279509914=Admin
+diff:1279509914:1279509914:=1,11d0%0a%3c %0a%3c (:VideoStr:http://dc128.4shared-china.com/img/181085199/187e767b/dlink__2Fdownload_2F181085199_2F187e767b_3Ftsid_3D20091225-142133-5b5300cb/preview.flv:)%0a%3c (:title 【青蛙子+导师】恋愛サーキュレーション  :)%0a%3c (:keywords 动画,恋愛サーキュレーション,青蛙子,蔷薇, :)%0a%3c (:sourcelink:http://124.228.254.234/html/anime/20091226/64885_2.html :)%0a%3c (:VideoType:ftp:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1279509914=114.243.82.82
