@@ -166,7 +166,7 @@ class BaseVar
 		//  System -> GET -> page -> default;
 		$page = ReadPage($this->_pn, READPAGE_CURRENT);
 		$this->setPlayerIfExists($DMF_GroupConfig[$this->_gp]['DefaultPlayer'],'Default');
-		$this->setPlayerIfExists($page['DP_P0'.$g_PartIndex],'PagePre');
+		$this->setPlayerIfExists($page['DP_P0'.$this->_partNo],'PagePre');
 		$this->setPlayerIfExists($_GET['Player'],'UserPre');
 		$this->setPlayerIfExists($pid,'SystPre');
 	
