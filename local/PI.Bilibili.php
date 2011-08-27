@@ -67,7 +67,7 @@ function Handledmerror($pagename, $auth = 'edit')
 		exit;
 	$pagename = 'Main.BPError';
 	$new = $page = ReadPage($pagename, READPAGE_CURRENT);
-	$new['text'] .= getErrorString($_REQUEST['error'])."\r\n视频:\r\n->(:pagelist group=Acfun2,Bilibili2 fmt=title ".$_REQUEST['id'].":)";
+	$new['text'] .= getErrorString($_REQUEST['error'])."\n视频:\n->(:pagelist group=Acfun2,Bilibili2 fmt=title ".$_REQUEST['id'].":)";
 	
 	UpdatePage($pagename, $page, $new);
 }
@@ -162,7 +162,6 @@ function findPoolIdByInId($inid)
 
 function dmm_update_comment_time()
 {
-	die ("0");
 	$targetTime = intval($_REQUEST['time']);
 	$dmId = intval($_REQUEST['dmid']);
 	$dm_inid = intval($_REQUEST['dm_inid']);
@@ -170,8 +169,14 @@ function dmm_update_comment_time()
 	$poolId = findPoolIdByInId($dm_inid);
 	if (is_null($poolId)) die("2");
 	
-	$DPool = new BiliUniDanmakuPair($dmid, PAIR_DYNAMIC);
-	$DPool->delete(PAIR_DYNAMIC, $_REQUEST['playerdel']);
+	$DPool = new BiliUniDanmakuPair($poolId, PAIR_DYNAMIC);
+	foreach ($DPool->find(array("id" => $dmId)) as $danmaku)
+	{
+		$oldattr = $newattr = $danmaku->getElementsByTagName("attr")->item(0);
+		$newattr->setAttribute('playtime', $targetTime);
+		$danmaku->replaceChild($newattr, $oldattr);
+		
+	}
 	$DPool->save(PAIR_DYNAMIC);
 }
 
@@ -184,25 +189,15 @@ function dmm_del()
 {
 	if (empty($_REQUEST['playerdel']))
 		die("1");
-	$pages = ListPages("/DMR\.B/");
-	$pn = "NONEXIST";
-	foreach ($pages as $p)
+
+	$poolId = findPoolIdByInId($dm_inid);
+	if (is_null($poolId)) die("2");
+	
+	$DPool = new BiliUniDanmakuPair($poolId, PAIR_DYNAMIC);
+	foreach (explode(",", $_REQUEST['playerdel']) as $id)
 	{
-		if (hashVid($p, false) == $_REQUEST['dm_inid'])
-		{
-			$pn = $p;
-			break;
-		}
+		$DPool->delete(PAIR_DYNAMIC, $id);
 	}
-	
-	if ($pn == "NONEXIST")
-		die("2");
-	
-	//从pagename转换到DMID
-	$dmid = pathinfo($pn, PATHINFO_EXTENSION);
-	$dmid = substr($dmid, 1);
-	$DPool = new BiliUniDanmakuPair($dmid, PAIR_DYNAMIC);
-	$DPool->delete(PAIR_DYNAMIC, $_REQUEST['playerdel']);
 	$DPool->save(PAIR_DYNAMIC);
 
 	die("0");

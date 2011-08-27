@@ -44,6 +44,7 @@ function HandlePairConv($pagename, $auth = 'read')
 		}
 	$file = NULL;
 	closedir($AcfunDanmakuDir);
+	*/
 	
 	//转换Bilibili2 转换静态和动态
 	///静态
@@ -62,10 +63,10 @@ function HandlePairConv($pagename, $auth = 'read')
 			$SPair = $oldPair->get(PAIR_STATIC);
 			$newSPairObj = ConvertBilibiliXML_d($SPair);
 			$newPair = new BiliUniDanmakuPair($id);
-			$newPair->set(PAIR_STATIC, $newSPairObj);
+			$newPair->PAIR_STATIC = $newSPairObj;
 			$newPair->save(PAIR_STATIC);
 		}
-	*/
+	/*
 	///动态
 	//TODO
 	$BilibiliDPoolPages = ListPages("/DMR\.B/");
@@ -79,9 +80,10 @@ function HandlePairConv($pagename, $auth = 'read')
 			$DPair = $oldPair->get(PAIR_DYNAMIC);
 			$newDPairObj = ConvertBilibiliXML_dD($DPair);
 			$newPair = new BiliUniDanmakuPair($id, PAIR_NONE);
-			$newPair->set(PAIR_DYNAMIC, $newDPairObj);
+			$newPair->PAIR_DYNAMIC =  dom_import_simplexml($newDPairObj)->ownerDocument;
 			$newPair->save(PAIR_DYNAMIC);
 	}
+	*/
 
 	$pp = 'Site.DMFPerfs';
 	$n = $p = ReadPage($pp);
@@ -95,7 +97,7 @@ function HandlePairConv($pagename, $auth = 'read')
 function HandlePoolConv($pagename, $auth = 'admin')
 {
 	global $DMF_Group;
-	
+	//TODO:
 	myAssert(!empty($DMF_Group), "DMF_Group Not Defined.");
 	
 	$id = basename($_REQUEST['dmid']);
@@ -104,10 +106,23 @@ function HandlePoolConv($pagename, $auth = 'admin')
 	myAssert(function_exists($Func), "Pool Conv Function Not Exists.");
 	
 	$Pool = $_POST['Pool'];
-	myAssert((($Pool == 'DS') || ($Pool == 'SD')), "Unexpected Pool Conv OP : $Pool.");
+	switch (strtoupper($Pool))
+	{
+		case "SD":
+			$target = PAIR_DYNAMIC;
+			$from = PAIR_STATIC;
+			break;
+		case "DS":
+			$target = PAIR_STATIC;
+			$from = PAIR_DYNAMIC;
+			break;
+		default:
+			myAssert(FALSE, "Unexpected Pool Conv OP : $Pool.");
+			return;
+	}
 	
 	$Before = microtime(true);
-	$Func($id, $_POST['Pool']);
+	$Func($id, $from, $target);
 	$T = microtime(true) - $Before;
 	$GLOBALS['MessagesFmt'] = '弹幕池转换'.$_POST['Pool']."过程结束. 用时：$T 秒";
 	HandleBrowse($pagename);
@@ -139,7 +154,7 @@ function HandleXMLLoad($pagename, $auth = 'read')
 	$before = microtime(TRUE);
 	$Func($id);
 	$exetime = microtime(true) - $before;
-	echo "\r\n<!--XML generated in $exetime seconds.-->";
+	echo "\n<!--XML generated in $exetime seconds.-->";
 	
 	ob_end_flush();
 	exit;
@@ -187,9 +202,9 @@ function HandlePoolClear($pagename, $auth = 'admin')
 	}
 	$DMPair = ($_POST['Pool'] == 'S') ? PAIR_STATIC : PAIR_DYNAMIC ;
 	
-	$Pair = new BiliNorDanmakuPair($id, $DMPair);
-	$Pair->clear($DMPair);
-	$Pair->save(PAIR_ALL);
+	$Pair = new BiliUniDanmakuPair($id, $DMPair);
+	$Pair->clearPool($DMPair);
+	$Pair->save($DMPair);
 	$MessagesFmt = "清空弹幕池 $DMF_Group :: $id :: $DMPair 完毕。";
 	
 	HandleBrowse($pagename);

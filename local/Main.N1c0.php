@@ -17,7 +17,7 @@ function HandleNicoBridge($pagename, $auth= 'read')
 	header("Cache-Control: no-cache");
 	header("Content-type: text/plain; charset=UTF-8");
 	
-	echo("DMF N1co Bridge V2.1.0 .\r\n");
+	echo("DMF N1co Bridge V2.1.0 .\n");
 	
 	$matched = 
 		preg_match("{(?:http://www.nicovideo.jp/watch/)?(?P<vid>(?P<type>sm|nm|so|ca|ax|yo|nl|ig|na|cw|z[a-e]|om|sk|yk)?\d{1,14})}i",
@@ -32,11 +32,11 @@ function HandleNicoBridge($pagename, $auth= 'read')
 	
 	if (!isLoggedIn()) 
 	{
-		echo "尝试登录。\r\n";
+		echo "尝试登录。\n";
 		$b = doLogin();
 		if ($b)
 		{
-			echo "登录成功\r\n";
+			echo "登录成功\n";
 		} else {
 			die("登录nicovideo失败。");
 		}
@@ -46,7 +46,7 @@ function HandleNicoBridge($pagename, $auth= 'read')
 	$url = getFlvUrl($vid, $type);
 	if (empty($url))
 		die("解析下载地址失败。");
-	echo("Downloading $vid ($url) \r\n");
+	echo("Downloading $vid ($url) \n");
 	doDownloadVideo($url, $vid);
 }
 
@@ -71,7 +71,7 @@ function doDownloadVideo($url,$vid)
 	{
 		if (flock($rFile,LOCK_EX | LOCK_NB))
 		{
-			echo "尝试启用断点续传\r\n";
+			echo "尝试启用断点续传\n";
 			curl_setopt($ch, CURLOPT_RANGE, filesize($downloadTemp)."-");
 		} else {
 			fclose($rFile);
@@ -87,8 +87,8 @@ function doDownloadVideo($url,$vid)
 	fclose($rFile);
 	if (!empty($error))
 	{
-		echo "CURL错误 :: $error \r\n";
-		echo "超时错误请直接F5刷新 重新提交下载请求\r\n";
+		echo "CURL错误 :: $error \n";
+		echo "超时错误请直接F5刷新 重新提交下载请求\n";
 		exit;
 	}
 	$downloadTarget = "./uploads/Main/"."$vid.$fileext";
@@ -96,10 +96,10 @@ function doDownloadVideo($url,$vid)
 	if (file_exists($downloadTemp))
 	{
 		rename($downloadTemp, $downloadTarget);
-		echo "下载地址: http://danmaku.us/uploads/Main/".$vid.".".$fileext."\r\n";
-		echo "完毕。\r\n";
+		echo "下载地址: http://danmaku.us/uploads/Main/".$vid.".".$fileext."\n";
+		echo "完毕。\n";
 	} else {
-		echo "下载失败。\r\n";
+		echo "下载失败。\n";
 	}	
 
 }
@@ -108,8 +108,8 @@ function doDownloadVideo($url,$vid)
 function read_header($ch, $string) 
 {
 	global $totalsize, $fileext;
-	if(!strncasecmp($string, "Content-Length:",15)) {$totalsize = round(trim(substr($string,16)) / 1024 / 1024,2);echo "Total size:$totalsize MB\r\n";}
-	if(!strncasecmp($string, "Content-Disposition:",20)) {$fileext = trim(substr($string,45,3));echo "File extension:.$fileext \r\n";}
+	if(!strncasecmp($string, "Content-Length:",15)) {$totalsize = round(trim(substr($string,16)) / 1024 / 1024,2);echo "Total size:$totalsize MB\n";}
+	if(!strncasecmp($string, "Content-Disposition:",20)) {$fileext = trim(substr($string,45,3));echo "File extension:.$fileext \n";}
 	return strlen($string);
 }
 
@@ -122,7 +122,7 @@ function myPoorProgressFunc($ch,$str)
 	if ($t2 >= 5*1024*1024) {
 		$t = round($downloaded / 1024 / 1024,2);
 		$downper = round ($t / $totalsize * 100 , 2);
-		echo "已完成: $t MB / $totalsize MB   $downper % \r\n";
+		echo "已完成: $t MB / $totalsize MB   $downper % \n";
 		$t2 = 0 ;
 	}
 	return $len;
@@ -134,10 +134,10 @@ function getFlvUrl($vid, $type)
 {
 	if (strtolower($type) == 'nm')
 	{
-		echo("尝试启用nm下载模式\r\n");
+		echo("尝试启用nm下载模式\n");
 		$query = "v=".$vid.'&as3=1';
 	} else {
-		echo("尝试普通视频模式\r\n");
+		echo("尝试普通视频模式\n");
 		$query = "v=$vid";
 	}
 	$ch = curl_init();

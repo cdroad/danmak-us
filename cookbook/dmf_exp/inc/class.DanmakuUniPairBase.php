@@ -7,55 +7,46 @@ define("PAIR_ALL", "PAIR_ALL");
 
 abstract class DanmakuUniPairBase
 {
+
 	/**
-	 * 
-	 * 静态池XML对象.
-	 * @var DOMDocument
+	 * @var SimpleXMLElement
 	 */
 	private $SPoolObj;
 	/**
-	 * 
-	 * 动态池XML对象.
-	 * @var DOMDocument
+	 * @var SimpleXMLElement
 	 */
 	private $DPoolObj;
 	/**
-	 * 
-	 * 用于提示错误的XML对象
-	 * @var DOMDocument
+	 * @var SimpleXMLElement
 	 */
 	private $ErrorXMLObj;
 	/**
-	 * 
-	 * 空XML对象
-	 * @var DOMDocument
+	 * @var SimpleXMLElement
 	 */
 	private $NullXMLObj;
 	/**
-	 * 
-	 * 组配置
 	 * @var array
 	 */
 	private $GroupConfig;
 	/**
-	 * 
-	 * 组名
-	 * @var string
+	 * @var array
 	 */
 	private $Group;
 	/**
-	 * 
-	 * S池储存文件
 	 * @var string
 	 */
 	private $SPoolFile;
 	/**
-	 * 
-	 * D池储存文件
-	 * @var DPool
+	 * @var string
 	 */
 	private $DPoolFile;
+	/**
+	 * @var string
+	 */
 	private $dmid;
+	/**
+	 * @var string
+	 */
 	private $LogPage = "Main/SysLog";
 	
 	
@@ -66,20 +57,18 @@ abstract class DanmakuUniPairBase
 		$this->Group = $group;
 		$this->GroupConfig = $GLOBALS['DMF_GroupConfig'][$group];
 		
-		$this->ErrorXMLObj = new DOMDocument("1.0", "UTF-8");
-		$this->ErrorXMLObj->loadXML($this->GroupConfig['XMLError']);
+		$this->ErrorXMLObj = simplexml_load_string($this->GroupConfig['XMLError']);
 		
-		$this->NullXMLObj = new DOMDocument("1.0", "UTF-8");
-		$this->NullXMLObj->loadXML($this->GroupConfig['XMLHeader'].
+		$this->NullXMLObj = simplexml_load_string($this->GroupConfig['XMLHeader'].
 			$this->GroupConfig['XMLFooter']);
 		
-		$this->SPoolFile = realpath("./uploads/$this->Group/$dmid.xml");
-		$this->DPoolFile = 'DMR.'.$this->_SUID.$this->_DMID;
+		$this->SPoolFile = "./uploads/$this->Group/$dmid.xml";
+		$this->DPoolFile = 'DMR.'.$this->GroupConfig['SUID'].$this->dmid;
 		
 		$this->load($pair);
 	}
 	
-	public function load($pair)
+	final public function load($pair)
 	{
 		$this->DPoolObj = $this->SPoolObj = $this->NullXMLObj;
 		switch (strtoupper($pair))
@@ -102,30 +91,34 @@ abstract class DanmakuUniPairBase
 	
 	final public function find($pair, $query)
 	{
-		$xpath_obj = new DOMXPath($this->$pair);
-		return $xpath_obj->query($this->convertQuery($query));
+		return $this->$pair->xpath($this->convertQuery($query));
 	}
 	
-	final public function insert($pair, DOMDocument $DOM)
+	final public function insert($pair, SimpleXMLElement $xml)
 	{
-		$this->$pair->importNode($DOM);
+		$this->merge($this->$pair, $xml);
 	}
 	
-	final public function update($pair, $id, DOMDocument $new)
+	final public function update($pair, $query, SimpleXMLElement $xml)
 	{
-		foreach ($this->find($pair, array("id" => "$id")) as $node)
+		$result = $this->find($pair, $query);
+		foreach (array_reverse($result) as $node)
 		{
-			$node = $new;
+			$node[0] = $xml;
 		}
 	}
 	
 	final public function delete($pair, $query)
 	{
+		if ($pair != PAIR_DYNAMIC)
+			return;
+
 		$result = $this->find($pair, $query);
-		foreach ($result as $node)
+		foreach (array_reverse($result) as $node)
 		{
-			$node->parentNode->removeChild($node);
+			unset($node[0]);
 		}
+		
 	}
 	
 	final public function clearPool($pair)
@@ -139,10 +132,10 @@ abstract class DanmakuUniPairBase
 		$this->$from = $this->PAIR_NONE;
 	}
 	
-	final public function import($pair, $from)
+	final public function import($pair, SimpleXMLElement $from)
 	{
 		$tempPair = $this->$pair;
-		$tempPair->importNode($from, TRUE);
+		$this->merge($tempPair, $from);
 		$this->$pair = $tempPair;
 	}
 	
@@ -151,11 +144,38 @@ abstract class DanmakuUniPairBase
 		libxml_clear_errors();
 		$this->load($pair);
 		$errors = libxml_get_errors();
-		return "";
+		return display_xml_error($errors, $this);
+	}
+	
+	final public function save($pair = "PAIR_ALL")
+	{
+		switch (strtoupper($pair))
+		{
+			case "PAIR_NONE":
+				break;
+			case "PAIR_STATIC":
+				$this->saveStaticPool();
+				break;
+			case "PAIR_DYNAMIC":
+				$this->saveDynamicPool();
+				break;
+			case "PAIR_ALL":
+				$this->saveStaticPool();
+				$this->saveDynamicPool();
+				break;
+			default:
+				echo strtoupper($pair);
+				assert(FALSE);
+		}
 	}
 	
 	public function __get($name)
 	{
+		if (property_exists($this, $name))
+		{
+			return $this->$name;
+		}
+		
 		switch (strtoupper($name))
 		{
 			case "OBJE_ERROR":
@@ -170,44 +190,43 @@ abstract class DanmakuUniPairBase
 				return $this->DPoolObj;
 			case "PAIR_ALL":
 				$tempPool = $this->SPoolObj;
-				$tempPool->importNode($this->DPoolObj, true);
+				$temp = $this->DPoolObj->getElementsByTagName("comments")->item(0);
+				$tempPool->importNode($temp, true);
 				return $tempPool;
 			default:
-				asert(FALSE);
+				var_dump($name);
+				assert(FALSE);
 				return NULL;
 		}
 	}
 	
-	public function __set($name, DOMDocument $Obj)
+	public function __set($name, SimpleXMLElement $Obj)
 	{
+		
 		switch (strtoupper($name))
 		{
 			case "OBJE_ERROR":
 				$this->ErrorXMLObj = $Obj;
+				break;
 			case "OBJE_NULL":
 			case "PAIR_NULL":
 			case "PAIR_NONE":
 				$this->NullXMLObj = $Obj;
+				break;
 			case "PAIR_STATIC":
 				$this->SPoolObj = $Obj;
+				break;
 			case "PAIR_DYNAMIC":
 				$this->DPoolObj = $Obj;
+				break;
 			case "PAIR_ALL":
 				$this->DPoolObj = $this->SPoolObj = $Obj;
+				break;
 			default:
+				echo $name;
 				assert(FALSE);
 		}
 		return;
-	}
-	
-	private function convertQuery($query)
-	{
-		$queryString = "//comments/comment";
-		foreach ($query as $key => $value)
-		{
-			$queryString .= $this->KVQueryToXPath($key, $value);
-		}
-		return $queryString;
 	}
 	
 	protected function loadStaticPool()
@@ -220,16 +239,16 @@ abstract class DanmakuUniPairBase
 			return;
 		}
 		
-		$tempDOM = new DOMDocument("1.0", "UTF-8");
-		$tempDOM->formatOutput = true;
-		$bResult = $tempDOM->load($this->SPoolFile);
+		$Obj = simplexml_load_file($this->SPoolFile);
+
 		if ($bResult === FALSE)
 		{
-			$this->WriteLog($p, "XML->FALSE");
+			$this->WriteLog($p, "STATIC XML->FALSE");
 			$this->$p = $this->ErrorXMLObj;
 		} else {
-			$this->$p = $tempDOM;
+			$this->$p = $Obj;
 		}
+		
 	}
 	
 	protected function loadDynamicPool()
@@ -245,16 +264,14 @@ abstract class DanmakuUniPairBase
 		
 		$XML = $this->GroupConfig['XMLHeader'].$page['text'].
 			$this->GroupConfig['XMLFooter'];
-		$tempDOM = new DOMDocument("1.0", "UTF-8");
-		$tempDOM->formatOutput = true;
-		$bResult = $tempDOM->loadXML($XML);
+		$Obj = simplexml_load_string($XML);
 
 		if ($bResult === FALSE)
 		{
-			$this->WriteLog($p, "XML->FALSE");
+			$this->WriteLog($p, "DYNAMIC XML->FALSE");
 			$this->$p = $this->ErrorXMLObj;
 		} else {
-			$this->$p = $tempDOM;
+			$this->$p = $Obj;
 		}
 		
 	} 
@@ -273,31 +290,10 @@ abstract class DanmakuUniPairBase
 			$auth = $GLOBALS['AuthId'];
 		}
 		
-		$Str = "\r\n$this->Group :: $this->dmid :: $pair $msg . . . . ".strftime($GLOBALS['TimeFmt'])." . . . $auth";
+		$Str = "\n$this->Group :: $this->dmid :: $pair $msg . . . . ".strftime($GLOBALS['TimeFmt'])." . . . $auth";
 		writeLog($this->LogPage, $Str);
 	}
-	
-	protected function save($pair = "PAIR_ALL")
-	{
-		switch (strtoupper($pair))
-		{
-			case "PAIR_NONE":
-				break;
-			case "PAIR_STAITC":
-				$this->saveStaticPool();
-				break;
-			case "PAIR_DYNAMIC":
-				$this->saveDynamicPool();
-				break;
-			case "PAIR_ALL":
-				$this->saveStaticPool();
-				$this->saveDynamicPool();
-				break;
-			default:
-				assert(FALSE);
-		}
-	}
-	
+
 	protected function saveDynamicPool()
 	{
 		$auth = 'edit';
@@ -316,7 +312,7 @@ abstract class DanmakuUniPairBase
 			rename($this->SPoolFile, $this->SPoolFile.",del-".time());
 		}
 		
-		$tempObj = $this->XMLFilter($this->DPoolObj);
+		$tempObj = $this->XMLFilter($this->SPoolObj);
 		
 		$result = file_put_contents($this->SPoolFile,
 			$tempObj->saveXML(),
@@ -325,20 +321,38 @@ abstract class DanmakuUniPairBase
 		{
 			$className = get_class();
 			$str = "$className::saveStatic FAIL : COUND NOT WRITE TO STATIC POOL FILE.".
-					" DMID = $this->_DMID; FILE = $this->_SFile";
+					" DMID = $this->dmid; FILE = $this->SPoolFile";
 			$this->WriteLog("PAIR_STATIC", $str);
 		}
 	}
 	
-	/**
-	 * 
-	 * XML过滤
-	 * @param DOMDocument $node
-	 * @return DOMDocument
-	 */
-	abstract protected function XMLFilter(DOMDocument $node);
+	/*******************************XML Functions*******************************/
 
-	abstract protected function asXML($pair = "PAIR_ALL");
+	protected function convertQuery($query)
+	{
+		$queryString = "//comments/comment";
+		
+		if (key_exists('and', $query))
+		{
+			foreach ($query['and'] as $k => $v)
+			{
+				$queryString .= 
+					"[".
+					call_user_func(array($this, "KVQueryToXPath"), $k, $v).
+					"]";
+			}
+		} else if (key_exists('or', $query)) {
+			$queryString .= "[";
+			foreach ($query['or'] as $k => $v)
+			{
+				$queryString .= call_user_func(array($this, "KVQueryToXPath"), $k, $v).
+					" or ";
+			}
+			$queryString = substr($queryString, 0, -4)."]";
+		}
+		
+		return $queryString;
+	}
 	
 	protected function KVQueryToXPath($k, $v)
 	{
@@ -361,18 +375,42 @@ abstract class DanmakuUniPairBase
 				return "[//attrs/attr@color='$v']"; 
 			case "sendtime":
 				return "[//attrs/attr@sendtime='$v']"; 
-			case "poolid":
-				return "[//attrs/attr@poolid='$v']"; 
-			case "userhash":
-				return "[//attrs/attr@puserhash='$v']"; 
 			default:
 				assert(FALSE);
 				return "";
 		}
 	}
+
+	protected function merge(SimpleXMLElement $xml1, SimpleXMLElement $xml2)
+	{
+	   // convert SimpleXML objects into DOM ones
+	   $dom1 = dom_import_simplexml($xml1)->ownerDocument;
+	   $dom2 = dom_import_simplexml($xml2)->ownerDocument;
+	
+	   // pull all child elements of second XML
+	   $xpath = new domXPath($dom2);
+	   $xpathQuery = $xpath->query('/*/*');
+	   for ($i = 0; $i < $xpathQuery->length; $i++)
+	   {
+	       // and pump them into first one
+	       $dom1->documentElement->appendChild(
+	           $dom1->importNode($xpathQuery->item($i), true));
+	   }
+	}
+	
+	/**
+	 * 
+	 * XML过滤
+	 * @param DOMDocument $node
+	 * @return DOMDocument
+	 */
+	abstract protected function XMLFilter(SimpleXMLElement $node);
+
+	abstract protected function asXML($pair = "PAIR_ALL", $format);
+	
 }
 
-/*
+/*`
 <comment id="2147483647">
 	<text>var b="bbbbbbbbb";</text>
 	<attrs>

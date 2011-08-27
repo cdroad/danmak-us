@@ -24,50 +24,6 @@ function DMF_SetUpPageMarkUp()
 
 }
 
-function DMF_URL_CONV_url($str)
-{
-	return rawurlencode($str);
-}
-
-function DMF_URL_CONV_burl($str)
-{
-	return rawurlencode('http://pl.bilibili.us/uploads/'.
-		str_replace(array("level"),"",$str).
-		'.flv');
-}
-
-function DMF_URL_CONV_link($str)
-{
-	return rawurlencode($str);
-}
-
-function DMF_URL_CONV_blink($str)
-{
-	return rawurlencode('http://pl.bilibili.us/'.
-		str_replace(array("levelup"),"/",$str).
-		'.flv');
-}
-
-function DMF_URL_CONV_qq($str)
-{
-	return rawurlencode('https://secure.bluehost.com/~twodland/dmf/index.php?n=Main.Flvcache&action=GetFlvUrl&vid='.$str);
-}
-
-function DMF_URL_CONV_6cn($str)
-{
-	Abort("UNCOMPLETE_DMF_JUMPER_FUNCTION");
-}
-
-function DMF_URL_CONV_td($str)
-{
-	Abort("UNCOMPLETE_DMF_JUMPER_FUNCTION");
-}
-
-function DMF_URL_CONV_local($str)
-{
-	return rawurlencode($str);
-}
-
 $HandleActions['xmlupload'] = "HandleXMLPost";
 $HandleAuth['xmlupload'] = 'upload';
 
@@ -82,20 +38,6 @@ function HandleXMLPost($pagename, $auth = 'upload')
 	
 	$XMLPostFunction($pagename);
 }
-$playerCodeHeader = <<<STR
-<script type="text/javascript">
-var flashvars = {};
-var params = {};
-params.menu = "true";
-params.allowscriptaccess = "always";
-params.allowfullscreen = "true";
-params.bgcolor = "#FFFFFF";
-params.autostart = "false";
-params.play = "false";
-//params.scale = "noscale";
-//params.wmode = "opaque";
-
-STR;
 
 Markup("ObjInit", '_begin', "/\\(:ObjInit:\\)/e", 'ObjLoadFunc()');
 function ObjLoadFunc()

@@ -13,10 +13,20 @@ $CheckPerfs = FALSE;
 $EnableAutoTimeShift = TRUE;
 $TimeShiftDelta = 0.000001;
 
-
 // Bilibili设定
 //是否允许代码弹幕(高级弹幕)
 $BiliEnableSA = TRUE;
+
+$VideoSourceSet = new VideoSourceSet();
+$VideoSourceSet->add('nor', new VideoSource(false, true, false))
+	->add('td', new VideoSource(false, true, true))
+	->add('qq', new VideoSource(false, true, true))
+	->add('6cn', new VideoSource(false, true, true))
+	->add('url', new VideoSource(true, true, true))
+	->add('local', new VideoSource(true, true, true))
+	->add('link', new VideoSource(true, true, true))
+	->add('burl', new VideoSource(true, true, true))
+	->add('blink', new VideoSource(true, true, true));
 
 //弹幕权限表
 $BilibiliAuthLevel = new DefinedEnum( array
@@ -28,16 +38,7 @@ $BilibiliAuthLevel = new DefinedEnum( array
 
 //调试
 if (CondAuth($pagename, 'admin')) $EnableDiag = 1;
-//必须的javascript加载
-//$HTMLHeaderFmt['swfobject'] = '<script type="text/javascript" src="/static/swfobject.js"></script>';
-//$HTMLHeaderFmt['jquery'] = '<script type="text/javascript" src="/static/jquery-1.6.1.min.js"></script>';
-//$HTMLHeaderFmt['bilibqule'] = '<script type="text/javascript" src="/static/qule.js"></script>';
 $HTMLHeaderFmt['playerScripts'] = "\n".'<script type="text/javascript" src="/static/min/b=static&amp;f=jquery-1.6.1.min.js,qule.js,swfobject.js,jquery-ui-1.8.14.custom.min.js,pdm-bili.js"></script>'."\n";
-#$HTMLFooterFmt['gPlus1'] = "\n".'<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{lang: \'zh-CN\', parsetags: \'explicit\'}</script>'
-#	."\n".'<script type="text/javascript">gapi.plusone.go();</script>'."\n";
-#Markup("googlePlusOne", 'directives',"/\\(:googlePlusOne:\\)/e",
-#	'keep("<g:plusone></g:plusone>")');
-
 
 //添加属性
 include_once("$FarmD/scripts/forms.php");

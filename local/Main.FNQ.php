@@ -22,10 +22,10 @@ if ( $_POST["xVerify"] == '5259797e-df81-4ee9-b00b-e961dc133e6e' ){
 			
 			foreach ($D as $key => $value) 
 			{
-				$data .= $key."\t=>\t".$value."\r\n";
+				$data .= $key."\t=>\t".$value."\n";
 			}
 			
-			$new['text'] = '[@'.$data.$xml."\r\n\r\n@]";
+			$new['text'] = '[@'.$data.$xml."\n\n@]";
 			$gn = "Queue.".time();UpdatePage($gn, $old,$new);
 			$MessagesFmt = <<<STR
 取得视频ID => OK; <br />
@@ -39,7 +39,7 @@ STR;
 			str_replace($acips,'www.acfun.cn',$_POST['xURL']);
 			$id = acfweb2id($_POST["xURL"]);
 			$xmld = file_get_contents('http://124.228.254.234/newflvplayer/xmldata/'.$id.'/comment_on.xml');
-			$new['text'] = '[@'.$_POST['xURL']."\r\n$id\r\n".$xmld."\r\n\r\n@]";
+			$new['text'] = '[@'.$_POST['xURL']."\n$id\n".$xmld."\n\n@]";
 			$gn = "Queue.".time();UpdatePage($gn, $old,$new);
 			$MessagesFmt = "提交完成，请等待管理员处理";
 			HandleBrowse('Main.FNQ');

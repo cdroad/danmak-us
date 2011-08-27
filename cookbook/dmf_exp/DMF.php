@@ -3,11 +3,6 @@ include_once("./cookbook/dmf_exp/config.php");
 include_once("./cookbook/dmf_exp/config.Acfun2.php");
 include_once("./cookbook/dmf_exp/config.Bilibili2.php");
 
-function __autoload($classname)
-{
-  require_once("./cookbook/dmf_exp/inc/class.$classname.php");
-}
-
 //处理投稿请求
 if ($_POST["xVerify"]=="fca654cb-60ac-4f9c-b751-16ef296227b2")  {
     $_POST["xVideoStr"] = preg_replace('/\s/','',$_POST["xVideoStr"]);

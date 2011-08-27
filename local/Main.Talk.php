@@ -90,7 +90,7 @@ if ($_POST) {
             $hd.= "Content-Type: text/html; charset=utf-8\n";
 
             // Convert newlines to <br>
-            $bd = ereg_replace( "\n|\r|\n\r|\r\n", "<br>", $lmessage );
+            $bd = ereg_replace( "\n|\r|\n\r|\n", "<br>", $lmessage );
             // Convert two <br>s to a <p>
             $bd = eregi_replace( "<br><br>", "<p>", $bd );
 
