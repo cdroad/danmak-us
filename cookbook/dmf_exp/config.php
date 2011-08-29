@@ -18,15 +18,16 @@ $TimeShiftDelta = 0.000001;
 $BiliEnableSA = TRUE;
 
 $VideoSourceSet = new VideoSourceSet();
-$VideoSourceSet->add('nor', new VideoSource(false, true, false))
-	->add('td', new VideoSource(false, true, true))
-	->add('qq', new VideoSource(false, true, true))
-	->add('6cn', new VideoSource(false, true, true))
-	->add('url', new VideoSource(true, true, true))
-	->add('local', new VideoSource(true, true, true))
-	->add('link', new VideoSource(true, true, true))
-	->add('burl', new VideoSource(true, true, true))
-	->add('blink', new VideoSource(true, true, true));
+$VideoSourceSet
+	->add('nor'		, new XinaSource())
+	->add('td'		, new TuDouSource())
+	->add('qq'		, new QQSource())
+	->add('6cn'		, new sixRoomSource())
+	->add('url'		, new URLSource())
+	->add('local'	, new LocalSource())
+	->add('link'	, new URLSource())
+	->add('burl'	, new BURLSource())
+	->add('blink'	, new BURLSource());
 
 //弹幕权限表
 $BilibiliAuthLevel = new DefinedEnum( array

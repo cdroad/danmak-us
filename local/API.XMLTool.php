@@ -97,14 +97,10 @@ function HandlePairConv($pagename, $auth = 'read')
 function HandlePoolConv($pagename, $auth = 'admin')
 {
 	global $DMF_Group;
-	//TODO:
 	myAssert(!empty($DMF_Group), "DMF_Group Not Defined.");
 	
 	$id = basename($_REQUEST['dmid']);
-	
-	$Func = "doPoolConv_$DMF_Group";
-	myAssert(function_exists($Func), "Pool Conv Function Not Exists.");
-	
+
 	$Pool = $_POST['Pool'];
 	switch (strtoupper($Pool))
 	{
@@ -122,7 +118,7 @@ function HandlePoolConv($pagename, $auth = 'admin')
 	}
 	
 	$Before = microtime(true);
-	$Func($id, $from, $target);
+	$GLOBALS['GroupConfigSet']->$DMF_Group->doPoolConv($id, $from, $target);
 	$T = microtime(true) - $Before;
 	$GLOBALS['MessagesFmt'] = '弹幕池转换'.$_POST['Pool']."过程结束. 用时：$T 秒";
 	HandleBrowse($pagename);
@@ -135,9 +131,6 @@ function HandleXMLLoad($pagename, $auth = 'read')
 	myAssert(!empty($DMF_Group), "DMF_Group Not Defined.");
 
 	$id = basename($_REQUEST['dmid']);
-	
-	$Func = "doXMLLoad_$DMF_Group";
-	myAssert(function_exists($Func), "Pool Conv Function Not Exists.");
 	
 	ob_start("ob_gzhandler");
 	
@@ -152,7 +145,7 @@ function HandleXMLLoad($pagename, $auth = 'read')
 	}
 	
 	$before = microtime(TRUE);
-	$Func($id);
+	$GLOBALS['GroupConfigSet']->$DMF_Group->doXMLLoad($id);
 	$exetime = microtime(true) - $before;
 	echo "\n<!--XML generated in $exetime seconds.-->";
 	

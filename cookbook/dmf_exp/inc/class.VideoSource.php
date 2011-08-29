@@ -17,12 +17,12 @@ abstract class VideoSourceBase
 		
 		if ($this->PageNameAsDanmakuId)
 		{
-			$this->danmakuId = PageVar($dataSource->pagename, '$:Name');
+			$this->danmakuId = PageVar($dataSource->pagename, '$Name');
 		} else {
 			$this->danmakuId = $dataSource->source;
 		}
 		
-		if ($this->MutiAble)
+		if ($this->MutiAble && $dataSource != 1)
 		{
 			$this->warpDanmakuId($dataSource);
 		}
@@ -33,6 +33,7 @@ abstract class VideoSourceBase
 		} else {
 			$this->source = $this->danmakuId;
 		}
+		return $this;
 	}
 	
 	public function warpDanmakuId($dataSource)

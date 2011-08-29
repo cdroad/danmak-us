@@ -7,7 +7,7 @@ class BiliUniDanmakuPair extends DanmakuUniPairBase
 	public function BiliUniDanmakuPair($dmid, $pair = PAIR_ALL)
 	{
 		parent::__construct('Bilibili2', $dmid, $pair);
-		$this->BilibiliChatString = $this->GroupConfig['XMLSPEC'];
+		$this->BilibiliChatString = $this->GroupConfig->XMLSPEC;
 		
 	}
 	
@@ -28,21 +28,19 @@ class BiliUniDanmakuPair extends DanmakuUniPairBase
 			$xml .= $this->BilibiliChatString;
 			foreach ($danmakus as $node)
 			{
-				$attr = $node->getElementsByTagName("attr")
-				->item(0);
+				$attr = $node->attrs->attr[0]->attributes();
 				
 				$attrs = array();
-				$attrs[] = $attr->getAttribute('playtime');
-				$attrs[] = $attr->getAttribute('mode');
-				$attrs[] = $attr->getAttribute('fontsize');
-				$attrs[] = $attr->getAttribute('color');
-				$attrs[] = $attr->getAttribute('sendtime');
-				$attrs[] = $attr->getAttribute('poolid');
-				$attrs[] = $attr->getAttribute('userhash');
-				$attrs[] = $node->getAttribute('id');
+				$attrs[] = $attr['playtime'];
+				$attrs[] = $attr['mode'];
+				$attrs[] = $attr['fontsize'];
+				$attrs[] = $attr['color'];
+				$attrs[] = $attr['sendtime'];
+				$attrs[] = $attr['poolid'];
+				$attrs[] = $attr['userhash'];
+				$attrs[] = $node['id'];
 				
-				$usText = $node->getElementsByTagName("text")
-				->item(0)->nodeValue;
+				$usText = $node->text;
 				$pString = implode(",", $attrs);
 				$text = htmlspecialchars($usText, ENT_NOQUOTES, "UTF-8");
 				$xml .= "\t<d p=\"$pString\">$text</d>\n";
@@ -57,22 +55,20 @@ class BiliUniDanmakuPair extends DanmakuUniPairBase
 			
 			foreach ($danmakus as $node)
 			{
-				$attr = $node->getElementsByTagName("attr")
-				->getElementsByTagName("attrs")->item(0);
+				$attr = $node->attrs->attr[0]->attributes();
 				
-				$dmid = $node->getAttribute('id');
+				$dmid = $node['id'];
 				
-				$usText = $node->getElementsByTagName("text")
-				->item(0)->nodeValue;
+				$usText = $node->text;
 				$text = htmlspecialchars($usText, ENT_NOQUOTES, "UTF-8");
 				
-				$playtime = $attr->getAttribute('playtime');
-				$fontsize = $attr->getAttribute('fontsize');
-				$color = $attr->getAttribute('color');
-				$mode = $attr->getAttribute('mode');
+				$playtime = $attr['playtime'];
+				$fontsize = $attr['fontsize'];
+				$color = $attr['color'];
+				$mode = $attr['mode'];
 				
 				$sendTime = date("Y-m-d H:i:s", 
-					intval($attr->getAttribute('sendtime')));
+					intval($attr['sendtime']));
 				$xml .= <<<XMLDATAEND
 <data>
 	<playTime>$playtime</playTime>
@@ -88,7 +84,7 @@ XMLDATAEND;
 		}
 	}
 	
-	protected function XMLFilter(DOMDocument $node)
+	protected function XMLFilter(SimpleXMLElement $node)
 	{
 		return $node;
 	}

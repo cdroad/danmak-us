@@ -13,7 +13,7 @@ abstract class Set
 	
 	public function __get($name)
 	{
-		return $this->Set[strtoupper($id)];
+		return $this->Set[strtoupper($name)];
 	}
 	
 	abstract protected function isVaildType($Obj);

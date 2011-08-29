@@ -1,4 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
+include("./cookbook/dmf_exp/inc/class.VideoSource.php");
 
 //https://secure.bluehost.com/~twodland/dmf/p/qqvideo_.php?vid=
 function __autoload($classname)

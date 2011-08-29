@@ -1,11 +1,15 @@
 <?php
 class Bilibili2GroupConfig extends GroupConfigBase
 {
+
 	public function __construct()
 	{
 		parent::GroupConfigBase();
 		$this->SUID = 'B';
 		$this->XMLFolderPath = './uploads/Bilibili2';
+		$this->DanmakuBarSet = new DanmakuBarSet();
+		$this->VideoSourceSet = $GLOBALS['VideoSourceSet'];
+		$this->PlayersSet = $GLOBALS['PlayerSet'];
 	}
 	
 	public function GenerateFlashVarArr(VideoData $source)

@@ -10,14 +10,12 @@ class DanmakuBarSet
 	{
 		$this->Guest = array
 		(
-			7 => '(:input form "{*$host}/API/XMLTool" method=get:)(:input hidden r {(ftime fmt="%s")}:)'.
-				'(:input hidden action XMLLoad:)(:input hidden group value="{$Group}" :)'.
-				'(:input hidden dmid "{$DMID}" :)'.
+			0 => '%danmakubar% (:input form "{*$host}/dm,{*$DMID}" method=get:)'.
 				'下载格式：(:input select name=format value=data label=data :)'.
 				'(:input select name=format value=d label=d :)'.
 				'(:input select name=format value=raw label=comment :)'.
 				'附件：(:input checkbox name=cmd value=download checked:)(:input submit value="下载":)'.
-				'(:input end:)&nbsp;&nbsp;',
+				'(:input end:)%%&nbsp;&nbsp;',	
 		);
 		
 		$this->Authed = array
@@ -34,13 +32,18 @@ class DanmakuBarSet
 			1 => '(:if2 equal "{*$IsMuti}" "true" :)[[{*$FullName}?action=edit | 编辑Part]]&nbsp;&nbsp;(:if2end:)',
 			
 			4 => '<br />',
-			
-			5 => '%newwin danmakubar%XML:&nbsp;&nbsp;',
-	
+			5 => '%newwin danmakubar% XML:&nbsp;&nbsp;',
+			7 => '(:input form "{*$host}/API/XMLTool" method=get:)(:input hidden r {(ftime fmt="%s")}:)'.
+				'(:input hidden action XMLLoad:)(:input hidden group value="{$Group}" :)'.
+				'(:input hidden dmid "{$DMID}" :)'.
+				'下载格式：(:input select name=format value=data label=data :)'.
+				'(:input select name=format value=d label=d :)'.
+				'(:input select name=format value=raw label=comment :)'.
+				'附件：(:input checkbox name=cmd value=download checked:)(:input submit value="下载":)'.
+				'(:input end:)&nbsp;&nbsp;',
+			99 => '%%',
 			6 => '[[{*$host}/API/XMLTool?action=Validate&'.
 				'dmid={*$DMID}&group=Bilibili2&r='.mt_rand().'|验证XML]]&nbsp;&nbsp;',
-			
-			99 => '%%'
 	
 		);
 		
@@ -94,21 +97,24 @@ class DanmakuBarSet
 		return 'GUEST';
 	}
 	
-	public function getArray(VideoData $source)
+	public function getString(VideoData $source)
 	{
 		$Arr = $this->Guest;
 		$Auth = $this->getAuthLevel($source->pagename);
 		
+		/*
 		if ($Auth == 'AUTHED')
 		{
-			$Arr = array_merge($Arr, $this->Authed);
+			$Arr = $this->Authed;
+			if ($Auth == 'ADMIN')
+			{
+				$Arr = array_merge($Arr, $this->Admin);
+			}
 		}
-		
-		if ($Auth == 'ADMIN')
-		{
-			$Arr = array_merge($Arr, $this->Admin);
-		}
-		
-		return $Arr;
+		*/
+
+		//ksort($Arr, SORT_REGULAR);
+		$str = implode($Arr);	
+		return $str;
 	}
 }

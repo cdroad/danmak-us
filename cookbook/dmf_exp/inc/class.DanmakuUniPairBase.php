@@ -55,17 +55,18 @@ abstract class DanmakuUniPairBase
 		$this->dmid = $dmid;
 		
 		$this->Group = $group;
-		$this->GroupConfig = $GLOBALS['DMF_GroupConfig'][$group];
+		$this->GroupConfig = $GLOBALS['GroupConfigSet']->$group;
 		
-		$this->ErrorXMLObj = simplexml_load_string($this->GroupConfig['XMLError']);
+		$this->ErrorXMLObj = simplexml_load_string($this->GroupConfig->XMLError);
 		
-		$this->NullXMLObj = simplexml_load_string($this->GroupConfig['XMLHeader'].
-			$this->GroupConfig['XMLFooter']);
+		$this->NullXMLObj = simplexml_load_string($this->GroupConfig->XMLHeader.
+			$this->GroupConfig->XMLFooter);
 		
 		$this->SPoolFile = "./uploads/$this->Group/$dmid.xml";
-		$this->DPoolFile = 'DMR.'.$this->GroupConfig['SUID'].$this->dmid;
+		$this->DPoolFile = 'DMR.'.$this->GroupConfig->SUID.$this->dmid;
 		
 		$this->load($pair);
+		
 	}
 	
 	final public function load($pair)
@@ -190,8 +191,7 @@ abstract class DanmakuUniPairBase
 				return $this->DPoolObj;
 			case "PAIR_ALL":
 				$tempPool = $this->SPoolObj;
-				$temp = $this->DPoolObj->getElementsByTagName("comments")->item(0);
-				$tempPool->importNode($temp, true);
+				$this->merge($tempPool, $this->DPoolObj);
 				return $tempPool;
 			default:
 				var_dump($name);
@@ -240,8 +240,8 @@ abstract class DanmakuUniPairBase
 		}
 		
 		$Obj = simplexml_load_file($this->SPoolFile);
-
-		if ($bResult === FALSE)
+		
+		if ($Obj === FALSE)
 		{
 			$this->WriteLog($p, "STATIC XML->FALSE");
 			$this->$p = $this->ErrorXMLObj;
@@ -262,11 +262,11 @@ abstract class DanmakuUniPairBase
 			$this->$p = $this->NullXMLObj;
 		}
 		
-		$XML = $this->GroupConfig['XMLHeader'].$page['text'].
-			$this->GroupConfig['XMLFooter'];
+		$XML = $this->GroupConfig->XMLHeader.$page['text'].
+			$this->GroupConfig->XMLFooter;
 		$Obj = simplexml_load_string($XML);
 
-		if ($bResult === FALSE)
+		if ($Obj === FALSE)
 		{
 			$this->WriteLog($p, "DYNAMIC XML->FALSE");
 			$this->$p = $this->ErrorXMLObj;

@@ -28,6 +28,12 @@ abstract class GroupConfigBase
 	 * @var SimpleXMLElement
 	 */
 	protected $XMLError;
+
+	protected $DanmakuBarSet;
+	
+	protected $VideoSourceSet;
+	
+	protected $PlayersSet;
 	
 	protected function GroupConfigBase()
 	{

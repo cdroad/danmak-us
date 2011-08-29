@@ -1,71 +1,109 @@
-<?php if (!defined('PmWiki')) exit();
+<?php
 
-// 继承并扩展从BaseVar传递的数据
-class VideoData 
+class VideoData
 {
-	var $_AFVArray;
-	var $_danmakuId;
-
-	public function getAFVArray() {
-		return $this->_AFVArray;
-	}
-
-	public function getBaseVarObj() {
-		return $this->_baseVarObj;
-	}
+	private $source;
+	private $sourcetype;
+	private $partIndex;
+	/**
+	 * 
+	 * @var Player
+	 */
+	private $player;
+	private $muti;
+	private $pagename;
+	private $groupConfig;
 	
-	public function getDanmakuId() {
-		return $this->_danmakuId;
-	}
+	private $dmid;
 	
-	public function getPartNo() {
-		return $this->_baseVarObj->getPartNo();
-	}
-
-	public function getPlayerId() {
-		return $this->_baseVarObj->getPlayerId();
-	}
+	private $PlayerLoadCode;
+	private $DanmakuBarCode;
+	private $PlayerLinkCode;
+	private $PartIndexCode;
 	
-	public function getPartId() {
-		return $this->_baseVarObj->getPartNo();
-	}
+	private $stat = true;
 	
-	public function getGroup() {
-		return $this->_baseVarObj->getGroup();
-	}
-	
-	public function getPagename() {
-		return $this->_baseVarObj->getPagename();
-	}
-	
-	public function isMuti() {
-		return $this->_baseVarObj->getIsMutiAble();
-	}
-	
-	public function VideoData(&$BaseVarObj) {
-
-		$isVaildParams = ( get_class($BaseVarObj) == "BaseVar");
-		if ($isVaildParams) {
-			$this->_baseVarObj = $BaseVarObj;
-		} else {
-			$this->_baseVarObj = Abort("Wrong object given!");
+	public function __construct($pn)
+	{
+		$this->PlayerLoadCode = $GLOBALS['playerCodeHeader'];
+		$this->initVars($pn);
+		if ($this->stat)
+		{
+			$this->initCodes();
+			$this->initPageVars();
 		}
-		
-		$this->setDanmakuId();
-		$this->setFileURLIfNeeded();
-		$this->setAFVArray();
-		
-		$this->setPmwikiVars();
-	}
 
-	private function setPmwikiVars() {
-		$PV_Muti = ($this->_baseVarObj->getIsMutiAble()) ? "true" : "false";
-		$this->saveFPV('$IsMuti', $PV_Muti);
-		$this->saveFPV('$DMID', $this->_danmakuId);
+	}
+	
+	public function __get($name)
+	{
+		return $this->$name;
+	}
+	
+	private function initVars($pn)
+	{
+		if (!PageExists($pn))  {assert (FALSE);$this->setBroken();return;}
+		$this->pagename = $pn;
+		$group = PageVar($this->pagename, '$Group');
+		
+		$this->groupConfig = $GLOBALS['GroupConfigSet']->$group;
+		
+		$page = ReadPage($this->pagename);
+		
+		$this->source = PageVar($this->pagename,'$:VideoStr');
+		
+		$partIndex = intval($_REQUEST['part']);
+		$isRequestPartIndexExist = ($part > 1);
+		$PageVarResult = PageVar($this->pagename, '$:P'.$partIndex);
+		$isRequestPartIndexVaild = !empty($PageVarResult);
+		
+		if ($this->muti && $isRequestPartIndexExist && $isRequestPartIndexVaild)
+		{
+			$this->partIndex = $partIndex;
+		} 
+		
+		
+		$UserPreferPlayer = $page["PartPlayer_".$this->partIndex];
+		$UserPreferPlayer = $_REQUEST['player'];
+		if ( !empty($this->groupConfig->PlayersSet->$PartPreferPlayer) )
+		{
+			$this->player = $this->groupConfig->PlayersSet->$PartPreferPlayer;
+		}
+		else
+		if ( !empty($this->groupConfig->PlayersSet->$PartPreferPlayer) )
+		{
+			$this->player = $this->groupConfig->PlayersSet->$UserPreferPlayer;
+		}
+		else
+		{
+			$this->player = $this->groupConfig->PlayersSet->Default;
+		}
+
+		$vt = PageVar($this->pagename,'$:VideoType');
+		if (is_null($this->groupConfig->VideoSourceSet->$vt))  {$this->setBroken();return;}
+		$this->sourcetype = $this->groupConfig->VideoSourceSet->$vt->init($this);
+		$this->muti = $this->sourcetype->MutiAble;
+		$this->dmid = $this->sourcetype->danmakuId;
+	
+	}
+	
+	private function initCodes()
+	{
+		$this->initDanmakuBarCode();
+		$this->initPartIndexCode();
+		$this->initPlayerLinkCode();
+		$this->initPlayerLoadCode();
+	}
+	
+	private function initPageVars()
+	{
+		$strBool = $this->muti ? "true" : "false";
+		$this->saveFPV('$IsMuti', $strBool);
+		$this->saveFPV('$DMID', $this->dmid);
 		$this->saveFPV('$Stats', "true");
-		$this->saveFPV('$host',$GLOBALS['ScriptUrl']);
+		$this->saveFPV('$host', $GLOBALS['ScriptUrl']);
 	}
-
+	
 	private function saveFPV($name, $value, $quote = TRUE) {
 		global $FmtPV;
 
@@ -74,82 +112,99 @@ class VideoData
 
 		$FmtPV[$name] = $value;
 	}
-
-	private function setAFVArray() {
-		global $DMF_GroupConfig;
-
-		$AFVFunc = $DMF_GroupConfig[$this->_baseVarObj->getGroup()]
-			['AFVFunction'];
+	
+	private function initPlayerLoadCode()
+	{
+		$AFVArray = $this->groupConfig->GenerateFlashVarArr($this);
+		$this->PlayerLoadCode .= $this->AFVArrayToJavascript($AFVArray);
 		
-		$IsAFVFuncExist = function_exists($AFVFunc);
-
-		if (!$IsAFVFuncExist)
+		//加载SWF
+		$this->PlayerLoadCode .= $this->genSWFObjectCode();
+	}
+	
+	private function genSWFObjectCode()
+	{
+		return "swfobject.embedSWF(\"".$this->player->playerUrl.
+			"\", \"flashcontent\", \"".$this->player->width.
+			"\", \"".$this->player->height.
+			"\", \"10.0.0\",\"expressInstall.swf\", flashvars, params);</script>";	
+	}
+	
+	private function AFVArrayToJavascript($arr)
+	{
+		$str = '';
+		foreach ($arr as $k => $v) {
+			$str .= "flashvars.$k = \"$v\";\r\n";
+		}
+		return $str;
+	}
+	
+	private function initDanmakuBarCode()
+	{
+		$this->DanmakuBarCode = '||'.$this->groupConfig->DanmakuBarSet->getString($this).'||';
+	}
+	
+	private function initPlayerLinkCode()
+	{
+		$isPreferPlayerAuthed = CondAuth($this->pagename, 'admin');		
+		foreach ($this->groupConfig->PlayersSet as $playerId => $playerObj)
 		{
-			writeLog('Main/SysLog', "AFV function not exist. id = $this->_danmakuId");
-			Abort("AFV_ARRAY_CONV_FUNCTION_NOT_EXIST");
-		}
-		$this->_AFVArray = $AFVFunc(
-							$this->_baseVarObj->getVType(), 
-							$this->_danmakuId, 
-							$this->_fileURL);
-	}
-	
-	private function setDanmakuId() {
-		global $DMF_GroupConfig;
-
-		$isUsePageNameAsDanmakuId = 
-			$DMF_GroupConfig[$this->_baseVarObj->getGroup()]
-			['VideoSourceConfig'][$this->_baseVarObj->getVType()]
-			['PageNameAsDanmakuId'];
-
-		if ($isUsePageNameAsDanmakuId) {
-			$this->_danmakuId = $this->appendPartId(
-				PageVar($this->_baseVarObj->getPagename(), '$Name')
-			);
-		} else {
-				$this->_danmakuId = $this->appendPartId(
-					$this->_baseVarObj->getStr()
-				);
-		}
-	}
-
-	private function appendPartId($ID) {
-
-		$MutiAble = $this->_baseVarObj->getIsMutiAble();
-		if ($MutiAble) {
-			$Part = $this->_baseVarObj->getPartNo();
+			if ($playerId == 'DEFAULT')
+			{
+				continue;
+			}
 			
-			if ($Part != "1") {
-				return $ID."P$Part";
-			}
-		}
-		return $ID;
-	}
-	private function setFileURLIfNeeded() {
-		global $DMF_GroupConfig;
-
-		$isFileURLNeeded = 
-			$DMF_GroupConfig[$this->_baseVarObj->getGroup()]
-			['VideoSourceConfig'][$this->_baseVarObj->getVType()]
-			['URLConvert'];
-
-		if ($isFileURLNeeded) {
-			$ConvFunc = 'DMF_URL_CONV_'.$this->_baseVarObj->getVType();
-			$IsConvFuncExists = function_exists($ConvFunc);
-
-			if ($IsConvFuncExists) {
-				$this->_fileURL = $ConvFunc($this->_baseVarObj->getStr());
+			if ($this->player == $playerObj)
+			{
+				$this->PlayerLinkCode .= 
+					"&nbsp;&nbsp;'''".$playerObj->desc."'''";
 			} else {
-				writeLog('Main/SysLog', "URL convert function not exist. id = $this->_danmakuId;".
-							"VType = ".$this->_baseVarObj->getVType().";");
-				Abort("URL CONV FUNCTION NOT EXISTS!");
+				$this->PlayerLinkCode .= "&nbsp;&nbsp;[[".
+					$playerObj->playerUrl.
+					"?Player=$playerId | ".$playerObj->desc.' ]]';
 			}
-
-		} else {
-			$this->_fileURL = NULL;
+			
+			if ($isPreferPlayerAuthed)
+			{
+				$this->PlayerLinkCode .= '[[{*$host}'.
+					"?Part=$this->partIndex".
+					"?Player=$playerId?action=setdef | "."&nbsp;'^Def^'".' ]]';
+			}
 		}
 	}
 	
-	var $_fileURL;
-	var $_baseVarObj;
+	private function initPartIndexCode()
+	{
+		$index = 1;
+		$URL = PageVar($this->pagename, '$PageUrl');
+		while ($Part = PageVar($this->pagename, '$:P'.$index))
+		{
+			assert(!empty($Part));
+			
+			if ($index == $this->partIndex)
+			{
+				$this->PartIndexCode .= 
+					'&nbsp;&nbsp;'."'''P$index'''".'&nbsp;&nbsp;';
+				$index++;
+				continue;
+			}
+
+			if ($index == 1)
+			{
+				$this->PartIndexCode .= '&nbsp;&nbsp;'.
+					"[[$URL | '''P$index''']]&nbsp;&nbsp;";
+				$index++;continue;
+			}
+			
+			$this->PartIndexCode .= '&nbsp;&nbsp;'.
+				"[[$URL?Part=$index | '''P$index''']]&nbsp;&nbsp;";
+			$index++;
+			
+		}
+	}
+	
+	private function setBroken()
+	{
+		$this->stat = FALSE;
+	}
 }

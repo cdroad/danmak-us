@@ -1,7 +1,6 @@
 <?php
 class PlayerSet extends Set implements Iterator
 {
-
 	public function addDefault($id)
 	{
 		$this->add('Default', $this->Set[strtoupper($id)]);
@@ -29,12 +28,12 @@ class PlayerSet extends Set implements Iterator
 	
 	public function rewind()
 	{
-		rewind($this->Set);
+		reset($this->Set);
 	}
 	
 	public function valid()
 	{
-		return isset($this->current());
+		return $this->isVaildType($this->current());
 	}
 }
 

@@ -1,6 +1,8 @@
 <?php
+$GroupConfigSet = new GroupConfigSet();
+
 include_once("./cookbook/dmf_exp/config.php");
-include_once("./cookbook/dmf_exp/config.Acfun2.php");
+//include_once("./cookbook/dmf_exp/config.Acfun2.php");
 include_once("./cookbook/dmf_exp/config.Bilibili2.php");
 
 //处理投稿请求

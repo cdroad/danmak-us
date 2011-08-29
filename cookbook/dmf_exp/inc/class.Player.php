@@ -11,7 +11,7 @@ class Player
 	
 	public function __construct($fileName, $desc, $width, $height, $Invisible = TRUE)
 	{
-		$this->playerUrl = self::$playerBase.$filename;
+		$this->playerUrl = self::$playerBase.$fileName;
 		$this->desc = $desc;
 		$this->width = intval($width);
 		$this->height = intval($height);

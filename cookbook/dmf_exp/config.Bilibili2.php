@@ -1,16 +1,11 @@
 <?php
-SDVA($DMF_GroupConfig['Bilibili2'], new Bilibili2GroupConfig());
-
-SDVA($DMF_GroupConfig['Bilibili2']['DanmakuBarConfig'], 'test');
-
 $PlayerSet = new PlayerSet();
 $PlayerSet->add('bi20110712', new Player('bi20110712.swf', 'bilibili播放器(20110712)', 950, 482))
 		  ->add('bi20110807', new Player('bi20110807.swf', 'bilibili播放器(20110807)', 950, 482))
 		  ->addDefault(bi20110807);
-SDVA($DMF_GroupConfig['Bilibili2']['Players'], $PlayerSet);
-
-$VideoSourceSet->add('yk', new VideoSource(false, false, false));
-SDVA($DMF_GroupConfig['Bilibili2']['VideoSourceConfig'], $VideoSourceSet);
+$VideoSourceSet->add('yk', new YouKuSource());
+ 
+$GroupConfigSet->add('bilibili2',new Bilibili2GroupConfig());
 
 function ConvertBilibiliXML_d($XMLObj)
 {
