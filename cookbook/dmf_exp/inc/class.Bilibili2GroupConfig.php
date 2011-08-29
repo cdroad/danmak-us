@@ -45,34 +45,12 @@ class Bilibili2GroupConfig extends GroupConfigBase
 		return $AFVArray;
 	}
 
-	public function HandleXMLPost($group, $dmid, $pair, $Append, $File)
+	public function HandleXMLPost($dmid, $DMPair, $Append, $xmldata)
 	{
-		//TODO:TEST
-		/*------>上级搞定
-		$GC = &$GLOBALS['DMF_GroupConfig']['Bilibili2'];
+
+		$GC = $GLOBALS['GroupConfigSet']->Bilibili2;
 		
-		$dmid = basename($_POST['dmid']);
-		$DMPair = ($_POST['Pool'] == 'S') ? PAIR_STATIC : PAIR_DYNAMIC ;
-		$Append = (strtolower($_POST['Append']) == 'true') ? TRUE : FALSE ;
-		
-		if ($_FILES['uploadfile']['error'] != UPLOAD_ERR_OK)
-		{
-			$GLOBALS['MessagesFmt'] = "文件上传失败";
-			HandleBrowse('API/XMLTool');
-			return;
-		}
-		
-		$xmldata = simplexml_load_file($_FILES['uploadfile']['tmp_name']);
-	
-		if ($xmldata === FALSE) 
-		{
-			$GLOBALS['MessagesFmt'] = "XML文件非法，拒绝上传请求";
-			HandleBrowse('API/XMLTool');
-			return;
-		}
-		*/
-		
-		$XMLString = $GC['XMLHeader']."\r\n";
+		$XMLString = $GC->XMLHeader."\r\n";
 	
 		//统一转换为UniXML(<comment>)格式
 		foreach ($xmldata->comment as $danmaku)
@@ -116,7 +94,7 @@ class Bilibili2GroupConfig extends GroupConfigBase
 			$XMLString .= "\t\t</attrs>\r\n";
 			$XMLString .= "\t</comment>\r\n";
 		}
-		$XMLString .= $GC['XMLFooter'];
+		$XMLString .= $GC->XMLFooter;
 		
 		unset($xmldata);
 	
@@ -131,13 +109,12 @@ class Bilibili2GroupConfig extends GroupConfigBase
 		
 		if ($Append)
 		{
-			$Pair->append($DMPair, $XMLObj);
+			$Pair->import($DMPair, $XMLObj);
 		} else {
-			$Pair->set($DMPair, $XMLObj);
+			$Pair->$DMPair = $XMLObj;
 		}
 		$Pair->save($DMPair);
 		
-		HandleBrowse($pagename);
 	}
 
 	public function doPoolConv($id, $PoolString)

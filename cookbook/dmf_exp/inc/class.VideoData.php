@@ -57,12 +57,6 @@ class VideoData
 		$PageVarResult = PageVar($this->pagename, '$:P'.$partIndex);
 		$isRequestPartIndexVaild = !empty($PageVarResult);
 		
-		if ($this->muti && $isRequestPartIndexExist && $isRequestPartIndexVaild)
-		{
-			$this->partIndex = $partIndex;
-		} 
-		
-		
 		$UserPreferPlayer = $page["PartPlayer_".$this->partIndex];
 		$UserPreferPlayer = $_REQUEST['player'];
 		if ( !empty($this->groupConfig->PlayersSet->$PartPreferPlayer) )
@@ -82,9 +76,12 @@ class VideoData
 		$vt = PageVar($this->pagename,'$:VideoType');
 		if (is_null($this->groupConfig->VideoSourceSet->$vt))  {$this->setBroken();return;}
 		$this->sourcetype = $this->groupConfig->VideoSourceSet->$vt->init($this);
-		$this->muti = $this->sourcetype->MutiAble;
+		$this->muti = $this->sourcetype->MutiAble && PageVar($this->pagename, '$:IsMuti') == 'true';
+		if ($this->muti && $isRequestPartIndexExist && $isRequestPartIndexVaild)
+		{
+			$this->partIndex = $partIndex;
+		} 
 		$this->dmid = $this->sourcetype->danmakuId;
-	
 	}
 	
 	private function initCodes()

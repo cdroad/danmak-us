@@ -350,7 +350,6 @@ abstract class DanmakuUniPairBase
 			}
 			$queryString = substr($queryString, 0, -4)."]";
 		}
-		
 		return $queryString;
 	}
 	

@@ -50,7 +50,7 @@ abstract class GroupConfigBase
 	
 	abstract public function GenerateFlashVarArr(VideoData $source);
 	
-	abstract public function HandleXMLPost($group, $dmid, $pair, $Append, $File);
+	abstract public function HandleXMLPost($dmid, $pair, $Append, $File);
 	
 	abstract public function doPoolConv($id, $PoolString);
 	

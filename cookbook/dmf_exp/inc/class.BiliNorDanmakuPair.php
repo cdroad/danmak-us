@@ -15,10 +15,12 @@ class BiliNorDanmakuPair extends DanmakuPairBase
 		$temp = $this->get($Pair);
 		
 		$result = $temp->xpath("//i/chatserver | //i/chatid");
+		
 		foreach ($result as $node)
 		{
 			unset($node[0]);
 		}
+		
 		simplexml_merge($temp, $this->_XMLSpec);
 		
 		if ($Format == 'd')
