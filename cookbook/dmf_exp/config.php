@@ -7,7 +7,7 @@ $LOCALVERSION = true;
 $DEBUGMODE = true;
 $ACFUN = FALSE;
 $BILIBILI = TRUE;
-$FmtPV['$DMFVersion'] = '"DMF-4.1.2"';
+$FmtPV['$DMFVersion'] = '"DMF-5.0.0 pre-alpha"';
 $LoginAuthLevel = 'Danmakuer';
 $CheckPerfs = FALSE;
 $EnableAutoTimeShift = TRUE;
@@ -23,9 +23,9 @@ $VideoSourceSet
 	->add('td'		, new TuDouSource())
 	->add('qq'		, new QQSource())
 	->add('6cn'		, new sixRoomSource())
-	->add('url'		, new URLSource())
 	->add('local'	, new LocalSource())
 	->add('link'	, new URLSource())
+	->add('url'		, new URLSource())
 	->add('burl'	, new BURLSource())
 	->add('blink'	, new BURLSource());
 

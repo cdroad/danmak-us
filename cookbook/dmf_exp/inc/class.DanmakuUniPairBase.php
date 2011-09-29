@@ -57,7 +57,7 @@ abstract class DanmakuUniPairBase
 		$this->Group = $group;
 		$this->GroupConfig = $GLOBALS['GroupConfigSet']->$group;
 		
-		$this->ErrorXMLObj = simplexml_load_string($this->GroupConfig->XMLError);
+		$this->ErrorXMLObj = $this->GroupConfig->XMLError;
 		
 		$this->NullXMLObj = simplexml_load_string($this->GroupConfig->XMLHeader.
 			$this->GroupConfig->XMLFooter);
@@ -243,7 +243,7 @@ abstract class DanmakuUniPairBase
 		
 		if ($Obj === FALSE)
 		{
-			$this->WriteLog($p, "STATIC XML->FALSE");
+			$this->WriteLog($p, "XML Self-Check : STATIC XML->FALSE");
 			$this->$p = $this->ErrorXMLObj;
 		} else {
 			$this->$p = $Obj;
@@ -268,7 +268,7 @@ abstract class DanmakuUniPairBase
 
 		if ($Obj === FALSE)
 		{
-			$this->WriteLog($p, "DYNAMIC XML->FALSE");
+			$this->WriteLog($p, "XML Self-Check DYNAMIC XML->FALSE");
 			$this->$p = $this->ErrorXMLObj;
 		} else {
 			$this->$p = $Obj;
@@ -300,7 +300,12 @@ abstract class DanmakuUniPairBase
 		$new = $old = RetrieveAuthPage($this->DPoolFile, $auth, FALSE, 0);
 		
 		$tempObj = $this->XMLFilter($this->DPoolObj);
-		$new['text'] = $tempObj->saveXML();
+		$danmakuS = $tempObj->comment;
+		$new['text'] = '';
+		foreach ($danmakuS as $danmaku)
+		{
+			$new['text'] .= PHP_EOL.$danmaku->asXML(); 
+		}
 		
 		UpdatePage($this->DPoolFile, $old, $new);
 	}

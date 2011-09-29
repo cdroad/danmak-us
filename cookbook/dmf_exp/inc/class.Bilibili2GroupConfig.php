@@ -117,10 +117,10 @@ class Bilibili2GroupConfig extends GroupConfigBase
 		
 	}
 
-	public function doPoolConv($id, $PoolString)
+	public function doPoolConv($id, $from, $to)
 	{
 		$Pair = new BiliUniDanmakuPair($id, PAIR_ALL);
-		$Pair->move($PoolString);
+		$Pair->movePool($from, $to);
 		$Pair->save(PAIR_ALL);
 	}
 	

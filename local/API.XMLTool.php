@@ -137,11 +137,12 @@ function HandleXMLLoad($pagename, $auth = 'read')
 	if ($_GET['cmd'] == "download")
 	{
 		header("Content-type: ".
-			"application/octet-stream");
+			"text/xml");
 		header("Content-disposition: ".
 			"attachment; filename=\"".$id.".xml\"");
 	} else {
-		//header("Content-Type: text/plain; charset=utf-8");
+		header("Content-type: ".
+			"text/xml");
 	}
 	
 	$before = microtime(TRUE);
@@ -161,10 +162,7 @@ function HandleValidate($pagename, $auth = 'admin')
 	
 	$id = basename($_REQUEST['dmid']);
 	
-	$Func = "doValidate_$DMF_Group";
-	myAssert(function_exists($Func), "Pool Conv Function Not Exists.");
-		
-	$Func($id, PAIR_ALL);
+	$GLOBALS['GroupConfigSet']->$DMF_Group->doValidate($id, PAIR_ALL);
 	HandleBrowse($pagename);
 }
 
@@ -176,8 +174,6 @@ function HandlePoolClear($pagename, $auth = 'admin')
 	myAssert(!empty($DMF_Group), "DMF_Group Not Defined.");
 	
 	$id = basename($_REQUEST['dmid']);
-	$Func = "doXMLLoad_$DMF_Group";
-	myAssert(function_exists($Func), "Pool Conv Function Not Exists.");
 	switch (strtoupper($_POST['Pool']))
 	{
 		case 'S':

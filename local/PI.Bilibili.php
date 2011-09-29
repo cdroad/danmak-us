@@ -24,11 +24,11 @@ function HandleDad($pagename, $auth = 'edit')
 		{
 			echo <<<STR
 <login>true</login>
-<name>DMF_VIP</name>
+<name>KPX</name>
 <pwd>05589497</pwd>
 <isadmin>true</isadmin>
 <permission>$AuthLevelString</permission>
-<level>DMF VIP</level>
+<level>VIP会员</level>
 <shot>false</shot>
 <chatid>$id</chatid>
 <pid>0</pid>

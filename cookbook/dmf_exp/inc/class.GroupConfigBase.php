@@ -52,7 +52,7 @@ abstract class GroupConfigBase
 	
 	abstract public function HandleXMLPost($dmid, $pair, $Append, $File);
 	
-	abstract public function doPoolConv($id, $PoolString);
+	abstract public function doPoolConv($id, $from, $to);
 	
 	abstract public function doXMLLoad($id);
 	
