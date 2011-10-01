@@ -2,33 +2,6 @@
 $EnableNotify = 0;
 $EnablePostAuthorRequired = 0;
 
-$HandleActions['Format'] = "HandleFormat";
-$HandleAuth['Format'] = 'read';
-
-
-function HandleFormat($pagename, $auth = 'edit')
-{
-	libxml_use_internal_errors(true);
-	$page = @RetrieveAuthPage($pagename, 'ALWAYS', true, READPAGE_CURRENT);
-	$xml = "<i>".$page['text']."</i>";
-	$xmlobj = simplexml_load_string($xml);
-	
-	if (!$xmlobj)
-	{
-		foreach (libxml_get_errors() as $error)
-		{
-			$MessagesFmt .= display_xml_error($error,$XML);
-		}
-	} else {
-		foreach ($xmlobj->d as $danmaku)
-		{
-			$attributes = $danmaku->attributes();
-			$danmaku = str_replace("/n","|<br />",$danmaku);
-			echo "<br />ATTR:<br />".$attributes['p'].'<br />TEXT:<br /><div style="font-family:simhei;font-size:18px;">'.$danmaku."</div>";
-		}
-	}
-}
-
 array_unshift($EditFunctions,'VXML');
 include_once("./cookbook/dmf_exp/lib.XML.php");
 $PageEditForm = 'DMR.EditForm';

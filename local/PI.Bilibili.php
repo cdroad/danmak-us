@@ -5,7 +5,7 @@ $EnablePostAuthorRequired = 0;
 
 function hashVid($vid,$head = true)
 {
-	$numb = $head ? "0x".substr(md5("DMR.B".$vid),0,5) : "0x".substr(md5($vid),0,5);
+	$numb = $head ? "0x".substr(md5("DMR.B".$vid),0,4) : "0x".substr(md5($vid),0,4);
 	return $numb * 1;
 }
 

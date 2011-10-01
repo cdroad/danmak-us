@@ -6,10 +6,10 @@ $HandleAuth['BiDMR'] = 'edit';
 function HandleBiDMR($pagename, $auth = 'edit')
 {
 	if (	$_POST['date']			!= ''		||
-			$_POST["playTime"]	!= ''			||
+			$_POST["playTime"]	    != ''			||
 			$_POST["mode"]			!= ''		||
-			$_POST["fontsize"]	!= ''			||
-			$_POST["color"]		!= ''			||
+			$_POST["fontsize"]	    != ''			||
+			$_POST["color"]		    != ''			||
 			$_POST["pool"]			!= ''		||
 			$_POST["message"]		!= ''		)
 	{
