@@ -6,3 +6,5 @@ class VideoSourceSet extends Set
 		return $Obj instanceof VideoSourceBase;
 	}
 }
+
+$VideoSourceSet = new VideoSourceSet();

@@ -6,3 +6,5 @@ class GroupConfigSet extends Set
 		return $Obj instanceof GroupConfigBase;
 	}
 }
+
+$GroupConfigSet = new GroupConfigSet();

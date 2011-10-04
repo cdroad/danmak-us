@@ -31,6 +31,16 @@ $EnableUploadVersions=1;
 $UploadExts['xml'] = 'text/xml';
 $HTMLPNewline = '<br />'; 
 $SearchPatterns['default'][] = '!^PmWiki\\.!';
+//调试
+if (CondAuth($pagename, 'admin')) $EnableDiag = 1;
+//添加属性
+include_once("$FarmD/scripts/forms.php");
+$InputAttrs[] = 'onclick';
+$InputAttrs[] = 'onsubmit';
+$InputAttrs[] = 'onchange';
+$InputAttrs[] = 'target';
+$InputAttrs[] = 'onkeyup';
+$InputAttrs[] = 'maxlength';
 
 # 广告屏蔽
 $BlocklistDownload["$SiteAdminGroup.Blocklist-MoinMaster"] = array(

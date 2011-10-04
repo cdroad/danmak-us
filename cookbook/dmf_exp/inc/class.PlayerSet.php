@@ -36,4 +36,4 @@ class PlayerSet extends Set implements Iterator
 		return $this->isVaildType($this->current());
 	}
 }
-
+$PlayerSet = new PlayerSet();

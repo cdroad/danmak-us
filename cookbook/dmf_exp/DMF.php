@@ -16,8 +16,6 @@ include_once("cookbook/dmf_exp/inc/class.VideoData.php");
 include_once("cookbook/dmf_exp/inc/class.VideoSource.php");
 include_once("cookbook/dmf_exp/inc/class.VideoSourceSet.php");
 
-$GroupConfigSet = new GroupConfigSet();
-
 include_once("./cookbook/dmf_exp/config.php");
 //include_once("./cookbook/dmf_exp/config.Acfun2.php");
 include_once("./cookbook/dmf_exp/config.Bilibili2.php");
@@ -50,12 +48,6 @@ if ( $CheckPerfs && ($_GET['skipPerfs'] != 'TRUE') )
 	}
 }
 
-if ($LOCALVERSION) {
-	include("./cookbook/dmf_exp/DMF_local.php");
-} else {
-	include("./cookbook/dmf_exp/DMF_main.php");
-}
-
 function myAssert($b, $str)
 {
 	global $myAssertInteraEnable;
@@ -72,13 +64,6 @@ function myAssert($b, $str)
 	return;
 }
 
-function writeLog($pagename, $errorStr)
-{
-	$Str = "\r\n".strftime($GLOBALS['TimeFmt'])."$errorStr";
-	$page = ReadPage($pagename);
-	$page['text'] .= $Str;
-	WritePage($pagename, $page);
-}
 
 $HandleActions['setdef'] = 'Handlesetdef';
 $HandleAuth['setdef'] = 'admin';
@@ -96,5 +81,10 @@ function Handlesetdef($pn,$auth = 'admin')
 	header("Cache-Control: no-cache, must-revalidate");
 	header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
 	header("Location: ".PageVar($pn,'$PageUrl'));
-	//HandleBrowse($pn);
+}
+
+if ($LOCALVERSION) {
+	include("./cookbook/dmf_exp/DMF_local.php");
+} else {
+	include("./cookbook/dmf_exp/DMF_main.php");
 }
