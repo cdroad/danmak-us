@@ -1,4 +1,21 @@
 <?php
+include_once("cookbook/dmf_exp/inc/class.Enum.php");
+include_once("cookbook/dmf_exp/inc/class.DefinedEnum.php");
+include_once("cookbook/dmf_exp/inc/class.FlagsEnum.php");
+include_once("cookbook/dmf_exp/inc/class.Set.php");
+include_once("cookbook/dmf_exp/inc/class.DanmakuUniPairBase.php");
+include_once("cookbook/dmf_exp/inc/class.GroupConfigBase.php");
+include_once("cookbook/dmf_exp/inc/class.BaseVar.php");
+include_once("cookbook/dmf_exp/inc/class.Bilibili2GroupConfig.php");
+include_once("cookbook/dmf_exp/inc/class.BiliUniDanmakuPair.php");
+include_once("cookbook/dmf_exp/inc/class.DanmakuBarSet.php");
+include_once("cookbook/dmf_exp/inc/class.GroupConfigSet.php");
+include_once("cookbook/dmf_exp/inc/class.Player.php");
+include_once("cookbook/dmf_exp/inc/class.PlayerSet.php");
+include_once("cookbook/dmf_exp/inc/class.VideoData.php");
+include_once("cookbook/dmf_exp/inc/class.VideoSource.php");
+include_once("cookbook/dmf_exp/inc/class.VideoSourceSet.php");
+
 $GroupConfigSet = new GroupConfigSet();
 
 include_once("./cookbook/dmf_exp/config.php");

@@ -21,6 +21,11 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
+	
+	public function haxx($foo, $bar)
+	{
+		echo "foo is $foo; bar is $bar !";
+	}
 }
 
 /* End of file welcome.php */

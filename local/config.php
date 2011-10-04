@@ -128,3 +128,8 @@ function array_insert(&$arr, &$ins)
 }
 
 include("./cookbook/dmf_exp/DMF.php");
+if ( !(bool)preg_match("/\/([A-Z0-9\xa0-\xff].*)/", $_SERVER['REQUEST_URI'])
+      && !($_SERVER['REQUEST_URI'] == "/") ) {
+    $pagename = $_REQUEST['n'] = $_REQUEST['pagename'] = 'Main/HomePage';
+    $EnableCodeIgniter = TRUE;
+}

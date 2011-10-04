@@ -8,7 +8,6 @@ $DEBUGMODE = true;
 $ACFUN = FALSE;
 $BILIBILI = TRUE;
 $FmtPV['$DMFVersion'] = '"DMF-5.0.0 pre-alpha"';
-$LoginAuthLevel = 'Danmakuer';
 $CheckPerfs = FALSE;
 $EnableAutoTimeShift = TRUE;
 $TimeShiftDelta = 0.000001;
@@ -32,6 +31,7 @@ $VideoSourceSet
 //弹幕权限表
 $BilibiliAuthLevel = new DefinedEnum( array
 (
+    'DefaultLevel' => '10000,1001',
 	'Guest'	=> '0',
 	'User'	=> '10000,1001',
 	'Danmakuer' => '20000,1001'

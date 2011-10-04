@@ -1,3 +1,29 @@
-All -> htaccess - -> Pmwiki --> NAT --> Pages
-                                    --> APIs
-RegApi("filename--regex",{method},{group},"class")
+RewriteEngine on
+#####################################################
+##老网址兼容
+RewriteRule ^pmfun/(.*)       http://danmaku.us/$1        [L,R=301]
+
+
+RewriteRule ^playtag        PI/Bilibili?action=Playtag&id=$1        [L]
+RewriteRule ^dmerror        PI/Bilibili?action=dmerror              [L]
+RewriteRule ^dad.php        PI/Bilibili?action=Dad				    [QSA,L]
+RewriteRule ^dmduration     PI/Bilibili?action=dmduration           [L]
+RewriteRule ^rec            PI/Bilibili?action=rec                  [L]
+RewriteRule ^member/dmm.php PI/Bilibili?action=dmm                  [L]
+RewriteRule ^dmpost         DMR/Bilibili?action=BiDMR               [L]
+RewriteRule ^dmreport         DMR/Bilibili?action=dmreport          [L]
+
+RewriteRule ^newflvplayer/pad\.xml		 	/API/BPadXml?action=source  [L]
+RewriteRule ^newflvplayer/xml/g+\.xml		/API/AcfAdXml?action=source [L]
+
+RewriteRule ^/API/ipv6PHP_					/static/ipv6.php 			[L]
+RewriteRule ^newacfplayer/xmldata/(.*)/comment_lock.*     /API/XMLTool?action=XMLLoad&group=Acfun3&dmid=$1 [QSA,L]
+RewriteRule ^newacfplayer/xmldata/(.*)/comment_super.*    /API/XMLTool?action=XMLLoad&group=Acfun3&dmid=$1 [QSA,L]
+RewriteRule ^newacfplayer/xml/g+\.xml		/API/AcfAdXml?action=source [L]
+
+RewriteRule ^dm,([^?]*)  API/XMLTool?action=XMLLoad&group=Bilibili2&dmid=$1				[QSA,L]
+RewriteRule ^newflvplayer/xmldata/(.*)/    API/XMLTool?action=XMLLoad&group=Acfun2&dmid=$1 [QSA,L]
+
+#RewriteRule ^p/A(.*)P01        API/XMLTool?action=XMLLoad&group=acfun&id=$1P0   [QSA,L]
+#RewriteRule ^p/A([0-9a-zA-Z]*) API/XMLTool?action=XMLLoad&group=acfun&id=$1     [QSA,L]
+#页面跳转##################################
