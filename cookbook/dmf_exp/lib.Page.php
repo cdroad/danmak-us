@@ -36,40 +36,6 @@ function DMF_SetUpPageMarkUp()
 
 }
 
-$HandleActions['xmlupload'] = "HandleXMLPost";
-$HandleAuth['xmlupload'] = 'upload';
-
-function HandleXMLPost($pagename, $auth = 'upload')
-{
-	global $GroupConfigSet;
-	
-	$G = PageVar($pagename, '$Group');
-	$GC = $GroupConfigSet->$G;
-
-	$dmid = basename($_POST['dmid']);
-	$DMPair = ($_POST['Pool'] == 'S') ? PAIR_STATIC : PAIR_DYNAMIC ;
-	$Append = (strtolower($_POST['Append']) == 'true') ? TRUE : FALSE ;
-	
-	if ($_FILES['uploadfile']['error'] != UPLOAD_ERR_OK)
-	{
-		$GLOBALS['MessagesFmt'] = "文件上传失败";
-		HandleBrowse('API/XMLTool');
-		return;
-	}
-	
-	$xmldata = simplexml_load_file($_FILES['uploadfile']['tmp_name']);
-	if ($xmldata === FALSE) 
-	{
-		$GLOBALS['MessagesFmt'] = "XML文件非法，拒绝上传请求";
-		HandleBrowse('API/XMLTool');
-		return;
-	}
-	
-	$GC->HandleXMLPost($dmid, $DMPair, $Append, $xmldata);
-	
-	HandleBrowse($pagename);
-}
-
 Markup("ObjInit", '_begin', "/\\(:ObjInit:\\)/e", 'ObjLoadFunc()');
 function ObjLoadFunc()
 {

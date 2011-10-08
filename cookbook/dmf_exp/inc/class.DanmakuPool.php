@@ -56,6 +56,7 @@ class DanmakuPool
 	public function Save()
 	{
 		$this->IOClass->Save($this->XMLObj);
+		return $this;
 	}
 	
 	public function GetXML()

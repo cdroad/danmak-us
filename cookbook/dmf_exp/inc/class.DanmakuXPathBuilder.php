@@ -2,14 +2,13 @@
 
 class DanmakuXPathBuilder
 {
-	//TODO:
 	private $str = "";
 	
 	public function DanmakuXPathBuilder($base = '//comments/comment')
 	{
 		$str = $base;
 	}
-	
+
 	public function CommentId($id)
 	{
 		$this->append("@id='$id'");
@@ -24,7 +23,6 @@ class DanmakuXPathBuilder
 	
 	public function CommentBaseAttr($name, $value = "")
 	{
-		//TODO:
 		$this->append("@$name='$value'");
 		return $this;
 	}
