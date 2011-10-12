@@ -4,6 +4,6 @@ class Playtag extends CI_Controller {
 
 	public function index()
 	{
-		exit
+		exit;
 	}
 }

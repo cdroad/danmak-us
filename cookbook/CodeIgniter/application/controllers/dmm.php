@@ -8,21 +8,6 @@ class Dmm extends CI_Controller {
 		//$this->load->view('welcome_message');
 	}
 	
-	public function move()
-	{
-        die("0");
-	}
-	
-	public function credit()
-	{
-        die("0");
-	}
-	
-	public function skip()
-	{
-        die("0");
-	}
-	
 	public function update_comment_time()
 	{
         $targetTime = intval($_REQUEST['time']);
@@ -60,4 +45,20 @@ class Dmm extends CI_Controller {
 
         die("0");
 	}
+
+	public function move()
+	{
+        die("0");
+	}
+	
+	public function credit()
+	{
+        die("0");
+	}
+	
+	public function skip()
+	{
+        die("0");
+	}
+	
 }

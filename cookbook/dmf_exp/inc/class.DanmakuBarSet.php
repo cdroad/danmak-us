@@ -10,63 +10,53 @@ class DanmakuBarSet
 	{
 		$this->Guest = array
 		(
-			0 => '%danmakubar% (:input form "{*$host}/dm,{*$DMID}" method=get:)'.
-				'下载格式：(:input select name=format value=data label=data :)'.
-				'(:input select name=format value=d label=d :)'.
-				'(:input select name=format value=raw label=comment :)'.
-				'附件：(:input checkbox name=cmd value=download checked:)(:input submit value="下载":)'.
-				'(:input end:)%%&nbsp;&nbsp;',	
+			0 => '%danmakubar% (:input form "{*$host}/poolop/loadxml/{$Group}/{$DMID}" method=get:)'.
+				 '下载格式：(:input select name=format value=data label=data :)'.
+				 '(:input select name=format value=d label=d :)'.
+				 '(:input select name=format value=raw label=comment :)'.
+				 '附件：(:input checkbox name=attach value=true checked:)(:input submit value="下载":)'.
+				 '(:input end:)%%&nbsp;&nbsp;',	
 		);
 		
 		$this->Authed = array
 		(
-			0 => '%danmakubar%(:input form enctype="multipart/form-data" "{*$PageUrl}" :)'.
-				'(:input hidden action xmlupload:)(:input file uploadfile:)'.
-				'(:input hidden dmid value="{$DMID}" :)'.
-				'弹幕池:(:input select name=Pool value=S label=静态 :)'.
-				'(:input select name=Pool value=D label=动态 :)'.
-				'追加:(:input checkbox Append value=true:)'.
-				'(:input submit post Upload value="上传":)'.
-				'(:input end:)%%&nbsp;&nbsp;',
+			0 => '%danmakubar%(:input form enctype="multipart/form-data" "{*$host}/poolop/post/{$Group}/{$DMID}" :)'.
+				 '(:input file uploadfile:)'.
+				 '弹幕池:(:input select name=Pool value=Static label=静态 :)'.
+				 '(:input select name=Pool value=Dynamic label=动态 :)'.
+				 '追加:(:input checkbox Append value=true:)'.
+				 '(:input submit post Upload value="上传":)'.
+				 '(:input end:)%%&nbsp;&nbsp;',
 			
-			1 => '%danmakubar%(:input form "{*$host}/API/XMLTool" method=get:)(:input hidden r {(ftime fmt="%s")}:)'.
-				'(:input hidden action XMLLoad:)(:input hidden group value="{$Group}" :)'.
-				'(:input hidden dmid "{$DMID}" :)'.
-				'下载格式：(:input select name=format value=data label=data :)'.
-				'(:input select name=format value=d label=d :)'.
-				'(:input select name=format value=raw label=comment :)'.
-				'附件：(:input checkbox name=cmd value=download checked:)(:input submit value="下载":)&nbsp;&nbsp;'.
-				'(:input end:)%%&nbsp;&nbsp;',
+			1 => '%danmakubar% (:input form "{*$host}/poolop/loadxml/{$Group}/{$DMID}" method=get:)'.
+				 '下载格式：(:input select name=format value=data label=data :)'.
+				 '(:input select name=format value=d label=d :)'.
+				 '(:input select name=format value=raw label=comment :)'.
+				 '附件：(:input checkbox name=attach value=true checked:)(:input submit value="下载":)'.
+				 '(:input end:)%%&nbsp;&nbsp;',	
 				
 			2 => '%danmakubar%(:if2 equal "{*$IsMuti}" "true" :)[[{*$FullName}?action=edit | 编辑Part]](:if2end:)%%&nbsp;&nbsp;',
 			
 			4 => '<br />',
 			5 => '%newwin danmakubar% XML:&nbsp;&nbsp;',
 			6 => '[[DMR/B{*$DMID}?action=edit|动态池编辑]]&nbsp;&nbsp;',
-			7 => '[[{*$host}/API/XMLTool?action=Validate&'.
-				'dmid={*$DMID}&group=Bilibili2&r='.mt_rand().'|验证XML]]&nbsp;&nbsp;',
+			7 => '[[{*$host}/poolop/validate/{$Group}/{$DMID}/dynamic |验证动态池]]&nbsp;&nbsp;',
 			8 => '%%&nbsp;&nbsp;',
 		);
 		
 		$this->Admin = array
 		(
-			2 => '%danmakubar%(:input form target="_blank" enctype="multipart/form-data" "{*$host}/API/XMLTool" :)'.
-				'弹幕池移动 (:input hidden action PoolConv:)'.
-				'(:input hidden dmid value="{$DMID}" :)'.
-				'(:input hidden group value="{$Group}" :)'.
-				'(:input select name=Pool value=DS label="动态->静态" :)'.
-				'(:input select name=Pool value=SD label="静态->动态" :)'.
-				'(:input submit value="Go":)'.
-				'(:input end:)%%&nbsp;&nbsp;',
-			9 => '%danmakubar%(:input form target="_blank" enctype="multipart/form-data" "{*$host}/API/XMLTool" :)'.
-				'清空弹幕池 (:input hidden action PoolClear:)'.
-				'(:input hidden dmid value="{$DMID}" :)'.
-				'(:input hidden group value="{$Group}" :)'.
-				'(:input select name=Pool value=S label="静态池" :)'.
-				'(:input select name=Pool value=D label="动态池" :)'.
-				'(:input select name=Pool value=ALL label="双规" :)'.
-				'(:input submit value="Go":)'.
-				'(:input end:)%%&nbsp;&nbsp;',
+			2 => '%danmakubar% 弹幕池移动： '.
+				'[[{*$host}/poolop/loadxml/{$Group}/{$DMID}/dynamic/static | 动->静]]&nbsp'.
+				'[[{*$host}/poolop/loadxml/{$Group}/{$DMID}/static/dynamic | 静->动]]&nbsp'.
+				'%%&nbsp;&nbsp;',
+			
+			9 => '%danmakubar%'.
+				 '清空弹幕池 ： '.
+				 '[[{*$host}/poolop/clear/{$Group}/{$DMID}/staitc | 静态]]&nbsp'.
+				 '[[{*$host}/poolop/clear/{$Group}/{$DMID}/dynamic | 动态]]&nbsp'.
+				 '[[{*$host}/poolop/clear/{$Group}/{$DMID}/all | 双杀]]&nbsp'.
+				 '%%&nbsp;&nbsp;',
 				
 		);
 	}
@@ -111,7 +101,6 @@ class DanmakuBarSet
 			
 		}
 		
-
 		//ksort($Arr, SORT_REGULAR);
 		$str = implode($Arr);
 		//var_dump($str);exit;

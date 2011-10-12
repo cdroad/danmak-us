@@ -30,12 +30,13 @@ EOF;
 	abstract public function Save($obj);
 }
 
+
+
 class StaticPoolIO extends DanmakuPoolBaseIO
 {
-	public function __construct($file)
+	public function __construct($dmid, $group)
 	{
-		
-		parent::__construct($file);
+		parent::__construct(utils::GetXMLFilePath($dmid, $group));
 	}
 	
 	public function Load()
@@ -74,9 +75,9 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 
 class DynamicPoolIO extends DanmakuPoolBaseIO
 {
-	public function __construct($file)
+	public function __construct($dmid, $group)
 	{
-		parent::__construct($file);
+		parent::__construct(Utils::GetDMRPageName($dmid, $group));
 	}
 	
 	public function Load()

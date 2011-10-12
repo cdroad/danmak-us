@@ -1,7 +1,7 @@
 <?php
 class Utils
 {
-	public function display_xml_error($error, $xmlstr = NULL)
+	public static function display_xml_error($error, $xmlstr = NULL)
 	{
 		if (!is_null($xmlstr))
 		{
@@ -34,17 +34,33 @@ class Utils
 	    return "$return\n\n--------------------------------------------\n\n";
 	}
 
-	public function GetIOClass($str, $file)
+	public static function GetXMLFilePath($dmid, $group)
 	{
-		if (stripos($str,'static'))
-			return new StaticPoolIO($file);
-		if (stripos($str,'dynamic'))
-			return new DynamicPoolIO($file);
+		$groupConfig = self::GetGroup($group)."GroupConfig";
+		$vars = get_class_vars($groupConfig);
+		
+		return $vars['XMLFolderPath']."/$dmid.xml";
+	}
+	
+	public static function GetDMRPageName($dmid, $group)
+	{
+		$vars = get_class_vars(self::GetGroup($group)."GroupConfig");
+		return 'DMR.'.$vars['SUID'].$dmid;
+	}
+	
+	public static function GetIOClass($group, $dmid, $typeStr)
+	{
+		$group = self::GetGroup($group);
+		
+		if (stripos($typeStr,'static'))
+			return new StaticPoolIO($file, $group);
+		if (stripos($typeStr,'dynamic'))
+			return new DynamicPoolIO($file, $group);
 		
 		throw new Exception("Unexcepted IOClass Type");
 	}
 	
-	public function GetGroup($str)
+	public static function GetGroup($str)
 	{
 		switch (strtolower($str))
 		{

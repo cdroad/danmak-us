@@ -1,5 +1,5 @@
 <?php
-class DanmakuPool
+class DanmakuPoolBase
 {
 	private $IOClass;
 	/**
@@ -8,9 +8,12 @@ class DanmakuPool
 	private $XMLObj;
 	
 	
-	public function __construct($IOClass)
+	public function __construct($IOClass, $load = true)
 	{
 		$this->IOClass = $IOClass;
+		if ($load) {
+			$this->XMLObj = $IOClass->Load();
+		}
 	}
 	
 	public function Find(DanmakuXPathBuilder $query)
@@ -39,7 +42,7 @@ class DanmakuPool
 	
 	public function Clear()
 	{
-		$this->XMLObj = DanmakuPool::GetEmpty();
+		$this->XMLObj = DanmakuPoolBase::GetEmpty();
 	}
 	
 	public function MoveFrom(DanmakuPoolBase $pool)

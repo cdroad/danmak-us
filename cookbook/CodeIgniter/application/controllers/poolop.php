@@ -8,7 +8,34 @@ class PoolOp extends CI_Controller {
 		die("group : $group; dmid : $dmid;");
 	}
 	
-	public function loadXML($group, $dmid, $attach = 'false') // GET : format
+	public function clear($group, $dmid, $pair)
+	{
+		$group = Utils::GetGroup($group);
+		
+		$staPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'static'), false);
+		$dynPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'dynamic'), false);
+		
+		switch (strtolower($pair))
+		{
+			case "static":
+				$staPool->Clear();
+				$staPool->Save();
+				break;
+			case "dynamic":
+				$dynPool->Clear();
+				$dynPool->Save();
+				break;
+			case "all":
+				$staPool->Clear();
+				$staPool->Save();
+				$dynPool->Clear();
+				$dynPool->Save();
+				break;
+		}
+		
+	}
+	
+	public function loadxml($group, $dmid) // GET : format attach
 	{
 		$group = Utils::GetGroup($group);
 		$format = $_GET['format'];
@@ -19,8 +46,8 @@ class PoolOp extends CI_Controller {
 				"attachment; filename=\"".$group."_$dmid".".xml\"");
 		}
 
-		$staPool = new DanmakuPoolBase(Utils::GetIOClass('static', $dmid));
-		$dynPool = new DanmakuPoolBase(Utils::GetIOClass('dynamic', $dmid));
+		$staPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'static'));
+		$dynPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'dynamic'));
 		
 		$view = sprintf( "%s_xml_view_%s", $Group, strtolower($format));
 		// 不做保存，纯粹合并
@@ -47,7 +74,7 @@ class PoolOp extends CI_Controller {
 			return;
 		}
 		
-		$pool = new DanmakuPoolBase(Utils::GetIOClass($_GET['pool'], $dmid));
+		$pool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $_GET['pool']));
 		$XMLObj = $groupConfigClass::ConvertToUniXML($XMLObj);
 		$append = strtolower($_GET['append']) == 'true' ;
 		if ($append) {
@@ -58,10 +85,11 @@ class PoolOp extends CI_Controller {
 		$pool->Save()->Dispose();
 	}
 	
-	public function move($dmid, $from, $to)
+	public function move($group, $dmid, $from, $to)
 	{
-		$fromPool = new DanmakuPoolBase(Utils::GetIOClass($from, $dmid));
-		$toPool = new DanmakuPoolBase(Utils::GetIOClass($to, $dmid));
+		$group = Utils::GetGroup($group);
+		$fromPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $from));
+		$toPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $to));
 		
 		$toPool->MoveFrom($fromPool);
 		
@@ -69,7 +97,7 @@ class PoolOp extends CI_Controller {
 		$toPool->Save()->Dispose();
 	}
 	
-	public function validate($dmid, $pair)
+	public function validate($group, $dmid, $pair = 'dynamic')
 	{
 		libxml_clear_errors();
 		new DanmakuPoolBase(Utils::GetIOClass($pair, $dmid));

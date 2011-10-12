@@ -12,6 +12,7 @@ class VideoData
 	private $player;
 	private $muti;
 	private $pagename;
+	private $group;
 	private $groupConfig;
 	
 	private $dmid;
@@ -44,9 +45,9 @@ class VideoData
 	{
 		if (!PageExists($pn))  {assert (FALSE);$this->setBroken();return;}
 		$this->pagename = $pn;
-		$group = PageVar($this->pagename, '$Group');
+		$this->group = $group = PageVar($this->pagename, '$Group');
 		
-		$this->groupConfig = $GLOBALS['GroupConfigSet']->$group;
+		$this->groupConfig = get_class_vars($group."GroupConfig");
 		
 		$page = ReadPage($this->pagename);
 		
@@ -59,23 +60,23 @@ class VideoData
 		
 		$UserPreferPlayer = $page["PartPlayer_".$this->partIndex];
 		$UserPreferPlayer = $_REQUEST['player'];
-		if ( !empty($this->groupConfig->PlayersSet->$PartPreferPlayer) )
+		if ( !empty($this->groupConfig['PlayersSet']->$PartPreferPlayer) )
 		{
-			$this->player = $this->groupConfig->PlayersSet->$PartPreferPlayer;
+			$this->player = $this->groupConfig['PlayersSet']->$PartPreferPlayer;
 		}
 		else
-		if ( !empty($this->groupConfig->PlayersSet->$PartPreferPlayer) )
+		if ( !empty($this->groupConfig['PlayersSet']->$PartPreferPlayer) )
 		{
-			$this->player = $this->groupConfig->PlayersSet->$UserPreferPlayer;
+			$this->player = $this->groupConfig['PlayersSet']->$UserPreferPlayer;
 		}
 		else
 		{
-			$this->player = $this->groupConfig->PlayersSet->Default;
+			$this->player = $this->groupConfig['PlayersSet']->Default;
 		}
 
 		$vt = PageVar($this->pagename,'$:VideoType');
-		if (is_null($this->groupConfig->VideoSourceSet->$vt))  {$this->setBroken();return;}
-		$this->sourcetype = $this->groupConfig->VideoSourceSet->$vt->init($this);
+		if (is_null($this->groupConfig['VideoSourceSet']->$vt))  {$this->setBroken();return;}
+		$this->sourcetype = $this->groupConfig['VideoSourceSet']->$vt->init($this);
 		$this->muti = $this->sourcetype->MutiAble && PageVar($this->pagename, '$:IsMuti') == 'true';
 		if ($this->muti && $isRequestPartIndexExist && $isRequestPartIndexVaild)
 		{
@@ -112,7 +113,7 @@ class VideoData
 	
 	private function initPlayerLoadCode()
 	{
-		$AFVArray = $this->groupConfig->GenerateFlashVarArr($this);
+		$AFVArray = call_user_func($this->group."::GenerateFlashVarArr", $this);
 		$this->PlayerLoadCode .= $this->AFVArrayToJavascript($AFVArray);
 		
 		//加载SWF
@@ -138,13 +139,13 @@ class VideoData
 	
 	private function initDanmakuBarCode()
 	{
-		$this->DanmakuBarCode = '||'.$this->groupConfig->DanmakuBarSet->getString($this).'||';
+		$this->DanmakuBarCode = '||'.$this->groupConfig['DanmakuBarSet']->getString($this).'||';
 	}
 	
 	private function initPlayerLinkCode()
 	{
 		$isPreferPlayerAuthed = CondAuth($this->pagename, 'admin');		
-		foreach ($this->groupConfig->PlayersSet as $playerId => $playerObj)
+		foreach ($this->groupConfig['PlayersSet'] as $playerId => $playerObj)
 		{
 			if ($playerId == 'DEFAULT')
 			{
