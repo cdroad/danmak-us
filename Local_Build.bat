@@ -1,16 +1,16 @@
 @echo off
 pause
-echo 娓呴櫎椤圭洰鏂囦欢
+echo 清除项目文件
 call :RemoveDir .\settings
 call :DeleteFiles .\.buildpath .\.gitignore .\.project 
-echo 娓呯悊杈呭姪鏂囦欢
+echo 清理辅助文件
 call :DeleteFiles .\APIMap.txt .\FindAll.cmd .\wiki.d\.pageindex
-echo 娓呯悊闈炲叕寮�鏂囦欢
+echo 清理非公开文件
 call :DeleteFiles .\googlec5308d0d9cb559ed.html .\FindAll.cmd
 pushd local
 call :DeleteFiles .\Main.Talk.php .\Queue.php .\Main.FNQ.php .\Main.Flvcache.php
 popd
-echo 娓呯悊鏃犵敤鏁版嵁鏂囦欢
+echo 清理无用数据文件
 call :clearDir .\uploads\Acfun2
 call :clearDir .\uploads\Bilibili2
 call :clearDir .\wiki.d\Acfun2
@@ -19,9 +19,13 @@ call :clearDir .\wiki.d\DMR
 call :RemoveDir .\wiki.d\Queue
 call :RemoveDir .\wiki.d\Site
 call :RemoveDir .\wiki.d\SiteAdmin
-echo 娓呯悊澶囦唤鏂囦欢
+echo 清理无用播放器文件
+call :RemoveDir .\static\players\ac
+call :RemoveDir .\static\players\ni
+call :DeleteFiles .\static\players\mukioplayer.swf
+echo 清理备份文件
 for /R .\ %%a in (*.bak) do (
-    call :DeleteFiles  %%a
+    call :DeleteFiles  "%%a"
 )
 
 
@@ -29,18 +33,18 @@ PAUSE
 GOTO :EOF
 
 :clearDir
-echo    娓呯┖ "%~f1"
+echo    清空 "%~f1"
 del "%~f1\*.*"
 GOTO :EOF
 
 :RemoveDir
-echo    绉婚櫎 "%~f1"
+echo    移除 "%~f1"
 rd "%~f1" /q
 GOTO :EOF
 
 :DeleteFiles
 if "%~x1"=="" GOTO :EOF
-echo    鍒犻櫎 "%~x1"
+echo    删除 "%~nx1"
 del "%~f1" /F /Q
 shift /1
 GOTO :DeleteFiles
