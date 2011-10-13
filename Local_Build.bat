@@ -1,4 +1,5 @@
 @echo off
+GOTO :EOF
 pause
 echo 清除项目文件
 call :RemoveDir .\.settings

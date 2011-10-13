@@ -65,7 +65,6 @@ if(date_default_timezone_get() != "Asia/Shanghai") date_default_timezone_set("As
 
 include_once($FarmD.'/cookbook/expirediff.php');
 include_once($FarmD.'/scripts/guiedit.php');
-#include_once("$FarmD/cookbook/bloge-tags.php");
 include_once($FarmD.'/cookbook/bbcode.php');
 include_once($FarmD.'/cookbook/newpageboxplus.php');
 include_once($FarmD.'/cookbook/pagetoc.php');
@@ -129,19 +128,10 @@ include_once("$FarmD/cookbook/visitorslogging1337.php");
 
 # END
 
-function array_insert(&$arr, &$ins)
-{
-	if (empty($ins)) return;
-	foreach($ins as $key=>$p){
-		array_splice($arr, $key-1, 0, array($p));
-	}
-}
-
 include("./cookbook/dmf_exp/DMF.php");
+
 if ( !(bool)preg_match("/^\/([A-Z0-9\xa0-\xff].*)/", $_SERVER['REQUEST_URI'])
       && !($_SERVER['REQUEST_URI'] == "/") ) {
     $pagename = $_REQUEST['n'] = $_REQUEST['pagename'] = 'Main/HomePage';
     $EnableCodeIgniter = TRUE;
-} else {
-
 }

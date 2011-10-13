@@ -39,7 +39,6 @@ assert_options(ASSERT_QUIET_EVAL, 1);
 if ( $CheckPerfs && ($_GET['skipPerfs'] != 'TRUE') )
 {
 	$Perfs = ReadPage('Site.DMFPerfs');
-	//var_dump($Perfs);exit;
 	if ($Perfs['isXMLConverted'] != 'YES')
 	{
 		header("HTTP/1.1 301 Moved Permanently");
