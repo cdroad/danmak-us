@@ -1,7 +1,7 @@
 @echo off
 pause
 echo 清除项目文件
-call :RemoveDir .\settings
+call :RemoveDir .\.settings
 call :DeleteFiles .\.buildpath .\.gitignore .\.project 
 echo 清理辅助文件
 call :DeleteFiles .\APIMap.txt .\FindAll.cmd .\wiki.d\.pageindex
@@ -39,7 +39,7 @@ GOTO :EOF
 
 :RemoveDir
 echo    移除 "%~f1"
-rd "%~f1" /q
+rd "%~f1" /s /q
 GOTO :EOF
 
 :DeleteFiles
