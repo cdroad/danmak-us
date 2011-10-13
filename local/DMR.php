@@ -20,7 +20,7 @@ function VXML($pagename,&$page,&$new)
 		$ec = '文档已被保存，但检测到错误：<br />';
 		foreach (libxml_get_errors() as $e)
 		{
-			$ec .= get_xml_error($e, $test);
+			$ec .= Utils::display_xml_error($e, $test);
 		}
 		$MessagesFmt = "<p class='editconflict'>$ec
 			</p>\n";

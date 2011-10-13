@@ -52,10 +52,10 @@ class Utils
 	{
 		$group = self::GetGroup($group);
 		
-		if (stripos($typeStr,'static'))
-			return new StaticPoolIO($file, $group);
-		if (stripos($typeStr,'dynamic'))
-			return new DynamicPoolIO($file, $group);
+		if (stripos(strtolower($typeStr),'static') !== FALSE)
+			return new StaticPoolIO($dmid, $group);
+		if (stripos(strtolower($typeStr),'dynamic')!== FALSE)
+			return new DynamicPoolIO($dmid, $group);
 		
 		throw new Exception("Unexcepted IOClass Type");
 	}

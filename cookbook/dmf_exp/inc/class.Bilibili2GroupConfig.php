@@ -1,6 +1,6 @@
 <?php
 
-class Bilibili2Config
+class Bilibili2GroupConfig
 {
 	public static $SUID = 'B';
 	public static $XMLFolderPath = './uploads/Bilibili2';
@@ -90,9 +90,9 @@ class Bilibili2Config
 	}
 }
 
-Bilibili2Config::$DanmakuBarSet = new DanmakuBarSet();
-Bilibili2Config::$VideoSourceSet = $GLOBALS['VideoSourceSet'];
-Bilibili2Config::$PlayersSet = $GLOBALS['PlayerSet'];
+Bilibili2GroupConfig::$DanmakuBarSet = new DanmakuBarSet();
+Bilibili2GroupConfig::$VideoSourceSet = $GLOBALS['VideoSourceSet'];
+Bilibili2GroupConfig::$PlayersSet = $GLOBALS['PlayerSet'];
 
 
 

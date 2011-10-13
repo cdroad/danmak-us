@@ -2,20 +2,22 @@
 include_once("cookbook/dmf_exp/inc/class.Enum.php");
 include_once("cookbook/dmf_exp/inc/class.DefinedEnum.php");
 include_once("cookbook/dmf_exp/inc/class.FlagsEnum.php");
+include_once("cookbook/dmf_exp/inc/class.DanmakuPoolBase.php");
+include_once("cookbook/dmf_exp/inc/class.DanmakuPoolBaseIO.php");
 include_once("cookbook/dmf_exp/inc/class.Set.php");
-include_once("cookbook/dmf_exp/inc/class.DanmakuUniPairBase.php");
-include_once("cookbook/dmf_exp/inc/class.BaseVar.php");
-include_once("cookbook/dmf_exp/inc/class.Bilibili2GroupConfig.php");
-include_once("cookbook/dmf_exp/inc/class.BiliUniDanmakuPair.php");
-include_once("cookbook/dmf_exp/inc/class.DanmakuBarSet.php");
-include_once("cookbook/dmf_exp/inc/class.Player.php");
+include_once("cookbook/dmf_exp/inc/class.VideoSourceSet.php");
 include_once("cookbook/dmf_exp/inc/class.PlayerSet.php");
+include_once("cookbook/dmf_exp/inc/class.DanmakuBarSet.php");
+include_once("cookbook/dmf_exp/inc/class.DanmakuBuilder.php");
+include_once("cookbook/dmf_exp/inc/class.DanmakuXPathBuilder.php");
+include_once("cookbook/dmf_exp/inc/class.Player.php");
+include_once("cookbook/dmf_exp/inc/class.Utils.php");
 include_once("cookbook/dmf_exp/inc/class.VideoData.php");
 include_once("cookbook/dmf_exp/inc/class.VideoSource.php");
-include_once("cookbook/dmf_exp/inc/class.VideoSourceSet.php");
 
 include_once("./cookbook/dmf_exp/config.php");
 //include_once("./cookbook/dmf_exp/config.Acfun2.php");
+include_once("cookbook/dmf_exp/inc/class.Bilibili2GroupConfig.php");
 include_once("./cookbook/dmf_exp/config.Bilibili2.php");
 
 //处理投稿请求

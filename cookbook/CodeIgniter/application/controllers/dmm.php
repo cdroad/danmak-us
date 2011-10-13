@@ -30,10 +30,12 @@ class Dmm extends CI_Controller {
 	
 	public function del()
 	{
+        $this->load->helper('dmid');
+        
         if (empty($_REQUEST['playerdel']))
             die("1");
 
-        $poolId = findPoolIdByInId($dm_inid);
+        $poolId = idhash_to_dmid($dm_inid);
         if (is_null($poolId)) die("2");
         
         $DPool = new BiliUniDanmakuPair($poolId, PAIR_DYNAMIC);

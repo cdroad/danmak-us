@@ -33,7 +33,7 @@ class VideoData
 			$this->initCodes();
 			$this->initPageVars();
 		}
-
+		
 	}
 	
 	public function __get($name)
@@ -45,9 +45,9 @@ class VideoData
 	{
 		if (!PageExists($pn))  {assert (FALSE);$this->setBroken();return;}
 		$this->pagename = $pn;
-		$this->group = $group = PageVar($this->pagename, '$Group');
-		
-		$this->groupConfig = get_class_vars($group."GroupConfig");
+		$group = PageVar($this->pagename, '$Group');
+		$this->groupConfigStr = $group."GroupConfig";
+		$this->groupConfig = get_class_vars($this->groupConfigStr);
 		
 		$page = ReadPage($this->pagename);
 		
@@ -113,7 +113,7 @@ class VideoData
 	
 	private function initPlayerLoadCode()
 	{
-		$AFVArray = call_user_func($this->group."::GenerateFlashVarArr", $this);
+		$AFVArray = call_user_func($this->groupConfigStr."::GenerateFlashVarArr", $this);
 		$this->PlayerLoadCode .= $this->AFVArrayToJavascript($AFVArray);
 		
 		//加载SWF

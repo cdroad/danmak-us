@@ -19,7 +19,7 @@ CMT;
 	public function AddAttr($playtime, $mode, $fontsize, $color)
 	{
 		$this->text .= 
-			"\t<attr id=\"$this->attrIndex\"playtime=\"$playtime\" mode=\"$mode\" fontsize=\"$fontsize\" color=\"$color\" />\r\n";
+			"\t<attr id=\"$this->attrIndex\" playtime=\"$playtime\" mode=\"$mode\" fontsize=\"$fontsize\" color=\"$color\" />\r\n";
 		$this->attrIndex += 1;
 	}
 	

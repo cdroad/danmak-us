@@ -47,7 +47,7 @@ class DanmakuPoolBase
 	
 	public function MoveFrom(DanmakuPoolBase $pool)
 	{
-		$this->merge($pool);
+		$this->merge($pool->GetXML());
 		$pool->Clear();
 	}
 	

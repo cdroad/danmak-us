@@ -10,7 +10,7 @@ function idhash_to_dmid($hash)
     $pn = null;
     foreach ( ListPages("/DMR\.B/") as $page) {
         if ( dmid_to_idhash($page, false) == $hash ) {
-            $pn = $page
+            $pn = $page;
         }
     }
     

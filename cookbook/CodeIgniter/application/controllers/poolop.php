@@ -38,18 +38,21 @@ class PoolOp extends CI_Controller {
 	public function loadxml($group, $dmid) // GET : format attach
 	{
 		$group = Utils::GetGroup($group);
-		$format = $_GET['format'];
+		$format = is_null($_GET['format']) ? 'd' : $_GET['format'] ;
 		
-		header("Content-type: text/xml");
-		if ($attach = 'true') {
+		//header("Content-type: text/xml");
+		header("Content-type: text/plain");
+		if ($attach == 'true') {
 			header("Content-disposition: ".
 				"attachment; filename=\"".$group."_$dmid".".xml\"");
 		}
 
 		$staPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'static'));
 		$dynPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'dynamic'));
+        //var_dump($dynPool);exit;
+        $staPool->MoveFrom($dynPool);
 		
-		$view = sprintf( "%s_xml_view_%s", $Group, strtolower($format));
+		$view = sprintf( "%s_xml_view_%s", $group, strtolower($format));
 		// 不做保存，纯粹合并
         $this->load->view($view, array('Obj' => $staPool->GetXML()) );
 	}

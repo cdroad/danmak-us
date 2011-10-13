@@ -1,12 +1,13 @@
 <?php
 abstract class DanmakuPoolBaseIO
 {
-	private $file;
-	private $NullXMLObj;
+	protected $file;
+	protected $NullXMLObj;
 	
 	public function __construct($file)
 	{
 		$this->file = $file;
+        $this->NullXMLObj = simplexml_load_string("<comments></comments>");
 	}
 	
 	protected function GenErrorXMLObj($msg)
@@ -84,7 +85,8 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 	{
 		$auth = 'read';
 		$page = RetrieveAuthPage($this->file, $auth, FALSE, READPAGE_CURRENT);
-		if (empty($page))
+        
+		if (empty($page['text']))
 		{
 			return $this->NullXMLObj;
 		}
