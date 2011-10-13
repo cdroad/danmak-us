@@ -1,4 +1,6 @@
 <?php
+libxml_use_internal_errors(true);
+
 include_once("cookbook/dmf_exp/inc/class.Enum.php");
 include_once("cookbook/dmf_exp/inc/class.DefinedEnum.php");
 include_once("cookbook/dmf_exp/inc/class.FlagsEnum.php");

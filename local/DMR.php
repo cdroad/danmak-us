@@ -3,7 +3,6 @@ $EnableNotify = 0;
 $EnablePostAuthorRequired = 0;
 
 array_unshift($EditFunctions,'VXML');
-include_once("./cookbook/dmf_exp/lib.XML.php");
 $PageEditForm = 'DMR.EditForm';
 function VXML($pagename,&$page,&$new)
 {
