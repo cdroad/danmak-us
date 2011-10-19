@@ -964,10 +964,11 @@ class PageStore {
       }
       fclose($fp);
     }
-    return @$page;
+    return $this->recode($pagename, @$page);
   }
   function write($pagename,$page) {
-    global $Now, $Version;
+    global $Now, $Version, $Charset;
+    $page['charset'] = $Charset;
     $page['name'] = $pagename;
     $page['time'] = $Now;
     $page['host'] = $_SERVER['REMOTE_ADDR'];
@@ -1036,6 +1037,25 @@ class PageStore {
     }
     StopWatch("PageStore::ls end {$this->dirfmt}");
     return $out;
+  }
+  function recode($pagename, $a) {
+    if(!$a) return false;
+    global $Charset, $PageRecodeFunction, $DefaultPageCharset;
+    if (function_exists($PageRecodeFunction)) return $PageRecodeFunction($a);
+    SDVA($DefaultPageCharset, array(''=>$Charset)); # pre-2.2.31 RecentChanges
+    if (@$DefaultPageCharset[$a['charset']]>'')  # wrong pre-2.2.30 encs. *-2, *-9, *-13
+      $a['charset'] = $DefaultPageCharset[$a['charset']];
+    if (!$a['charset'] || $Charset==$a['charset']) return $a;
+    if ($Charset=='ISO-8859-1' && $a['charset']=='UTF-8') $F = 'utf8_decode'; # 2.2.31+ documentation
+    elseif ($Charset=='UTF-8' && $a['charset']=='ISO-8859-1') $F = 'utf8_encode'; # utf8 wiki & pre-2.2.30 doc
+    elseif (function_exists('iconv'))
+      $F = create_function('$s', "return iconv('{$a['charset']}', '$Charset//IGNORE', \$s);");
+    elseif (function_exists('mb_convert_encoding'))
+      $F = create_function('$s', "return mb_convert_encoding(\$s, '$Charset', '{$a['charset']}');");
+    else return $a;
+    foreach($a as $k=>$v) $a[$k] = $F($v);
+    $a['charset'] = $Charset;
+    return $a;
   }
 }
 
@@ -1526,7 +1546,7 @@ function DisableMarkup() {
     $MarkupTable[$id] = array('cmd' => 'none', 'pat'=>'');
   }
 }
-    
+
 function mpcmp($a,$b) { return @strcmp($a['seq'].'=',$b['seq'].'='); }
 function BuildMarkupRules() {
   global $MarkupTable,$MarkupRules,$LinkPattern;
@@ -1739,7 +1759,7 @@ function PostPage($pagename, &$page, &$new) {
   SDV($DeleteKeyPattern,"^\\s*delete\\s*$");
   $IsPagePosted = false;
   if ($EnablePost) {
-    $new['charset'] = $Charset;
+    $new['charset'] = $Charset; # kept for now, may be needed if custom PageStore
     $new['author'] = @$Author;
     $new["author:$Now"] = @$Author;
     $new["host:$Now"] = $_SERVER['REMOTE_ADDR'];
