@@ -4,14 +4,9 @@
 //添加到route合并到bpi
 class Dmm extends CI_Controller {
 
-	public function error()
-	{
-        echo $_SERVER['REQUEST_URI'];
-		//$this->load->view('welcome_message');
-	}
-	
 	public function update_comment_time()
 	{   
+        die("0");
         //TODO:
         $targetTime = intval($_REQUEST['time']);
         $dmId = intval($_REQUEST['dmid']);
@@ -34,6 +29,7 @@ class Dmm extends CI_Controller {
 	
 	public function del()
 	{
+        die("0");
         //TODO:
         $this->load->helper('dmid');
         
