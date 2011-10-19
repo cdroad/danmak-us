@@ -2,7 +2,12 @@
 //PoolOp / command / group / dmid / params
 //post move clear valid download
 
+//弹幕操作接口
+//返回HTML
 class PoolOp extends CI_Controller {
+    private static $GoBack = 
+        "<script language='javascript'> setTimeout('history.go(-1)', 2000);</script>两秒后传送回家";
+    
 	public function index($group, $dmid)
 	{
 		die("group : $group; dmid : $dmid;");
@@ -32,6 +37,7 @@ class PoolOp extends CI_Controller {
 				$dynPool->Save();
 				break;
 		}
+		$this->display("和谐弹幕池 $pair 完毕。".self::$GoBack);
 		
 	}
 	
@@ -49,7 +55,7 @@ class PoolOp extends CI_Controller {
 
 		$staPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'static'));
 		$dynPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'dynamic'));
-        //var_dump($dynPool);exit;
+        
         $staPool->MoveFrom($dynPool);
 		
 		$view = sprintf( "%s_xml_view_%s", $group, strtolower($format));
@@ -59,12 +65,12 @@ class PoolOp extends CI_Controller {
 	
 	public function post($group, $dmid) // GET : pool append
 	{
-		$group = Utils::GetGroup($group);$groupConfigClass = $Group."Config";
+		$group = Utils::GetGroup($group);$groupConfigClass = $group."GroupConfig";
 		
 		//加载文件
 		if ($_FILES['uploadfile']['error'] != UPLOAD_ERR_OK)
 		{
-			$GLOBALS['MessagesFmt'] = "文件上传失败";
+			$msg = "文件上传失败";
 			HandleBrowse('API/XMLTool');
 			return;
 		}
@@ -72,20 +78,22 @@ class PoolOp extends CI_Controller {
 		$xmldata = simplexml_load_file($_FILES['uploadfile']['tmp_name']);
 		if ($xmldata === FALSE) 
 		{
-			$GLOBALS['MessagesFmt'] = "XML文件非法，拒绝上传请求";
+			$msg = "XML文件非法，拒绝上传请求";
 			HandleBrowse('API/XMLTool');
 			return;
 		}
 		
-		$pool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $_GET['pool']));
-		$XMLObj = $groupConfigClass::ConvertToUniXML($XMLObj);
+		$pool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $_POST['Pool']));
+		$XMLObj = $groupConfigClass::ConvertToUniXML($xmldata);
 		$append = strtolower($_GET['append']) == 'true' ;
 		if ($append) {
 			$pool->MergeFrom($XMLObj);
 		} else {
 			$pool->SetXML($XMLObj);
 		}
+        
 		$pool->Save()->Dispose();
+		$this->display("非常抱歉，上传成功。".self::$GoBack);
 	}
 	
 	public function move($group, $dmid, $from, $to)
@@ -98,6 +106,7 @@ class PoolOp extends CI_Controller {
 		
 		$fromPool->Save()->Dispose();
 		$toPool->Save()->Dispose();
+		$this->display("弹幕池移动： $from -> $to 完毕。".self::$GoBack);
 	}
 	
 	public function validate($group, $dmid, $pair = 'dynamic')
@@ -111,7 +120,13 @@ class PoolOp extends CI_Controller {
 			$errorStr .= display_xml_error($errors);
 		}
 		
-		return $errorStr;
+		$this->display($errorStr);
+	}
+	
+	private function display($msg)
+	{
+        $GLOBALS['MessagesFmt'] = $msg;
+        $this->load->view('pmwiki_view', array('name' => 'API.XMLTool'));
 	}
 	
 }

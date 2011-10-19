@@ -7,6 +7,7 @@ class DanmakuBuilder
 	public function __construct($text, $pool, $userhash)
 	{
 		$sendtime = time();
+        $text = htmlspecialchars($text, ENT_NOQUOTES);
 		$dmid = mt_rand(0,2147483647); 
 		$this->text = <<<CMT
 

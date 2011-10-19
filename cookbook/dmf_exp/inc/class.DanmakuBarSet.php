@@ -47,8 +47,8 @@ class DanmakuBarSet
 		$this->Admin = array
 		(
 			2 => '%danmakubar% 弹幕池移动： '.
-				'[[{*$host}/poolop/loadxml/{$Group}/{$DMID}/dynamic/static | 动->静]]&nbsp'.
-				'[[{*$host}/poolop/loadxml/{$Group}/{$DMID}/static/dynamic | 静->动]]&nbsp'.
+				'[[{*$host}/poolop/move/{$Group}/{$DMID}/dynamic/static | 动静]]&nbsp'.
+				'[[{*$host}/poolop/move/{$Group}/{$DMID}/static/dynamic | 静动]]&nbsp'.
 				'%%&nbsp;&nbsp;',
 			
 			9 => '%danmakubar%'.

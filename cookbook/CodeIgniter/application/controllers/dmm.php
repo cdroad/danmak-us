@@ -1,5 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
+//弹幕控制接口
+//添加到route合并到bpi
 class Dmm extends CI_Controller {
 
 	public function error()

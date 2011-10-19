@@ -41,18 +41,18 @@ class Bilibili2GroupConfig
 		return $AFVArray;
 	}
 	
-	public static function ConvertToUniXML(SimpleXMLElemen $obj)
+	public static function ConvertToUniXML(SimpleXMLElement $obj)
 	{
 		switch (strtolower($obj->getName()))
 		{
 			case "comments":
 				return $obj;
-			case "infomation":
+			case "information":
 				return self::ConvertFromDataFormat($obj);
 			case "i":
 				return self::ConvertFromIDForamt($obj);
 			default:
-				throw UnexpectedValueException();
+				throw new UnexpectedValueException();
 		}
 	}
 	
@@ -60,33 +60,30 @@ class Bilibili2GroupConfig
 	{
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->data as $comment) {
-			$attrs = array();
-			$attrs['playtime']=$comment->playTime;
-			$attrs['mode']=$comment->message->{"@mode"};
-			$attrs['fontsize']=$comment->message->{"@fontsize"};
-			$attrs['color']=$comment->message->{"@color"};
-			$XMLString .= Utils::createCommentText($comment->message,0,'deafbeef',$attrs);
+            $pool = 0;
+            if ($comment->message['mode'] == '8') $pool = 2;
+			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef');
+            $danmaku->AddAttr($comment->playTime, $comment->message['mode'],
+                        $comment->message['fontsize'], $comment->message['color']);
+			$XMLString .= (string)$danmaku;
 		}
-		$XMLString .= "\r\n<comments>";
-		return simplexml_load_file($XMLString);
+		$XMLString .= "\r\n</comments>";
+        
+		return simplexml_load_string($XMLString);
 	}
 
 	public static function ConvertFromIDForamt(SimpleXMLElement $Obj)
 	{
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->d as $comment) {
-			$arr = explode(",", $comment->{"@p"});
-			$attrs = array();
-			
-			$attrs['playtime'] = $arr[0];
-			$attrs['mode'] = $arr[1];
-			$attrs['fontsize'] = $arr[2];
-			$attrs['color'] = $arr[3];
-			
-			$XMLString .= Utils::createCommentText($comment->d,0,'deafbeef',$attrs);
+			$arr = explode(",", $comment['p']);
+			$danmaku = new DanmakuBuilder((string)$comment, $arr[5], 'deadbeef');
+            $danmaku->AddAttr($arr[0], $arr[1], $arr[2], $arr[3]);
+			$XMLString .= (string)$danmaku;
 		}
-		$XMLString .= "\r\n<comments>";
-		return simplexml_load_file($XMLString);
+		$XMLString .= "\r\n</comments>";
+        
+		return simplexml_load_string($XMLString);
 	}
 }
 

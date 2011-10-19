@@ -6,10 +6,10 @@ class Utils
 		if (!is_null($xmlstr))
 		{
 			$xml = explode("\n",$xml);
-			$return  = $xml[$error->line - 1] . "\n";
+			$return  = $xml[$error->line - 1] . "<br />";
 		}
 		
-	    $return .= str_repeat('-', $error->column) . "^\n";
+	    $return .= str_repeat('-', $error->column) . "^<br />";
 	
 	    switch ($error->level) {
 	        case LIBXML_ERR_WARNING:
@@ -24,14 +24,14 @@ class Utils
 	    }
 	
 	    $return .= trim($error->message) .
-	               "\n  Line: $error->line" .
-	               "\n  Column: $error->column";
+	               "<br />  Line: $error->line" .
+	               "<br />  Column: $error->column";
 	
 	    if ($error->file) {
-	        $return .= "\n  File: $error->file";
+	        $return .= "<br />  File: $error->file";
 	    }
 	
-	    return "$return\n\n--------------------------------------------\n\n";
+	    return "$return<br /><br />--------------------------------------------<br /><br />";
 	}
 
 	public static function GetXMLFilePath($dmid, $group)
@@ -84,26 +84,6 @@ class Utils
 	
 	public static function createCommentText($text,$pool,$userhash,$attrs)
 	{
-		$dmid = mt_rand(0,2147483647);
-		$sendTime = time();
-		$attr = "";
-		foreach ($attrs as $attr) {
-			$playtime = $attr['playtime'];
-			$mode = $attr['mode'];
-			$fontsize = $attr['fontsize'];
-			$color = $attr['color'];
-			$attr = "<attr playtime=\"$playtime\" mode=\"$mode\" fontsize=\"$fontsize\" color=\"$color\" />\r\n";
-		}
-		
-		$str = <<<CMT
-
-<comment id="$dmid" poolid="$pool" userhash="$userhash" sendtime="$sendtime">
-	<text>$text</text>
-    <attrs>
-        $attr
-    </attrs>
-</comment>
-CMT;
-		return $str;
+        throw new Exception("已废弃");
 	}
 }

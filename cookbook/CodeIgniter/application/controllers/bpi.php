@@ -1,6 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 //Bilibili Player Interfaces
+//Bili播放器接口
 class Bpi extends CI_Controller {
 
 	public function index()

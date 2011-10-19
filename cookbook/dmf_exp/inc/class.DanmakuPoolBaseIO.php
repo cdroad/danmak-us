@@ -28,7 +28,7 @@ EOF;
 	
 	abstract public function Load();
 
-	abstract public function Save($obj);
+	abstract public function Save(SimpleXMLElement $obj);
 }
 
 
@@ -58,7 +58,7 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 		}
 	}
 	
-	public function Save($Obj)
+	public function Save(SimpleXMLElement $Obj)
 	{
 		if (file_exists($this->file))
 		{
@@ -106,7 +106,7 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 		}
 	}
 	
-	public function Save($Obj)
+	public function Save(SimpleXMLElement $Obj)
 	{
 		$auth = 'edit';
 		$new = $old = RetrieveAuthPage($this->file, $auth, FALSE, 0);
