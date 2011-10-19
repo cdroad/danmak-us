@@ -69,7 +69,9 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 		if ($result == FALSE)
 		{
             Utils::WriteLog('StaticPoolIO::Save()', 'file_put_contents :: FALSE!');
-		}
+		} else {
+            Utils::WriteLog('StaticPoolIO::Save()', 'file_put_contents :: Success!');
+        }
 	}
 	
 }
@@ -117,6 +119,7 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 			$new['text'] .= PHP_EOL.$danmaku->asXML(); 
 		}
 		UpdatePage($this->file, $old, $new);
+        Utils::WriteLog('DynamicPoolIO::Save()', 'file_put_contents :: Success!');
 	}
 	
 }

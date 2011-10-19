@@ -73,8 +73,9 @@ class Utils
 	
 	public static function WriteLog($action, $message)
 	{
+        if (!$GLOBALS['EnableSysLog']) return;
+        
 		$str = sprintf("\r\n%s  ... %s ... %s", strftime($GLOBALS['TimeFmt']), $action, $message);
-		
 		$pagename = "Main/SysLog";
 		$page = ReadPage($pagename);
 		$page['text'] .= $str;

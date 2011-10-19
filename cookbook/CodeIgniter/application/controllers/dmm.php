@@ -11,7 +11,8 @@ class Dmm extends CI_Controller {
 	}
 	
 	public function update_comment_time()
-	{
+	{   
+        //TODO:
         $targetTime = intval($_REQUEST['time']);
         $dmId = intval($_REQUEST['dmid']);
         $dm_inid = intval($_REQUEST['dm_inid']);
@@ -28,10 +29,12 @@ class Dmm extends CI_Controller {
             
         }
         $DPool->save(PAIR_DYNAMIC);
+        Utils::WriteLog('Dmm::update_comment_time()', "{$poolId} :: Pool->Save() :: Done!");
 	}
 	
 	public function del()
 	{
+        //TODO:
         $this->load->helper('dmid');
         
         if (empty($_REQUEST['playerdel']))
@@ -46,7 +49,8 @@ class Dmm extends CI_Controller {
             $DPool->delete(PAIR_DYNAMIC, $id);
         }
         $DPool->save(PAIR_DYNAMIC);
-
+        
+        Utils::WriteLog('Dmm::del()', ' :: '.$_REQUEST['playerdel'].':: Done!');
         die("0");
 	}
 

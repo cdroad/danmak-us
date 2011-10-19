@@ -38,7 +38,7 @@ class DanmakuBarSet
 			2 => '%danmakubar%(:if2 equal "{*$IsMuti}" "true" :)[[{*$FullName}?action=edit | 编辑Part]](:if2end:)%%&nbsp;&nbsp;',
 			
 			4 => '<br />',
-			5 => '%newwin danmakubar% XML:&nbsp;&nbsp;',
+			5 => '%danmakubar% XML:&nbsp;&nbsp;',
 			6 => '[[DMR/B{*$DMID}?action=edit|动态池编辑]]&nbsp;&nbsp;',
 			7 => '[[{*$host}/poolop/validate/{$Group}/{$DMID}/dynamic |验证动态池]]&nbsp;&nbsp;',
 			8 => '%%&nbsp;&nbsp;',
@@ -47,8 +47,8 @@ class DanmakuBarSet
 		$this->Admin = array
 		(
 			2 => '%danmakubar% 弹幕池移动： '.
-				'[[{*$host}/poolop/move/{$Group}/{$DMID}/dynamic/static | 动静]]&nbsp'.
-				'[[{*$host}/poolop/move/{$Group}/{$DMID}/static/dynamic | 静动]]&nbsp'.
+				'[[{*$host}/poolop/move/{$Group}/{$DMID}/static/dynamic | S-D]]&nbsp'.
+				'[[{*$host}/poolop/move/{$Group}/{$DMID}/dynamic/static | D-S]]&nbsp'.
 				'%%&nbsp;&nbsp;',
 			
 			9 => '%danmakubar%'.
