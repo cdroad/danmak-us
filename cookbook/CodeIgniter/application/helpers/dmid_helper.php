@@ -14,7 +14,7 @@ function idhash_to_dmid($hash)
         }
     }
     
-    if (is_null($pn)) return "";
+    if (is_null($pn)) return null;
     
 	$dmid = pathinfo($pn, PATHINFO_EXTENSION);
 	$dmid = substr($dmid, 1);

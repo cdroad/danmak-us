@@ -6,7 +6,7 @@ class DanmakuXPathBuilder
 	
 	public function DanmakuXPathBuilder($base = '//comments/comment')
 	{
-		$str = $base;
+		$this->str = $base;
 	}
 
 	public function CommentId($id)

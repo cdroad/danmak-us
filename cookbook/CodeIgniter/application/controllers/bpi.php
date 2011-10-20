@@ -70,6 +70,7 @@ class Bpi extends CI_Controller {
 	
 	public function dmpost()
 	{
+        //TODO : 更换UpdatePage为WritePage
         if (	$_POST['date']			== ''		||
                 $_POST["playTime"]	    == ''		||
                 $_POST["mode"]			== ''		||
@@ -89,12 +90,11 @@ class Bpi extends CI_Controller {
         color=16777215
         playTime=97.8
         */
+        
+        
 		$text = htmlspecialchars(stripmagic($_POST["message"]), ENT_NOQUOTES, "UTF-8");
-		$pool = ($_POST["mode"] == '8') ? 2 : $_POST["pool"]; //mode = 8 时 pool 必须 = 2		
-		$builder = new DanmakuBuilder($text, $pool, 'deadbeef');
-		$builder->AddAttr($_POST["playTime"], $_POST["mode"], $_POST["fontsize"], $_POST["color"]);
-		$xml = (string)$builder;
-		
+		$pool = ($_POST["mode"] == '8') ? 2 : 1; //mode = 8 时 pool 必须 = 2
+        $pt = $_POST["playTime"];
 		$vid = basename($_POST['vid']);
 		
         global $EnableAutoTimeShift;
@@ -104,23 +104,35 @@ class Bpi extends CI_Controller {
             $pp = 'Site.LastDanmakuCommit';
             $n = $p = ReadPage($pp);
             $LastCommit = @unserialize($p[$vid]);
+            
             if ( ($LastCommit !== FALSE) &&
                  (floatval($LastCommit['playTime']) == floatval($pt)) )
                 {
-                    $Shift = floatval($LastCommit['lastShift']) + $GLOBALS['TimeShiftDelta'];
+                    if ((time() - $LastCommit['lastTime']) > $GLOBALS['TimeShiftThreshold']) {
+                        $Shift = 0.0;
+                    } else {
+                        $Shift = floatval($LastCommit['lastShift']) + $GLOBALS['TimeShiftDelta'];
+                    }
                 }
             
             $dataArray = array
             (
-                'playTime' => $attrs['playtime'],
+                'playTime' => $LastCommit['playTime'],
                 'lastShift' => $Shift,
+                'lastTime' => time()
             );
-            $attrs['playtime'] += $Shift;
+            
+            $pt += $Shift;
             
             $n[$vid] = serialize($dataArray);
             UpdatePage($pp, $p, $n);
         }
-
+        
+        
+        $builder = new DanmakuBuilder($text, $pool, 'deadbeef');
+		$builder->AddAttr($pt, $_POST["mode"], $_POST["fontsize"], $_POST["color"]);
+		$xml = (string)$builder;
+        
         //准备写入PmWiki
         $_pagename = 'DMR.B'.$vid;
         $auth = 'edit';

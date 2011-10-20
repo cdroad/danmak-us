@@ -60,7 +60,7 @@ class Bilibili2GroupConfig
 	{
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->data as $comment) {
-            $pool = 0;
+            $pool = 1;
             if ($comment->message['mode'] == '8') $pool = 2;
 			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef');
             $danmaku->AddAttr($comment->playTime, $comment->message['mode'],

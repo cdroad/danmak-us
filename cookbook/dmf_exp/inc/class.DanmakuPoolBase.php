@@ -18,7 +18,14 @@ class DanmakuPoolBase
 	
 	public function Find(DanmakuXPathBuilder $query)
 	{
-		return $this->XMLObj->xpath($query->ToString());
+		$result = $this->XMLObj->xpath($query->ToString());
+        if ($result === FALSE) {
+            Utils::WriteLog('DanmakuPoolBase::Find::SimpleXML::xpath()', "Synatx Error".$query->ToString());
+            throw new Exception("Bad Synatx");
+            die("2");
+        } else {
+            return $result;
+        }
 	}
 	
 	public function Delete(DanmakuXPathBuilder $query)

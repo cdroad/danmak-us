@@ -37,6 +37,7 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 {
 	public function __construct($dmid, $group)
 	{
+        if (empty($group)) throw new Exception("No group spec!");
 		parent::__construct(utils::GetXMLFilePath($dmid, $group));
 	}
 	
@@ -80,6 +81,7 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 {
 	public function __construct($dmid, $group)
 	{
+        if (empty($group)) throw new Exception("No group spec!");
 		parent::__construct(Utils::GetDMRPageName($dmid, $group));
 	}
 	
