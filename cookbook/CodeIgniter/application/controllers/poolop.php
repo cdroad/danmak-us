@@ -24,20 +24,23 @@ class PoolOp extends CI_Controller {
 		{
 			case "static":
 				$staPool->Clear();
-				$staPool->Save();
+                Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Done!");
+				$staPool->Save()->Dispose();
 				break;
 			case "dynamic":
 				$dynPool->Clear();
-				$dynPool->Save();
+                Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Done!");
+				$dynPool->Save()->Dispose();
 				break;
 			case "all":
 				$staPool->Clear();
-				$staPool->Save();
-				$dynPool->Clear();
-				$dynPool->Save();
+                $dynPool->Clear();
+                Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Done!");
+                $staPool->Save()->Dispose();
+				$dynPool->Save()->Dispose();
 				break;
 		}
-        Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Done!");
+        
 		$this->display("和谐弹幕池 $pair 完毕。".self::$GoBack);
 		
 	}
@@ -93,8 +96,8 @@ class PoolOp extends CI_Controller {
 			$pool->SetXML($XMLObj);
 		}
         
-		$pool->Save()->Dispose();
         Utils::WriteLog('PoolOp::post()', "{$group} :: {$dmid} :: Success!");
+        $pool->Save()->Dispose();
 		$this->display("非常抱歉，上传成功。".self::$GoBack);
 	}
 	
@@ -106,9 +109,9 @@ class PoolOp extends CI_Controller {
 		
 		$toPool->MoveFrom($fromPool);
 		
+        Utils::WriteLog('PoolOp::move()', "{$group} :: {$dmid} :: from {$from} to {$to} Done!");
 		$fromPool->Save()->Dispose();
 		$toPool->Save()->Dispose();
-        Utils::WriteLog('PoolOp::move()', "{$group} :: {$dmid} :: from {$from} to {$to} Done!");
 		$this->display("弹幕池移动： $from -> $to 完毕。".self::$GoBack);
 	}
 	

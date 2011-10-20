@@ -130,7 +130,7 @@ include_once("$FarmD/cookbook/visitorslogging1337.php");
 
 include("./cookbook/dmf_exp/DMF.php");
 
-if ( !(bool)preg_match("/^\/([A-Z0-9\xa0-\xff].*)/", $_SERVER['REQUEST_URI'])
+if ( !(bool)preg_match("/^\/([A-Z0-9\xa0-\xff\?].*)/", $_SERVER['REQUEST_URI'])
       && !($_SERVER['REQUEST_URI'] == "/") ) {
     $pagename = $_REQUEST['n'] = $_REQUEST['pagename'] = 'Main/HomePage';
     $EnableCodeIgniter = TRUE;

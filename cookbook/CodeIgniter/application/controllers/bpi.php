@@ -8,6 +8,12 @@ class Bpi extends CI_Controller {
 	{
         exit;
 	}
+
+    public function error()
+	{
+        $GLOBALS['MessagesFmt'] = '你知道的太多了，小心大表哥。';
+        $this->load->view('pmwiki_view', array('name' => 'API.XMLTool'));
+	}
 	
 	public function dad()
 	{
@@ -70,7 +76,6 @@ class Bpi extends CI_Controller {
 	
 	public function dmpost()
 	{
-        //TODO : 更换UpdatePage为WritePage
         if (	$_POST['date']			== ''		||
                 $_POST["playTime"]	    == ''		||
                 $_POST["mode"]			== ''		||
@@ -102,8 +107,8 @@ class Bpi extends CI_Controller {
         {
             $Shift = 0.0;
             $pp = 'Site.LastDanmakuCommit';
-            $n = $p = ReadPage($pp);
-            $LastCommit = @unserialize($p[$vid]);
+            $n = ReadPage($pp);
+            $LastCommit = @unserialize($n[$vid]);
             
             if ( ($LastCommit !== FALSE) &&
                  (floatval($LastCommit['playTime']) == floatval($pt)) )
@@ -125,7 +130,7 @@ class Bpi extends CI_Controller {
             $pt += $Shift;
             
             $n[$vid] = serialize($dataArray);
-            UpdatePage($pp, $p, $n);
+            WritePage($pp, $n);
         }
         
         
@@ -136,12 +141,87 @@ class Bpi extends CI_Controller {
         //准备写入PmWiki
         $_pagename = 'DMR.B'.$vid;
         $auth = 'edit';
-        $new = $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
+        $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
         if (!$page) die("-55");
     
-        $new['text'] .= $xml;
-        UpdatePage($_pagename, $page, $new);
+        $page['text'] .= $xml;
+        WritePage($_pagename, $page);
         echo mt_rand();
         exit;
+	}
+
+    
+    // ************************* dmm ********************//
+    
+    
+	public function update_comment_time()
+	{   
+        $this->load->helper('dmid');
+        
+        $targetTime = intval($_REQUEST['time']);
+        $dmid = intval($_REQUEST['dmid']);
+        $poolId = idhash_to_dmid(intval($_REQUEST['dm_inid']));
+        if (is_null($poolId)) die("2");
+        
+        $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
+        $query = new DanmakuXPathBuilder();
+        $result = $dynPool->Find($query->CommentId($dmid));
+        
+        if (empty($result)) die("3");
+        
+        foreach ( $result as $danmaku ) {
+            $danmaku->attr[0]["playtime"] = $targetTime;
+        }
+        $dynPool->Save()->Dispose();
+        Utils::WriteLog('Dmm::update_comment_time()', "{$poolId} :: Pool->Save() :: Done!");
+        die("0");
+	}
+	
+	public function del()
+	{
+        $this->load->helper('dmid');
+
+        if (empty($_REQUEST['playerdel']))
+            die("1");
+        $poolId = idhash_to_dmid($_REQUEST['dm_inid']);
+        if (is_null($poolId)) die("2");
+        
+        $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
+
+        $deleted = "";
+        
+        foreach (explode(",", $_REQUEST['playerdel']) as $id)
+        {
+            $query = new DanmakuXPathBuilder();
+            $result = $dynPool->Find($query->CommentId($id));
+            $matched = count($result);
+            
+            if ($matched == 1) {
+                unset($result[0][0]);
+                $deleted .= ", '{$id}'";
+            } else {
+                Utils::WriteLog('Dmm::del()', "Bilibili2 :: {$poolId} :: Unexcepted dmid {$id}, matched {$matched}");
+                die("3");
+            }
+        }
+        $dynPool->Save()->Dispose();
+        
+        Utils::WriteLog('Dmm::del()', "Bilibili2 :: {$poolId} :: Done!  \r\n{$deleted}");
+        die("0");
+	}
+
+	public function move()
+	{
+        die("0");
+	}
+	
+	public function credit()
+	{
+        die("0");
+	}
+	
+	public function skip()
+	{
+        die("0");
 	}
 }

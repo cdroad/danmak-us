@@ -37,8 +37,8 @@
 | in the URL cannot be matched to a valid route.
 |
 */
-$route['(^member\/dmm\.php)'] = empty($_REQUEST['mode']) ? "dmm/error" : "dmm/".$_REQUEST['mode'];
-$route['default_controller'] = "welcome";
+$route['(^member\/dmm\.php)'] = empty($_REQUEST['mode']) ? "bpi/error" : "bpi/".$_REQUEST['mode'];
+$route['default_controller'] = "bpi/error";
 $route['404_override'] = 'pmwiki/page_missing';
 
 
