@@ -121,7 +121,7 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 			$new['text'] .= PHP_EOL.$danmaku->asXML(); 
 		}
 		UpdatePage($this->file, $old, $new);
-        Utils::WriteLog('DynamicPoolIO::Save()', 'file_put_contents :: Success!');
+        Utils::WriteLog('DynamicPoolIO::Save()', 'UpdatePage() :: Done!');
 	}
 	
 }
