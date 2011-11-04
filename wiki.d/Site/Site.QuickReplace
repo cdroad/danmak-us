@@ -1,0 +1,55 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+cauthor=
+charset=UTF-8
+csum=
+ctime=1259588111
+host=::1
+name=Site.QuickReplace
+rev=14
+targets=
+text=[@%0a'220.170.79.48' => 'www.acfun.cn'%0a'220.170.79.105' => 'www.acfun.cn'%0a'220.170.79.109' => 'www.acfun.cn'%0a'124.228.254.234' => 'www.acfun.cn'%0a'124.228.254.229' => 'www.acfun.cn'%0a'dm.mikufans.cn' => 'danmaku.us'%0a'www.bilibili.us' => 'bilibili.us'%0a'ct.bilibili.us' => 'www.bilibili.us'%0a'bilibili.us' => 'www.bilibili.us'%0a@]
+time=1319127964
+author:1319127964=
+diff:1319127964:1319127949:=10a11%0a> 'http://localhost/uploads/LocalVideo' => 'http://localhost/uploads/Main'%0a
+host:1319127964=::1
+author:1319127949=
+diff:1319127949:1301401439:=11d10%0a%3c 'http://localhost/uploads/LocalVideo' => 'http://localhost/uploads/Main'%0a
+host:1319127949=::1
+author:1301401439=Admin
+diff:1301401439:1299861251:=8d7%0a%3c 'www.bilibili.us' => 'bilibili.us'%0a
+host:1301401439=114.222.152.239
+author:1299861251=Admin
+diff:1299861251:1297831935:=8,9c8%0a%3c 'ct.bilibili.us' => 'www.bilibili.us'%0a%3c 'bilibili.us' => 'www.bilibili.us'%0a---%0a> 'ct.bilibili.us' => 'bilibili.us'%0a
+host:1299861251=222.95.37.110
+author:1297831935=KPX
+diff:1297831935:1285307255:=8d7%0a%3c 'ct.bilibili.us' => 'bilibili.us'%0a
+host:1297831935=114.249.56.131
+author:1285307255=Admin
+diff:1285307255:1284099081:=2,6c2,5%0a%3c '220.170.79.48' => 'www.acfun.cn'%0a%3c '220.170.79.105' => 'www.acfun.cn'%0a%3c '220.170.79.109' => 'www.acfun.cn'%0a%3c '124.228.254.234' => 'www.acfun.cn'%0a%3c '124.228.254.229' => 'www.acfun.cn'%0a---%0a> '220.170.79.48' => '124.228.254.229'%0a> '220.170.79.105' => '124.228.254.229'%0a> '220.170.79.109' => '124.228.254.229'%0a> '124.228.254.234' => '124.228.254.229'%0a
+host:1285307255=58.212.119.24
+author:1284099081=Admin
+diff:1284099081:1284043924:=2,5c2,4%0a%3c '220.170.79.48' => '124.228.254.229'%0a%3c '220.170.79.105' => '124.228.254.229'%0a%3c '220.170.79.109' => '124.228.254.229'%0a%3c '124.228.254.234' => '124.228.254.229'%0a---%0a> '220.170.79.48' => '124.228.254.234'%0a> '220.170.79.105' => '124.228.254.234'%0a> '220.170.79.109' => '124.228.254.234'%0a
+host:1284099081=114.222.153.80
+author:1284043924=Admin
+diff:1284043924:1283396820:=5,6c5,6%0a%3c 'dm.mikufans.cn' => 'danmaku.us'%0a%3c @]%0a\ No newline at end of file%0a---%0a> @]%0a> 'dm.mikufans.cn' => '127.0.0.1:8080/DMF'%0a\ No newline at end of file%0a
+host:1284043924=121.229.10.39
+author:1283396820=Admin
+diff:1283396820:1283396725:=6c6%0a%3c 'dm.mikufans.cn' => '127.0.0.1:8080/DMF'%0a\ No newline at end of file%0a---%0a> 'dm.mikufans.cn' => '{$ServerAddr}'%0a\ No newline at end of file%0a
+host:1283396820=127.0.0.1
+author:1283396725=Admin
+diff:1283396725:1279156918:=5,6c5%0a%3c @]%0a%3c 'dm.mikufans.cn' => '{$ServerAddr}'%0a\ No newline at end of file%0a---%0a> @]%0a\ No newline at end of file%0a
+host:1283396725=127.0.0.1
+author:1279156918=Admin
+diff:1279156918:1273835626:=2,4c2,3%0a%3c '220.170.79.48' => '124.228.254.234'%0a%3c '220.170.79.105' => '124.228.254.234'%0a%3c '220.170.79.109' => '124.228.254.234'%0a---%0a> '220.170.79.48' => '220.170.79.109'%0a> '220.170.79.105' => '220.170.79.109'%0a
+host:1279156918=114.243.68.166
+author:1273835626=Admin
+diff:1273835626:1259588178:=2,3c2%0a%3c '220.170.79.48' => '220.170.79.109'%0a%3c '220.170.79.105' => '220.170.79.109'%0a---%0a> '220.170.79.48' => '220.170.79.105'%0a
+host:1273835626=114.243.97.171
+author:1259588178=wikiadministration
+diff:1259588178:1259588111:=2c2%0a%3c '220.170.79.48' => '220.170.79.105'%0a---%0a> '和谐' => '非常那啥那啥'%0a
+host:1259588178=221.218.74.101
+author:1259588111=wikiadministration
+diff:1259588111:1259588111:=1,3d0%0a%3c [@%0a%3c '和谐' => '非常那啥那啥'%0a%3c @]%0a\ No newline at end of file%0a
+host:1259588111=221.218.74.101

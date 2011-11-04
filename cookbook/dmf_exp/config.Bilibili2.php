@@ -3,8 +3,8 @@
 //是否允许代码弹幕(高级弹幕)
 $BiliEnableSA = TRUE;
 
-$PlayerSet->add('bi20111013', new Player('bi20111013.swf', 'bilibili播放器(20111013)', 950, 482))
-		  ->addDefault('bi20111013');
+$PlayerSet->add('bi20111102', new Player('bi20111102.swf', 'bilibili播放器(20111102)', 950, 482))
+		  ->addDefault('bi20111102');
 
 $VideoSourceSet->add('yk', new YouKuSource());
 

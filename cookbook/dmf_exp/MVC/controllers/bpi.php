@@ -58,20 +58,24 @@ class Bpi extends CI_Controller {
 	{
         exit;
 	}
-	
+	//关联视频
 	public function playtag()
 	{
         exit;
 	}
-	
+	//弹幕举报
 	public function dmreport()
 	{
         exit;
 	}
-
+    //播放器接口 。弹幕错误汇报
 	public function dmerror()
 	{
-        Utils::WriteLog('bpi::dmerror()', '');
+        //TODO:
+        if (empty($_REQUEST['id']) || empty($_REQUEST['error']))
+            exit;
+        $str = "播放器汇报错误{$_REQUEST['error']}, 返回视频vid : {$_REQUEST['id']}";
+        Utils::WriteLog('bpi::dmerror()', $str);
 	}
 	
 	public function dmpost()

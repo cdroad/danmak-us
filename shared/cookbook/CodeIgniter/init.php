@@ -57,7 +57,7 @@ if (defined('ENVIRONMENT'))
  * as this file.
  *
  */
-	$system_path = 'cookbook/CodeIgniter/system';
+	$system_path = "$FarmD/cookbook/CodeIgniter/system";
 
 /*
  *---------------------------------------------------------------
@@ -73,7 +73,7 @@ if (defined('ENVIRONMENT'))
  * NO TRAILING SLASH!
  *
  */
-	$application_folder = 'cookbook/CodeIgniter/application';
+	$application_folder = 'cookbook/dmf_exp/MVC';
 
 /*
  * --------------------------------------------------------------------

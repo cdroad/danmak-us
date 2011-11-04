@@ -20,15 +20,11 @@ $PageListCacheDir = './static/pagelist';
 $EnableHTMLCache = 1;
 */
 $MarkupCss = true;
-$EnableUpload = 1;
 $EnableIMSCaching = 0;
 $EnableRelativePageVars = 1;
 $EnableUndefinedTemplateVars = 0;
 $EnablePostAuthorRequired = 1;
 $EnableDiffInline = 1;
-$UploadMaxSize = 1000000;
-$EnableUploadVersions=1;
-$UploadExts['xml'] = 'text/xml';
 $HTMLPNewline = '<br />'; 
 $SearchPatterns['default'][] = '!^PmWiki\\.!';
 //调试
@@ -57,6 +53,14 @@ $WikiLibDirs = array( &$WikiDir,
 );
 # END
 
+# 附件
+$EnableUpload = 1;
+$UploadDir = "static/uploads";
+$UploadMaxSize = 1000000;
+$EnableUploadVersions=1;
+$UploadExts['xml'] = 'text/xml';
+# END
+
 # i18n
 include_once($FarmD.'/scripts/xlpage-utf-8.php');
 XLPage('ZhCn','PmWikiZhCn.XLPage');
@@ -76,10 +80,10 @@ include_once($FarmD.'/cookbook/quickreplace.php');
 include_once("$FarmD/cookbook/uploadform.php");
 include_once("$FarmD/cookbook/PageGenerationTime.php");
 include_once("$FarmD/cookbook/HtmlMarkup.php");
-include_once("./cookbook/CreatedBy.php");
+include_once("$FarmD/cookbook/CreatedBy.php");
 
 $XESTagAuth = 'edit';
-include_once("./cookbook/tagpages.php");
+include_once("$FarmD/cookbook/tagpages.php");
 $WikiStyleCSS[] = 'line-height';
 
 # 插件设定
