@@ -8,7 +8,12 @@ class Bpi extends CI_Controller {
 	{
         exit;
 	}
-
+    
+    public function bpad()
+    {
+        $this->load->view('bilibili_pad');
+    }
+    
     public function error()
 	{
         $GLOBALS['MessagesFmt'] = '你知道的太多了，小心大表哥。';

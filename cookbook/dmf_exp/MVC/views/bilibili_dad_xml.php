@@ -5,10 +5,10 @@
 <money>0</money>
 <pwd>deadbeef</pwd>
 <isadmin>true</isadmin>
-<permission><?=$AuthLevelString?></permission>
-<level>弹幕抖M <?=$AuthLevelString?></level>
+<permission><?php echo $AuthLevelString;?></permission>
+<level>弹幕抖M <?php echo $AuthLevelString;?></level>
 <shot>false</shot>
-<chatid><?=$ChatId?></chatid>
+<chatid><?php echo $ChatId;?></chatid>
 <aid>1</aid>
 <pid>1</pid>
 <acceptguest>false</acceptguest>

@@ -38,6 +38,7 @@
 |
 */
 $route['(^member\/dmm\.php)'] = empty($_REQUEST['mode']) ? "bpi/error" : "bpi/".$_REQUEST['mode'];
+$route['(^newflvplayer\/pad\.xml)'] = "bpi/bpad" ;
 $route['default_controller'] = "bpi/error";
 $route['404_override'] = 'pmwiki/page_missing';
 
