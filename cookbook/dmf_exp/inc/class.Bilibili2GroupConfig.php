@@ -3,7 +3,7 @@
 class Bilibili2GroupConfig
 {
 	public static $SUID = 'B';
-	public static $XMLFolderPath = './static/uploads/Bilibili2';
+	public static $XMLFolderPath = './uploads/Bilibili2';
 	public static $DanmakuBarSet;
 	public static $VideoSourceSet;
 	public static $PlayersSet;

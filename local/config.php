@@ -55,7 +55,6 @@ $WikiLibDirs = array( &$WikiDir,
 
 # 附件
 $EnableUpload = 1;
-$UploadDir = "static/uploads";
 $UploadMaxSize = 1000000;
 $EnableUploadVersions=1;
 $UploadExts['xml'] = 'text/xml';
