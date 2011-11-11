@@ -37,8 +37,11 @@
 | in the URL cannot be matched to a valid route.
 |
 */
+//poolop/loadxml/twodland1/".$_REQUEST['vid']."/"
+//"poolop/loadxml/twodland1/{$_REQUEST['vid']}";
 $route['(^member\/dmm\.php)'] = empty($_REQUEST['mode']) ? "bpi/error" : "bpi/".$_REQUEST['mode'];
-$route['(^newflvplayer\/pad\.xml)'] = "bpi/bpad" ;
+$route['(^poolop\/loadxml\/twodland1.*)'] = "poolop/loadxml/twodland1/{$_REQUEST['vid']}";
+$route['(^dpi\/getconfigxml\/([^\/]+)\/([^\/]*))'] = "dpi/getconfigxml/$2/$3/"; 
 $route['default_controller'] = "bpi/error";
 $route['404_override'] = 'pmwiki/page_missing';
 

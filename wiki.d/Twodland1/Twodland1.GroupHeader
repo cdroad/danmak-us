@@ -1,0 +1,44 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+cauthor=
+charset=UTF-8
+csum=
+ctime=1285304374
+host=::1
+name=Bilibili2.GroupHeader
+rev=10
+targets=
+text=(:SUID:B:)
+time=1319034938
+author:1319034938=
+diff:1319034938:1319034909:=1c1,2%0a%3c (:SUID:B:)%0a\ No newline at end of file%0a---%0a> (:SUID:B:)%0a> (:if [ ! auth admin && enabled LOCALVERSION ] :)乃还没有登录，弹幕发送不予保存(:ifend:)%0a\ No newline at end of file%0a
+host:1319034938=::1
+author:1319034909=
+diff:1319034909:1307944113:=1,2c1%0a%3c (:SUID:B:)%0a%3c (:if [ ! auth admin && enabled LOCALVERSION ] :)乃还没有登录，弹幕发送不予保存(:ifend:)%0a\ No newline at end of file%0a---%0a> (:SUID:B:)%0a\ No newline at end of file%0a
+host:1319034909=::1
+author:1307944113=
+diff:1307944113:1299563172:=0a1,3%0a> (:html:)%0a> %3cscript type="text/javascript" src="/static/qule.js">%3c/script>%0a> (:htmlend:)%0a
+host:1307944113=127.0.0.1
+author:1299563172=Admin
+diff:1299563172:1299150759:=3a4%0a> %0a
+host:1299563172=180.110.99.26
+author:1299150759=Admin
+diff:1299150759:1298976411:=3,5c3%0a%3c (:htmlend:)%0a%3c %0a%3c (:SUID:B:)%0a\ No newline at end of file%0a---%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1299150759=49.74.9.166
+author:1298976411=Admin
+diff:1298976411:1297832097:=0a1,7%0a> %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a> %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a> %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a> %25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a> %25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a> (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a> (:divend:)(:ifend:)%0a
+host:1298976411=49.74.52.6
+author:1297832097=KPX
+diff:1297832097:1297149524:=9c9%0a%3c %3cscript type="text/javascript" src="/static/qule.js">%3c/script>%0a---%0a> %3cscript type="text/javascript" src="http://bilibili.us/images/qule.js">%3c/script>%0a
+host:1297832097=114.249.56.131
+author:1297149524=KPX
+diff:1297149524:1289550870:=8a9%0a> %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a
+host:1297149524=127.0.0.1
+author:1289550870=aUser
+csum:1289550870=添加js加载
+diff:1289550870:1285304374:=7,11c7%0a%3c (:divend:)(:ifend:)%0a%3c (:html:)%0a%3c %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a%3c %3cscript type="text/javascript" src="http://bilibili.us/images/qule.js">%3c/script>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> (:divend:)(:ifend:)%0a\ No newline at end of file%0a
+host:1289550870=58.212.117.27
+author:1285304374=Admin
+diff:1285304374:1285304374:=1,7d0%0a%3c %25define=prerequisite apply=list bgcolor=#efefef border='5px solid black' padding-left=30px margin=0%25%0a%3c %25define=recipeinfo color=black background-color=#f7f7f7 border='1px solid #cccccc' padding=4px%25%0a%3c %25define=box block bgcolor=#f9f9fc border='1px solid #666666' margin=10px padding=5px%25%0a%3c %25define=obsolete background-color=#ffcccc border='1px solid #ffcccc' padding=4px%25%0a%3c %25define=audience class='frame rfloat' font-size:smaller bgcolor=#ffffcc clear:right%25%0a%3c (:if ! equal "{*$:Audience} "" :)(:div style="clear:right;":)%25audience%25{*$:Audience}%25%25%0a%3c (:divend:)(:ifend:)%0a\ No newline at end of file%0a
+host:1285304374=58.212.119.24

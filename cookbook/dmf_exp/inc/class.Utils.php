@@ -68,6 +68,9 @@ class Utils
 				return "Bilibili2";
 			case "acfun2":
 				return "Acfun2";
+            case "twodland1":
+            case "2dland":
+                return "Twodland1";
 		}
 	}
 	

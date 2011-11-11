@@ -17,10 +17,13 @@ class DanmakuBuilder
 CMT;
 	}
 	
-	public function AddAttr($playtime, $mode, $fontsize, $color)
+	public function AddAttr(array $fields)
 	{
-		$this->text .= 
-			"\t<attr id=\"$this->attrIndex\" playtime=\"$playtime\" mode=\"$mode\" fontsize=\"$fontsize\" color=\"$color\" />\r\n";
+		$this->text .= "\t<attr id=\"$this->attrIndex\"";
+        foreach ($fields as $key => $value) {
+            $this->text .= " {$key}={$value}";
+        }
+        $this->text .= " />\r\n";
 		$this->attrIndex += 1;
 	}
 	

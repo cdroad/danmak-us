@@ -1,6 +1,5 @@
 <?php
 libxml_use_internal_errors(true);
-
 include_once("cookbook/dmf_exp/inc/class.Enum.php");
 include_once("cookbook/dmf_exp/inc/class.DefinedEnum.php");
 include_once("cookbook/dmf_exp/inc/class.FlagsEnum.php");
@@ -17,67 +16,50 @@ include_once("cookbook/dmf_exp/inc/class.Utils.php");
 include_once("cookbook/dmf_exp/inc/class.VideoData.php");
 include_once("cookbook/dmf_exp/inc/class.VideoSource.php");
 
-include_once("./cookbook/dmf_exp/config.php");
+
+
+
+
+
+
+
+/*
+ * 基础设定
+ */
+$LOCALVERSION = true;
+$DEBUGMODE = true;
+$ACFUN = FALSE;
+$BILIBILI = TRUE;
+$FmtPV['$DMFVersion'] = '"DMF-5.1.0 pre-alpha"';
+$CheckPerfs = FALSE;
+$EnableAutoTimeShift = TRUE;
+$EnableSysLog = TRUE;
+$TimeShiftDelta = 0.000001;
+$TimeShiftThreshold = 10 * 60; //两次弹幕发送间隔超过阈值后重置漂移。
+
+$HTMLHeaderFmt['javascripts'] = "\n".'<script type="text/javascript" src="/static/min/?b=static&amp;f=jquery-1.6.1.min.js,qule.js,swfobject.js,jquery-ui-1.8.14.custom.min.js,pdm-bili.js"></script>'."\n";
+
+
 //include_once("./cookbook/dmf_exp/config.Acfun2.php");
-include_once("cookbook/dmf_exp/inc/class.Bilibili2GroupConfig.php");
 include_once("./cookbook/dmf_exp/config.Bilibili2.php");
+include_once("./cookbook/dmf_exp/config.Twodland1.php");
 
 //处理投稿请求
 if ($_POST["xVerify"]=="fca654cb-60ac-4f9c-b751-16ef296227b2")  {
     $_POST["xVideoStr"] = preg_replace('/\s/','',$_POST["xVideoStr"]);
 }
 
-if ($DEBUGMODE) {
-	assert_options(ASSERT_ACTIVE, 1);
-} else {
-	assert_options(ASSERT_ACTIVE, 0);
-}
-assert_options(ASSERT_WARNING, 1);
-assert_options(ASSERT_BAIL, 1);
-assert_options(ASSERT_QUIET_EVAL, 1);
-
-if ( $CheckPerfs && ($_GET['skipPerfs'] != 'TRUE') )
-{
-	$Perfs = ReadPage('Site.DMFPerfs');
-	if ($Perfs['isXMLConverted'] != 'YES')
-	{
-		header("HTTP/1.1 301 Moved Permanently");
-		header("Cache-Control: no-cache, must-revalidate");
-		header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
-		header("Location: /API/XMLTool?action=PairConv&skipPerfs=TRUE");
-		exit();
-	}
-}
-
-function myAssert($b, $str)
-{
-	global $myAssertInteraEnable;
-	//扩展Assert
-	if ($b === TRUE)
-		return;
-	if ($myAssertInteraEnable)
-	{
-		echo $str;
-		assert(FALSE);
-	} else {
-		Abort($str);
-	}
-	return;
-}
-
-
 $HandleActions['setdef'] = 'Handlesetdef';
 $HandleAuth['setdef'] = 'admin';
-
 function Handlesetdef($pn,$auth = 'admin')
 {
-	global $EnableNotify,$FmtPV;
-	$EnableNotify = 0;
+	global $FmtPV;
+	
 	$page = RetrieveAuthPage($pn, $auth, true, READPAGE_CURRENT);
 	if (!$page) Abort("?cannot source $pn");
-	$new = $page;
-	if ($_GET['Player']) {$new['DP_P0'.$_GET['PartEX']] = $_GET['Player'];}
-	updatepage($pn,$page,$new);
+	if ($_GET['Player']) {$page['DP_P0'.$_GET['PartEX']] = $_GET['Player'];}
+	WritePage($pn,$page);
+	
 	header("HTTP/1.1 301 Moved Permanently");
 	header("Cache-Control: no-cache, must-revalidate");
 	header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
