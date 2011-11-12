@@ -4,9 +4,13 @@ class DanmakuBuilder
 	private $text;
 	private $attrIndex = 0;
 	
-	public function __construct($text, $pool, $userhash)
+	public function __construct($text, $pool, $userhash, $time = null)
 	{
-		$sendtime = time();
+        if ($time == null) {
+            $sendtime = time();
+        } else {
+            $sendtime = $time;
+        }
         $text = htmlspecialchars($text, ENT_NOQUOTES);
 		$dmid = mt_rand(0,2147483647); 
 		$this->text = <<<CMT
@@ -21,7 +25,7 @@ CMT;
 	{
 		$this->text .= "\t<attr id=\"$this->attrIndex\"";
         foreach ($fields as $key => $value) {
-            $this->text .= " {$key}={$value}";
+            $this->text .= " {$key}=\"{$value}\"";
         }
         $this->text .= " />\r\n";
 		$this->attrIndex += 1;

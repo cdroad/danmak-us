@@ -2,65 +2,19 @@
 
 class DanmakuBarSet
 {
-	private $Guest = array();
-	private $Authed = array();
-	private $Admin = array();
-	
-	public function __construct()
+    private $arr = array();
+    private $gc;
+    
+	public function __construct($groupConfig)
 	{
-		$this->Guest = array
-		(
-			0 => '%danmakubar% (:input form "{*$host}/poolop/loadxml/{$Group}/{$DMID}" method=get:)'.
-				 '下载格式：(:input select name=format value=data label=data :)'.
-				 '(:input select name=format value=d label=d :)'.
-				 '(:input select name=format value=raw label=comment :)'.
-				 '附件：(:input checkbox name=attach value=true checked:)(:input submit value="下载":)'.
-				 '(:input end:)%%&nbsp;&nbsp;',	
-		);
-		
-		$this->Authed = array
-		(
-			0 => '%danmakubar%(:input form enctype="multipart/form-data" "{*$host}/poolop/post/{$Group}/{$DMID}" :)'.
-				 '(:input file uploadfile:)'.
-				 '弹幕池:(:input select name=Pool value=Static label=静态 :)'.
-				 '(:input select name=Pool value=Dynamic label=动态 :)'.
-				 '追加:(:input checkbox Append value=true:)'.
-				 '(:input submit post Upload value="上传":)'.
-				 '(:input end:)%%&nbsp;&nbsp;',
-			
-			1 => '%danmakubar% (:input form "{*$host}/poolop/loadxml/{$Group}/{$DMID}" method=get:)'.
-				 '下载格式：(:input select name=format value=data label=data :)'.
-				 '(:input select name=format value=d label=d :)'.
-				 '(:input select name=format value=raw label=comment :)'.
-				 '附件：(:input checkbox name=attach value=true checked:)(:input submit value="下载":)'.
-				 '(:input end:)%%&nbsp;&nbsp;',	
-				
-			2 => '%danmakubar%(:if2 equal "{*$IsMuti}" "true" :)[[{*$FullName}?action=edit | 编辑Part]](:if2end:)%%&nbsp;&nbsp;',
-			
-			4 => '<br />',
-			5 => '%danmakubar% XML:&nbsp;&nbsp;',
-			6 => '[[DMR/B{*$DMID}?action=edit|动态池编辑]]&nbsp;&nbsp;',
-			7 => '[[{*$host}/poolop/validate/{$Group}/{$DMID}/dynamic |验证动态池]]&nbsp;&nbsp;',
-			8 => '%%&nbsp;&nbsp;',
-		);
-		
-		$this->Admin = array
-		(
-			2 => '%danmakubar% 弹幕池移动： '.
-				'[[{*$host}/poolop/move/{$Group}/{$DMID}/static/dynamic | S-D]]&nbsp'.
-				'[[{*$host}/poolop/move/{$Group}/{$DMID}/dynamic/static | D-S]]&nbsp'.
-				'%%&nbsp;&nbsp;',
-			
-			9 => '%danmakubar%'.
-				 '清空弹幕池 ： '.
-				 '[[{*$host}/poolop/clear/{$Group}/{$DMID}/staitc | 静态]]&nbsp'.
-				 '[[{*$host}/poolop/clear/{$Group}/{$DMID}/dynamic | 动态]]&nbsp'.
-				 '[[{*$host}/poolop/clear/{$Group}/{$DMID}/all | 双杀]]&nbsp'.
-				 '%%&nbsp;&nbsp;',
-				
-		);
+        $this->gc = $groupConfig;
 	}
 	
+    public function add(DanmakuBarItem $obj)
+    {
+        $this->arr[] = $obj;
+    }
+    
 	private function getAuthLevel($pagename)
 	{
 		global $AuthId, $Author;
@@ -78,32 +32,29 @@ class DanmakuBarSet
 		{
 			if (CondAuth($pagename, 'admin'))
 			{
-				return 'ADMIN';
+				return DanmakuBarItem::$Auth->Admin;
 			} else {
-				return 'AUTHED';
+				return DanmakuBarItem::$Auth->Member;
 			}
 		}
-		return 'GUEST';
+		return DanmakuBarItem::$Auth->Guest;
 	}
 	
 	public function getString(VideoData $source)
 	{
-		$Arr = $this->Guest;
 		$Auth = $this->getAuthLevel($source->pagename);
-		if ($Auth == 'AUTHED' || $Auth == 'ADMIN')
-		{
-			$Arr = $this->Authed;
-			
-			if ($Auth == 'ADMIN')
-			{
-				$Arr = array_merge($Arr, $this->Admin);
-			}
-			
-		}
-		
-		//ksort($Arr, SORT_REGULAR);
-		$str = implode($Arr);
-		//var_dump($str);exit;
+        $str = "";
+        foreach ($this->arr as $item)
+        {
+            if ($Auth >= $item->auth()) {
+                $res = $item->getString($this->gc);
+                if ($res != '<br />') {
+                    $str .= '%danmakubar% '.$res.'%%&nbsp;&nbsp;';
+                } else {
+                    $str .= $res;
+                }
+            }
+        }
 		return $str;
 	}
 }

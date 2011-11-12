@@ -8,6 +8,7 @@ include_once("cookbook/dmf_exp/inc/class.DanmakuPoolBaseIO.php");
 include_once("cookbook/dmf_exp/inc/class.Set.php");
 include_once("cookbook/dmf_exp/inc/class.VideoSourceSet.php");
 include_once("cookbook/dmf_exp/inc/class.PlayerSet.php");
+include_once("cookbook/dmf_exp/inc/class.DanmakuBarItem.php");
 include_once("cookbook/dmf_exp/inc/class.DanmakuBarSet.php");
 include_once("cookbook/dmf_exp/inc/class.DanmakuBuilder.php");
 include_once("cookbook/dmf_exp/inc/class.DanmakuXPathBuilder.php");
@@ -41,8 +42,6 @@ $HTMLHeaderFmt['javascripts'] = "\n".'<script type="text/javascript" src="/stati
 
 
 //include_once("./cookbook/dmf_exp/config.Acfun2.php");
-include_once("./cookbook/dmf_exp/config.Bilibili2.php");
-include_once("./cookbook/dmf_exp/config.Twodland1.php");
 
 //处理投稿请求
 if ($_POST["xVerify"]=="fca654cb-60ac-4f9c-b751-16ef296227b2")  {

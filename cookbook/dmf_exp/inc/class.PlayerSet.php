@@ -1,5 +1,5 @@
 <?php
-class PlayerSet extends Set implements Iterator
+class PlayerSet extends Set
 {
 	public function addDefault($id)
 	{
@@ -9,31 +9,6 @@ class PlayerSet extends Set implements Iterator
 	protected function isVaildType($Obj)
 	{
 		return $Obj instanceof Player;
-	}
-	
-	public function current()
-	{
-		return current($this->Set);
-	}
-	
-	public function key()
-	{
-		return key($this->Set);
-	}
-	
-	public function next()
-	{
-		next($this->Set);
-	}
-	
-	public function rewind()
-	{
-		reset($this->Set);
-	}
-	
-	public function valid()
-	{
-		return $this->isVaildType($this->current());
 	}
 }
 $PlayerSet = new PlayerSet();

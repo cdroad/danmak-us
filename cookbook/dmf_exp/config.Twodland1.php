@@ -5,12 +5,33 @@ $PlayerSet->add('2dl20111024', new Player('2dl20111024.swf', '2dland播放器(20
 
 class Twodland1GroupConfig
 {
+    public static $GroupString = 'Twodland1';
+    public static $AllowedXMLFormat = array('raw', 'comments');
 	public static $SUID = 'D';
 	public static $XMLFolderPath = './uploads/Twodland1';
 	public static $DanmakuBarSet;
 	public static $VideoSourceSet;
 	public static $PlayersSet;
 
+    public static function GetDanmakuBarSet()
+    {
+        $set = new DanmakuBarSet('Twodland1GroupConfig');
+        $set->add(new DanmakuBarUploadXML());
+        $set->add(new DanmakuBarDownloadXML());
+        $set->add(new DanmakuBarNewLine());
+        
+        $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
+        $groupA->add(new DanmakuBarValPool());
+        $groupA->add(new DanmakuBarEditPool());
+        $groupA->add(new DanmakuBarEditPart);
+        
+        $set->add($groupA);
+        $set->add(new DanmakuBarPoolMove());
+        $set->add(new DanmakuBarPoolClear());
+        
+        return $set;
+    }
+    
 	public static function GenerateFlashVarArr(VideoData $source)
 	{
 		$AFVArray = array();
@@ -55,22 +76,23 @@ CONT;
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->comment as $comment) {
             $pool = 0;
-			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef');
-            $attrs = $comment->attributes();
-            foreach ($attrs as $k =>$v) {
+            $time = (string)strtotime((string)$comment->sendTime);
+			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef', $time);
+            //var_dump($attrs);
+            foreach ($comment->attributes() as $k =>$v) {
                 $attrs[strtolower($k)] = $v;
             }
+            
             $attrs['playtime'] = (string)$comment->playTime;
             unset($attrs['islocked']);
             $danmaku->AddAttr($attrs);
 			$XMLString .= (string)$danmaku;
 		}
 		$XMLString .= "\r\n</comments>";
-        
 		return simplexml_load_string($XMLString);
 	}
 }
 
-Twodland1GroupConfig::$DanmakuBarSet = new DanmakuBarSet();
+Twodland1GroupConfig::$DanmakuBarSet = Twodland1GroupConfig::GetDanmakuBarSet();
 Twodland1GroupConfig::$VideoSourceSet = $GLOBALS['VideoSourceSet'];
 Twodland1GroupConfig::$PlayersSet = $GLOBALS['PlayerSet'];

@@ -10,8 +10,6 @@ params.allowfullscreen = "true";
 params.bgcolor = "#FFFFFF";
 params.autostart = "false";
 params.play = "false";
-//params.scale = "noscale";
-//params.wmode = "opaque";
 
 STR;
 
@@ -50,10 +48,7 @@ class VideoData
 	private $source;
 	private $sourcetype;
 	private $partIndex;
-	/**
-	 * 
-	 * @var Player
-	 */
+
 	private $player;
 	private $muti;
 	private $pagename;

@@ -1,4 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+include_once("./cookbook/dmf_exp/config.Twodland1.php");
 //PoolOp / command / group / dmid / params
 //post move clear valid download
 

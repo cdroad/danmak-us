@@ -86,6 +86,12 @@ class Utils
 		WritePage($pagename, $page);
 	}
 	
+    public static function Get_Class_Var($classname, $varname)
+    {
+        $arr = get_class_vars($classname);
+        return $arr[$varname];
+    }
+    
 	public static function createCommentText($text,$pool,$userhash,$attrs)
 	{
         throw new Exception("已废弃");
