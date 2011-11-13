@@ -19,12 +19,34 @@ $BilibiliAuthLevel = new DefinedEnum( array
 
 class Bilibili2GroupConfig
 {
+    public static $GroupString = 'Bilibili2';
+    public static $AllowedXMLFormat = array('raw', 'data', 'd');
 	public static $SUID = 'B';
 	public static $XMLFolderPath = './uploads/Bilibili2';
 	public static $DanmakuBarSet;
 	public static $VideoSourceSet;
 	public static $PlayersSet;
 
+    
+    public static function GetDanmakuBarSet()
+    {
+        $set = new DanmakuBarSet(get_class());
+        $set->add(new DanmakuBarUploadXML());
+        $set->add(new DanmakuBarDownloadXML());
+        $set->add(new DanmakuBarNewLine());
+        
+        $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
+        $groupA->add(new DanmakuBarValPool());
+        $groupA->add(new DanmakuBarEditPool());
+        $groupA->add(new DanmakuBarEditPart);
+        
+        $set->add($groupA);
+        $set->add(new DanmakuBarPoolMove());
+        $set->add(new DanmakuBarPoolClear());
+        
+        return $set;
+    }
+    
 	public static function GenerateFlashVarArr(VideoData $source)
 	{
 		$AFVArray = array();
@@ -104,7 +126,7 @@ class Bilibili2GroupConfig
 	}
 }
 
-Bilibili2GroupConfig::$DanmakuBarSet = new DanmakuBarSet();
+Bilibili2GroupConfig::$DanmakuBarSet = Bilibili2GroupConfig::GetDanmakuBarSet();
 Bilibili2GroupConfig::$VideoSourceSet = $GLOBALS['VideoSourceSet'];
 Bilibili2GroupConfig::$PlayersSet = $GLOBALS['PlayerSet'];
 

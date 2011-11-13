@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+include_once("./cookbook/dmf_exp/config.Bilibili2.php");
 //Bilibili Player Interfaces
 //Bili播放器接口
 class Bpi extends CI_Controller {
@@ -144,7 +144,12 @@ class Bpi extends CI_Controller {
         
         
         $builder = new DanmakuBuilder($text, $pool, 'deadbeef');
-		$builder->AddAttr($pt, $_POST["mode"], $_POST["fontsize"], $_POST["color"]);
+        $attrs = array(
+                'playtime'  => $pt,
+                'mode'      => $_POST["mode"],
+                'fontsize'  => $_POST["fontsize"],
+                'color'     => $_POST["color"]);
+		$builder->AddAttr($attrs);
 		$xml = (string)$builder;
         
         //准备写入PmWiki

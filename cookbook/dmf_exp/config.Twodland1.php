@@ -15,7 +15,7 @@ class Twodland1GroupConfig
 
     public static function GetDanmakuBarSet()
     {
-        $set = new DanmakuBarSet('Twodland1GroupConfig');
+        $set = new DanmakuBarSet(get_class());
         $set->add(new DanmakuBarUploadXML());
         $set->add(new DanmakuBarDownloadXML());
         $set->add(new DanmakuBarNewLine());

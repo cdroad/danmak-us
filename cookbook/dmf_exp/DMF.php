@@ -31,6 +31,7 @@ $LOCALVERSION = true;
 $DEBUGMODE = true;
 $ACFUN = FALSE;
 $BILIBILI = TRUE;
+$TWODLAND = TRUE;
 $FmtPV['$DMFVersion'] = '"DMF-5.1.0 pre-alpha"';
 $CheckPerfs = FALSE;
 $EnableAutoTimeShift = TRUE;

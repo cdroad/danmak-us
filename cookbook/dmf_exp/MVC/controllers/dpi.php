@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+include_once("./cookbook/dmf_exp/config.Twodland1.php");
 class Dpi extends CI_Controller {
 
     //http://www.2dland.cn/watch/data/player/201002/225.xml?baka=0.945524160284549
@@ -12,7 +12,11 @@ class Dpi extends CI_Controller {
     
     public function memberinfo()
     {
-        die('{"uid":"1","username":"DMF用户","groupid":"1"}');
+        if (CondAuth('PI/Twodland', 'edit')) {
+            die('{"uid":"1","username":"DMF用户","groupid":"1"}');
+        } else {
+            die('{"uid":0,"username":"","groupid":7}');
+        }
     }
     
     public function forbidden()
@@ -24,5 +28,33 @@ class Dpi extends CI_Controller {
     {
         die("test");
     }
+    /*
+        http://www.2dland.cn/watch/ajax.php?mod=comment&act=post
+        font%5Fsize=24&video%5Fid=12898&play%5Ftime=0%2E4&action=1&show%5Feffect=1&message=%E6%9C%89%E5%A5%B6%E3%80%82%E3%80%82%E3%80%82&hide%5Feffect=1&font%5Feffect=1&color=16777215
+        rep:{"ok":1,"cmnt_id":1265}
+    */
+    public function postcmt()
+    {
+        $builder = new DanmakuBuilder($_REQUEST['message'], 0, 'deadbeef');
+        $attrs = array(
+                "fontsize" => $_REQUEST['font_size'],
+                "playtime" => $_REQUEST['play_time'],
+                "mode" => $_REQUEST['action'],
+                "showeffect" => $_REQUEST['show_effect'],
+                "hideeffect" => $_REQUEST['hide_effect'],
+                "fonteffect" => $_REQUEST['font_effect'],
+                "color" => $_REQUEST['color']);
+        $builder->AddAttr($attrs);
+        $xml = (string)$builder;
+        $vid = $_REQUEST['video_id'];
+        //准备写入PmWiki
+        $_pagename = 'DMR.D'.$vid;
+        $auth = 'edit';
+        $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
+        if (!$page) die('{"ok":-1,"cmnt_id":1265}');
     
+        $page['text'] .= $xml;
+        WritePage($_pagename, $page);
+        die('{"ok":1,"cmnt_id":1265}');
+    }
 }

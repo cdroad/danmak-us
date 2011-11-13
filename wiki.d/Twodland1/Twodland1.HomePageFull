@@ -1,0 +1,17 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+cauthor=
+charset=UTF-8
+csum=
+ctime=1321160167
+host=127.0.0.1
+name=Twodland1.HomePageFull
+rev=1
+targets=System.BiliFastPostNew,Twodland1.HomePageFull
+text=(:Title {$Group}.首页 完整版 :)%0a%0a总投稿量:(:pagelist group=Twodland1 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a新建页面:%0a* &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostNew|点此投稿]]%25%25%0a'''新版投稿说明企划中'''%0a'''目前投稿不支持单贴多视频'''%0a%0a弹幕文件:请使用acfun弹幕文件%0a%0a最新25个视频%0a(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name :)%0a%0a%0a[[HomePageFull|点此围观全部视频列表]]%0a(:nogroupfooter:)
+time=1321160167
+title=Twodland1.首页 完整版 
+author:1321160167=
+diff:1321160167:1321160167:=1,17d0%0a%3c (:Title {$Group}.首页 完整版 :)%0a%3c %0a%3c 总投稿量:(:pagelist group=Twodland1 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a%3c 新建页面:%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostNew|点此投稿]]%25%25%0a%3c '''新版投稿说明企划中'''%0a%3c '''目前投稿不支持单贴多视频'''%0a%3c %0a%3c 弹幕文件:请使用acfun弹幕文件%0a%3c %0a%3c 最新25个视频%0a%3c (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name :)%0a%3c %0a%3c %0a%3c [[HomePageFull|点此围观全部视频列表]]%0a%3c (:nogroupfooter:)%0a\ No newline at end of file%0a
+host:1321160167=127.0.0.1
