@@ -1,13 +1,4 @@
 <?php
-// Bilibili设定
-//是否允许代码弹幕(高级弹幕)
-$BiliEnableSA = TRUE;
-
-$PlayerSet->add('bi20111102', new Player('bi20111102.swf', 'bilibili播放器(20111102)', 950, 482))
-		  ->addDefault('bi20111102');
-
-$VideoSourceSet->add('yk', new YouKuSource());
-
 //弹幕权限表
 $BilibiliAuthLevel = new DefinedEnum( array
 (
@@ -17,37 +8,37 @@ $BilibiliAuthLevel = new DefinedEnum( array
 	'Danmakuer' => '20000,1001'
 ));
 
-class Bilibili2GroupConfig
+class Bilibili2GroupConfig extends GroupConfig
 {
-    public static $GroupString = 'Bilibili2';
-    public static $AllowedXMLFormat = array('raw', 'data', 'd');
-	public static $SUID = 'B';
-	public static $XMLFolderPath = './uploads/Bilibili2';
-	public static $DanmakuBarSet;
-	public static $VideoSourceSet;
-	public static $PlayersSet;
-
+    //是否允许代码弹幕(高级弹幕)
+    private $BiliEnableSA = TRUE;
     
-    public static function GetDanmakuBarSet()
+    protected function __construct()
     {
-        $set = new DanmakuBarSet(get_class());
-        $set->add(new DanmakuBarUploadXML());
-        $set->add(new DanmakuBarDownloadXML());
-        $set->add(new DanmakuBarNewLine());
+        parent::__construct();
+        $this->GroupString = 'Bilibili2';
+        $this->AllowedXMLFormat = array('raw', 'data', 'd');
+        $this->SUID = 'B';
+        $this->XMLFolderPath = './uploads/Bilibili2';
+        $this->PlayersSet->add('bi20111102', new Player('bi20111102.swf', 'bilibili播放器(20111102)', 950, 482))
+                    ->addDefault('bi20111102');
+        $this->VideoSourceSet->add('yk', new YouKuSource());
+        
+        $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
+        $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
+        $this->DanmakuBarSet->add(new DanmakuBarNewLine());
         
         $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
         $groupA->add(new DanmakuBarValPool());
         $groupA->add(new DanmakuBarEditPool());
         $groupA->add(new DanmakuBarEditPart);
         
-        $set->add($groupA);
-        $set->add(new DanmakuBarPoolMove());
-        $set->add(new DanmakuBarPoolClear());
-        
-        return $set;
+        $this->DanmakuBarSet->add($groupA);
+        $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
+        $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
     
-	public static function GenerateFlashVarArr(VideoData $source)
+	public function GenerateFlashVarArr(VideoData $source)
 	{
 		$AFVArray = array();
 	    switch (strtoupper($source->sourcetype->getType()))
@@ -80,22 +71,22 @@ class Bilibili2GroupConfig
 		return $AFVArray;
 	}
 	
-	public static function ConvertToUniXML(SimpleXMLElement $obj)
+	public function ConvertToUniXML(SimpleXMLElement $obj)
 	{
 		switch (strtolower($obj->getName()))
 		{
 			case "comments":
 				return $obj;
 			case "information":
-				return self::ConvertFromDataFormat($obj);
+				return $this->ConvertFromDataFormat($obj);
 			case "i":
-				return self::ConvertFromIDForamt($obj);
+				return $this->ConvertFromIDForamt($obj);
 			default:
 				throw new UnexpectedValueException();
 		}
 	}
 	
-	public static function ConvertFromDataFormat(SimpleXMLElement $Obj)
+	public function ConvertFromDataFormat(SimpleXMLElement $Obj)
 	{
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->data as $comment) {
@@ -111,7 +102,7 @@ class Bilibili2GroupConfig
 		return simplexml_load_string($XMLString);
 	}
 
-	public static function ConvertFromIDForamt(SimpleXMLElement $Obj)
+	public function ConvertFromIDForamt(SimpleXMLElement $Obj)
 	{
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->d as $comment) {
@@ -124,35 +115,19 @@ class Bilibili2GroupConfig
         
 		return simplexml_load_string($XMLString);
 	}
+    
+    public function __get($name) {
+        return $this->$name;
+    }
+    
+    public static function GetInstance()
+    {
+        if (is_null(self::$Inst)) {
+            self::$Inst = new self();
+            return self::$Inst;
+        } else {
+            return self::$Inst;
+        }
+    }
+    
 }
-
-Bilibili2GroupConfig::$DanmakuBarSet = Bilibili2GroupConfig::GetDanmakuBarSet();
-Bilibili2GroupConfig::$VideoSourceSet = $GLOBALS['VideoSourceSet'];
-Bilibili2GroupConfig::$PlayersSet = $GLOBALS['PlayerSet'];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

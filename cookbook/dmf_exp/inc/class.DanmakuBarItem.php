@@ -4,7 +4,7 @@ abstract class DanmakuBarItem
 {
     public static $Auth;
     abstract public function auth();
-    abstract public function getString($gc);
+    abstract public function getString(GroupConfig $gc);
 }
 DanmakuBarItem::$Auth = new Enum("Guest", "Member", "Admin");
 
@@ -25,7 +25,7 @@ class DanmakuBarGroup extends DanmakuBarItem
     
     public function auth() {return $this->auth;}
     
-    public function getString($gc)
+    public function getString(GroupConfig $gc)
     {
         foreach ($this->arr as $item) {
             $str .= $item->getString($gc).'&nbsp;&nbsp;';
@@ -38,7 +38,7 @@ class DanmakuBarNewLine extends DanmakuBarItem
 {
     public function auth() {return self::$Auth->Guest;}
     
-    public function getString($gc)
+    public function getString(GroupConfig $gc)
     {
         return '<br />';
     }
@@ -47,10 +47,10 @@ class DanmakuBarNewLine extends DanmakuBarItem
 class DanmakuBarDownloadXML extends DanmakuBarItem
 {
     public function auth() {return self::$Auth->Guest;}
-    public function getString($gc)
+    public function getString(GroupConfig $gc)
     {
-        $group = Utils::Get_Class_Var($gc, 'GroupString');
-        $xmlformat = Utils::Get_Class_Var($gc, 'AllowedXMLFormat');
+        $group = $gc->GroupString;
+        $xmlformat = $gc->AllowedXMLFormat;
         
         foreach ($xmlformat as $format) {
             $formats .= "(:input select name=format value={$format} label={$format} :)";
@@ -66,9 +66,9 @@ class DanmakuBarDownloadXML extends DanmakuBarItem
 class DanmakuBarUploadXML extends DanmakuBarItem
 {
     public function auth() {return self::$Auth->Member;}
-    public function getString($gc)
+    public function getString(GroupConfig $gc)
     {
-        $group = Utils::Get_Class_Var($gc, 'GroupString');
+        $group = $gc->GroupString;
         return   '(:input form enctype="multipart/form-data" '.
                  "\"{\$host}/poolop/post/{$group}/{\$DMID}\" :)".
                  '(:input file uploadfile:)'.
@@ -83,7 +83,7 @@ class DanmakuBarUploadXML extends DanmakuBarItem
 class DanmakuBarEditPart extends DanmakuBarItem
 {
     public function auth() {return self::$Auth->Member;}
-    public function getString($gc)
+    public function getString(GroupConfig $gc)
     {
         return '(:if2 equal "{*$IsMuti}" "true" :)[[{*$FullName}?action=edit | 编辑Part]](:else2:){-编辑Part-}(:if2end:)';
     }
@@ -92,9 +92,9 @@ class DanmakuBarEditPart extends DanmakuBarItem
 class DanmakuBarValPool extends DanmakuBarItem
 {
     public function auth() {return self::$Auth->Member;}
-    public function getString($gc)
+    public function getString(GroupConfig $gc)
     {
-        $group = Utils::Get_Class_Var($gc, 'GroupString');
+        $group = $gc->GroupString;
         return "[[{*\$host}/poolop/validate/{$group}/{\$DMID}/dynamic |验证动态池]]";
     }
 }
@@ -102,9 +102,9 @@ class DanmakuBarValPool extends DanmakuBarItem
 class DanmakuBarEditPool extends DanmakuBarItem
 {
     public function auth() {return self::$Auth->Member;}
-    public function getString($gc)
+    public function getString(GroupConfig $gc)
     {
-        $suid = Utils::Get_Class_Var($gc, 'SUID');
+        $suid = $gc->SUID;
         return "[[DMR/{$suid}{*\$DMID}?action=edit|动态池编辑]]";
     }
 }
@@ -112,9 +112,9 @@ class DanmakuBarEditPool extends DanmakuBarItem
 class DanmakuBarPoolClear extends DanmakuBarItem
 {
     public function auth() {return self::$Auth->Admin;}
-    public function getString($gc)
+    public function getString(GroupConfig $gc)
     {
-        $group = Utils::Get_Class_Var($gc, 'GroupString');
+        $group = $gc->GroupString;
         return '移动弹幕池： '.
                "[[{*\$host}/poolop/move/{$group}/{\$DMID}/static/dynamic | S-D]]&nbsp".
                "[[{*\$host}/poolop/move/{$group}/{\$DMID}/dynamic/static | D-S]]&nbsp";
@@ -125,9 +125,9 @@ class DanmakuBarPoolMove extends DanmakuBarItem
 {
     public function auth() {return self::$Auth->Admin;}
     
-    public function getString($gc)
+    public function getString(GroupConfig $gc)
     {
-        $group = Utils::Get_Class_Var($gc, 'GroupString');
+        $group = $gc->GroupString;
         return '清空弹幕池： '.
                "[[{*\$host}/poolop/clear/{$group}/{\$DMID}/static | 静态]]&nbsp".
                "[[{*\$host}/poolop/clear/{$group}/{\$DMID}/dynamic | 动态]]&nbsp".

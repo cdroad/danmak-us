@@ -44,9 +44,8 @@ class Bpi extends CI_Controller {
 	
 	public function advanceComment()
 	{
-        global $BiliEnableSA;
-        
-        if ($BiliEnableSA)
+        $gc = Utils::GetGroupConfig('Bilibili2');
+        if ($gc->BiliEnableSA)
         {
             die("<confirm>1</confirm><hasBuy>true</hasBuy>");
         } else {

@@ -1,38 +1,34 @@
 <?php
-$PlayerSet->add('2dl20111024', new Player('2dl20111024.swf', '2dland播放器(20111024)', 950, 512))
-		  ->addDefault('2dl20111024');
-
-
-class Twodland1GroupConfig
+class Twodland1GroupConfig extends GroupConfig
 {
-    public static $GroupString = 'Twodland1';
-    public static $AllowedXMLFormat = array('raw', 'comments');
-	public static $SUID = 'D';
-	public static $XMLFolderPath = './uploads/Twodland1';
-	public static $DanmakuBarSet;
-	public static $VideoSourceSet;
-	public static $PlayersSet;
-
-    public static function GetDanmakuBarSet()
+    protected function __construct()
     {
-        $set = new DanmakuBarSet(get_class());
-        $set->add(new DanmakuBarUploadXML());
-        $set->add(new DanmakuBarDownloadXML());
-        $set->add(new DanmakuBarNewLine());
+        parent::__construct();
+        $this->GroupString = 'Twodland1';
+        $this->AllowedXMLFormat = array('raw', 'comments');
+        $this->SUID = 'D';
+        $this->XMLFolderPath = './uploads/Twodland1';
+        $this->PlayersSet->add('2dl20111024', new Player('2dl20111024.swf', '2dland播放器(20111024)', 950, 512))
+                ->addDefault('2dl20111024');
+        
+        
+        
+        $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
+        $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
+        $this->DanmakuBarSet->add(new DanmakuBarNewLine());
         
         $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
         $groupA->add(new DanmakuBarValPool());
         $groupA->add(new DanmakuBarEditPool());
         $groupA->add(new DanmakuBarEditPart);
         
-        $set->add($groupA);
-        $set->add(new DanmakuBarPoolMove());
-        $set->add(new DanmakuBarPoolClear());
-        
-        return $set;
+        $this->DanmakuBarSet->add($groupA);
+        $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
+        $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
     
-	public static function GenerateFlashVarArr(VideoData $source)
+    
+	public function GenerateFlashVarArr(VideoData $source)
 	{
 		$AFVArray = array();
 		$AFVArray['dir'] = strtoupper($source->sourcetype->getType());
@@ -59,19 +55,19 @@ CONT;
 		return $AFVArray;
 	}
 	
-	public static function ConvertToUniXML(SimpleXMLElement $obj)
+	public function ConvertToUniXML(SimpleXMLElement $obj)
 	{
         if (strtolower($obj->getName()) == "comments") {
             if (empty($obj->comment[0]->playTime)) {
                 //raw
                 return $obj;
             } else {
-                return self::ConvertFromCommentsFormat($obj);
+                return $this->ConvertFromCommentsFormat($obj);
             }
         }
 	}
 	
-	public static function ConvertFromCommentsFormat(SimpleXMLElement $Obj)
+	public function ConvertFromCommentsFormat(SimpleXMLElement $Obj)
 	{
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->comment as $comment) {
@@ -91,8 +87,20 @@ CONT;
 		$XMLString .= "\r\n</comments>";
 		return simplexml_load_string($XMLString);
 	}
+    
+    public function __get($name) {
+        return $this->$name;
+    }
+    
+    public static function GetInstance()
+    {
+        
+        if (is_null(self::$Inst)) {
+            self::$Inst = new self();
+            return self::$Inst;
+        } else {
+            return self::$Inst;
+        }
+    }
+    
 }
-
-Twodland1GroupConfig::$DanmakuBarSet = Twodland1GroupConfig::GetDanmakuBarSet();
-Twodland1GroupConfig::$VideoSourceSet = $GLOBALS['VideoSourceSet'];
-Twodland1GroupConfig::$PlayersSet = $GLOBALS['PlayerSet'];

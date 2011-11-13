@@ -36,16 +36,14 @@ class Utils
 
 	public static function GetXMLFilePath($dmid, $group)
 	{
-		$groupConfig = self::GetGroup($group)."GroupConfig";
-		$vars = get_class_vars($groupConfig);
-		
-		return $vars['XMLFolderPath']."/$dmid.xml";
+		$gc = self::GetGroupConfig($group);
+		return $gc->XMLFolderPath."/$dmid.xml";
 	}
 	
 	public static function GetDMRPageName($dmid, $group)
 	{
-		$vars = get_class_vars(self::GetGroup($group)."GroupConfig");
-		return 'DMR.'.$vars['SUID'].$dmid;
+        $gc = self::GetGroupConfig($group);
+		return "DMR.{$gc->SUID}{$dmid}";
 	}
 	
 	public static function GetIOClass($group, $dmid, $typeStr)
@@ -65,15 +63,28 @@ class Utils
 		switch (strtolower($str))
 		{
 			case "bilibili2":
+			case "bilibili":
 				return "Bilibili2";
 			case "acfun2":
+			case "acfun":
 				return "Acfun2";
             case "twodland1":
+            case "twodland":
             case "2dland":
                 return "Twodland1";
 		}
 	}
-	
+    
+	public static function GetGroupConfig($str)
+    {
+        $str = self::GetGroup($str);
+        $class = "{$str}GroupConfig";
+        if (!class_exists($class)) {
+            throw new Exception("Group Config Not Found : {$class}");
+        }
+        return call_user_func("{$str}GroupConfig::GetInstance");
+    }
+    
 	public static function WriteLog($action, $message)
 	{
         if (!$GLOBALS['EnableSysLog']) return;
@@ -85,12 +96,6 @@ class Utils
 		
 		WritePage($pagename, $page);
 	}
-	
-    public static function Get_Class_Var($classname, $varname)
-    {
-        $arr = get_class_vars($classname);
-        return $arr[$varname];
-    }
     
 	public static function createCommentText($text,$pool,$userhash,$attrs)
 	{

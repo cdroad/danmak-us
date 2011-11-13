@@ -71,7 +71,8 @@ class PoolOp extends CI_Controller {
 	
 	public function post($group, $dmid) // GET : pool append
 	{
-		$group = Utils::GetGroup($group);$groupConfigClass = $group."GroupConfig";
+		$group = Utils::GetGroup($group);
+        $groupConfigClass = Utils::GetGroupConfig($group);
 		
 		//加载文件
 		if ($_FILES['uploadfile']['error'] != UPLOAD_ERR_OK)
@@ -90,7 +91,7 @@ class PoolOp extends CI_Controller {
 		}
 		
 		$pool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $_POST['Pool']));
-		$XMLObj = $groupConfigClass::ConvertToUniXML($xmldata);
+		$XMLObj = $groupConfigClass->ConvertToUniXML($xmldata);
 		$append = strtolower($_GET['append']) == 'true' ;
 		if ($append) {
 			$pool->MergeFrom($XMLObj);

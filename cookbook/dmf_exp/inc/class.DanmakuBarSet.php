@@ -5,7 +5,7 @@ class DanmakuBarSet
     private $arr = array();
     private $gc;
     
-	public function __construct($groupConfig)
+	public function __construct(GroupConfig $groupConfig)
 	{
         $this->gc = $groupConfig;
 	}

@@ -16,6 +16,7 @@ include_once("cookbook/dmf_exp/inc/class.Player.php");
 include_once("cookbook/dmf_exp/inc/class.Utils.php");
 include_once("cookbook/dmf_exp/inc/class.VideoData.php");
 include_once("cookbook/dmf_exp/inc/class.VideoSource.php");
+include_once("cookbook/dmf_exp/inc/class.GroupConfig.php");
 
 
 
