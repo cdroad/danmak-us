@@ -30,7 +30,8 @@ include_once("cookbook/dmf_exp/inc/class.GroupConfig.php");
  */
 $LOCALVERSION = true;
 $DEBUGMODE = true;
-$ACFUN = FALSE;
+$ACFUN = TRUE;
+$ACFUN2011 = TRUE;
 $BILIBILI = TRUE;
 $TWODLAND = TRUE;
 $FmtPV['$DMFVersion'] = '"DMF-5.1.0 pre-alpha"';
@@ -42,8 +43,6 @@ $TimeShiftThreshold = 10 * 60; //两次弹幕发送间隔超过阈值后重置�
 
 $HTMLHeaderFmt['javascripts'] = "\n".'<script type="text/javascript" src="/static/min/?b=static&amp;f=jquery-1.6.1.min.js,qule.js,swfobject.js,jquery-ui-1.8.14.custom.min.js,pdm-bili.js"></script>'."\n";
 
-
-//include_once("./cookbook/dmf_exp/config.Acfun2.php");
 
 //处理投稿请求
 if ($_POST["xVerify"]=="fca654cb-60ac-4f9c-b751-16ef296227b2")  {
