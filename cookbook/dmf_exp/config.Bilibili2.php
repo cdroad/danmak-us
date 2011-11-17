@@ -17,7 +17,7 @@ class Bilibili2GroupConfig extends GroupConfig
     {
         parent::__construct();
         $this->GroupString = 'Bilibili2';
-        $this->AllowedXMLFormat = array('raw', 'data', 'd');
+        $this->AllowedXMLFormat = array('d', 'data', 'raw');
         $this->SUID = 'B';
         $this->XMLFolderPath = './uploads/Bilibili2';
         $this->PlayersSet->add('bi20111102', new Player('bi20111102.swf', 'bilibili播放器(20111102)', 950, 482))
@@ -36,6 +36,10 @@ class Bilibili2GroupConfig extends GroupConfig
         $this->DanmakuBarSet->add($groupA);
         $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
         $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
+    }
+    
+    public function UploadFilePreProcess($str) {
+        return simplexml_load_string($str);
     }
     
 	public function GenerateFlashVarArr(VideoData $source)

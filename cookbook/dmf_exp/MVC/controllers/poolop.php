@@ -2,6 +2,7 @@
 include_once("./cookbook/dmf_exp/config.Twodland1.php");
 include_once("./cookbook/dmf_exp/config.Bilibili2.php");
 include_once("./cookbook/dmf_exp/config.Acfun2.php");
+include_once("./cookbook/dmf_exp/config.AcfunN1.php");
 //PoolOp / command / group / dmid / params
 //post move clear valid download
 
@@ -51,7 +52,8 @@ class PoolOp extends CI_Controller {
 	public function loadxml($group, $dmid) // GET : format attach
 	{
 		$group = Utils::GetGroup($group);
-		$format = is_null($_GET['format']) ? 'd' : $_GET['format'] ;
+        $gc = Utils::GetGroupConfig($group);
+		$format = is_null($_GET['format']) ? $gc->AllowedXMLFormat[0] : $_GET['format'] ;
 		
 		//header("Content-type: text/xml");
 		header("Content-type: text/plain");
@@ -73,7 +75,7 @@ class PoolOp extends CI_Controller {
 	public function post($group, $dmid) // GET : pool append
 	{
 		$group = Utils::GetGroup($group);
-        $groupConfigClass = Utils::GetGroupConfig($group);
+        $gc = Utils::GetGroupConfig($group);
 		
 		//加载文件
 		if ($_FILES['uploadfile']['error'] != UPLOAD_ERR_OK)
@@ -83,7 +85,7 @@ class PoolOp extends CI_Controller {
 			return;
 		}
 		
-		$xmldata = simplexml_load_file($_FILES['uploadfile']['tmp_name']);
+		$xmldata = $gc->UploadFilePreProcess(file_get_contents($_FILES['uploadfile']['tmp_name']));
 		if ($xmldata === FALSE) 
 		{
             Utils::WriteLog('PoolOp::post()', "{$group} :: {$dmid} :: XMLInvalid!");
@@ -92,7 +94,7 @@ class PoolOp extends CI_Controller {
 		}
 		
 		$pool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $_POST['Pool']));
-		$XMLObj = $groupConfigClass->ConvertToUniXML($xmldata);
+		$XMLObj = $gc->ConvertToUniXML($xmldata);
 		$append = strtolower($_GET['append']) == 'true' ;
 		if ($append) {
 			$pool->MergeFrom($XMLObj);

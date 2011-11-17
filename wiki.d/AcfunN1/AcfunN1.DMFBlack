@@ -1,0 +1,20 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+cauthor=
+charset=UTF-8
+csum=
+ctime=1321428306
+host=127.0.0.1
+name=AcfunN1.DMFBlack
+rev=2
+targets=
+text=(:VideoStr:http://localhost/uploads/LocalVideo/Black.mp4:)%0a(:title 弹幕测试_黑屏 :)%0a(:sourcelink::)%0a(:VideoType:URL:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a[[#partinfo]]%0a[[#partend]]%0a(:ifend:)
+time=1321432194
+title=弹幕测试_黑屏 
+author:1321432194=
+diff:1321432194:1321428306:=1c1%0a%3c (:VideoStr:http://localhost/uploads/LocalVideo/Black.mp4:)%0a---%0a> (:VideoStr:http://localhost/uploads/LocalVideo/sm14094242.mp4:)%0a
+host:1321432194=127.0.0.1
+author:1321428306=
+diff:1321428306:1321428306:=1,11d0%0a%3c (:VideoStr:http://localhost/uploads/LocalVideo/sm14094242.mp4:)%0a%3c (:title 弹幕测试_黑屏 :)%0a%3c (:sourcelink::)%0a%3c (:VideoType:URL:)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c [[#partinfo]]%0a%3c [[#partend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1321428306=127.0.0.1

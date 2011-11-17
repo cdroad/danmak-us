@@ -5,7 +5,7 @@ class Twodland1GroupConfig extends GroupConfig
     {
         parent::__construct();
         $this->GroupString = 'Twodland1';
-        $this->AllowedXMLFormat = array('raw', 'comments');
+        $this->AllowedXMLFormat = array('comments', 'raw');
         $this->SUID = 'D';
         $this->XMLFolderPath = './uploads/Twodland1';
         $this->PlayersSet->add('2dl20111024', new Player('2dl20111024.swf', '2dland播放器(20111024)', 950, 512))
@@ -27,6 +27,9 @@ class Twodland1GroupConfig extends GroupConfig
         $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
     
+    public function UploadFilePreProcess($str) {
+        return simplexml_load_string($str);
+    }
     
 	public function GenerateFlashVarArr(VideoData $source)
 	{

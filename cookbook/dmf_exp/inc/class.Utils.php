@@ -60,19 +60,14 @@ class Utils
 	
 	public static function GetGroup($str)
 	{
-		switch (strtolower($str))
-		{
-			case "bilibili2":
-			case "bilibili":
-				return "Bilibili2";
-			case "acfun2":
-			case "acfun":
-				return "Acfun2";
-            case "twodland1":
-            case "twodland":
-            case "2dland":
-                return "Twodland1";
-		}
+    
+        if (stripos($str,'bilibili') !== false ) return "Bilibili2";
+        if (stripos($str,'acfun') !== false ) return "AcfunN1";
+        if (stripos($str,'acfunn') !== false ) return "AcfunN1";
+        if (stripos($str,'acfun2') !== false ) return "Acfun2";
+        if (stripos($str,'twodland') !== false ) return "Twodland1";
+        if (stripos($str,'2dland') !== false ) return "Twodland1";
+        throw new Exception("Unknown group : {$str}");
 	}
     
 	public static function GetGroupConfig($str)
@@ -95,10 +90,5 @@ class Utils
 		$page['text'] .= $str;
 		
 		WritePage($pagename, $page);
-	}
-    
-	public static function createCommentText($text,$pool,$userhash,$attrs)
-	{
-        throw new Exception("已废弃");
 	}
 }

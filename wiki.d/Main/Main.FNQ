@@ -1,0 +1,62 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1285655057
+host=127.0.0.1
+name=Main.FNQ
+passwdedit=@lock
+rev=17
+targets=
+text=(:input form "{$PageUrl}?action=FastPost" POST :)%0a||border=0 %0a||视频链接: \\%0a如[=http://124.228.254.229/html/music/20110301/176751.html=] \\%0a[=http://bilibili.us/video/av63814/=] ||(:input text xURL:)    ||%0a||(:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":)||(:input submit value="提交保存":) ||%0a||本页面用于向网站快速提交弹幕，\\%0a提交后由管理员完成条目添加 ||%0a(:input end:)%0a%0a(:messages:)%0a
+time=1321535769
+author:1321535769=
+diff:1321535769:1299153439:=1c1%0a%3c (:input form "{$PageUrl}?action=FastPost" POST :)%0a---%0a> (:input form "http://danmaku.us/Main/FNQ?action=FastPost" POST :)%0a11c11%0a%3c (:messages:)%0a---%0a> (:messages:)%0a\ No newline at end of file%0a
+host:1321535769=127.0.0.1
+author:1299153439=Admin
+diff:1299153439:1298954266:=3,5c3%0a%3c ||视频链接: \\%0a%3c 如[=http://124.228.254.229/html/music/20110301/176751.html=] \\%0a%3c [=http://bilibili.us/video/av63814/=] ||(:input text xURL:)    ||%0a---%0a> ||视频链接: ||(:input text xURL:)    ||%0a
+host:1299153439=49.74.9.166
+author:1298954266=Admin
+diff:1298954266:1298789140:=6c6,7%0a%3c 提交后由管理员完成条目添加 ||%0a---%0a> 提交后由管理员完成条目添加\\\%0a> %25red%25 后台重构中。。人参不足 %25%25 ||%0a
+host:1298954266=117.88.220.162
+author:1298789140=Admin
+diff:1298789140:1297952917:=6,7c6%0a%3c 提交后由管理员完成条目添加\\\%0a%3c %25red%25 后台重构中。。人参不足 %25%25 ||%0a---%0a> 提交后由管理员完成条目添加(48小时内) ||%0a
+host:1298789140=222.95.38.30
+author:1297952917=KPX
+diff:1297952917:1297180933:=6c6%0a%3c 提交后由管理员完成条目添加(48小时内) ||%0a---%0a> 提交后由管理员完成条目添加 ||%0a
+host:1297952917=58.212.225.132
+author:1297180933=aUser
+diff:1297180933:1294754862:=4c4%0a%3c ||(:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":)||(:input submit value="提交保存":) ||%0a---%0a> ||(:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":) (:input hidden author "aUser":)||(:input submit value="提交保存":) ||%0a
+host:1297180933=114.243.102.181
+author:1294754862=KPX
+diff:1294754862:1287923859:=1c1%0a%3c (:input form "http://danmaku.us/Main/FNQ?action=FastPost" POST :)%0a---%0a> (:input form "http://danmaku.us/pmfun/Main/FNQ?action=FastPost" POST :)%0a
+host:1294754862=114.222.89.207
+author:1287923859=aUser
+diff:1287923859:1285655905:=1c1%0a%3c (:input form "http://danmaku.us/pmfun/Main/FNQ?action=FastPost" POST :)%0a---%0a> (:input form "http://danmaku.us/pmfun/Main/FNQ" POST :)%0a
+host:1287923859=58.212.117.4
+author:1285655905=aUser
+diff:1285655905:1285655868:=9c9%0a%3c (:messages:)%0a\ No newline at end of file%0a---%0a> (:message:)%0a\ No newline at end of file%0a
+host:1285655905=221.226.174.5
+author:1285655868=aUser
+diff:1285655868:1285655852:=7,9c7%0a%3c (:input end:)%0a%3c %0a%3c (:message:)%0a\ No newline at end of file%0a---%0a> (:input end:)%0a\ No newline at end of file%0a
+host:1285655868=221.226.174.5
+author:1285655852=aUser
+diff:1285655852:1285655577:=1c1,2%0a%3c (:input form "http://danmaku.us/pmfun/Main/FNQ" POST :)%0a---%0a> (:input form "http://danmaku.us/pmfun/Queue/HomePage?action=view" POST :)%0a> (:input hidden action login:)%0a
+host:1285655852=221.226.174.5
+author:1285655577=aUser
+diff:1285655577:1285655290:=1c1%0a%3c (:input form "http://danmaku.us/pmfun/Queue/HomePage?action=view" POST :)%0a---%0a> (:input form "http://danmaku.us/pmfun/Queue/HomePage" POST :)%0a
+host:1285655577=221.226.174.5
+author:1285655168=Admin
+diff:1285655168:1285655141:=5c5%0a%3c ||(:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":) (:input hidden author "aUser":)||(:input submit value="提交保存":) ||%0a---%0a> ||(:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":) (:input hidden Author "aUser":)||(:input submit value="提交保存":) ||%0a
+host:1285655168=221.226.174.5
+author:1285655141=Admin
+diff:1285655141:1285655092:=5,7c5,6%0a%3c ||(:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":) (:input hidden Author "aUser":)||(:input submit value="提交保存":) ||%0a%3c ||本页面用于向网站快速提交弹幕，\\%0a%3c 提交后由管理员完成条目添加 ||%0a---%0a> ||(:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":) ||(:input submit value="提交保存":) ||%0a> ||本页面用于向网站快速提交弹幕，提交后由管理员完成条目添加 ||%0a
+host:1285655141=221.226.174.5
+author:1285655092=Admin
+diff:1285655092:1285655057:=3,5c3,4%0a%3c ||border=0 %0a%3c ||视频链接: ||(:input text xURL:)    ||%0a%3c ||(:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":) ||(:input submit value="提交保存":) ||%0a---%0a> || 视频链接:||(:input text xURL:)    ||%0a> || (:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":)||(:input submit value="提交保存":) ||%0a
+host:1285655092=221.226.174.5
+author:1285655057=Admin
+diff:1285655057:1285655057:=1,6d0%0a%3c (:input form "http://danmaku.us/pmfun/Queue/HomePage" POST :)%0a%3c (:input hidden action login:)%0a%3c || 视频链接:||(:input text xURL:)    ||%0a%3c || (:input hidden xVerify "5259797e-df81-4ee9-b00b-e961dc133e6e":)||(:input submit value="提交保存":) ||%0a%3c ||本页面用于向网站快速提交弹幕，提交后由管理员完成条目添加 ||%0a%3c (:input end:)%0a\ No newline at end of file%0a
+host:1285655057=221.226.174.5

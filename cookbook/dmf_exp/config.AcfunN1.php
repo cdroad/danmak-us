@@ -1,21 +1,17 @@
 <?php
-class Acfun2GroupConfig extends GroupConfig
+class AcfunN1GroupConfig extends GroupConfig
 {
     
     protected function __construct()
     {
         parent::__construct();
-        $this->GroupString = 'Acfun2';
-        $this->AllowedXMLFormat = array('data', 'raw');
-        $this->SUID = 'A';
-        $this->XMLFolderPath = './uploads/Acfun2';
+        $this->GroupString = 'AcfunN1';
+        $this->AllowedXMLFormat = array('json', 'raw', 'data');
+        $this->SUID = 'AN';
+        $this->XMLFolderPath = './uploads/AcfunN1';
         $this->PlayersSet
-                    ->add('mukio', new Player('mukioplayer.swf', 'MukioPlayer (1.36web)', 950, 432))
-                    ->add('acold09', new Player('player1_09.swf', 'Acfun播放器 (20090803)', 950, 432))
-                    ->add('acold', new Player('player1_old.swf', 'Acfun播放器 (2010502)', 950, 432))
-                    ->add('acnew', new Player('player1_new.swf', 'Acfun播放器 (2010711)', 950, 432))
-                    ->add('ac20110209', new Player('player1_20110209.swf', 'Acfun播放器 (20110209)', 950, 432))
-                    ->addDefault('mukio');
+                    ->add('ac20111115', new Player('ac20111115.swf', 'Acfun播放器 (20111116)', 950, 432)) //TODO:大小未知
+                    ->addDefault('ac20111115');
         
         $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
         $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
@@ -30,9 +26,25 @@ class Acfun2GroupConfig extends GroupConfig
         $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
         $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
-    
+
     public function UploadFilePreProcess($str) {
-        return simplexml_load_string($str);
+        $json = json_decode($str);
+        if (is_null($json)) return false;
+        $xmlstr = '<?xml version="1.0" encoding="UTF-8"?><comments>';
+        foreach ($json as $item) {
+            $a = explode(",", $item->c);
+            $danmaku = new DanmakuBuilder($item->m, 0, $a[4], $a[5]);
+            $attrs = array(
+                'playtime'  => $a[0],
+                'color'     => $a[1],
+                'mode'      => $a[2],
+                'fontsize'  => $a[3]
+            );
+            $danmaku->AddAttr($attrs);
+            $xmlstr .= (string)$danmaku;
+        }
+        $xmlstr .= '</comments>';
+        return simplexml_load_string($xmlstr);
     }
     
 	public function GenerateFlashVarArr(VideoData $source)
