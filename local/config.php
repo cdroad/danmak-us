@@ -4,10 +4,12 @@ $WikiTitle = "弹幕塚-本地版 ~少壮不努力，一生在内地~";
 $PageLogoUrl = "$ScriptUrl/static/logo.jpg";
 
 $AuthUser['Admin'] = crypt('/n/n/n/n');
-$AuthUser['@admins'] = array('KPX', 'Admin');
+$AuthUser['@admins'] = array('Admin', 'dm.mikufans@gmail.com');
+$DefaultPasswords['edit'] = 'id:*';
 $DefaultPasswords['admin'] = array('@admins');
 $DefaultPasswords['upload'] = array('@admins');
 $HandleAuth['delete'] = 'admin';
+include_once("$FarmD/cookbook/openid/KAuth.php");
 include_once("$FarmD/scripts/authuser.php");
 
 

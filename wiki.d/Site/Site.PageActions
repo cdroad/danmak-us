@@ -1,0 +1,31 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+cauthor=
+charset=UTF-8
+csum=
+host=127.0.0.1
+name=Site.PageActions
+rev=52
+targets=Site.PageActions
+text=(:Summary:Contains the '[[PmWiki/AvailableActions|action]]' links (like Browse, Edit, History, etc.), placed at the top of the page, see [[PmWiki/site page actions]]:)%0a(:comment This page can be somewhat complex to figure out the first time you see it. Its contents are documented at PmWiki.SitePageActions if you need help. :)%0a* %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[View] ]]%0a* %25item rel=nofollow class=edit      accesskey='$[ak_edit]'%25      [[{*$FullName}?action=edit   | $[Edit] ]]%0a* %25item rel=nofollow class=diff      accesskey='$[ak_history]'%25   [[{*$FullName}?action=diff   | $[History] ]]%0a(:if auth admin:)%0a* %25item rel=nofollow%25 [[{*$FullName}?action=attr | 加密 ]]%0a* %25item rel=nofollow%25 [[{*$FullName}?action=source | 源码 ]]%0a* %25item rel=nofollow%25 [[{*$FullName}?action=delete | %25red%25 '''删除''' ]]%0a(:ifend:)%0a(:if enabled AuthId:)%0a* {$AuthId}%0a* %25item rel=nofollow class=logout    accesskey="$[ak_logout]"%25''  [-[[{*$FullName}?action=logout | $[Logout] ]]-]''%0a(:else:)%0a* %25item rel=nofollow class=login    accesskey="$[ak_login]"%25''  [-[[{*$FullName}?action=login | $[Login] ]]-]''%0a(:ifend:)
+time=1321598963
+author:1321598963=
+diff:1321598963:1321598943:=6,10d5%0a%3c (:if auth admin:)%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=attr | 加密 ]]%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=source | 源码 ]]%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=delete | %25red%25 '''删除''' ]]%0a%3c (:ifend:)%0a15a11,15%0a> (:ifend:)%0a> (:if auth admin:)%0a> * %25item rel=nofollow%25 [[{*$FullName}?action=attr | 加密 ]]%0a> * %25item rel=nofollow%25 [[{*$FullName}?action=source | 源码 ]]%0a> * %25item rel=nofollow%25 [[{*$FullName}?action=delete | %25red%25 '''删除''' ]]%0a
+host:1321598963=127.0.0.1
+author:1321598943=
+diff:1321598943:1305475854:=6,7c6%0a%3c (:if enabled AuthId:)%0a%3c * {$AuthId}%0a---%0a> (:if enabled AuthPw:)%0a
+host:1321598943=127.0.0.1
+author:1305475854=Admin
+diff:1305475854:1305475778:=9c9%0a%3c * %25item rel=nofollow class=login    accesskey="$[ak_login]"%25''  [-[[{*$FullName}?action=login | $[Login] ]]-]''%0a---%0a> * %25item rel=nofollow class=logout    accesskey="$[ak_login]"%25''  [-[[{*$FullName}?action=login | $[Login] ]]-]''%0a
+host:1305475854=::1
+author:1305475778=Admin
+csum:1305475778=清空非必需动作
+diff:1305475778:1299771538:=6,9c6,7%0a%3c (:if enabled AuthPw:)%0a%3c * %25item rel=nofollow class=logout    accesskey="$[ak_logout]"%25''  [-[[{*$FullName}?action=logout | $[Logout] ]]-]''%0a%3c (:else:)%0a%3c * %25item rel=nofollow class=logout    accesskey="$[ak_login]"%25''  [-[[{*$FullName}?action=login | $[Login] ]]-]''%0a---%0a> (:if auth upload:)%0a> * %25item rel=nofollow class=upload    accesskey='$[ak_attach]'%25    [[{*$FullName}?action=upload | $[Attach] ]]%0a10a9,17%0a> * %25item rel=nofollow class=print     accesskey='$[ak_print]'%25     [[{*$FullName}?action=print  | $[Print] ]]%0a> (:if group Site,SiteAdmin,Cookbook,Profiles,PmWiki*:) (:comment delete if and ifend to enable backlinks:)%0a> * %25item rel=nofollow class=backlinks accesskey='$[ak_backlinks]'%25 [[{*$Name}?action=search&q=link={*$FullName} | $[Backlinks] ]]%0a> (:ifend:)%0a> (:if enabled AuthPw:)%0a> * %25item rel=nofollow class=logout    accesskey="$[ak_logout]"%25''  [-[[{*$FullName}?action=logout | $[Logout] ]]-]''%0a> (:else:)%0a> * %25item rel=nofollow class=logout    accesskey="$[ak_login]"%25''  [-[[{*$FullName}?action=login | $[Login] ]]-]''%0a> (:ifend:)%0a12,14c19,22%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=attr | 加密 ]]%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=source | 源码 ]]%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=delete | %25red%25 '''删除''' ]]%0a---%0a> * %25item rel=nofollow%25 [[{*$FullName}?action=attr | 密码 ]]%0a> * %25item rel=nofollow%25 [[{*$FullName}?action=source | 查源 ]]%0a> * %25item rel=nofollow%25 [[{*$FullName}?action=expirediff | 删历史 ]]%0a> * %25item rel=nofollow%25 [[{*$FullName}?action=delete | %25red%25 '''删帖''' ]]%0a
+host:1305475778=::1
+author:1299771538=Admin
+diff:1299771538:1299561846:=15,16d14%0a%3c (:else:)%0a%3c * %25item rel=nofollow class=logout    accesskey="$[ak_login]"%25''  [-[[{*$FullName}?action=login | $[Login] ]]-]''%0a
+host:1299771538=124.160.209.179
+author:1299561846=Admin
+diff:1299561846:1292363502:=15,20d14%0a%3c (:ifend:)%0a%3c (:if auth admin:)%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=attr | 密码 ]]%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=source | 查源 ]]%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=expirediff | 删历史 ]]%0a%3c * %25item rel=nofollow%25 [[{*$FullName}?action=delete | %25red%25 '''删帖''' ]]%0a
+host:1299561846=180.110.99.26
