@@ -1,155 +1,615 @@
-<?xml version="1.0" encoding="UTF-8"?><i><chatserver>chat.bilibili.us</chatserver><chatid>67162</chatid>
-<d p="0.1,5,25,16777215,1302494290,0,55759e3f,22229068">/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</d>
-<d p="1.1,5,25,255,1302494290,0,55759e3f,22229069">/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</d>
-<d p="2.1,5,25,16776960,1302494290,0,55759e3f,22229070">/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</d>
-<d p="3.1,5,25,65280,1302494290,0,55759e3f,22229071">/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</d>
-<d p="4.1,5,25,65535,1302494290,0,55759e3f,22229072">/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</d>
-<d p="7.8,5,25,10354614,1302494290,0,55759e3f,22229073">/n/n　　　█　　　　　　　　　　　　　　　　/n　　　█/n　　　█/n　　　█/n　　　█/n　　　█/n　　　█/n/n/n/n/n/n</d>
-<d p="7.8,5,25,16777215,1302494290,0,55759e3f,22229074">/n/n　　　長　　　　　　　　　　　　　　　　/n　　　き/n　　　月/n　　　日/n　　　を/n　　　重/n　　　ね/n/n/n/n/n/n</d>
-<d p="11.6,5,25,10354614,1302494290,0,55759e3f,22229075">/n/n　　　　　　　　　　　　　　　　　█　　/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n/n/n/n/n/n</d>
-<d p="11.6,5,25,16777215,1302494290,0,55759e3f,22229076">/n/n　　　　　　　　　　　　　　　　　輝　　/n　　　　　　　　　　　　　　　　　き/n　　　　　　　　　　　　　　　　　を/n　　　　　　　　　　　　　　　　　潜/n　　　　　　　　　　　　　　　　　め/n　　　　　　　　　　　　　　　　　て/n　　　　　　　　　　　　　　　　　は/n/n/n/n/n/n</d>
-<d p="15.2,1,25,10354614,1302494290,0,55759e3f,22229077">/n/n/n/n/n/n/n/n/n/n必然と信じていれた　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n</d>
-<d p="16.2,5,25,10354614,1302494290,0,55759e3f,22229078">/n/n/n/n/n/n/n/n/n/n必然と信じていれた　　　　　　　　　　　/n/n/n/n</d>
-<d p="19.1,5,25,16777215,1302494290,0,55759e3f,22229079">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="19.2,5,25,2137079,1302494290,0,55759e3f,22229080">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　マ/n/n/n/n</d>
-<d p="19.5,5,25,16777215,1302494290,0,55759e3f,22229081">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="19.6,5,25,2137079,1302494290,0,55759e3f,22229082">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　グ/n/n/n/n</d>
-<d p="19.9,5,25,16777215,1302494290,0,55759e3f,22229083">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="20,5,25,2137079,1302494290,0,55759e3f,22229084">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　マ/n/n/n/n</d>
-<d p="20.3,5,25,16777215,1302494290,0,55759e3f,22229085">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="20.4,5,25,2137079,1302494290,0,55759e3f,22229086">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　の/n/n/n/n</d>
-<d p="20.7,5,25,16777215,1302494290,0,55759e3f,22229087">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="20.8,5,25,2137079,1302494290,0,55759e3f,22229088">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　ゆ/n/n/n/n</d>
-<d p="21.1,5,25,16777215,1302494290,0,55759e3f,22229089">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="21.2,5,25,2137079,1302494290,0,55759e3f,22229090">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　り/n/n/n/n</d>
-<d p="21.5,5,25,16777215,1302494290,0,55759e3f,22229091">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="21.6,5,25,2137079,1302494290,0,55759e3f,22229092">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　か/n/n/n/n</d>
-<d p="21.9,5,25,16777215,1302494290,0,55759e3f,22229093">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="22,5,25,2137079,1302494290,0,55759e3f,22229094">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　ご/n/n/n/n</d>
-<d p="22.3,5,25,16777215,1302494290,0,55759e3f,22229095">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="22.4,5,25,2137079,1302494290,0,55759e3f,22229096">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　の/n/n/n/n</d>
-<d p="22.7,5,25,16777215,1302494290,0,55759e3f,22229097">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="22.8,5,25,2137079,1302494290,0,55759e3f,22229098">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　中/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229099">/n/n/n/n/n/n/n/n/n/n中/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229100">/n/n/n/n/n/n/n/n/n/nの　　/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229101">/n/n/n/n/n/n/n/n/n/nご　　　　/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229102">/n/n/n/n/n/n/n/n/n/nり　　　　　　　　/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229103">/n/n/n/n/n/n/n/n/n/nの　　　　　　　　　　　　/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229104">/n/n/n/n/n/n/n/n/n/nマ　　　　　　　　　　　　　　/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229105">/n/n/n/n/n/n/n/n/n/nか　　　　　　/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229106">/n/n/n/n/n/n/n/n/n/nグ　　　　　　　　　　　　　　　　/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229107">/n/n/n/n/n/n/n/n/n/nマ　　　　　　　　　　　　　　　　　　/n/n/n/n</d>
-<d p="23,5,25,16777215,1302494290,0,55759e3f,22229108">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</d>
-<d p="23,1,25,2137079,1302494290,0,55759e3f,22229109">/n/n/n/n/n/n/n/n/n/nゆ　　　　　　　　　　/n/n/n/n</d>
-<d p="38.4,5,25,12189695,1302494290,0,55759e3f,22229110">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　て　　　　　　/n/n/n/n/n</d>
-<d p="38.6,5,25,12189695,1302494290,0,55759e3f,22229111">/n/n/n/n/n/n/n/n/n　　　　　　　　　ど　　　　　　　　　　/n/n/n/n/n</d>
-<d p="38.8,5,25,12189695,1302494290,0,55759e3f,22229112">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　る　　　　/n/n/n/n/n</d>
-<d p="39,5,25,12189695,1302494290,0,55759e3f,22229113">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　見　　　　　　　/n/n/n/n/n</d>
-<d p="39.2,5,25,12189695,1302494290,0,55759e3f,22229114">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　の　　　/n/n/n/n/n</d>
-<d p="39.4,5,25,12189695,1302494290,0,55759e3f,22229115">/n/n/n/n/n/n/n/n/n　　　　　　　　　　こ　　　　　　　　　/n/n/n/n/n</d>
-<d p="39.6,5,25,12189695,1302494290,0,55759e3f,22229116">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　い　　　　　/n/n/n/n/n</d>
-<d p="39.8,5,25,12189695,1302494290,0,55759e3f,22229117">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　を　　　　　　　　/n/n/n/n/n</d>
-<d p="42.4,5,25,12189695,1302494290,0,55759e3f,22229118">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　考　　　　/n/n/n/n</d>
-<d p="42.6,5,25,12189695,1302494290,0,55759e3f,22229119">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　を　　　　　/n/n/n/n</d>
-<d p="42.8,5,25,12189695,1302494290,0,55759e3f,22229120">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　て　　/n/n/n/n</d>
-<d p="43,5,25,12189695,1302494290,0,55759e3f,22229121">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　何　　　　　　/n/n/n/n</d>
-<d p="43.2,5,25,12189695,1302494290,0,55759e3f,22229122">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　え　　　/n/n/n/n</d>
-<d p="45.1,5,25,12189695,1302494290,0,55759e3f,22229123">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　し　　　　　　　　/n/n/n/n/n</d>
-<d p="45.3,5,25,12189695,1302494290,0,55759e3f,22229124">/n/n/n/n/n/n/n/n/n　　　　　　　　　消　　　　　　　　　　/n/n/n/n/n</d>
-<d p="45.5,5,25,12189695,1302494290,0,55759e3f,22229125">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　い　　　　　　/n/n/n/n/n</d>
-<d p="45.7,5,25,12189695,1302494290,0,55759e3f,22229126">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　う　　　　/n/n/n/n/n</d>
-<d p="46.5,5,25,12189695,1302494290,0,55759e3f,22229127">/n/n/n/n/n/n/n/n/n　　　　　　　　　　え　　　　　　　　　/n/n/n/n/n</d>
-<d p="46.7,5,25,12189695,1302494290,0,55759e3f,22229128">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　ま　　　　　　　/n/n/n/n/n</d>
-<d p="46.9,5,25,12189695,1302494290,0,55759e3f,22229129">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　そ　　　　　/n/n/n/n/n</d>
-<d p="50.3,5,25,12189695,1302494290,0,55759e3f,22229130">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　な　　　　　/n/n/n/n</d>
-<d p="50.5,5,25,12189695,1302494290,0,55759e3f,22229131">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　く　　　　/n/n/n/n</d>
-<d p="50.7,5,25,12189695,1302494290,0,55759e3f,22229132">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　て　　　/n/n/n/n</d>
-<d p="50.9,5,25,12189695,1302494290,0,55759e3f,22229133">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　切　　　　　　/n/n/n/n</d>
-<d p="51.1,5,25,12189695,1302494290,0,55759e3f,22229134">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　儚　　　　　　　　/n/n/n/n</d>
-<d p="51.3,5,25,12189695,1302494290,0,55759e3f,22229135">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　く　　　　　　　/n/n/n/n</d>
-<d p="51.5,5,25,12189695,1302494290,0,55759e3f,22229136">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　に　　　　　　　　　/n/n/n/n</d>
-<d p="54,5,25,16767428,1302494290,0,55759e3f,22229137">/n/n/n/n/n/n/n/n　　　　　　　　　　どこを攻めてるの　　/n/n/n/n/n/n</d>
-<d p="58,5,25,16767428,1302494290,0,55759e3f,22229138">/n/n/n/n/n/n/n/n/n　　何を得られたの　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="60.3,5,25,1,1302494290,0,55759e3f,22229139">/n/n/n/n/n/n/n/n/n　　何を得られたの　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="60.5,5,18,16777215,1302494290,0,55759e3f,22229140">/n/n/n/n/n/n/n/n/n/n/n/n/n 　　　　　　すぐそばで私はあなたを見ています　　　　　　/n/n/n/n/n/n</d>
-<d p="63.9,5,18,16777215,1302494290,0,55759e3f,22229141">/n/n/n/n/n/n/n/n/n/n/n/n/n 　　　　　　すぐそばで私はあなたを見ています　　　　　　/n/n/n/n/n/n</d>
-<d p="68.3,5,18,6730751,1302494290,0,55759e3f,22229142">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　憧れて待ちわびて　　/n/n/n/n/n/n/n/n/n/n</d>
-<d p="71.5,5,18,6732543,1302494290,0,55759e3f,22229143">/n/n/n/n/n/n/n/n/n　　　一途な力は強く　　　　　　　　　　　　　　　　　　/n/n/n/n/n/n/n/n/n/n</d>
-<d p="75,5,25,16755455,1302494290,0,55759e3f,22229144">/n/n　　　　　　　　　　　　　　　　█　　　/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n/n/n/n/n</d>
-<d p="75,5,25,16777215,1302494290,0,55759e3f,22229145">/n/n　　　　　　　　　　　　　　　　恋　　　/n　　　　　　　　　　　　　　　　焦/n　　　　　　　　　　　　　　　　が/n　　　　　　　　　　　　　　　　れ/n　　　　　　　　　　　　　　　　惑/n　　　　　　　　　　　　　　　　わ/n　　　　　　　　　　　　　　　　せ/n　　　　　　　　　　　　　　　　て/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229146">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229147">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229148">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229149">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229150">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229151">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229152">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229153">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229154">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229155">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229156">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229157">/n/n/n/n/n/n/n/n/n█　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229158">/n/n/n/n/n/n/n/n/n█　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229159">/n/n/n/n/n/n/n/n/n█　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229160">/n/n/n/n/n/n/n/n/n█　　　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229161">/n/n/n/n/n/n/n/n/n█　　/n/n/n/n/n</d>
-<d p="78,1,25,13303807,1302494290,0,55759e3f,22229162">/n/n/n/n/n/n/n/n/n█/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229163">/n/n/n/n/n/n/n/n/n想　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229164">/n/n/n/n/n/n/n/n/nい　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229165">/n/n/n/n/n/n/n/n/nと　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229166">/n/n/n/n/n/n/n/n/nは　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229167">/n/n/n/n/n/n/n/n/nう　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229168">/n/n/n/n/n/n/n/n/nら　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229169">/n/n/n/n/n/n/n/n/nは　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229170">/n/n/n/n/n/n/n/n/nら　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229171">/n/n/n/n/n/n/n/n/nに　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229172">/n/n/n/n/n/n/n/n/n上　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229173">/n/n/n/n/n/n/n/n/n手　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229174">/n/n/n/n/n/n/n/n/nく　　　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229175">/n/n/n/n/n/n/n/n/nい　　　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229176">/n/n/n/n/n/n/n/n/nか　　　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229177">/n/n/n/n/n/n/n/n/nな　　　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229178">/n/n/n/n/n/n/n/n/nく　　/n/n/n/n/n</d>
-<d p="78,1,25,16777215,1302494290,0,55759e3f,22229179">/n/n/n/n/n/n/n/n/nて/n/n/n/n/n</d>
-<d p="84.6,5,25,7715583,1302494290,0,55759e3f,22229180">/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　例え向かう未来が　　/n/n/n/n</d>
-<d p="88.3,5,25,65427,1302494290,0,55759e3f,22229181">/n/n/n/n/n/n/n/n/n/n 　　　　　　誰かに決められても　　　　　　/n/n/n/n</d>
-<d p="92.2,5,25,5089023,1302494290,0,55759e3f,22229182">/n/n/n/n/n/n/n/n/n/n　　　　あなたのためになるのなら　　　　/n/n/n/n</d>
-<d p="95.9,5,25,16777215,1302494290,0,55759e3f,22229183">/n/n/n/n/n/n　　　　　　　れ　進   抗　　　　　　　　/n　　　　　　　ど　む   わ/n　　　　　　　　　け   ず/n/n/n/n/n/n</d>
-<d p="99.6,5,25,6881204,1302494290,0,55759e3f,22229184">/n/n　　█　　　　　　　　　　　　　　　　　/n　　█/n　　█/n　　█/n　　█/n　　█/n　　█/n　　█/n　　█/n/n/n/n</d>
-<d p="99.6,5,25,16777215,1302494290,0,55759e3f,22229185">/n/n　　例　　　　　　　　　　　　　　　　　/n　　え/n　　わ/n　　か/n　　ら/n　　な/n　　く/n　　て/n　　も/n/n/n/n</d>
-<d p="103,5,25,6881204,1302494290,0,55759e3f,22229186">/n/n/n/n/n/n/n/n/n　　　決　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="103.2,5,25,6881204,1302494290,0,55759e3f,22229187">/n/n/n/n/n/n/n/n/n　　　　　　れ　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="103.4,5,25,6881204,1302494290,0,55759e3f,22229188">/n/n/n/n/n/n/n/n/n　　　　　　　　も　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="103.6,5,25,6881204,1302494290,0,55759e3f,22229189">/n/n/n/n/n/n/n/n/n　　に　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="103.8,5,25,6881204,1302494290,0,55759e3f,22229190">/n/n/n/n/n/n/n/n/n　　　　め　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="104,5,25,6881204,1302494290,0,55759e3f,22229191">/n/n/n/n/n/n/n/n/n誰　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="104.2,5,25,6881204,1302494290,0,55759e3f,22229192">/n/n/n/n/n/n/n/n/n　か　　　　　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="104.4,5,25,6881204,1302494290,0,55759e3f,22229193">/n/n/n/n/n/n/n/n/n　　　　　ら　　　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="104.8,5,25,6881204,1302494290,0,55759e3f,22229194">/n/n/n/n/n/n/n/n/n　　　　　　　て　　　　　　　　　　　　/n/n/n/n/n</d>
-<d p="107.3,5,18,5066239,1302494290,0,55759e3f,22229195">/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　あなたを信じていれるよ　/n/n/n/n/n/n/n/n/n/n</d>
-<d p="110.3,5,25,255,1302494290,0,55759e3f,22229196">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</d>
-<d p="110.3,5,25,16777215,1302494290,0,55759e3f,22229197">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　灼/n/n/n</d>
-<d p="110.9,5,25,255,1302494290,0,55759e3f,22229198">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</d>
-<d p="110.9,5,25,16777215,1302494290,0,55759e3f,22229199">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　熱/n/n/n</d>
-<d p="111.5,5,25,255,1302494290,0,55759e3f,22229200">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</d>
-<d p="111.5,5,25,16777215,1302494290,0,55759e3f,22229201">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　の/n/n/n</d>
-<d p="112.1,5,25,255,1302494290,0,55759e3f,22229202">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</d>
-<d p="112.1,5,25,16777215,1302494290,0,55759e3f,22229203">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　マ/n/n/n</d>
-<d p="112.7,5,25,255,1302494290,0,55759e3f,22229204">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</d>
-<d p="112.7,5,25,16777215,1302494290,0,55759e3f,22229205">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　グ/n/n/n</d>
-<d p="113.3,5,25,255,1302494290,0,55759e3f,22229206">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</d>
-<d p="113.3,5,25,16777215,1302494290,0,55759e3f,22229207">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　マ/n/n/n</d>
-<d p="113.9,5,25,255,1302494290,0,55759e3f,22229208">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</d>
-<d p="113.9,5,25,16777215,1302494290,0,55759e3f,22229209">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　の/n/n/n</d>
-<d p="114.5,5,25,255,1302494290,0,55759e3f,22229210">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</d>
-<d p="114.5,5,25,16777215,1302494290,0,55759e3f,22229211">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　中/n/n/n</d>
-<d p="115.2,1,25,255,1302494290,0,55759e3f,22229212">/n/n/n/n/n/n/n/n/n/n/n灼　　　　　　　　　　　　　　/n/n/n</d>
-<d p="115.2,1,25,255,1302494290,0,55759e3f,22229213">/n/n/n/n/n/n/n/n/n/n/n熱　　　　　　　　　　　　/n/n/n</d>
-<d p="115.2,1,25,255,1302494290,0,55759e3f,22229214">/n/n/n/n/n/n/n/n/n/n/nの　　　　　　　　　　/n/n/n</d>
-<d p="115.2,1,25,255,1302494290,0,55759e3f,22229215">/n/n/n/n/n/n/n/n/n/n/nマ　　　　　　　　/n/n/n</d>
-<d p="115.2,1,25,255,1302494290,0,55759e3f,22229216">/n/n/n/n/n/n/n/n/n/n/nグ　　　　　　/n/n/n</d>
-<d p="115.2,1,25,255,1302494290,0,55759e3f,22229217">/n/n/n/n/n/n/n/n/n/n/nマ　　　　/n/n/n</d>
-<d p="115.2,1,25,255,1302494290,0,55759e3f,22229218">/n/n/n/n/n/n/n/n/n/n/nの　　/n/n/n</d>
-<d p="115.2,1,25,255,1302494290,0,55759e3f,22229219">/n/n/n/n/n/n/n/n/n/n/n中/n/n/n</d>
-<d p="115.2,5,25,16777215,1302494290,0,55759e3f,22229220">/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</d>
-</i>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1135214451" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="216777348" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</text>
+	<attr id="0" playtime="1.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="964686061" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</text>
+	<attr id="0" playtime="2.1" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1389744819" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</text>
+	<attr id="0" playtime="3.1" mode="5" fontsize="25" color="65280"/>
+</comment>
+<comment id="762213683" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n『adamant faith』　　　　　　　　　　　/n作詞：須谷尚子/n作曲：松岡純也/n歌：Suara/n/n</text>
+	<attr id="0" playtime="4.1" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1778859474" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n　　　█　　　　　　　　　　　　　　　　/n　　　█/n　　　█/n　　　█/n　　　█/n　　　█/n　　　█/n/n/n/n/n/n</text>
+	<attr id="0" playtime="7.8" mode="5" fontsize="25" color="10354614"/>
+</comment>
+<comment id="827861542" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n　　　長　　　　　　　　　　　　　　　　/n　　　き/n　　　月/n　　　日/n　　　を/n　　　重/n　　　ね/n/n/n/n/n/n</text>
+	<attr id="0" playtime="7.8" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="386659601" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n　　　　　　　　　　　　　　　　　█　　/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　　█/n/n/n/n/n/n</text>
+	<attr id="0" playtime="11.6" mode="5" fontsize="25" color="10354614"/>
+</comment>
+<comment id="434524351" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n　　　　　　　　　　　　　　　　　輝　　/n　　　　　　　　　　　　　　　　　き/n　　　　　　　　　　　　　　　　　を/n　　　　　　　　　　　　　　　　　潜/n　　　　　　　　　　　　　　　　　め/n　　　　　　　　　　　　　　　　　て/n　　　　　　　　　　　　　　　　　は/n/n/n/n/n/n</text>
+	<attr id="0" playtime="11.6" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2070514240" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n必然と信じていれた　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="15.2" mode="1" fontsize="25" color="10354614"/>
+</comment>
+<comment id="1119277558" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n必然と信じていれた　　　　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="16.2" mode="5" fontsize="25" color="10354614"/>
+</comment>
+<comment id="1947493303" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="19.1" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2103405163" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　マ/n/n/n/n</text>
+	<attr id="0" playtime="19.2" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1893302265" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="19.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1712750898" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　グ/n/n/n/n</text>
+	<attr id="0" playtime="19.6" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1557404185" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="19.9" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2120746043" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　マ/n/n/n/n</text>
+	<attr id="0" playtime="20" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1883502579" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="20.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="85865487" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　の/n/n/n/n</text>
+	<attr id="0" playtime="20.4" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="63071740" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="20.7" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="377844064" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　ゆ/n/n/n/n</text>
+	<attr id="0" playtime="20.8" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1180152507" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="21.1" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="874608126" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　り/n/n/n/n</text>
+	<attr id="0" playtime="21.2" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1615652375" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="21.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1903892853" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　か/n/n/n/n</text>
+	<attr id="0" playtime="21.6" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="2027004638" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="21.9" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="233855673" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　ご/n/n/n/n</text>
+	<attr id="0" playtime="22" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="736901216" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="22.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1612968131" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　の/n/n/n/n</text>
+	<attr id="0" playtime="22.4" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1101679945" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="22.7" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="14510400" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　中/n/n/n/n</text>
+	<attr id="0" playtime="22.8" mode="5" fontsize="25" color="2137079"/>
+</comment>
+<comment id="456249762" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n中/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1202222057" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/nの　　/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="515254511" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/nご　　　　/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="838211370" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/nり　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1727858675" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/nの　　　　　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="63695456" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/nマ　　　　　　　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="19937490" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/nか　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1705215496" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/nグ　　　　　　　　　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1567734954" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/nマ　　　　　　　　　　　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1674442984" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1837612788" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/nゆ　　　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="23" mode="1" fontsize="25" color="2137079"/>
+</comment>
+<comment id="1557708009" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　て　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="38.4" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1622100436" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　ど　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="38.6" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="596132762" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　る　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="38.8" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1399398425" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　見　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="39" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="864712003" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　の　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="39.2" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1468423393" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　こ　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="39.4" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="245219408" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　い　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="39.6" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="239804631" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　を　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="39.8" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="2111635174" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　考　　　　/n/n/n/n</text>
+	<attr id="0" playtime="42.4" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1019554806" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　を　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="42.6" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1224879885" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　て　　/n/n/n/n</text>
+	<attr id="0" playtime="42.8" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="290598332" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　何　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="43" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1119176168" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　え　　　/n/n/n/n</text>
+	<attr id="0" playtime="43.2" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="2058658693" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　し　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="45.1" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1057320936" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　消　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="45.3" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="941637889" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　い　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="45.5" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="38844134" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　う　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="45.7" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="172833165" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　え　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="46.5" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="542631940" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　ま　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="46.7" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="2089458031" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　そ　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="46.9" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1379336572" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　な　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="50.3" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="68553444" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　く　　　　/n/n/n/n</text>
+	<attr id="0" playtime="50.5" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1750279340" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　て　　　/n/n/n/n</text>
+	<attr id="0" playtime="50.7" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="104866803" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　切　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="50.9" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="2066439688" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　儚　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="51.1" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="1594830106" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　く　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="51.3" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="538175398" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　に　　　　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="51.5" mode="5" fontsize="25" color="12189695"/>
+</comment>
+<comment id="591977561" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n　　　　　　　　　　どこを攻めてるの　　/n/n/n/n/n/n</text>
+	<attr id="0" playtime="54" mode="5" fontsize="25" color="16767428"/>
+</comment>
+<comment id="1786249991" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　何を得られたの　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="58" mode="5" fontsize="25" color="16767428"/>
+</comment>
+<comment id="1170542856" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　何を得られたの　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="60.3" mode="5" fontsize="25" color="1"/>
+</comment>
+<comment id="251264469" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n 　　　　　　すぐそばで私はあなたを見ています　　　　　　/n/n/n/n/n/n</text>
+	<attr id="0" playtime="60.5" mode="5" fontsize="18" color="16777215"/>
+</comment>
+<comment id="359376208" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n 　　　　　　すぐそばで私はあなたを見ています　　　　　　/n/n/n/n/n/n</text>
+	<attr id="0" playtime="63.9" mode="5" fontsize="18" color="16777215"/>
+</comment>
+<comment id="204283489" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　憧れて待ちわびて　　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="68.3" mode="5" fontsize="18" color="6730751"/>
+</comment>
+<comment id="1863187034" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　一途な力は強く　　　　　　　　　　　　　　　　　　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="71.5" mode="5" fontsize="18" color="6732543"/>
+</comment>
+<comment id="666726346" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n　　　　　　　　　　　　　　　　█　　　/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n　　　　　　　　　　　　　　　　█/n/n/n/n/n</text>
+	<attr id="0" playtime="75" mode="5" fontsize="25" color="16755455"/>
+</comment>
+<comment id="1684292432" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n　　　　　　　　　　　　　　　　恋　　　/n　　　　　　　　　　　　　　　　焦/n　　　　　　　　　　　　　　　　が/n　　　　　　　　　　　　　　　　れ/n　　　　　　　　　　　　　　　　惑/n　　　　　　　　　　　　　　　　わ/n　　　　　　　　　　　　　　　　せ/n　　　　　　　　　　　　　　　　て/n/n/n/n/n</text>
+	<attr id="0" playtime="75" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1442016915" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="959372241" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="1978724058" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="724589451" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="1713317517" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="1306598458" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="555351231" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="270020831" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="1833767161" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="841878111" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="1968103298" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="1305252235" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="903156772" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="41647188" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="1443337544" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="719472330" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="662102863" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n█/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="13303807"/>
+</comment>
+<comment id="505563415" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n想　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2124645384" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nい　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="94819213" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nと　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1143584713" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nは　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="573700310" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nう　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="510439427" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nら　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1588051288" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nは　　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2014871019" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nら　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="611086194" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nに　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="200116716" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n上　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1055948100" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n手　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="633080162" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nく　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1122999752" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nい　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="389472759" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nか　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2074832090" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nな　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="231384902" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nく　　/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="913575713" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/nて/n/n/n/n/n</text>
+	<attr id="0" playtime="78" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1025256987" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　例え向かう未来が　　/n/n/n/n</text>
+	<attr id="0" playtime="84.6" mode="5" fontsize="25" color="7715583"/>
+</comment>
+<comment id="1056726708" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n 　　　　　　誰かに決められても　　　　　　/n/n/n/n</text>
+	<attr id="0" playtime="88.3" mode="5" fontsize="25" color="65427"/>
+</comment>
+<comment id="21630744" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n　　　　あなたのためになるのなら　　　　/n/n/n/n</text>
+	<attr id="0" playtime="92.2" mode="5" fontsize="25" color="5089023"/>
+</comment>
+<comment id="1151166038" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n　　　　　　　れ　進   抗　　　　　　　　/n　　　　　　　ど　む   わ/n　　　　　　　　　け   ず/n/n/n/n/n/n</text>
+	<attr id="0" playtime="95.9" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="537543517" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n　　█　　　　　　　　　　　　　　　　　/n　　█/n　　█/n　　█/n　　█/n　　█/n　　█/n　　█/n　　█/n/n/n/n</text>
+	<attr id="0" playtime="99.6" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="1489599920" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n　　例　　　　　　　　　　　　　　　　　/n　　え/n　　わ/n　　か/n　　ら/n　　な/n　　く/n　　て/n　　も/n/n/n/n</text>
+	<attr id="0" playtime="99.6" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1736497878" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　決　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="103" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="935741096" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　れ　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="103.2" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="893070176" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　も　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="103.4" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="975715001" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　に　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="103.6" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="1006607600" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　め　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="103.8" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="1759118304" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n誰　　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="104" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="2127656257" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　か　　　　　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="104.2" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="662758903" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　ら　　　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="104.4" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="804888889" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　て　　　　　　　　　　　　/n/n/n/n/n</text>
+	<attr id="0" playtime="104.8" mode="5" fontsize="25" color="6881204"/>
+</comment>
+<comment id="2117751721" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　あなたを信じていれるよ　/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="107.3" mode="5" fontsize="18" color="5066239"/>
+</comment>
+<comment id="1522879641" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</text>
+	<attr id="0" playtime="110.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1048400284" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　灼/n/n/n</text>
+	<attr id="0" playtime="110.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="886352867" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</text>
+	<attr id="0" playtime="110.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="380300749" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　熱/n/n/n</text>
+	<attr id="0" playtime="110.9" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="267798706" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</text>
+	<attr id="0" playtime="111.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1191328749" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　の/n/n/n</text>
+	<attr id="0" playtime="111.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="669065884" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</text>
+	<attr id="0" playtime="112.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="2008406888" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　マ/n/n/n</text>
+	<attr id="0" playtime="112.1" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2011493292" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</text>
+	<attr id="0" playtime="112.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1200773299" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　グ/n/n/n</text>
+	<attr id="0" playtime="112.7" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="486455182" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</text>
+	<attr id="0" playtime="113.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1399817045" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　マ/n/n/n</text>
+	<attr id="0" playtime="113.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="921831760" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</text>
+	<attr id="0" playtime="113.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1330931040" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　の/n/n/n</text>
+	<attr id="0" playtime="113.9" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1420877707" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</text>
+	<attr id="0" playtime="114.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="2118943696" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　中/n/n/n</text>
+	<attr id="0" playtime="114.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1613908506" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n灼　　　　　　　　　　　　　　/n/n/n</text>
+	<attr id="0" playtime="115.2" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="687152694" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n熱　　　　　　　　　　　　/n/n/n</text>
+	<attr id="0" playtime="115.2" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="947785146" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/nの　　　　　　　　　　/n/n/n</text>
+	<attr id="0" playtime="115.2" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="1202809282" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/nマ　　　　　　　　/n/n/n</text>
+	<attr id="0" playtime="115.2" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="1156363541" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/nグ　　　　　　/n/n/n</text>
+	<attr id="0" playtime="115.2" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="560643228" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/nマ　　　　/n/n/n</text>
+	<attr id="0" playtime="115.2" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="1747438773" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/nの　　/n/n/n</text>
+	<attr id="0" playtime="115.2" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="1102597375" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n中/n/n/n</text>
+	<attr id="0" playtime="115.2" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="211930008" poolid="0" userhash="deadbeef" sendtime="1321632702">
+	<text>/n/n/n/n/n/n/n/n/n/n/n　　　　　　　　　　　　　　　　　　　█/n/n/n</text>
+	<attr id="0" playtime="115.2" mode="5" fontsize="25" color="16777215"/>
+</comment>
+</comments>

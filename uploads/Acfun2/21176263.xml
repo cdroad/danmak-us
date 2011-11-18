@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>23.9</playTime>
-    <message fontsize="25" color="16711680" mode="5">
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="2020168136" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 在
 
@@ -11,12 +10,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:14:14</times>
-  </data>
-  <data>
-    <playTime>24.2</playTime>
-    <message fontsize="25" color="13434624" mode="5">
+</text>
+	<attr id="0" playtime="23.9" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1577486643" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 风
@@ -28,12 +26,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:15:49</times>
-  </data>
-  <data>
-    <playTime>26.2</playTime>
-    <message fontsize="25" color="65535" mode="5">
+</text>
+	<attr id="0" playtime="24.2" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1561359399" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 翩
@@ -48,12 +45,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:18:03</times>
-  </data>
-  <data>
-    <playTime>28.9</playTime>
-    <message fontsize="25" color="10027263" mode="5">
+</text>
+	<attr id="0" playtime="26.2" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1484408396" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -65,12 +61,11 @@
 
 飘过你肩膀
 
-</message>
-    <times>2009-06-16 18:20:08</times>
-  </data>
-  <data>
-    <playTime>30.7</playTime>
-    <message fontsize="25" color="16724736" mode="5">
+</text>
+	<attr id="0" playtime="28.9" mode="5" fontsize="25" color="10027263"/>
+</comment>
+<comment id="817835041" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -81,20 +76,18 @@
 
 
 
-的一片红叶</message>
-    <times>2009-06-16 18:21:18</times>
-  </data>
-  <data>
-    <playTime>33.9</playTime>
-    <message fontsize="37" color="65535" mode="5">
+的一片红叶</text>
+	<attr id="0" playtime="30.7" mode="5" fontsize="25" color="16724736"/>
+</comment>
+<comment id="209867806" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 如
-果</message>
-    <times>2009-06-16 18:22:30</times>
-  </data>
-  <data>
-    <playTime>34.5</playTime>
-    <message fontsize="25" color="3355647" mode="5">
+果</text>
+	<attr id="0" playtime="33.9" mode="5" fontsize="37" color="65535"/>
+</comment>
+<comment id="900036045" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -103,12 +96,11 @@
 依
 偎
 着
-你</message>
-    <times>2009-06-16 18:23:44</times>
-  </data>
-  <data>
-    <playTime>35.8</playTime>
-    <message fontsize="25" color="13434624" mode="5">
+你</text>
+	<attr id="0" playtime="34.5" mode="5" fontsize="25" color="3355647"/>
+</comment>
+<comment id="1349881508" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -118,12 +110,11 @@
 
 
 
-就能够相互了解</message>
-    <times>2009-06-16 18:24:44</times>
-  </data>
-  <data>
-    <playTime>39.2</playTime>
-    <message fontsize="25" color="6684927" mode="5">
+就能够相互了解</text>
+	<attr id="0" playtime="35.8" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="580728638" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 悲
 伤
@@ -134,12 +125,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:28:08</times>
-  </data>
-  <data>
-    <playTime>39.7</playTime>
-    <message fontsize="25" color="3368703" mode="5">
+</text>
+	<attr id="0" playtime="39.2" mode="5" fontsize="25" color="6684927"/>
+</comment>
+<comment id="1392891337" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 就
@@ -152,12 +142,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:30:15</times>
-  </data>
-  <data>
-    <playTime>40.9</playTime>
-    <message fontsize="25" color="65535" mode="5">
+</text>
+	<attr id="0" playtime="39.7" mode="5" fontsize="25" color="3368703"/>
+</comment>
+<comment id="1576809825" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -169,12 +158,11 @@
 天
 空
 之
-中</message>
-    <times>2009-06-16 18:32:03</times>
-  </data>
-  <data>
-    <playTime>63.8</playTime>
-    <message fontsize="25" color="6684927" mode="5">
+中</text>
+	<attr id="0" playtime="40.9" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1083046778" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 被
 
@@ -185,36 +173,33 @@
 
 
 
-</message>
-    <times>2009-06-16 18:34:28</times>
-  </data>
-  <data>
-    <playTime>64.5</playTime>
-    <message fontsize="25" color="16711680" mode="5">
+</text>
+	<attr id="0" playtime="63.8" mode="5" fontsize="25" color="6684927"/>
+</comment>
+<comment id="979408984" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 月
 光
 照
 亮
-</message>
-    <times>2009-06-16 18:35:40</times>
-  </data>
-  <data>
-    <playTime>68.9</playTime>
-    <message fontsize="25" color="65535" mode="5">
+</text>
+	<attr id="0" playtime="64.5" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="787712032" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
 
 
 
-远方的笛声</message>
-    <times>2009-06-16 18:36:37</times>
-  </data>
-  <data>
-    <playTime>71.5</playTime>
-    <message fontsize="25" color="10092288" mode="5">
+远方的笛声</text>
+	<attr id="0" playtime="68.9" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1962836390" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -222,12 +207,11 @@
 
 
 
-是御神月的太鼓</message>
-    <times>2009-06-16 18:37:43</times>
-  </data>
-  <data>
-    <playTime>74.1</playTime>
-    <message fontsize="25" color="6697983" mode="5">
+是御神月的太鼓</text>
+	<attr id="0" playtime="71.5" mode="5" fontsize="25" color="10092288"/>
+</comment>
+<comment id="2017152676" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 随
 处
@@ -235,12 +219,11 @@
 见
 的
 幸
-福</message>
-    <times>2009-06-16 18:39:05</times>
-  </data>
-  <data>
-    <playTime>79.1</playTime>
-    <message fontsize="25" color="3407616" mode="5">
+福</text>
+	<attr id="0" playtime="74.1" mode="5" fontsize="25" color="6697983"/>
+</comment>
+<comment id="1646574717" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 若
@@ -253,12 +236,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:40:34</times>
-  </data>
-  <data>
-    <playTime>81.4</playTime>
-    <message fontsize="25" color="13434624" mode="5">
+</text>
+	<attr id="0" playtime="79.1" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1675649266" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -269,12 +251,11 @@
 
 
 
-是多么的美好啊</message>
-    <times>2009-06-16 18:42:00</times>
-  </data>
-  <data>
-    <playTime>84.3</playTime>
-    <message fontsize="25" color="3976193" mode="5">
+是多么的美好啊</text>
+	<attr id="0" playtime="81.4" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="2095215732" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -284,12 +265,11 @@
 
 
 不
-</message>
-    <times>2009-06-16 18:45:43</times>
-  </data>
-  <data>
-    <playTime>84.6</playTime>
-    <message fontsize="25" color="10027263" mode="5">
+</text>
+	<attr id="0" playtime="84.3" mode="5" fontsize="25" color="3976193"/>
+</comment>
+<comment id="411606465" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -299,12 +279,11 @@
 
 
 知
-</message>
-    <times>2009-06-16 18:46:21</times>
-  </data>
-  <data>
-    <playTime>85</playTime>
-    <message fontsize="25" color="13369344" mode="5">
+</text>
+	<attr id="0" playtime="84.6" mode="5" fontsize="25" color="10027263"/>
+</comment>
+<comment id="2066663889" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -315,12 +294,11 @@
 
 从
 
-</message>
-    <times>2009-06-16 18:47:03</times>
-  </data>
-  <data>
-    <playTime>85.8</playTime>
-    <message fontsize="25" color="3407871" mode="5">
+</text>
+	<attr id="0" playtime="85" mode="5" fontsize="25" color="13369344"/>
+</comment>
+<comment id="1762249785" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -331,12 +309,11 @@
 
 
 何
-</message>
-    <times>2009-06-16 18:47:56</times>
-  </data>
-  <data>
-    <playTime>86.1</playTime>
-    <message fontsize="25" color="3394815" mode="5">
+</text>
+	<attr id="0" playtime="85.8" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="1833926291" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -346,12 +323,11 @@
 
 
 
-处</message>
-    <times>2009-06-16 18:48:36</times>
-  </data>
-  <data>
-    <playTime>86.3</playTime>
-    <message fontsize="25" color="3381759" mode="5">
+处</text>
+	<attr id="0" playtime="86.1" mode="5" fontsize="25" color="3394815"/>
+</comment>
+<comment id="1314844379" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -361,12 +337,11 @@
 
 
 
-说</message>
-    <times>2009-06-16 18:49:08</times>
-  </data>
-  <data>
-    <playTime>86.8</playTime>
-    <message fontsize="25" color="3368703" mode="5">
+说</text>
+	<attr id="0" playtime="86.3" mode="5" fontsize="25" color="3381759"/>
+</comment>
+<comment id="967270969" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -376,12 +351,11 @@
 
 
 
-起</message>
-    <times>2009-06-16 18:49:37</times>
-  </data>
-  <data>
-    <playTime>88.1</playTime>
-    <message fontsize="25" color="13369344" mode="5">
+起</text>
+	<attr id="0" playtime="86.8" mode="5" fontsize="25" color="3368703"/>
+</comment>
+<comment id="1882894427" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 相
@@ -393,12 +367,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:51:23</times>
-  </data>
-  <data>
-    <playTime>88.4</playTime>
-    <message fontsize="25" color="13369395" mode="5">
+</text>
+	<attr id="0" playtime="88.1" mode="5" fontsize="25" color="13369344"/>
+</comment>
+<comment id="1228975961" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -412,12 +385,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:52:02</times>
-  </data>
-  <data>
-    <playTime>88.6</playTime>
-    <message fontsize="25" color="13369446" mode="5">
+</text>
+	<attr id="0" playtime="88.4" mode="5" fontsize="25" color="13369395"/>
+</comment>
+<comment id="1108769803" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -431,12 +403,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:52:34</times>
-  </data>
-  <data>
-    <playTime>88.7</playTime>
-    <message fontsize="25" color="13369497" mode="5">
+</text>
+	<attr id="0" playtime="88.6" mode="5" fontsize="25" color="13369446"/>
+</comment>
+<comment id="262792098" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -449,12 +420,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:53:00</times>
-  </data>
-  <data>
-    <playTime>88.9</playTime>
-    <message fontsize="25" color="13369548" mode="5">
+</text>
+	<attr id="0" playtime="88.7" mode="5" fontsize="25" color="13369497"/>
+</comment>
+<comment id="1966361562" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -467,12 +437,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:53:29</times>
-  </data>
-  <data>
-    <playTime>88.9</playTime>
-    <message fontsize="25" color="13369599" mode="5">
+</text>
+	<attr id="0" playtime="88.9" mode="5" fontsize="25" color="13369548"/>
+</comment>
+<comment id="1262848841" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -482,12 +451,11 @@
 
 ┃
 ┃
-┃</message>
-    <times>2009-06-16 18:54:13</times>
-  </data>
-  <data>
-    <playTime>91.9</playTime>
-    <message fontsize="25" color="3407667" mode="5">
+┃</text>
+	<attr id="0" playtime="88.9" mode="5" fontsize="25" color="13369599"/>
+</comment>
+<comment id="283028530" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 淡
@@ -499,12 +467,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:58:26</times>
-  </data>
-  <data>
-    <playTime>92.1</playTime>
-    <message fontsize="25" color="3407718" mode="5">
+</text>
+	<attr id="0" playtime="91.9" mode="5" fontsize="25" color="3407667"/>
+</comment>
+<comment id="1103656811" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -517,12 +484,11 @@
 
 
 
-</message>
-    <times>2009-06-16 18:59:39</times>
-  </data>
-  <data>
-    <playTime>92.1</playTime>
-    <message fontsize="25" color="13369344" mode="5">
+</text>
+	<attr id="0" playtime="92.1" mode="5" fontsize="25" color="3407718"/>
+</comment>
+<comment id="294587063" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 淡
@@ -535,12 +501,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:00:16</times>
-  </data>
-  <data>
-    <playTime>92.4</playTime>
-    <message fontsize="25" color="3407769" mode="5">
+</text>
+	<attr id="0" playtime="92.1" mode="5" fontsize="25" color="13369344"/>
+</comment>
+<comment id="91163295" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -553,17 +518,15 @@
 
 
 
-</message>
-    <times>2009-06-16 19:00:46</times>
-  </data>
-  <data>
-    <playTime>41.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">読込早</message>
-    <times>2009-06-16 20:00:58</times>
-  </data>
-  <data>
-    <playTime>92.4</playTime>
-    <message fontsize="25" color="10027263" mode="5">
+</text>
+	<attr id="0" playtime="92.4" mode="5" fontsize="25" color="3407769"/>
+</comment>
+<comment id="1671399652" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>読込早</text>
+	<attr id="0" playtime="41.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2066224808" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -574,12 +537,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:01:22</times>
-  </data>
-  <data>
-    <playTime>92.6</playTime>
-    <message fontsize="25" color="3407820" mode="5">
+</text>
+	<attr id="0" playtime="92.4" mode="5" fontsize="25" color="10027263"/>
+</comment>
+<comment id="1032327657" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -592,12 +554,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:01:53</times>
-  </data>
-  <data>
-    <playTime>92.6</playTime>
-    <message fontsize="25" color="13434624" mode="5">
+</text>
+	<attr id="0" playtime="92.6" mode="5" fontsize="25" color="3407820"/>
+</comment>
+<comment id="569675052" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -610,12 +571,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:02:28</times>
-  </data>
-  <data>
-    <playTime>93</playTime>
-    <message fontsize="25" color="3394815" mode="5">
+</text>
+	<attr id="0" playtime="92.6" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="927880660" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -628,12 +588,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:03:06</times>
-  </data>
-  <data>
-    <playTime>93</playTime>
-    <message fontsize="25" color="65280" mode="5">
+</text>
+	<attr id="0" playtime="93" mode="5" fontsize="25" color="3394815"/>
+</comment>
+<comment id="1876566753" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -646,12 +605,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:03:40</times>
-  </data>
-  <data>
-    <playTime>93.1</playTime>
-    <message fontsize="25" color="6684927" mode="5">
+</text>
+	<attr id="0" playtime="93" mode="5" fontsize="25" color="65280"/>
+</comment>
+<comment id="1596397031" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -665,12 +623,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:04:21</times>
-  </data>
-  <data>
-    <playTime>95.4</playTime>
-    <message fontsize="25" color="3976193" mode="5">
+</text>
+	<attr id="0" playtime="93.1" mode="5" fontsize="25" color="6684927"/>
+</comment>
+<comment id="611250224" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -682,12 +639,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:07:36</times>
-  </data>
-  <data>
-    <playTime>95.7</playTime>
-    <message fontsize="25" color="3407667" mode="5">
+</text>
+	<attr id="0" playtime="95.4" mode="5" fontsize="25" color="3976193"/>
+</comment>
+<comment id="1052191055" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -699,12 +655,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:08:46</times>
-  </data>
-  <data>
-    <playTime>95.7</playTime>
-    <message fontsize="25" color="10027263" mode="5">
+</text>
+	<attr id="0" playtime="95.7" mode="5" fontsize="25" color="3407667"/>
+</comment>
+<comment id="1492959334" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -718,12 +673,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:09:10</times>
-  </data>
-  <data>
-    <playTime>95.7</playTime>
-    <message fontsize="25" color="10027263" mode="5">
+</text>
+	<attr id="0" playtime="95.7" mode="5" fontsize="25" color="10027263"/>
+</comment>
+<comment id="669296555" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -734,12 +688,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:09:46</times>
-  </data>
-  <data>
-    <playTime>95.7</playTime>
-    <message fontsize="25" color="16776960" mode="5">
+</text>
+	<attr id="0" playtime="95.7" mode="5" fontsize="25" color="10027263"/>
+</comment>
+<comment id="860425729" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -752,12 +705,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:10:08</times>
-  </data>
-  <data>
-    <playTime>95.9</playTime>
-    <message fontsize="25" color="16711935" mode="5">
+</text>
+	<attr id="0" playtime="95.7" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1883827257" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -766,12 +718,11 @@
 
 
 在
-</message>
-    <times>2009-06-16 19:10:49</times>
-  </data>
-  <data>
-    <playTime>95.9</playTime>
-    <message fontsize="25" color="6750207" mode="5">
+</text>
+	<attr id="0" playtime="95.9" mode="5" fontsize="25" color="16711935"/>
+</comment>
+<comment id="743750618" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -781,12 +732,11 @@
 知
 
 
-</message>
-    <times>2009-06-16 19:11:10</times>
-  </data>
-  <data>
-    <playTime>96.1</playTime>
-    <message fontsize="25" color="26367" mode="5">
+</text>
+	<attr id="0" playtime="95.9" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="503830893" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -800,12 +750,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:11:34</times>
-  </data>
-  <data>
-    <playTime>96.1</playTime>
-    <message fontsize="25" color="3407616" mode="5">
+</text>
+	<attr id="0" playtime="96.1" mode="5" fontsize="25" color="26367"/>
+</comment>
+<comment id="1461113246" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -817,12 +766,11 @@
 
 
 
-</message>
-    <times>2009-06-16 19:11:53</times>
-  </data>
-  <data>
-    <playTime>96.4</playTime>
-    <message fontsize="25" color="255" mode="5">
+</text>
+	<attr id="0" playtime="96.1" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="683294401" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -834,12 +782,11 @@
 
 处
 
-</message>
-    <times>2009-06-16 19:12:18</times>
-  </data>
-  <data>
-    <playTime>96.4</playTime>
-    <message fontsize="25" color="10027263" mode="5">
+</text>
+	<attr id="0" playtime="96.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="25452077" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -851,12 +798,11 @@
 何
 
 
-</message>
-    <times>2009-06-16 19:12:54</times>
-  </data>
-  <data>
-    <playTime>96.8</playTime>
-    <message fontsize="25" color="10027008" mode="5">
+</text>
+	<attr id="0" playtime="96.4" mode="5" fontsize="25" color="10027263"/>
+</comment>
+<comment id="1364098746" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -866,18 +812,16 @@
 
 
 
-处</message>
-    <times>2009-06-16 19:13:17</times>
-  </data>
-  <data>
-    <playTime>99.2</playTime>
-    <message fontsize="37" color="16777164" mode="5">
-在</message>
-    <times>2009-06-16 21:38:59</times>
-  </data>
-  <data>
-    <playTime>99.2</playTime>
-    <message fontsize="37" color="3355647" mode="5">
+处</text>
+	<attr id="0" playtime="96.8" mode="5" fontsize="25" color="10027008"/>
+</comment>
+<comment id="461157523" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
+在</text>
+	<attr id="0" playtime="99.2" mode="5" fontsize="37" color="16777164"/>
+</comment>
+<comment id="2079657918" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 在
 
 
@@ -885,26 +829,23 @@
 
 
 
-</message>
-    <times>2009-06-16 21:39:33</times>
-  </data>
-  <data>
-    <playTime>99</playTime>
-    <message fontsize="37" color="16777215" mode="4">
+</text>
+	<attr id="0" playtime="99.2" mode="5" fontsize="37" color="3355647"/>
+</comment>
+<comment id="1998169369" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 █
-█</message>
-    <times>2009-06-16 21:43:48</times>
-  </data>
-  <data>
-    <playTime>99.3</playTime>
-    <message fontsize="37" color="16777215" mode="4">
+█</text>
+	<attr id="0" playtime="99" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="10507480" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 █
-█</message>
-    <times>2009-06-16 21:44:56</times>
-  </data>
-  <data>
-    <playTime>99.9</playTime>
-    <message fontsize="25" color="3976193" mode="5">
+█</text>
+	<attr id="0" playtime="99.3" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="764782590" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -912,12 +853,11 @@
 风
 中
 摇
-晃</message>
-    <times>2009-06-16 21:46:26</times>
-  </data>
-  <data>
-    <playTime>101.8</playTime>
-    <message fontsize="25" color="13369344" mode="5">
+晃</text>
+	<attr id="0" playtime="99.9" mode="5" fontsize="25" color="3976193"/>
+</comment>
+<comment id="257482404" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -926,12 +866,11 @@
 
 
 
-翩翩地飞舞散落</message>
-    <times>2009-06-16 21:47:29</times>
-  </data>
-  <data>
-    <playTime>104.4</playTime>
-    <message fontsize="25" color="16776960" mode="5">
+翩翩地飞舞散落</text>
+	<attr id="0" playtime="101.8" mode="5" fontsize="25" color="13369344"/>
+</comment>
+<comment id="1061520774" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 飘
 
 
@@ -941,12 +880,11 @@
 
 
 
-</message>
-    <times>2009-06-16 21:48:39</times>
-  </data>
-  <data>
-    <playTime>104.6</playTime>
-    <message fontsize="25" color="16763904" mode="5">
+</text>
+	<attr id="0" playtime="104.4" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1937684245" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 过
 
@@ -959,12 +897,11 @@
 
 
 
-</message>
-    <times>2009-06-16 21:49:30</times>
-  </data>
-  <data>
-    <playTime>104.8</playTime>
-    <message fontsize="25" color="16750848" mode="5">
+</text>
+	<attr id="0" playtime="104.6" mode="5" fontsize="25" color="16763904"/>
+</comment>
+<comment id="600847566" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 你
@@ -977,12 +914,11 @@
 
 
 
-</message>
-    <times>2009-06-16 21:50:16</times>
-  </data>
-  <data>
-    <playTime>105.1</playTime>
-    <message fontsize="25" color="16737792" mode="5">
+</text>
+	<attr id="0" playtime="104.8" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1983929712" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -995,12 +931,11 @@
 
 
 
-</message>
-    <times>2009-06-16 21:50:57</times>
-  </data>
-  <data>
-    <playTime>105.4</playTime>
-    <message fontsize="25" color="16724736" mode="5">
+</text>
+	<attr id="0" playtime="105.1" mode="5" fontsize="25" color="16737792"/>
+</comment>
+<comment id="2024803776" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1015,12 +950,11 @@
 
 
 
-</message>
-    <times>2009-06-16 21:51:43</times>
-  </data>
-  <data>
-    <playTime>106</playTime>
-    <message fontsize="25" color="16711680" mode="5">
+</text>
+	<attr id="0" playtime="105.4" mode="5" fontsize="25" color="16724736"/>
+</comment>
+<comment id="1789809490" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1036,23 +970,21 @@
 
 
 
-</message>
-    <times>2009-06-16 21:52:36</times>
-  </data>
-  <data>
-    <playTime>106.2</playTime>
-    <message fontsize="25" color="16724787" mode="5">
+</text>
+	<attr id="0" playtime="106" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1650015772" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
 
 
-一</message>
-    <times>2009-06-16 21:53:40</times>
-  </data>
-  <data>
-    <playTime>106.3</playTime>
-    <message fontsize="25" color="16724838" mode="5">
+一</text>
+	<attr id="0" playtime="106.2" mode="5" fontsize="25" color="16724787"/>
+</comment>
+<comment id="1603658616" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1068,12 +1000,11 @@
 
 
 
-</message>
-    <times>2009-06-16 21:54:39</times>
-  </data>
-  <data>
-    <playTime>106.4</playTime>
-    <message fontsize="25" color="16724889" mode="5">
+</text>
+	<attr id="0" playtime="106.3" mode="5" fontsize="25" color="16724838"/>
+</comment>
+<comment id="751082933" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1087,12 +1018,11 @@
 
 
 
-</message>
-    <times>2009-06-16 21:55:28</times>
-  </data>
-  <data>
-    <playTime>106.9</playTime>
-    <message fontsize="25" color="16724940" mode="5">
+</text>
+	<attr id="0" playtime="106.4" mode="5" fontsize="25" color="16724889"/>
+</comment>
+<comment id="954709213" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1106,12 +1036,11 @@
 
 
 
-</message>
-    <times>2009-06-16 21:56:07</times>
-  </data>
-  <data>
-    <playTime>109.6</playTime>
-    <message fontsize="37" color="3342591" mode="5">
+</text>
+	<attr id="0" playtime="106.9" mode="5" fontsize="25" color="16724940"/>
+</comment>
+<comment id="437041585" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 如
 果
 
@@ -1120,12 +1049,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:02:59</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="13434624" mode="5">
+</text>
+	<attr id="0" playtime="109.6" mode="5" fontsize="37" color="3342591"/>
+</comment>
+<comment id="1355363128" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1139,12 +1067,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:05:36</times>
-  </data>
-  <data>
-    <playTime>112</playTime>
-    <message fontsize="25" color="16711680" mode="5">
+</text>
+	<attr id="0" playtime="110.2" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="1781663256" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1156,12 +1083,11 @@
 
 
 
-就能够相互了解</message>
-    <times>2009-06-16 22:06:45</times>
-  </data>
-  <data>
-    <playTime>114.8</playTime>
-    <message fontsize="25" color="6684927" mode="5">
+就能够相互了解</text>
+	<attr id="0" playtime="112" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1601067583" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 悲
 
@@ -1177,12 +1103,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:08:41</times>
-  </data>
-  <data>
-    <playTime>115</playTime>
-    <message fontsize="25" color="6697983" mode="5">
+</text>
+	<attr id="0" playtime="114.8" mode="5" fontsize="25" color="6684927"/>
+</comment>
+<comment id="1113678098" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 伤
@@ -1195,12 +1120,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:09:08</times>
-  </data>
-  <data>
-    <playTime>115.3</playTime>
-    <message fontsize="25" color="6711039" mode="5">
+</text>
+	<attr id="0" playtime="115" mode="5" fontsize="25" color="6697983"/>
+</comment>
+<comment id="1366875339" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1213,12 +1137,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:09:29</times>
-  </data>
-  <data>
-    <playTime>115.5</playTime>
-    <message fontsize="25" color="6724095" mode="5">
+</text>
+	<attr id="0" playtime="115.3" mode="5" fontsize="25" color="6711039"/>
+</comment>
+<comment id="633632522" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1230,12 +1153,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:09:53</times>
-  </data>
-  <data>
-    <playTime>115.9</playTime>
-    <message fontsize="25" color="6737151" mode="5">
+</text>
+	<attr id="0" playtime="115.5" mode="5" fontsize="25" color="6724095"/>
+</comment>
+<comment id="1668065822" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1249,12 +1171,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:10:12</times>
-  </data>
-  <data>
-    <playTime>116</playTime>
-    <message fontsize="25" color="6750207" mode="5">
+</text>
+	<attr id="0" playtime="115.9" mode="5" fontsize="25" color="6737151"/>
+</comment>
+<comment id="745835569" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1268,12 +1189,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:10:47</times>
-  </data>
-  <data>
-    <playTime>116.3</playTime>
-    <message fontsize="25" color="6750054" mode="5">
+</text>
+	<attr id="0" playtime="116" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="449715238" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1287,12 +1207,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:11:26</times>
-  </data>
-  <data>
-    <playTime>116.5</playTime>
-    <message fontsize="25" color="6750003" mode="5">
+</text>
+	<attr id="0" playtime="116.3" mode="5" fontsize="25" color="6750054"/>
+</comment>
+<comment id="581755337" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1306,12 +1225,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:11:49</times>
-  </data>
-  <data>
-    <playTime>116.9</playTime>
-    <message fontsize="37" color="3407667" mode="5">
+</text>
+	<attr id="0" playtime="116.5" mode="5" fontsize="25" color="6750003"/>
+</comment>
+<comment id="1042814345" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 天
 
@@ -1319,12 +1237,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:12:46</times>
-  </data>
-  <data>
-    <playTime>117.1</playTime>
-    <message fontsize="37" color="3407718" mode="5">
+</text>
+	<attr id="0" playtime="116.9" mode="5" fontsize="37" color="3407667"/>
+</comment>
+<comment id="2030526996" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 空
@@ -1333,12 +1250,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:13:19</times>
-  </data>
-  <data>
-    <playTime>117.5</playTime>
-    <message fontsize="37" color="3407820" mode="5">
+</text>
+	<attr id="0" playtime="117.1" mode="5" fontsize="37" color="3407718"/>
+</comment>
+<comment id="104439651" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1347,12 +1263,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:13:48</times>
-  </data>
-  <data>
-    <playTime>118.2</playTime>
-    <message fontsize="37" color="3407871" mode="5">
+</text>
+	<attr id="0" playtime="117.5" mode="5" fontsize="37" color="3407820"/>
+</comment>
+<comment id="1729752084" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1361,12 +1276,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:14:14</times>
-  </data>
-  <data>
-    <playTime>139.5</playTime>
-    <message fontsize="25" color="6684927" mode="5">
+</text>
+	<attr id="0" playtime="118.2" mode="5" fontsize="37" color="3407871"/>
+</comment>
+<comment id="1857855540" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 安
 稳
@@ -1379,12 +1293,11 @@
 ·
 ·
 
-·</message>
-    <times>2009-06-16 22:19:35</times>
-  </data>
-  <data>
-    <playTime>144.4</playTime>
-    <message fontsize="25" color="6697983" mode="5">
+·</text>
+	<attr id="0" playtime="139.5" mode="5" fontsize="25" color="6684927"/>
+</comment>
+<comment id="7400375" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 季
 节
@@ -1396,12 +1309,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:21:06</times>
-  </data>
-  <data>
-    <playTime>145.4</playTime>
-    <message fontsize="25" color="6711039" mode="5">
+</text>
+	<attr id="0" playtime="144.4" mode="5" fontsize="25" color="6697983"/>
+</comment>
+<comment id="1587469190" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 在
@@ -1416,12 +1328,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:22:41</times>
-  </data>
-  <data>
-    <playTime>146.7</playTime>
-    <message fontsize="25" color="6737151" mode="5">
+</text>
+	<attr id="0" playtime="145.4" mode="5" fontsize="25" color="6711039"/>
+</comment>
+<comment id="1407273860" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1431,22 +1342,20 @@
 我
 的
 火
-光</message>
-    <times>2009-06-16 22:24:18</times>
-  </data>
-  <data>
-    <playTime>149.7</playTime>
-    <message fontsize="25" color="6749952" mode="5">
+光</text>
+	<attr id="0" playtime="146.7" mode="5" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1288882966" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 一
 边
 跌
 着
-跤</message>
-    <times>2009-06-16 22:25:59</times>
-  </data>
-  <data>
-    <playTime>151.7</playTime>
-    <message fontsize="25" color="6710784" mode="5">
+跤</text>
+	<attr id="0" playtime="149.7" mode="5" fontsize="25" color="6749952"/>
+</comment>
+<comment id="1529581088" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1456,12 +1365,11 @@
 迷
 惑
 着
-┃</message>
-    <times>2009-06-16 22:27:59</times>
-  </data>
-  <data>
-    <playTime>154.5</playTime>
-    <message fontsize="25" color="3407616" mode="5">就
+┃</text>
+	<attr id="0" playtime="151.7" mode="5" fontsize="25" color="6710784"/>
+</comment>
+<comment id="714044074" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>就
 这
 么
 向
@@ -1471,12 +1379,11 @@
 也
 不
 坏
-啊</message>
-    <times>2009-06-16 22:28:59</times>
-  </data>
-  <data>
-    <playTime>160.1</playTime>
-    <message fontsize="25" color="3407871" mode="5">
+啊</text>
+	<attr id="0" playtime="154.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="974373458" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 现
 在
@@ -1489,12 +1396,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:30:21</times>
-  </data>
-  <data>
-    <playTime>163.8</playTime>
-    <message fontsize="25" color="10027263" mode="5">
+</text>
+	<attr id="0" playtime="160.1" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="1347350748" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 飘
 然
@@ -1506,12 +1412,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:31:45</times>
-  </data>
-  <data>
-    <playTime>167.6</playTime>
-    <message fontsize="25" color="16711680" mode="5">
+</text>
+	<attr id="0" playtime="163.8" mode="5" fontsize="25" color="10027263"/>
+</comment>
+<comment id="610787393" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1523,12 +1428,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:33:27</times>
-  </data>
-  <data>
-    <playTime>171.1</playTime>
-    <message fontsize="25" color="13434624" mode="5">
+</text>
+	<attr id="0" playtime="167.6" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1521880490" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 重
 复
@@ -1541,33 +1445,30 @@
 
 
 
-</message>
-    <times>2009-06-16 22:35:33</times>
-  </data>
-  <data>
-    <playTime>189.2</playTime>
-    <message fontsize="25" color="6749952" mode="5">
+</text>
+	<attr id="0" playtime="171.1" mode="5" fontsize="25" color="13434624"/>
+</comment>
+<comment id="685508628" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 有
 着
 不
 能
-够</message>
-    <times>2009-06-16 22:41:30</times>
-  </data>
-  <data>
-    <playTime>189.2</playTime>
-    <message fontsize="25" color="16724736" mode="5">忘
+够</text>
+	<attr id="0" playtime="189.2" mode="5" fontsize="25" color="6749952"/>
+</comment>
+<comment id="264692957" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>忘
 怀
 的
 回
-忆</message>
-    <times>2009-06-16 22:42:23</times>
-  </data>
-  <data>
-    <playTime>194.3</playTime>
-    <message fontsize="25" color="16711680" mode="5">
+忆</text>
+	<attr id="0" playtime="189.2" mode="5" fontsize="25" color="16724736"/>
+</comment>
+<comment id="325591533" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 飘
 
 
@@ -1580,12 +1481,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:43:21</times>
-  </data>
-  <data>
-    <playTime>194.7</playTime>
-    <message fontsize="25" color="16711731" mode="5">
+</text>
+	<attr id="0" playtime="194.3" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="353810642" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 过
 
@@ -1597,12 +1497,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:43:58</times>
-  </data>
-  <data>
-    <playTime>194.9</playTime>
-    <message fontsize="25" color="16711782" mode="5">
+</text>
+	<attr id="0" playtime="194.7" mode="5" fontsize="25" color="16711731"/>
+</comment>
+<comment id="969174247" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 你
@@ -1614,12 +1513,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:44:25</times>
-  </data>
-  <data>
-    <playTime>195</playTime>
-    <message fontsize="25" color="16711833" mode="5">
+</text>
+	<attr id="0" playtime="194.9" mode="5" fontsize="25" color="16711782"/>
+</comment>
+<comment id="1762019689" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1632,12 +1530,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:44:51</times>
-  </data>
-  <data>
-    <playTime>195.6</playTime>
-    <message fontsize="25" color="16711884" mode="5">
+</text>
+	<attr id="0" playtime="195" mode="5" fontsize="25" color="16711833"/>
+</comment>
+<comment id="1011114275" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1649,12 +1546,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:45:24</times>
-  </data>
-  <data>
-    <playTime>196.2</playTime>
-    <message fontsize="25" color="16711935" mode="5">
+</text>
+	<attr id="0" playtime="195.6" mode="5" fontsize="25" color="16711884"/>
+</comment>
+<comment id="1418650151" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1665,12 +1561,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:45:58</times>
-  </data>
-  <data>
-    <playTime>196.8</playTime>
-    <message fontsize="25" color="16724991" mode="5">
+</text>
+	<attr id="0" playtime="196.2" mode="5" fontsize="25" color="16711935"/>
+</comment>
+<comment id="845806123" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1683,12 +1578,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:46:51</times>
-  </data>
-  <data>
-    <playTime>197.2</playTime>
-    <message fontsize="25" color="16738047" mode="5">
+</text>
+	<attr id="0" playtime="196.8" mode="5" fontsize="25" color="16724991"/>
+</comment>
+<comment id="1022241169" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1701,12 +1595,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:47:44</times>
-  </data>
-  <data>
-    <playTime>197.6</playTime>
-    <message fontsize="25" color="16751103" mode="5">
+</text>
+	<attr id="0" playtime="197.2" mode="5" fontsize="25" color="16738047"/>
+</comment>
+<comment id="854345506" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1719,12 +1612,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:48:14</times>
-  </data>
-  <data>
-    <playTime>199.5</playTime>
-    <message fontsize="25" color="6684927" mode="5">
+</text>
+	<attr id="0" playtime="197.6" mode="5" fontsize="25" color="16751103"/>
+</comment>
+<comment id="540575356" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 强
 
 
@@ -1736,12 +1628,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:49:43</times>
-  </data>
-  <data>
-    <playTime>199.7</playTime>
-    <message fontsize="25" color="6697983" mode="5">
+</text>
+	<attr id="0" playtime="199.5" mode="5" fontsize="25" color="6684927"/>
+</comment>
+<comment id="1035299487" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 烈
 
@@ -1753,12 +1644,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:50:12</times>
-  </data>
-  <data>
-    <playTime>200</playTime>
-    <message fontsize="25" color="6711039" mode="5">
+</text>
+	<attr id="0" playtime="199.7" mode="5" fontsize="25" color="6697983"/>
+</comment>
+<comment id="897481431" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 的
@@ -1770,12 +1660,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:50:37</times>
-  </data>
-  <data>
-    <playTime>200.2</playTime>
-    <message fontsize="25" color="6724095" mode="5">
+</text>
+	<attr id="0" playtime="200" mode="5" fontsize="25" color="6711039"/>
+</comment>
+<comment id="1214862612" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1788,12 +1677,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:51:13</times>
-  </data>
-  <data>
-    <playTime>200.5</playTime>
-    <message fontsize="25" color="6737151" mode="5">
+</text>
+	<attr id="0" playtime="200.2" mode="5" fontsize="25" color="6724095"/>
+</comment>
+<comment id="1716611408" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1806,12 +1694,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:51:38</times>
-  </data>
-  <data>
-    <playTime>201</playTime>
-    <message fontsize="25" color="6684876" mode="5">
+</text>
+	<attr id="0" playtime="200.5" mode="5" fontsize="25" color="6737151"/>
+</comment>
+<comment id="2139087338" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1824,12 +1711,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:52:32</times>
-  </data>
-  <data>
-    <playTime>201.2</playTime>
-    <message fontsize="25" color="6697932" mode="5">
+</text>
+	<attr id="0" playtime="201" mode="5" fontsize="25" color="6684876"/>
+</comment>
+<comment id="601540044" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1843,12 +1729,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:53:02</times>
-  </data>
-  <data>
-    <playTime>201.4</playTime>
-    <message fontsize="25" color="6710988" mode="5">
+</text>
+	<attr id="0" playtime="201.2" mode="5" fontsize="25" color="6697932"/>
+</comment>
+<comment id="1195053355" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1862,12 +1747,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:53:32</times>
-  </data>
-  <data>
-    <playTime>201.6</playTime>
-    <message fontsize="25" color="6724044" mode="5">
+</text>
+	<attr id="0" playtime="201.4" mode="5" fontsize="25" color="6710988"/>
+</comment>
+<comment id="809563228" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1881,12 +1765,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:54:10</times>
-  </data>
-  <data>
-    <playTime>201.9</playTime>
-    <message fontsize="25" color="6737100" mode="5">
+</text>
+	<attr id="0" playtime="201.6" mode="5" fontsize="25" color="6724044"/>
+</comment>
+<comment id="667523506" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1900,12 +1783,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:54:37</times>
-  </data>
-  <data>
-    <playTime>202.2</playTime>
-    <message fontsize="25" color="6750156" mode="5">
+</text>
+	<attr id="0" playtime="201.9" mode="5" fontsize="25" color="6737100"/>
+</comment>
+<comment id="1053429154" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1919,12 +1801,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:55:05</times>
-  </data>
-  <data>
-    <playTime>204.8</playTime>
-    <message fontsize="25" color="16776960" mode="5">
+</text>
+	<attr id="0" playtime="202.2" mode="5" fontsize="25" color="6750156"/>
+</comment>
+<comment id="747413906" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 永
 
@@ -1936,12 +1817,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:55:52</times>
-  </data>
-  <data>
-    <playTime>204.9</playTime>
-    <message fontsize="25" color="16763904" mode="5">
+</text>
+	<attr id="0" playtime="204.8" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1856330637" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 远
@@ -1953,12 +1833,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:56:19</times>
-  </data>
-  <data>
-    <playTime>205.2</playTime>
-    <message fontsize="25" color="16750848" mode="5">
+</text>
+	<attr id="0" playtime="204.9" mode="5" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1165674892" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1971,12 +1850,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:56:49</times>
-  </data>
-  <data>
-    <playTime>205.4</playTime>
-    <message fontsize="25" color="16737792" mode="5">
+</text>
+	<attr id="0" playtime="205.2" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1342686261" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -1990,12 +1868,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:57:26</times>
-  </data>
-  <data>
-    <playTime>205.8</playTime>
-    <message fontsize="25" color="16724736" mode="5">
+</text>
+	<attr id="0" playtime="205.4" mode="5" fontsize="25" color="16737792"/>
+</comment>
+<comment id="381487573" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2009,12 +1886,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:57:58</times>
-  </data>
-  <data>
-    <playTime>206.9</playTime>
-    <message fontsize="37" color="16724991" mode="5">
+</text>
+	<attr id="0" playtime="205.8" mode="5" fontsize="25" color="16724736"/>
+</comment>
+<comment id="1452808579" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 这
@@ -2023,12 +1899,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:58:53</times>
-  </data>
-  <data>
-    <playTime>207.2</playTime>
-    <message fontsize="37" color="16724940" mode="5">
+</text>
+	<attr id="0" playtime="206.9" mode="5" fontsize="37" color="16724991"/>
+</comment>
+<comment id="1585355353" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2037,12 +1912,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:59:16</times>
-  </data>
-  <data>
-    <playTime>207.4</playTime>
-    <message fontsize="37" color="16724889" mode="5">
+</text>
+	<attr id="0" playtime="207.2" mode="5" fontsize="37" color="16724940"/>
+</comment>
+<comment id="464970974" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2052,12 +1926,11 @@
 
 
 
-</message>
-    <times>2009-06-16 22:59:43</times>
-  </data>
-  <data>
-    <playTime>207.6</playTime>
-    <message fontsize="37" color="16711782" mode="5">
+</text>
+	<attr id="0" playtime="207.4" mode="5" fontsize="37" color="16724889"/>
+</comment>
+<comment id="1660534683" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2066,12 +1939,11 @@
 意
 
 
-</message>
-    <times>2009-06-16 23:00:08</times>
-  </data>
-  <data>
-    <playTime>208.7</playTime>
-    <message fontsize="37" color="16711680" mode="5">
+</text>
+	<attr id="0" playtime="207.6" mode="5" fontsize="37" color="16711782"/>
+</comment>
+<comment id="1022831595" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 在
 
@@ -2082,35 +1954,32 @@
 
 
 
-</message>
-    <times>2009-06-16 23:01:05</times>
-  </data>
-  <data>
-    <playTime>209</playTime>
-    <message fontsize="25" color="16776960" mode="5">
+</text>
+	<attr id="0" playtime="208.7" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1080782137" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 风
 中
 摇
-晃</message>
-    <times>2009-06-16 23:02:25</times>
-  </data>
-  <data>
-    <playTime>211</playTime>
-    <message fontsize="25" color="16724736" mode="5">
+晃</text>
+	<attr id="0" playtime="209" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1852598070" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
 
 
 
-翩翩地飞舞散落</message>
-    <times>2009-06-16 23:03:30</times>
-  </data>
-  <data>
-    <playTime>210.8</playTime>
-    <message fontsize="25" color="16724736" mode="5">
+翩翩地飞舞散落</text>
+	<attr id="0" playtime="211" mode="5" fontsize="25" color="16724736"/>
+</comment>
+<comment id="631678064" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2125,12 +1994,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:10:07</times>
-  </data>
-  <data>
-    <playTime>213.6</playTime>
-    <message fontsize="25" color="16737792" mode="5">
+</text>
+	<attr id="0" playtime="210.8" mode="5" fontsize="25" color="16724736"/>
+</comment>
+<comment id="288955700" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 将
 今
@@ -2144,12 +2012,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:11:29</times>
-  </data>
-  <data>
-    <playTime>216.3</playTime>
-    <message fontsize="25" color="16711680" mode="5">
+</text>
+	<attr id="0" playtime="213.6" mode="5" fontsize="25" color="16737792"/>
+</comment>
+<comment id="297796167" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2162,12 +2029,11 @@
 色
 
 
-</message>
-    <times>2009-06-16 23:12:35</times>
-  </data>
-  <data>
-    <playTime>218.7</playTime>
-    <message fontsize="25" color="65535" mode="5">
+</text>
+	<attr id="0" playtime="216.3" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="9535914" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2181,12 +2047,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:13:45</times>
-  </data>
-  <data>
-    <playTime>219.3</playTime>
-    <message fontsize="25" color="65280" mode="5">
+</text>
+	<attr id="0" playtime="218.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="2062096455" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2199,12 +2064,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:14:43</times>
-  </data>
-  <data>
-    <playTime>221.3</playTime>
-    <message fontsize="25" color="65280" mode="5">
+</text>
+	<attr id="0" playtime="219.3" mode="5" fontsize="25" color="65280"/>
+</comment>
+<comment id="1770844742" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2217,12 +2081,11 @@
 拥
 抱
 着
-</message>
-    <times>2009-06-16 23:15:35</times>
-  </data>
-  <data>
-    <playTime>223.9</playTime>
-    <message fontsize="25" color="16711935" mode="5">
+</text>
+	<attr id="0" playtime="221.3" mode="5" fontsize="25" color="65280"/>
+</comment>
+<comment id="486675066" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 直
 
@@ -2234,12 +2097,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:16:30</times>
-  </data>
-  <data>
-    <playTime>224</playTime>
-    <message fontsize="25" color="16711884" mode="5">
+</text>
+	<attr id="0" playtime="223.9" mode="5" fontsize="25" color="16711935"/>
+</comment>
+<comment id="24660146" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2252,12 +2114,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:17:06</times>
-  </data>
-  <data>
-    <playTime>224.2</playTime>
-    <message fontsize="25" color="16711833" mode="5">
+</text>
+	<attr id="0" playtime="224" mode="5" fontsize="25" color="16711884"/>
+</comment>
+<comment id="1923182375" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2269,12 +2130,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:17:58</times>
-  </data>
-  <data>
-    <playTime>224.4</playTime>
-    <message fontsize="25" color="16711782" mode="5">
+</text>
+	<attr id="0" playtime="224.2" mode="5" fontsize="25" color="16711833"/>
+</comment>
+<comment id="169210619" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2287,12 +2147,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:18:39</times>
-  </data>
-  <data>
-    <playTime>224.6</playTime>
-    <message fontsize="25" color="6711039" mode="5">
+</text>
+	<attr id="0" playtime="224.4" mode="5" fontsize="25" color="16711782"/>
+</comment>
+<comment id="138172704" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2303,12 +2162,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:19:42</times>
-  </data>
-  <data>
-    <playTime>224.8</playTime>
-    <message fontsize="25" color="3368703" mode="5">
+</text>
+	<attr id="0" playtime="224.6" mode="5" fontsize="25" color="6711039"/>
+</comment>
+<comment id="306724863" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2322,12 +2180,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:20:15</times>
-  </data>
-  <data>
-    <playTime>225</playTime>
-    <message fontsize="25" color="13311" mode="5">
+</text>
+	<attr id="0" playtime="224.8" mode="5" fontsize="25" color="3368703"/>
+</comment>
+<comment id="1494438068" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2340,12 +2197,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:20:49</times>
-  </data>
-  <data>
-    <playTime>226.4</playTime>
-    <message fontsize="37" color="26367" mode="5">
+</text>
+	<attr id="0" playtime="225" mode="5" fontsize="25" color="13311"/>
+</comment>
+<comment id="73667340" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 天
@@ -2354,12 +2210,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:21:37</times>
-  </data>
-  <data>
-    <playTime>226.8</playTime>
-    <message fontsize="37" color="39423" mode="5">
+</text>
+	<attr id="0" playtime="226.4" mode="5" fontsize="37" color="26367"/>
+</comment>
+<comment id="999431889" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2368,12 +2223,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:22:14</times>
-  </data>
-  <data>
-    <playTime>226.9</playTime>
-    <message fontsize="37" color="52479" mode="5">
+</text>
+	<attr id="0" playtime="226.8" mode="5" fontsize="37" color="39423"/>
+</comment>
+<comment id="689270003" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2382,12 +2236,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:22:33</times>
-  </data>
-  <data>
-    <playTime>227.4</playTime>
-    <message fontsize="37" color="65535" mode="5">
+</text>
+	<attr id="0" playtime="226.9" mode="5" fontsize="37" color="52479"/>
+</comment>
+<comment id="849992389" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2396,12 +2249,11 @@
 中
 
 
-</message>
-    <times>2009-06-16 23:22:57</times>
-  </data>
-  <data>
-    <playTime>48.5</playTime>
-    <message fontsize="25" color="3407871" mode="5">
+</text>
+	<attr id="0" playtime="227.4" mode="5" fontsize="37" color="65535"/>
+</comment>
+<comment id="431839103" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2412,12 +2264,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:25:28</times>
-  </data>
-  <data>
-    <playTime>48.7</playTime>
-    <message fontsize="25" color="3394815" mode="5">
+</text>
+	<attr id="0" playtime="48.5" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="1990968982" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2429,12 +2280,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:25:59</times>
-  </data>
-  <data>
-    <playTime>48.9</playTime>
-    <message fontsize="25" color="3381759" mode="5">
+</text>
+	<attr id="0" playtime="48.7" mode="5" fontsize="25" color="3394815"/>
+</comment>
+<comment id="517806463" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2446,12 +2296,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:26:30</times>
-  </data>
-  <data>
-    <playTime>49</playTime>
-    <message fontsize="25" color="3368703" mode="5">
+</text>
+	<attr id="0" playtime="48.9" mode="5" fontsize="25" color="3381759"/>
+</comment>
+<comment id="381259351" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2463,12 +2312,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:26:53</times>
-  </data>
-  <data>
-    <playTime>49.2</playTime>
-    <message fontsize="25" color="3355647" mode="5">
+</text>
+	<attr id="0" playtime="49" mode="5" fontsize="25" color="3368703"/>
+</comment>
+<comment id="1543193713" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2480,12 +2328,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:27:18</times>
-  </data>
-  <data>
-    <playTime>49.5</playTime>
-    <message fontsize="25" color="3355596" mode="5">
+</text>
+	<attr id="0" playtime="49.2" mode="5" fontsize="25" color="3355647"/>
+</comment>
+<comment id="295676454" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2497,12 +2344,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:27:43</times>
-  </data>
-  <data>
-    <playTime>49.6</playTime>
-    <message fontsize="25" color="3368601" mode="5">
+</text>
+	<attr id="0" playtime="49.5" mode="5" fontsize="25" color="3355596"/>
+</comment>
+<comment id="2084394084" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2514,12 +2360,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:28:04</times>
-  </data>
-  <data>
-    <playTime>49.8</playTime>
-    <message fontsize="25" color="3381657" mode="5">
+</text>
+	<attr id="0" playtime="49.6" mode="5" fontsize="25" color="3368601"/>
+</comment>
+<comment id="498837773" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2532,12 +2377,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:28:28</times>
-  </data>
-  <data>
-    <playTime>50</playTime>
-    <message fontsize="25" color="3394713" mode="5">
+</text>
+	<attr id="0" playtime="49.8" mode="5" fontsize="25" color="3381657"/>
+</comment>
+<comment id="1334112991" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2550,12 +2394,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:28:49</times>
-  </data>
-  <data>
-    <playTime>122.2</playTime>
-    <message fontsize="25" color="16750848" mode="5">
+</text>
+	<attr id="0" playtime="50" mode="5" fontsize="25" color="3394713"/>
+</comment>
+<comment id="1334618922" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2569,12 +2412,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:30:51</times>
-  </data>
-  <data>
-    <playTime>122.4</playTime>
-    <message fontsize="25" color="16763904" mode="5">
+</text>
+	<attr id="0" playtime="122.2" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="438875199" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2588,12 +2430,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:31:24</times>
-  </data>
-  <data>
-    <playTime>122.5</playTime>
-    <message fontsize="25" color="16776960" mode="5">
+</text>
+	<attr id="0" playtime="122.4" mode="5" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1019671127" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2607,12 +2448,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:31:51</times>
-  </data>
-  <data>
-    <playTime>122.7</playTime>
-    <message fontsize="25" color="16777011" mode="5">
+</text>
+	<attr id="0" playtime="122.5" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="359931362" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2626,12 +2466,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:32:15</times>
-  </data>
-  <data>
-    <playTime>122.9</playTime>
-    <message fontsize="25" color="16763955" mode="5">
+</text>
+	<attr id="0" playtime="122.7" mode="5" fontsize="25" color="16777011"/>
+</comment>
+<comment id="1972725563" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2645,12 +2484,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:32:37</times>
-  </data>
-  <data>
-    <playTime>123.1</playTime>
-    <message fontsize="25" color="16750899" mode="5">
+</text>
+	<attr id="0" playtime="122.9" mode="5" fontsize="25" color="16763955"/>
+</comment>
+<comment id="957001854" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2664,12 +2502,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:32:58</times>
-  </data>
-  <data>
-    <playTime>123.3</playTime>
-    <message fontsize="25" color="16737843" mode="5">
+</text>
+	<attr id="0" playtime="123.1" mode="5" fontsize="25" color="16750899"/>
+</comment>
+<comment id="1209780166" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2683,12 +2520,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:33:17</times>
-  </data>
-  <data>
-    <playTime>123.4</playTime>
-    <message fontsize="25" color="16724787" mode="5">
+</text>
+	<attr id="0" playtime="123.3" mode="5" fontsize="25" color="16737843"/>
+</comment>
+<comment id="1558255819" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2702,12 +2538,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:33:38</times>
-  </data>
-  <data>
-    <playTime>124.7</playTime>
-    <message fontsize="25" color="16724838" mode="5">
+</text>
+	<attr id="0" playtime="123.4" mode="5" fontsize="25" color="16724787"/>
+</comment>
+<comment id="2138148579" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2723,12 +2558,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:34:46</times>
-  </data>
-  <data>
-    <playTime>125</playTime>
-    <message fontsize="25" color="16724889" mode="5">
+</text>
+	<attr id="0" playtime="124.7" mode="5" fontsize="25" color="16724838"/>
+</comment>
+<comment id="2126582945" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2743,12 +2577,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:35:22</times>
-  </data>
-  <data>
-    <playTime>125.2</playTime>
-    <message fontsize="25" color="16724940" mode="5">
+</text>
+	<attr id="0" playtime="125" mode="5" fontsize="25" color="16724889"/>
+</comment>
+<comment id="1621281835" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2762,12 +2595,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:35:59</times>
-  </data>
-  <data>
-    <playTime>125.3</playTime>
-    <message fontsize="25" color="16711935" mode="5">
+</text>
+	<attr id="0" playtime="125.2" mode="5" fontsize="25" color="16724940"/>
+</comment>
+<comment id="887328746" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2781,12 +2613,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:36:20</times>
-  </data>
-  <data>
-    <playTime>125.5</playTime>
-    <message fontsize="25" color="16711884" mode="5">
+</text>
+	<attr id="0" playtime="125.3" mode="5" fontsize="25" color="16711935"/>
+</comment>
+<comment id="1071265823" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2800,12 +2631,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:36:45</times>
-  </data>
-  <data>
-    <playTime>125.6</playTime>
-    <message fontsize="25" color="16711833" mode="5">
+</text>
+	<attr id="0" playtime="125.5" mode="5" fontsize="25" color="16711884"/>
+</comment>
+<comment id="2108168655" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2819,12 +2649,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:37:17</times>
-  </data>
-  <data>
-    <playTime>125.8</playTime>
-    <message fontsize="25" color="16711782" mode="5">
+</text>
+	<attr id="0" playtime="125.6" mode="5" fontsize="25" color="16711833"/>
+</comment>
+<comment id="483914114" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2838,12 +2667,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:37:40</times>
-  </data>
-  <data>
-    <playTime>125.9</playTime>
-    <message fontsize="25" color="16711731" mode="5">
+</text>
+	<attr id="0" playtime="125.8" mode="5" fontsize="25" color="16711782"/>
+</comment>
+<comment id="1235823989" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2857,12 +2685,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:38:03</times>
-  </data>
-  <data>
-    <playTime>126.1</playTime>
-    <message fontsize="25" color="16724787" mode="5">
+</text>
+	<attr id="0" playtime="125.9" mode="5" fontsize="25" color="16711731"/>
+</comment>
+<comment id="631890637" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2876,12 +2703,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:38:25</times>
-  </data>
-  <data>
-    <playTime>126.3</playTime>
-    <message fontsize="25" color="16711680" mode="5">
+</text>
+	<attr id="0" playtime="126.1" mode="5" fontsize="25" color="16724787"/>
+</comment>
+<comment id="1351917783" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2895,12 +2721,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:38:47</times>
-  </data>
-  <data>
-    <playTime>129.4</playTime>
-    <message fontsize="25" color="3407871" mode="5">
+</text>
+	<attr id="0" playtime="126.3" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="109240922" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 不
@@ -2919,12 +2744,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:39:54</times>
-  </data>
-  <data>
-    <playTime>129.9</playTime>
-    <message fontsize="25" color="6697983" mode="5">
+</text>
+	<attr id="0" playtime="129.4" mode="5" fontsize="25" color="3407871"/>
+</comment>
+<comment id="1792825516" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2934,12 +2758,11 @@
 
 
 
-，我都认为这是最重要的</message>
-    <times>2009-06-16 23:41:14</times>
-  </data>
-  <data>
-    <playTime>175.5</playTime>
-    <message fontsize="25" color="3407616" mode="5">
+，我都认为这是最重要的</text>
+	<attr id="0" playtime="129.9" mode="5" fontsize="25" color="6697983"/>
+</comment>
+<comment id="331778550" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 不
 会
@@ -2953,12 +2776,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:43:15</times>
-  </data>
-  <data>
-    <playTime>178.7</playTime>
-    <message fontsize="25" color="16776960" mode="5">
+</text>
+	<attr id="0" playtime="175.5" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="142469250" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 不
 会
@@ -2969,12 +2791,11 @@
 念
 
 
-</message>
-    <times>2009-06-16 23:44:54</times>
-  </data>
-  <data>
-    <playTime>183.4</playTime>
-    <message fontsize="25" color="16711935" mode="5">
+</text>
+	<attr id="0" playtime="178.7" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1319160602" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -2987,12 +2808,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:46:06</times>
-  </data>
-  <data>
-    <playTime>183.6</playTime>
-    <message fontsize="25" color="16711884" mode="5">
+</text>
+	<attr id="0" playtime="183.4" mode="5" fontsize="25" color="16711935"/>
+</comment>
+<comment id="2008102923" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -3005,12 +2825,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:46:56</times>
-  </data>
-  <data>
-    <playTime>183.8</playTime>
-    <message fontsize="25" color="16711833" mode="5">
+</text>
+	<attr id="0" playtime="183.6" mode="5" fontsize="25" color="16711884"/>
+</comment>
+<comment id="1995359436" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -3023,12 +2842,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:47:34</times>
-  </data>
-  <data>
-    <playTime>183.9</playTime>
-    <message fontsize="25" color="16711782" mode="5">
+</text>
+	<attr id="0" playtime="183.8" mode="5" fontsize="25" color="16711833"/>
+</comment>
+<comment id="442801446" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -3041,12 +2859,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:48:00</times>
-  </data>
-  <data>
-    <playTime>184</playTime>
-    <message fontsize="25" color="16711731" mode="5">
+</text>
+	<attr id="0" playtime="183.9" mode="5" fontsize="25" color="16711782"/>
+</comment>
+<comment id="64852635" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -3059,12 +2876,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:48:23</times>
-  </data>
-  <data>
-    <playTime>184.3</playTime>
-    <message fontsize="25" color="16724787" mode="5">
+</text>
+	<attr id="0" playtime="184" mode="5" fontsize="25" color="16711731"/>
+</comment>
+<comment id="450348962" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -3077,12 +2893,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:49:20</times>
-  </data>
-  <data>
-    <playTime>184.4</playTime>
-    <message fontsize="25" color="16724736" mode="5">
+</text>
+	<attr id="0" playtime="184.3" mode="5" fontsize="25" color="16724787"/>
+</comment>
+<comment id="1188337368" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -3095,12 +2910,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:49:50</times>
-  </data>
-  <data>
-    <playTime>184.6</playTime>
-    <message fontsize="25" color="16711680" mode="5">
+</text>
+	<attr id="0" playtime="184.4" mode="5" fontsize="25" color="16724736"/>
+</comment>
+<comment id="250961975" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 
 
@@ -3113,12 +2927,11 @@
 
 
 
-</message>
-    <times>2009-06-16 23:50:09</times>
-  </data>
-  <data>
-    <playTime>233.5</playTime>
-    <message fontsize="25" color="3407871" mode="5">
+</text>
+	<attr id="0" playtime="184.6" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="700476298" poolid="1" userhash="deadbeef" sendtime="1321635711">
+	<text>
 
 失
 去
@@ -3127,7 +2940,7 @@
 明
 白
 的
-爱</message>
-    <times>2009-06-16 23:51:46</times>
-  </data>
-</information>
+爱</text>
+	<attr id="0" playtime="233.5" mode="5" fontsize="25" color="3407871"/>
+</comment>
+</comments>

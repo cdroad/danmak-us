@@ -62,9 +62,9 @@ class Utils
 	{
     
         if (stripos($str,'bilibili') !== false ) return "Bilibili2";
+        if (stripos($str,'acfun2') !== false ) return "Acfun2";
         if (stripos($str,'acfun') !== false ) return "AcfunN1";
         if (stripos($str,'acfunn') !== false ) return "AcfunN1";
-        if (stripos($str,'acfun2') !== false ) return "Acfun2";
         if (stripos($str,'twodland') !== false ) return "Twodland1";
         if (stripos($str,'2dland') !== false ) return "Twodland1";
         throw new Exception("Unknown group : {$str}");

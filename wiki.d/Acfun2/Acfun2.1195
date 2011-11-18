@@ -1,19 +1,20 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
 DP_P0=acnew
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+PartPlayer_P1=acnew
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=Admin
 cauthor=Admin
 charset=UTF-8
 csum=
 ctime=1298821372
-host=124.160.208.59
-keywords=音乐, 
+host=127.0.0.1
+keywords=音乐,
 name=Acfun2.1195
-rev=2
+rev=4
 targets=Category.音乐
 text=(:VideoStr:46345011:)%0a(:title 【PV附】愛迷エレジー【そらる】 :)%0a(:keywords 音乐, :)%0a(:sourcelink:http://124.228.254.229/html/music/20110212/172710.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
-time=1298821386
-title=【PV附】愛迷エレジー【そらる】 
+time=1321637362
+title=【PV附】愛迷エレジー【そらる】
 author:1298821386=Admin
 diff:1298821386:1298821372:=
 host:1298821386=124.160.208.59

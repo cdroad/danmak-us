@@ -1,15 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><i><chatserver>ct.bilibili.us</chatserver><chatid>70826</chatid>
-<d p="40.7,1,25,16777215,1280987432,0,e7dd514c,2789305"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて　　　　　　流れて]]></d>
-<d p="45.2,1,25,16711680,1280987437,0,e7dd514c,2789308"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて　　　　　　流れて]]></d>
-<d p="55.7,1,25,16711680,1280987451,0,e7dd514c,2789317"><![CDATA[黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　]]></d>
-<d p="59.9,1,25,16711680,1280987456,0,e7dd514c,2789319"><![CDATA[黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　]]></d>
-<d p="163.4,1,25,16777215,1282470533,0,6fe1a51f,3521379"><![CDATA[　　　　　　　　　　　流れて　　　　流れて　　　　　　　　　　　　　]]></d>
-<d p="198.4,1,25,16777215,1282470571,0,6fe1a51f,3521405"><![CDATA[████████████████████　]]></d>
-<d p="3.8,1,25,16777215,1288079815,0,b0f9cfc2,6458064"><![CDATA[/n/n/n/n/n/n　　　　　　　　　　　　　　　　██/n　　　　　　　　　　　　　　　████/n　　　　　　　　]]></d>
-<d p="32.1,1,25,16777215,1288375232,0,232877f9,6580565"><![CDATA[　　　　　　　　　　　　　　　这份倦怠感　　　　　　　　　　　　　]]></d>
-<d p="92,1,25,16777215,1290959183,0,bf72008d,8131785"><![CDATA[　　　　　　　　　　　　　████████████████████]]></d>
-<d p="16.1,4,25,16777215,1294575954,0,9ae03b74,10788164"><![CDATA[　　　　　　　　　　　　　　　　　　　　　还是不停在原地打转　　　]]></d>
-<d p="62.5,4,25,0,1266744330,0,a01cd930,429388"><![CDATA[　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="579148147" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて　　　　　　流れて</text>
+	<attr id="0" playtime="40.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="121198589" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて　　　　　　流れて</text>
+	<attr id="0" playtime="45.2" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1287258323" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　</text>
+	<attr id="0" playtime="55.7" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1458568816" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　</text>
+	<attr id="0" playtime="59.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="464711308" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　　　　　　　　　　　流れて　　　　流れて　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="163.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="889892668" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>████████████████████　</text>
+	<attr id="0" playtime="198.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1422014369" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>/n/n/n/n/n/n　　　　　　　　　　　　　　　　██/n　　　　　　　　　　　　　　　████/n　　　　　　　　</text>
+	<attr id="0" playtime="3.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1223794965" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　　　　　　　　　　　　　　　这份倦怠感　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="32.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1843115726" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　　　　　　　　　　　　　████████████████████</text>
+	<attr id="0" playtime="92" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1837672463" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　　　　　　　　　　　　　　　　　　　　　还是不停在原地打转　　　</text>
+	<attr id="0" playtime="16.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="86137524" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -22,8 +54,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="62.5,4,25,16711680,1266744366,0,a01cd930,429389"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="62.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="183934446" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -36,8 +71,11 @@
 　
 　
 　
-　　　　　　就算時間不断流逝　　　　　　]]></d>
-<d p="66.2,4,25,0,1266744421,0,a01cd930,429390"><![CDATA[　
+　　　　　　就算時間不断流逝　　　　　　</text>
+	<attr id="0" playtime="62.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1646571550" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -50,8 +88,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="66.2,4,25,16711680,1266744476,0,a01cd930,429391"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="66.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1257591588" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -64,8 +105,11 @@
 　
 　
 　
-　　这份倦怠感　　　　　　　　　　　　　]]></d>
-<d p="67.7,4,25,16776960,1266744528,0,a01cd930,429392"><![CDATA[　
+　　这份倦怠感　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="66.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2064252099" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -78,8 +122,11 @@
 　
 　
 　
-　　　　　　　　还是不停在原地打转　　　]]></d>
-<d p="70.1,4,25,0,1266744591,0,a01cd930,429393"><![CDATA[　
+　　　　　　　　还是不停在原地打转　　　</text>
+	<attr id="0" playtime="67.7" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="471290551" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -92,8 +139,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="70.1,4,25,16711680,1266744654,0,a01cd930,429394"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="70.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1819622386" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -106,8 +156,11 @@
 　
 　
 　
-　　　　　　我那已失去的心　　　　　　　]]></d>
-<d p="74,4,25,0,1266744716,0,a01cd930,429395"><![CDATA[　
+　　　　　　我那已失去的心　　　　　　　</text>
+	<attr id="0" playtime="70.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2053900159" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -120,8 +173,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="74,4,25,16711680,1266744779,0,a01cd930,429396"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="74" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1795671646" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -134,8 +190,11 @@
 　
 　
 　
-　　已到了看不见的地方　　　　　　　　　]]></d>
-<d p="75.8,4,25,13395711,1266744827,0,a01cd930,429397"><![CDATA[　
+　　已到了看不见的地方　　　　　　　　　</text>
+	<attr id="0" playtime="74" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="731435595" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -148,8 +207,11 @@
 　
 　
 　
-　　　　　　　　　　　　你　　　　　　　]]></d>
-<d p="76.3,4,25,13395711,1266744905,0,a01cd930,429398"><![CDATA[　
+　　　　　　　　　　　　你　　　　　　　</text>
+	<attr id="0" playtime="75.8" mode="4" fontsize="25" color="13395711"/>
+</comment>
+<comment id="294952280" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -162,8 +224,11 @@
 　
 　
 　
-　　　　　　　　　　　　　能　　　　　　]]></d>
-<d p="76.9,4,25,6750207,1266744940,0,a01cd930,429399"><![CDATA[　
+　　　　　　　　　　　　　能　　　　　　</text>
+	<attr id="0" playtime="76.3" mode="4" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1889497774" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -176,8 +241,11 @@
 　
 　
 　
-　　　　　　　　　　　　　　明白？　　　]]></d>
-<d p="75.7,4,25,0,1266744973,0,a01cd930,429400"><![CDATA[　
+　　　　　　　　　　　　　　明白？　　　</text>
+	<attr id="0" playtime="76.9" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="681108775" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -190,8 +258,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="75.7,4,25,16711680,1266745005,0,a01cd930,429401"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="75.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1488280919" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -204,8 +275,11 @@
 　
 　
 　
-　　已到了看不见的地方　　　　　　　　　]]></d>
-<d p="76.2,4,25,13395711,1266745044,0,a01cd930,429402"><![CDATA[　
+　　已到了看不见的地方　　　　　　　　　</text>
+	<attr id="0" playtime="75.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1715964615" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -218,8 +292,11 @@
 　
 　
 　
-　　　　　　　　　　　　你　　　　　　　]]></d>
-<d p="78.1,4,25,0,1266745102,0,a01cd930,429403"><![CDATA[　
+　　　　　　　　　　　　你　　　　　　　</text>
+	<attr id="0" playtime="76.2" mode="4" fontsize="25" color="13395711"/>
+</comment>
+<comment id="1634906059" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -232,8 +309,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="78.1,4,25,16711680,1266745177,0,a01cd930,429404"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="78.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="363880678" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -246,8 +326,11 @@
 　
 　
 　
-　　　　　　不从自己开始行动　　　　　　]]></d>
-<d p="81.7,4,25,0,1266745236,0,a01cd930,429405"><![CDATA[　
+　　　　　　不从自己开始行动　　　　　　</text>
+	<attr id="0" playtime="78.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2057088219" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -260,8 +343,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="81.7,4,25,16711680,1266745289,0,a01cd930,429406"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="81.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1906535274" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -274,8 +360,11 @@
 　
 　
 　
-　　只是不断随着逝去的光阴随波逐流　　　]]></d>
-<d p="83.5,4,25,16776960,1266745330,0,a01cd930,429407"><![CDATA[　
+　　只是不断随着逝去的光阴随波逐流　　　</text>
+	<attr id="0" playtime="81.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1504504133" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -288,8 +377,11 @@
 　
 　
 　
-　　　　　　　　　　　　　随波逐流　　　]]></d>
-<d p="85.5,4,25,0,1266745361,0,a01cd930,429408"><![CDATA[　
+　　　　　　　　　　　　　随波逐流　　　</text>
+	<attr id="0" playtime="83.5" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="252407336" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -302,8 +394,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="85.5,4,25,16711680,1266745424,0,a01cd930,429409"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="85.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2044225917" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -316,8 +411,11 @@
 　
 　
 　
-　　　　　周遭的事　　　　　　　　　　　]]></d>
-<d p="87.2,4,25,16711680,1266745485,0,a01cd930,429410"><![CDATA[　
+　　　　　周遭的事　　　　　　　　　　　</text>
+	<attr id="0" playtime="85.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="268175050" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -330,8 +428,11 @@
 　
 　
 　
-　　　　　周遭的事　我才不想去管　　　　]]></d>
-<d p="89.4,4,25,0,1266745540,0,a01cd930,429411"><![CDATA[　
+　　　　　周遭的事　我才不想去管　　　　</text>
+	<attr id="0" playtime="87.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="489782027" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -344,8 +445,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="89.4,4,25,16776960,1266745616,0,a01cd930,429412"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="89.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2126020382" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -358,8 +462,11 @@
 　
 　
 　
-　　　　　　　　我就是我　　　　　　　　]]></d>
-<d p="293.8,4,37,16777215,1266745657,0,a01cd930,429413"><![CDATA[　
+　　　　　　　　我就是我　　　　　　　　</text>
+	<attr id="0" playtime="89.4" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="887680961" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -369,8 +476,11 @@
 　
 　
 　
-　]]></d>
-<d p="0.6,4,37,0,1266745724,0,a01cd930,429414"><![CDATA[　
+　</text>
+	<attr id="0" playtime="293.8" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="371977340" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 １　　
 　
 　
@@ -380,8 +490,11 @@
 　
 　
 　
-　]]></d>
-<d p="0.6,4,37,0,1266745792,0,a01cd930,429415"><![CDATA[　
+　</text>
+	<attr id="0" playtime="0.6" mode="4" fontsize="37" color="0"/>
+</comment>
+<comment id="700162065" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -390,8 +503,11 @@
 　
 　
 　　２
-　]]></d>
-<d p="91.3,4,37,16777215,1266745849,0,a01cd930,429416"><![CDATA[　
+　</text>
+	<attr id="0" playtime="0.6" mode="4" fontsize="37" color="0"/>
+</comment>
+<comment id="1856152521" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　就　　　　　　　　　　　　
 　
 　
@@ -401,8 +517,11 @@
 　
 　
 　
-　]]></d>
-<d p="91.7,4,37,16777215,1266745918,0,a01cd930,429417"><![CDATA[　
+　</text>
+	<attr id="0" playtime="91.3" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="1324894707" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　　　　　　　　　　　　是　
 　
 　
@@ -412,8 +531,11 @@
 　
 　
 　
-　]]></d>
-<d p="92.3,4,37,16777215,1266745970,0,a01cd930,429418"><![CDATA[　
+　</text>
+	<attr id="0" playtime="91.7" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="1995171469" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -422,8 +544,11 @@
 　
 　
 　这　　　　　　　　　　　　
-　]]></d>
-<d p="93,4,37,16777215,1266746023,0,a01cd930,429419"><![CDATA[　
+　</text>
+	<attr id="0" playtime="92.3" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="632099328" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -432,8 +557,11 @@
 　
 　
 　　　　　　　　　　　　样　
-　]]></d>
-<d p="93.4,4,25,0,1266746090,0,a01cd930,429420"><![CDATA[　
+　</text>
+	<attr id="0" playtime="93" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="565398843" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -446,8 +574,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="93.4,4,25,16711680,1266746161,0,a01cd930,429421"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="93.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="299422199" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -460,8 +591,11 @@
 　
 　
 　
-　　在梦中看见了吗　　　　　　　　　　　]]></d>
-<d p="95,4,25,16711680,1266746214,0,a01cd930,429422"><![CDATA[　
+　　在梦中看见了吗　　　　　　　　　　　</text>
+	<attr id="0" playtime="93.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1110082893" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -474,8 +608,11 @@
 　
 　
 　
-　　　　　　　　　　还是什么都沒有　　　]]></d>
-<d p="96.8,4,25,0,1266746286,0,a01cd930,429423"><![CDATA[　
+　　　　　　　　　　还是什么都沒有　　　</text>
+	<attr id="0" playtime="95" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2032990220" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -489,8 +626,11 @@
 　
 　
 ████████████████████
-]]></d>
-<d p="96.8,4,25,16711680,1266746329,0,a01cd930,429424"><![CDATA[　
+</text>
+	<attr id="0" playtime="96.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1829927810" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -503,8 +643,11 @@
 　
 　
 　
-　　　说了也沒用的　　　　　　　　　　　]]></d>
-<d p="98.7,4,25,16776960,1266746378,0,a01cd930,429425"><![CDATA[　
+　　　说了也沒用的　　　　　　　　　　　</text>
+	<attr id="0" playtime="96.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="940819578" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -517,8 +660,11 @@
 　
 　
 　
-　　　　　　　　　　自己的真心话　　　　]]></d>
-<d p="100.8,4,25,0,1266746450,0,a01cd930,429426"><![CDATA[　
+　　　　　　　　　　自己的真心话　　　　</text>
+	<attr id="0" playtime="98.7" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1322631634" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -531,8 +677,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="100.8,4,25,16711680,1266746499,0,a01cd930,429427"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="100.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1497640457" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -545,8 +694,11 @@
 　
 　
 　
-　　感伤那种东西　　　　　　　　　　　　]]></d>
-<d p="102.6,4,25,16711680,1266746563,0,a01cd930,429428"><![CDATA[　
+　　感伤那种东西　　　　　　　　　　　　</text>
+	<attr id="0" playtime="100.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1936919847" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -559,8 +711,11 @@
 　
 　
 　
-　　　　　　　　　只会令人更加疲倦　　　]]></d>
-<d p="100.6,4,25,0,1266746602,0,a01cd930,429429"><![CDATA[　
+　　　　　　　　　只会令人更加疲倦　　　</text>
+	<attr id="0" playtime="102.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="74252982" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -573,8 +728,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="100.6,4,25,16711680,1266746655,0,a01cd930,429430"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="100.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1480261896" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -587,8 +745,11 @@
 　
 　
 　
-　　干脆什么都别想　　　　　　　　　　　]]></d>
-<d p="104.5,4,25,0,1266746715,0,a01cd930,429431"><![CDATA[　
+　　干脆什么都别想　　　　　　　　　　　</text>
+	<attr id="0" playtime="100.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1321042060" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -601,8 +762,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="104.5,4,25,16711680,1266746770,0,a01cd930,429432"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="104.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="850945239" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -615,8 +779,11 @@
 　
 　
 　
-　　干脆什么都别想　　　　　　　　　　　]]></d>
-<d p="106.5,4,25,16776960,1266746842,0,a01cd930,429433"><![CDATA[　
+　　干脆什么都别想　　　　　　　　　　　</text>
+	<attr id="0" playtime="104.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1879445621" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -629,8 +796,11 @@
 　
 　
 　
-　　　　　　　　　　如此度日就好　　　　]]></d>
-<d p="108.2,4,25,0,1266746872,0,a01cd930,429434"><![CDATA[　
+　　　　　　　　　　如此度日就好　　　　</text>
+	<attr id="0" playtime="106.5" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="96655155" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -643,8 +813,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="108.2,4,25,0,1266746910,0,a01cd930,429435"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="108.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="973770271" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -657,8 +830,11 @@
 　
 　
 　
-　　　　即使听闻　　　　　　　　　　　　]]></d>
-<d p="108.2,4,25,16711680,1266746953,0,a01cd930,429436"><![CDATA[　
+　　　　即使听闻　　　　　　　　　　　　</text>
+	<attr id="0" playtime="108.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1991553189" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -672,8 +848,11 @@
 　
 　
 　　
-　　　　即使听闻　　　　　　　　　　　　]]></d>
-<d p="110.4,4,25,16711680,1266747006,0,a01cd930,429437"><![CDATA[　
+　　　　即使听闻　　　　　　　　　　　　</text>
+	<attr id="0" playtime="108.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="281210233" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -686,8 +865,11 @@
 　
 　
 　
-　　　　即使听闻　令人困惑的話语　　　　]]></d>
-<d p="112.3,4,25,0,1266747037,0,a01cd930,429438"><![CDATA[　
+　　　　即使听闻　令人困惑的話语　　　　</text>
+	<attr id="0" playtime="110.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="751164035" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -700,8 +882,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="112.3,4,25,16711680,1266747072,0,a01cd930,429439"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="112.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1298487696" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -714,8 +899,11 @@
 　
 　
 　
-　　　　自己的心　　　　　　　　　　　　]]></d>
-<d p="114.3,4,25,16711680,1266747127,0,a01cd930,429440"><![CDATA[　
+　　　　自己的心　　　　　　　　　　　　</text>
+	<attr id="0" playtime="112.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="311906282" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -728,8 +916,11 @@
 　
 　
 　
-　　　　自己的心　早已悬在半空中　　　　]]></d>
-<d p="116.3,4,25,0,1266747185,0,a01cd930,429441"><![CDATA[　
+　　　　自己的心　早已悬在半空中　　　　</text>
+	<attr id="0" playtime="114.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="832556236" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -742,8 +933,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="116.3,4,25,16711680,1266747229,0,a01cd930,429442"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="116.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="727536741" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -756,8 +950,11 @@
 　
 　
 　
-　　　　　　如果我主动行动　　　　　　　]]></d>
-<d p="118.1,4,25,16776960,1266747307,0,a01cd930,429443"><![CDATA[　
+　　　　　　如果我主动行动　　　　　　　</text>
+	<attr id="0" playtime="116.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="103723855" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -770,8 +967,11 @@
 　
 　
 　
-　　　　　　　　　主动行动　　　　　　　]]></d>
-<d p="119.9,4,25,0,1266747376,0,a01cd930,429444"><![CDATA[　
+　　　　　　　　　主动行动　　　　　　　</text>
+	<attr id="0" playtime="118.1" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1259261096" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -784,8 +984,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="119.9,4,25,16711680,1266747409,0,a01cd930,429445"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="119.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1290649932" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -798,8 +1001,11 @@
 　
 　
 　
-　如果我能改变所有　　　　　　　　　　　]]></d>
-<d p="121.9,4,25,16777215,1266747440,0,a01cd930,429446"><![CDATA[　
+　如果我能改变所有　　　　　　　　　　　</text>
+	<attr id="0" playtime="119.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1502945251" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -812,8 +1018,11 @@
 　
 　
 　
-　　　　　　　　　　██████████]]></d>
-<d p="121.9,4,25,0,1266747510,0,a01cd930,429447"><![CDATA[　
+　　　　　　　　　　██████████</text>
+	<attr id="0" playtime="121.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1722590557" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -826,8 +1035,11 @@
 　
 　
 　
-　　　　　　　　　　我会将一切化为黑暗　]]></d>
-<d p="121.9,4,25,16711680,1266747549,0,a01cd930,429448"><![CDATA[　
+　　　　　　　　　　我会将一切化为黑暗　</text>
+	<attr id="0" playtime="121.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1341477369" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -840,8 +1052,11 @@
 　
 　
 　
-　如果我能改变所有　　　　　　　　　　　]]></d>
-<d p="124,4,25,0,1266747580,0,a01cd930,429449"><![CDATA[　
+　如果我能改变所有　　　　　　　　　　　</text>
+	<attr id="0" playtime="121.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="426964150" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -854,8 +1069,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="124,4,25,16711680,1266747629,0,a01cd930,429450"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="124" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1373599922" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -868,8 +1086,11 @@
 　
 　
 　
-　　　　　这样的我　　　　　　　　　　　]]></d>
-<d p="125.8,4,25,16711680,1266747688,0,a01cd930,429451"><![CDATA[　
+　　　　　这样的我　　　　　　　　　　　</text>
+	<attr id="0" playtime="124" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1877341828" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -882,8 +1103,11 @@
 　
 　
 　
-　　　　　这样的我　还有未来吗　　　　　]]></d>
-<d p="127.8,4,25,0,1266747732,0,a01cd930,429452"><![CDATA[　
+　　　　　这样的我　还有未来吗　　　　　</text>
+	<attr id="0" playtime="125.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="208973184" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -896,8 +1120,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="127.8,4,25,16711680,1266747805,0,a01cd930,429453"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="127.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1655350569" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -910,8 +1137,11 @@
 　
 　
 　
-　　　　这样的世界中　　　　　　　　　　]]></d>
-<d p="129.6,4,25,16776960,1266747851,0,a01cd930,429454"><![CDATA[　
+　　　　这样的世界中　　　　　　　　　　</text>
+	<attr id="0" playtime="127.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="845027471" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -924,8 +1154,11 @@
 　
 　
 　
-　　　　　　　　　　　我还活着吗　　　　]]></d>
-<d p="131.7,4,25,0,1266747901,0,a01cd930,429455"><![CDATA[　
+　　　　　　　　　　　我还活着吗　　　　</text>
+	<attr id="0" playtime="129.6" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="158374767" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -938,8 +1171,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="131.7,4,25,16711680,1266747973,0,a01cd930,429456"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="131.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1633996133" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -952,8 +1188,11 @@
 　
 　
 　
-　　　　现在是否难过　　　　　　　　　　]]></d>
-<d p="133.5,4,25,16711680,1266748035,0,a01cd930,429457"><![CDATA[　
+　　　　现在是否难过　　　　　　　　　　</text>
+	<attr id="0" playtime="131.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="300981303" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -966,8 +1205,11 @@
 　
 　
 　
-　　　　现在是否难过　现在是否悲伤　　　]]></d>
-<d p="135.5,4,25,0,1266748089,0,a01cd930,429458"><![CDATA[　
+　　　　现在是否难过　现在是否悲伤　　　</text>
+	<attr id="0" playtime="133.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="68349920" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -980,8 +1222,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="135.5,4,25,16711680,1266748154,0,a01cd930,429459"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="135.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="866097285" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -994,8 +1239,11 @@
 　
 　
 　
-　　　　　连我自己　　　　　　　　　　　]]></d>
-<d p="137.3,4,25,16776960,1266748200,0,a01cd930,429460"><![CDATA[　
+　　　　　连我自己　　　　　　　　　　　</text>
+	<attr id="0" playtime="135.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="302944859" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1008,8 +1256,11 @@
 　
 　
 　
-　　　　　　　　　　也不知道　　　　　　]]></d>
-<d p="139.3,4,25,0,1266748257,0,a01cd930,429461"><![CDATA[　
+　　　　　　　　　　也不知道　　　　　　</text>
+	<attr id="0" playtime="137.3" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="512677947" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1022,8 +1273,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="139.3,4,25,16711680,1266748296,0,a01cd930,429462"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="139.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1248394225" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1036,8 +1290,11 @@
 　
 　
 　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="139.8,4,25,6750207,1266748353,0,a01cd930,429463"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="139.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1086138125" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1051,8 +1308,11 @@
 　
 　
 　　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="140.1,4,25,16711680,1266748390,0,a01cd930,429464"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="139.8" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1622351851" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1065,37 +1325,11 @@
 　
 　
 　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="140.2,4,25,6750207,1266748453,0,a01cd930,429465"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="140.4,4,25,16711680,1266748511,0,a01cd930,429466"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="141.2,4,25,6750207,1266748544,0,a01cd930,429467"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="140.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2040010449" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1109,8 +1343,11 @@
 　
 　
 　　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="141.4,4,25,16711680,1266748591,0,a01cd930,429468"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="140.2" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1168584836" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1123,36 +1360,11 @@
 　
 　
 　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="141.1,4,25,0,1266748660,0,a01cd930,429469"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-████████████████████]]></d>
-<d p="141.1,4,25,16711680,1266748724,0,a01cd930,429470"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　　　就连迈步向前　也只会感到疲倦　　　]]></d>
-<d p="141.6,4,25,6750207,1266748797,0,a01cd930,429471"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="140.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1857352095" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1166,8 +1378,11 @@
 　
 　
 　　
-　　　就连迈步向前　也只会感到疲倦　　　]]></d>
-<d p="141.9,4,25,16711680,1266748833,0,a01cd930,429472"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="141.2" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="25794162" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1180,8 +1395,45 @@
 　
 　
 　
-　　　就连迈步向前　也只会感到疲倦　　　]]></d>
-<d p="142.1,4,25,6750207,1266748870,0,a01cd930,429473"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="141.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1799953856" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+████████████████████</text>
+	<attr id="0" playtime="141.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="242009442" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　　　就连迈步向前　也只会感到疲倦　　　</text>
+	<attr id="0" playtime="141.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="97932503" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1195,8 +1447,11 @@
 　
 　
 　　
-　　　就连迈步向前　也只会感到疲倦　　　]]></d>
-<d p="142.2,4,25,16711680,1266748924,0,a01cd930,429474"><![CDATA[　
+　　　就连迈步向前　也只会感到疲倦　　　</text>
+	<attr id="0" playtime="141.6" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="499912059" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1209,65 +1464,11 @@
 　
 　
 　
-　　　就连迈步向前　也只会感到疲倦　　　]]></d>
-<d p="142.5,4,25,6750207,1266748976,0,a01cd930,429475"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　　
-　　　就连迈步向前　也只会感到疲倦　　　]]></d>
-<d p="142.8,4,25,16711680,1266749051,0,a01cd930,429476"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　　　就连迈步向前　也只会感到疲倦　　　]]></d>
-<d p="143,4,25,0,1266749089,0,a01cd930,429477"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-████████████████████]]></d>
-<d p="143,4,25,16711680,1266749167,0,a01cd930,429478"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　　　　別人的事情　　　　　　　　　　　]]></d>
-<d p="143.6,4,25,16776960,1266749246,0,a01cd930,429479"><![CDATA[　
+　　　就连迈步向前　也只会感到疲倦　　　</text>
+	<attr id="0" playtime="141.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1109069887" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1281,8 +1482,11 @@
 　
 　
 　　
-　　　　別人的事情　　　　　　　　　　　]]></d>
-<d p="143.9,4,25,16711680,1266749276,0,a01cd930,429480"><![CDATA[　
+　　　就连迈步向前　也只会感到疲倦　　　</text>
+	<attr id="0" playtime="142.1" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1033927052" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1295,37 +1499,11 @@
 　
 　
 　
-　　　　別人的事情　　　　　　　　　　　]]></d>
-<d p="144,4,25,16776960,1266749318,0,a01cd930,429481"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　　
-　　　　別人的事情　　　　　　　　　　　]]></d>
-<d p="144.4,4,25,16711680,1266749387,0,a01cd930,429482"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　　　　別人的事情　　　　　　　　　　　]]></d>
-<d p="145,4,25,16776960,1266749421,0,a01cd930,429483"><![CDATA[　
+　　　就连迈步向前　也只会感到疲倦　　　</text>
+	<attr id="0" playtime="142.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1664251520" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1339,8 +1517,11 @@
 　
 　
 　　
-　　　　別人的事情　　　　　　　　　　　]]></d>
-<d p="145.2,4,25,0,1266749458,0,a01cd930,429484"><![CDATA[　
+　　　就连迈步向前　也只会感到疲倦　　　</text>
+	<attr id="0" playtime="142.5" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="513458005" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1353,8 +1534,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="145.2,4,25,16711680,1266749488,0,a01cd930,429485"><![CDATA[　
+　　　就连迈步向前　也只会感到疲倦　　　</text>
+	<attr id="0" playtime="142.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1995482505" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1367,8 +1551,28 @@
 　
 　
 　
-　　　　別人的事情　我不想知道　　　　　]]></d>
-<d p="145.4,4,25,16776960,1266749562,0,a01cd930,429486"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="143" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="277821573" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　　　　別人的事情　　　　　　　　　　　</text>
+	<attr id="0" playtime="143" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1411374372" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1382,8 +1586,11 @@
 　
 　
 　　
-　　　　別人的事情　我不想知道　　　　　]]></d>
-<d p="145.8,4,25,16711680,1266749594,0,a01cd930,429487"><![CDATA[　
+　　　　別人的事情　　　　　　　　　　　</text>
+	<attr id="0" playtime="143.6" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1807068059" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1396,8 +1603,11 @@
 　
 　
 　
-　　　　別人的事情　我不想知道　　　　　]]></d>
-<d p="146,4,25,16776960,1266749656,0,a01cd930,429488"><![CDATA[　
+　　　　別人的事情　　　　　　　　　　　</text>
+	<attr id="0" playtime="143.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1305165454" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1411,8 +1621,133 @@
 　
 　
 　　
-　　　　別人的事情　我不想知道　　　　　]]></d>
-<d p="146.3,4,25,16711680,1266749687,0,a01cd930,429489"><![CDATA[　
+　　　　別人的事情　　　　　　　　　　　</text>
+	<attr id="0" playtime="144" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1373181827" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　　　　別人的事情　　　　　　　　　　　</text>
+	<attr id="0" playtime="144.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="882328945" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　　
+　　　　別人的事情　　　　　　　　　　　</text>
+	<attr id="0" playtime="145" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="88267915" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+████████████████████</text>
+	<attr id="0" playtime="145.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1961706099" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　　　　別人的事情　我不想知道　　　　　</text>
+	<attr id="0" playtime="145.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="939473919" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　　
+　　　　別人的事情　我不想知道　　　　　</text>
+	<attr id="0" playtime="145.4" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="141397801" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　　　　別人的事情　我不想知道　　　　　</text>
+	<attr id="0" playtime="145.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1649879262" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　　
+　　　　別人的事情　我不想知道　　　　　</text>
+	<attr id="0" playtime="146" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="282786450" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1426,8 +1761,11 @@
 　
 　
 　　　
-　　　　別人的事情　我不想知道　　　　　]]></d>
-<d p="146.6,4,25,16776960,1266749753,0,a01cd930,429490"><![CDATA[　
+　　　　別人的事情　我不想知道　　　　　</text>
+	<attr id="0" playtime="146.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1970457203" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1440,8 +1778,11 @@
 　
 　
 　
-　　　　別人的事情　我不想知道　　　　　]]></d>
-<d p="146.8,4,25,0,1266749827,0,a01cd930,429491"><![CDATA[　
+　　　　別人的事情　我不想知道　　　　　</text>
+	<attr id="0" playtime="146.6" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="253817445" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1454,8 +1795,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="146.8,4,25,16711680,1266749860,0,a01cd930,429492"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="146.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1635100208" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1468,8 +1812,11 @@
 　
 　
 　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="147.1,4,25,16776960,1266749938,0,a01cd930,429493"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="146.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="429227320" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1483,8 +1830,11 @@
 　
 　
 　　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="147.2,4,25,16711680,1266749985,0,a01cd930,429494"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="147.1" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1225505992" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1498,8 +1848,11 @@
 　
 　
 　　　
-　　　就连迈步向前　　　　　　　　　　　]]></d>
-<d p="148.8,4,25,16711680,1266750021,0,a01cd930,429495"><![CDATA[　
+　　　就连迈步向前　　　　　　　　　　　</text>
+	<attr id="0" playtime="147.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="56738340" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1512,8 +1865,11 @@
 　
 　
 　
-　　　就连迈步向前　也只会感到疲倦　　　]]></d>
-<d p="151,4,25,0,1266750072,0,a01cd930,429496"><![CDATA[　
+　　　就连迈步向前　也只会感到疲倦　　　</text>
+	<attr id="0" playtime="148.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="858484215" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1526,8 +1882,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="151,4,25,16711680,1266750122,0,a01cd930,429497"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="151" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1382980146" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1540,8 +1899,11 @@
 　
 　
 　
-　　　我的心是否也能变得　　　　　　　　]]></d>
-<d p="153.3,4,25,16777215,1266750183,0,a01cd930,429498"><![CDATA[　
+　　　我的心是否也能变得　　　　　　　　</text>
+	<attr id="0" playtime="151" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1005562076" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1554,8 +1916,11 @@
 　
 　
 　
-　　　　　　　　　　　　　████　　　]]></d>
-<d p="153.3,4,25,0,1266750240,0,a01cd930,429499"><![CDATA[　
+　　　　　　　　　　　　　████　　　</text>
+	<attr id="0" playtime="153.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="492813403" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1568,8 +1933,11 @@
 　
 　
 　
-　　　　　　　　　　　　　洁白无暇　　　]]></d>
-<d p="153.3,4,25,16711680,1266750312,0,a01cd930,429500"><![CDATA[　
+　　　　　　　　　　　　　洁白无暇　　　</text>
+	<attr id="0" playtime="153.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1770186105" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1582,8 +1950,11 @@
 　
 　
 　
-　　　我的心是否也能变得　　　　　　　　]]></d>
-<d p="201.4,4,25,0,1266750375,0,a01cd930,429501"><![CDATA[　
+　　　我的心是否也能变得　　　　　　　　</text>
+	<attr id="0" playtime="153.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2094457318" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1596,8 +1967,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="201.4,4,25,16711680,1266750416,0,a01cd930,429502"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="201.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="595749440" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1610,8 +1984,11 @@
 　
 　
 　
-　　　像这种地方能有我的容身之处吗　　　]]></d>
-<d p="203.4,4,25,6750207,1266750465,0,a01cd930,429503"><![CDATA[　
+　　　像这种地方能有我的容身之处吗　　　</text>
+	<attr id="0" playtime="201.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="362631615" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1624,8 +2001,11 @@
 　
 　
 　
-　　　　　　　　　　我的容身之处吗　　　]]></d>
-<d p="205.2,4,25,0,1266750516,0,a01cd930,429504"><![CDATA[　
+　　　　　　　　　　我的容身之处吗　　　</text>
+	<attr id="0" playtime="203.4" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="269706599" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1638,8 +2018,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="205.2,4,25,16711680,1266750593,0,a01cd930,429505"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="205.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="228107487" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1652,8 +2035,11 @@
 　
 　
 　
-　　　都到这地步了还能允许我存在吗　　　]]></d>
-<d p="207.1,4,25,16776960,1266750666,0,a01cd930,429506"><![CDATA[　
+　　　都到这地步了还能允许我存在吗　　　</text>
+	<attr id="0" playtime="205.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1466672723" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1666,8 +2052,11 @@
 　
 　
 　
-　　　　　　　　　还能允许我存在吗　　　]]></d>
-<d p="209,4,25,0,1266750710,0,a01cd930,429507"><![CDATA[　
+　　　　　　　　　还能允许我存在吗　　　</text>
+	<attr id="0" playtime="207.1" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="967050733" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1680,8 +2069,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="209,4,25,16711680,1266750765,0,a01cd930,429508"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="209" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1753960166" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1694,8 +2086,11 @@
 　
 　
 　
-　　　如果就连这样的我也能改变的話　　　]]></d>
-<d p="212.9,4,25,0,1266750819,0,a01cd930,429509"><![CDATA[　
+　　　如果就连这样的我也能改变的話　　　</text>
+	<attr id="0" playtime="209" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2095673019" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1708,8 +2103,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="212.9,4,25,16711680,1266750852,0,a01cd930,429510"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="212.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1392778071" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1722,8 +2120,11 @@
 　
 　
 　
-　如果能改变的話　　　　　　　　　　　　]]></d>
-<d p="214.7,4,25,16711680,1266750897,0,a01cd930,429511"><![CDATA[　
+　如果能改变的話　　　　　　　　　　　　</text>
+	<attr id="0" playtime="212.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1239823012" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1736,8 +2137,11 @@
 　
 　
 　
-　如果能改变的話　能让我变得纯白无暇吗　]]></d>
-<d p="214.7,4,25,16777215,1266750964,0,a01cd930,429512"><![CDATA[　
+　如果能改变的話　能让我变得纯白无暇吗　</text>
+	<attr id="0" playtime="214.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="339354105" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1750,8 +2154,11 @@
 　
 　
 　
-　　　　　　　　　　　　　　纯白无暇　　]]></d>
-<d p="216.6,4,25,0,1266751041,0,a01cd930,429513"><![CDATA[　
+　　　　　　　　　　　　　　纯白无暇　　</text>
+	<attr id="0" playtime="214.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="634950363" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1764,8 +2171,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="216.6,4,25,16711680,1266751074,0,a01cd930,429514"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="216.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="388182964" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1778,8 +2188,11 @@
 　
 　
 　
-　　在梦中看见了吗　　　　　　　　　　　]]></d>
-<d p="218.8,4,25,16711680,1266751128,0,a01cd930,429515"><![CDATA[　
+　　在梦中看见了吗　　　　　　　　　　　</text>
+	<attr id="0" playtime="216.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1860649805" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1792,8 +2205,11 @@
 　
 　
 　
-　　　　　　　　　　还是什么都沒有　　　]]></d>
-<d p="220.7,4,25,0,1266751175,0,a01cd930,429516"><![CDATA[　
+　　　　　　　　　　还是什么都沒有　　　</text>
+	<attr id="0" playtime="218.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1205108475" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1806,8 +2222,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="220.7,4,25,16711680,1266751227,0,a01cd930,429517"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="220.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2035475794" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1820,8 +2239,11 @@
 　
 　
 　
-　　　说了也沒用的　　　　　　　　　　　]]></d>
-<d p="222.5,4,25,16776960,1266751263,0,a01cd930,429518"><![CDATA[　
+　　　说了也沒用的　　　　　　　　　　　</text>
+	<attr id="0" playtime="220.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="800891378" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1834,8 +2256,11 @@
 　
 　
 　
-　　　　　　　　　　自己的真心话　　　　]]></d>
-<d p="224.6,4,25,0,1266751325,0,a01cd930,429519"><![CDATA[　
+　　　　　　　　　　自己的真心话　　　　</text>
+	<attr id="0" playtime="222.5" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="187377548" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1848,8 +2273,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="224.6,4,25,16711680,1266751400,0,a01cd930,429520"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="224.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="499829300" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1862,8 +2290,11 @@
 　
 　
 　
-　　感伤那种东西　　　　　　　　　　　　]]></d>
-<d p="226.3,4,25,16711680,1266751456,0,a01cd930,429521"><![CDATA[　
+　　感伤那种东西　　　　　　　　　　　　</text>
+	<attr id="0" playtime="224.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1564947905" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1876,8 +2307,11 @@
 　
 　
 　
-　　　　　　　　　只会令人更加疲倦　　　]]></d>
-<d p="228.5,4,25,0,1266751523,0,a01cd930,429522"><![CDATA[　
+　　　　　　　　　只会令人更加疲倦　　　</text>
+	<attr id="0" playtime="226.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1847697136" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1890,8 +2324,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="228.5,4,25,16711680,1266751572,0,a01cd930,429523"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="228.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1142183402" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1904,8 +2341,11 @@
 　
 　
 　
-　　干脆什么都别想　　　　　　　　　　　]]></d>
-<d p="230.1,4,25,16776960,1266751637,0,a01cd930,429524"><![CDATA[　
+　　干脆什么都别想　　　　　　　　　　　</text>
+	<attr id="0" playtime="228.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1447160034" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1918,8 +2358,11 @@
 　
 　
 　
-　　　　　　　　　　如此度日就好　　　　]]></d>
-<d p="232.1,4,25,0,1266751681,0,a01cd930,429525"><![CDATA[　
+　　　　　　　　　　如此度日就好　　　　</text>
+	<attr id="0" playtime="230.1" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="347357190" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1932,8 +2375,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="232.1,4,25,16711680,1266751729,0,a01cd930,429526"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="232.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="24254892" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1946,8 +2392,11 @@
 　
 　
 　
-　　　　即使听闻　令人困惑的話语　　　　]]></d>
-<d p="234.1,4,25,16776960,1266751782,0,a01cd930,429527"><![CDATA[　
+　　　　即使听闻　令人困惑的話语　　　　</text>
+	<attr id="0" playtime="232.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="323089767" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1960,8 +2409,11 @@
 　
 　
 　
-　　　　　　　　　令人困惑的話语　　　　]]></d>
-<d p="236.1,4,25,0,1266751850,0,a01cd930,429528"><![CDATA[　
+　　　　　　　　　令人困惑的話语　　　　</text>
+	<attr id="0" playtime="234.1" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="85915662" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1974,8 +2426,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="236.1,4,25,16711680,1266751917,0,a01cd930,429529"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="236.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1865655561" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -1988,8 +2443,11 @@
 　
 　
 　
-　　　　自己的心　早已悬在半空中　　　　]]></d>
-<d p="237.9,4,25,6750207,1266751979,0,a01cd930,429530"><![CDATA[　
+　　　　自己的心　早已悬在半空中　　　　</text>
+	<attr id="0" playtime="236.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="743138864" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2002,8 +2460,11 @@
 　
 　
 　
-　　　　　　　　　早已悬在半空中　　　　]]></d>
-<d p="240,4,25,0,1266752042,0,a01cd930,429531"><![CDATA[　
+　　　　　　　　　早已悬在半空中　　　　</text>
+	<attr id="0" playtime="237.9" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1469772423" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2016,8 +2477,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="240,4,25,16711680,1266752113,0,a01cd930,429532"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="240" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1628698959" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2030,8 +2494,11 @@
 　
 　
 　
-　　如果我主动行动　如果我能改变所有　　]]></d>
-<d p="241.6,4,25,16776960,1266752181,0,a01cd930,429533"><![CDATA[　
+　　如果我主动行动　如果我能改变所有　　</text>
+	<attr id="0" playtime="240" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="348820689" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2044,8 +2511,11 @@
 　
 　
 　
-　　　　　主动行动　　　　　　　　　　　]]></d>
-<d p="241.6,4,25,16711680,1266752215,0,a01cd930,429534"><![CDATA[　
+　　　　　主动行动　　　　　　　　　　　</text>
+	<attr id="0" playtime="241.6" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2032828950" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2058,8 +2528,11 @@
 　
 　
 　
-　　如果我　　　　　如果我能改变所有　　]]></d>
-<d p="245.6,4,25,16777215,1266752287,0,a01cd930,429535"><![CDATA[　
+　　如果我　　　　　如果我能改变所有　　</text>
+	<attr id="0" playtime="241.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1341292158" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2072,8 +2545,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="245.6,4,25,0,1266752343,0,a01cd930,429536"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="245.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="194111931" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2087,8 +2563,11 @@
 　
 　
 　　
-████████████████████]]></d>
-<d p="245.6,4,25,16777215,1266752408,0,a01cd930,429537"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="245.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="447680376" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2101,8 +2580,11 @@
 　
 　
 　
-　　　　　█████████　　　　　　]]></d>
-<d p="245.6,4,25,0,1266752487,0,a01cd930,429538"><![CDATA[　
+　　　　　█████████　　　　　　</text>
+	<attr id="0" playtime="245.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="755517499" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2115,8 +2597,11 @@
 　
 　
 　
-　　　　　我会将一切化为黑暗　　　　　　]]></d>
-<d p="245.6,4,25,16711680,1266752557,0,a01cd930,429539"><![CDATA[　
+　　　　　我会将一切化为黑暗　　　　　　</text>
+	<attr id="0" playtime="245.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="221219477" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2129,8 +2614,11 @@
 　
 　
 　
-　　　　　　　　　　　　黑暗　　　　　　]]></d>
-<d p="247.8,4,25,16711680,1266752593,0,a01cd930,429540"><![CDATA[　
+　　　　　　　　　　　　黑暗　　　　　　</text>
+	<attr id="0" playtime="245.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1172069742" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 如
 果
@@ -2149,8 +2637,11 @@
 　
 　
 　
-　　　　　　　　　　　　　　　]]></d>
-<d p="247.8,4,25,16711680,1266752632,0,a01cd930,429541"><![CDATA[如
+　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="247.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="245940675" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>如
 果
 能
 动
@@ -2164,8 +2655,11 @@
 　
 　
 　
-　　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="249.8,4,25,16776960,1266752679,0,a01cd930,429542"><![CDATA[　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="247.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1713750236" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2179,8 +2673,11 @@
 动
 的
 話
-　　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="251.7,4,25,0,1266752729,0,a01cd930,429543"><![CDATA[　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="249.8" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2129486379" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2193,8 +2690,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="251.7,4,25,16711680,1266752807,0,a01cd930,429544"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="251.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2590355" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2207,8 +2707,11 @@
 　
 　
 　
-　我要把所有東西都破坏掉　　　　　　　　]]></d>
-<d p="253.5,4,25,16776960,1266752868,0,a01cd930,429545"><![CDATA[　
+　我要把所有東西都破坏掉　　　　　　　　</text>
+	<attr id="0" playtime="251.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="958277870" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2221,8 +2724,11 @@
 　
 　
 　
-　　　　　　　　　　　　　通通都破坏掉　]]></d>
-<d p="255.6,4,25,16711680,1266752944,0,a01cd930,429546"><![CDATA[如
+　　　　　　　　　　　　　通通都破坏掉　</text>
+	<attr id="0" playtime="253.5" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2060475194" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>如
 果
 会
 感
@@ -2236,8 +2742,11 @@
 　
 　
 　
-　　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="257.6,4,25,16776960,1266752996,0,a01cd930,429547"><![CDATA[　　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="255.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1575621357" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　　
 　　
 　　
 　　
@@ -2251,8 +2760,11 @@
 　伤
 　的
 　話
-　　　　　　　　　　　　　　　　　　]]></d>
-<d p="259.5,4,25,6750207,1266753037,0,a01cd930,429548"><![CDATA[　
+　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="257.6" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1057862095" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 我
 的
 心
@@ -2266,8 +2778,11 @@
 暇
 吗
 　
-　　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="259.5,4,25,16777215,1266753074,0,a01cd930,429549"><![CDATA[　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="259.5" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="807787319" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2281,8 +2796,11 @@
 暇
 　
 　
-　　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="263.2,4,25,0,1266753143,0,a01cd930,429550"><![CDATA[　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="259.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1298463675" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2295,8 +2813,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="263.2,4,25,16711680,1266753221,0,a01cd930,429551"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="263.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="821211990" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2309,8 +2830,11 @@
 　
 　
 　
-　　　　　　不管是你或是我　　　　　　　]]></d>
-<d p="263.7,4,25,16777215,1266753279,0,a01cd930,429552"><![CDATA[　
+　　　　　　不管是你或是我　　　　　　　</text>
+	<attr id="0" playtime="263.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="757847434" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2323,8 +2847,11 @@
 　
 　
 　
-　　　　　　███████　　　　　　　]]></d>
-<d p="263.7,4,25,16711680,1266753332,0,a01cd930,429553"><![CDATA[　
+　　　　　　███████　　　　　　　</text>
+	<attr id="0" playtime="263.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2026250441" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2337,8 +2864,11 @@
 　
 　
 　
-　　　　　　不管是你或是我　　　　　　　]]></d>
-<d p="265,4,25,16776960,1266753363,0,a01cd930,429554"><![CDATA[　
+　　　　　　不管是你或是我　　　　　　　</text>
+	<attr id="0" playtime="263.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2092129275" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2351,8 +2881,11 @@
 　
 　
 　
-　　　　　　　　　　或是我　　　　　　　]]></d>
-<d p="266.9,4,25,16777215,1266753412,0,a01cd930,429555"><![CDATA[　
+　　　　　　　　　　或是我　　　　　　　</text>
+	<attr id="0" playtime="265" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="157693180" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2378,8 +2911,11 @@
 　
 　
 　
-　　　　]]></d>
-<d p="266.9,4,25,16777215,1266753473,0,a01cd930,429556"><![CDATA[　
+　　　　</text>
+	<attr id="0" playtime="266.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="970582838" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2392,8 +2928,11 @@
 　
 　
 　
-　　　　██████████　　　　　　]]></d>
-<d p="266.9,4,25,16711680,1266753544,0,a01cd930,429557"><![CDATA[　
+　　　　██████████　　　　　　</text>
+	<attr id="0" playtime="266.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="776837932" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2406,8 +2945,11 @@
 　
 　
 　
-　　　　所有的事我都还不知道　　　　　　]]></d>
-<d p="268.9,4,25,6750207,1266753583,0,a01cd930,429558"><![CDATA[　
+　　　　所有的事我都还不知道　　　　　　</text>
+	<attr id="0" playtime="266.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="244464234" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2420,8 +2962,11 @@
 　
 　
 　
-　　　　　　　　我都还不知道　　　　　　]]></d>
-<d p="271,4,25,0,1266753656,0,a01cd930,429559"><![CDATA[　
+　　　　　　　　我都还不知道　　　　　　</text>
+	<attr id="0" playtime="268.9" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="579588076" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2434,8 +2979,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="271,4,25,0,1266753718,0,a01cd930,429560"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="271" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="791113235" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　　想张开这沉重的眼睛的话　　　　　　　
 　
@@ -2449,8 +2997,11 @@
 　
 　
 　
-　]]></d>
-<d p="271,5,25,16711680,1266753758,0,a01cd930,429561"><![CDATA[　
+　</text>
+	<attr id="0" playtime="271" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1250015703" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　　想张开这沉重的眼睛的话　　　　　　　
 　
@@ -2464,8 +3015,11 @@
 　
 　
 　
-　　]]></d>
-<d p="271,4,25,0,1266753803,0,a01cd930,429562"><![CDATA[　
+　　</text>
+	<attr id="0" playtime="271" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1640427429" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　　想张开这沉重的眼睛的话　　　　　　　
 　
@@ -2479,8 +3033,11 @@
 　
 　
 　
-　]]></d>
-<d p="271,4,25,6724095,1266753852,0,a01cd930,429563"><![CDATA[　
+　</text>
+	<attr id="0" playtime="271" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="878671686" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　　想张开这沉重的眼睛的话　　　　　　　
 　
@@ -2496,8 +3053,11 @@
 　
 　
 　
-　]]></d>
-<d p="271,4,25,6724095,1266753928,0,a01cd930,429564"><![CDATA[　
+　</text>
+	<attr id="0" playtime="271" mode="4" fontsize="25" color="6724095"/>
+</comment>
+<comment id="92989484" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　　想张开这沉重的眼睛的话　　　　　　　
 　
@@ -2511,8 +3071,11 @@
 　
 　
 　
-　]]></d>
-<d p="271,4,25,16776960,1266753996,0,a01cd930,429565"><![CDATA[　
+　</text>
+	<attr id="0" playtime="271" mode="4" fontsize="25" color="6724095"/>
+</comment>
+<comment id="1875354946" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　　　　　　　　　眼睛　　　　　　　　　
 　
@@ -2526,8 +3089,11 @@
 　
 　
 　
-　]]></d>
-<d p="274.9,4,25,16711680,1266754053,0,a01cd930,429566"><![CDATA[　
+　</text>
+	<attr id="0" playtime="271" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1074596512" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2541,8 +3107,11 @@
 　
 　
 　
-　]]></d>
-<d p="277,4,25,16777215,1266754116,0,a01cd930,429567"><![CDATA[　
+　</text>
+	<attr id="0" playtime="274.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1693452535" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2556,8 +3125,11 @@
 　
 　
 　
-　]]></d>
-<d p="277,4,25,0,1266754177,0,a01cd930,429568"><![CDATA[　
+　</text>
+	<attr id="0" playtime="277" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="968730897" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2571,8 +3143,11 @@
 　
 　
 　
-　]]></d>
-<d p="277,4,25,0,1266754242,0,a01cd930,429569"><![CDATA[　
+　</text>
+	<attr id="0" playtime="277" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1470611104" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2586,8 +3161,11 @@
 　
 　
 　
-　]]></d>
-<d p="277,4,25,16777215,1266754298,0,a01cd930,429570"><![CDATA[　
+　</text>
+	<attr id="0" playtime="277" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="13327871" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2601,8 +3179,11 @@
 　
 　
 　
-　]]></d>
-<d p="277.1,4,25,16777215,1266754328,0,a01cd930,429571"><![CDATA[　
+　</text>
+	<attr id="0" playtime="277" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="688822871" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2616,8 +3197,11 @@
 　
 　
 　
-　]]></d>
-<d p="29.5,4,25,16777215,1266754775,0,a01cd930,429579"><![CDATA[ 
+　</text>
+	<attr id="0" playtime="277.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="142512870" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -2631,8 +3215,11 @@
  
  
  
- ]]></d>
-<d p="30.6,4,25,0,1266754913,0,a01cd930,429581"><![CDATA[　
+ </text>
+	<attr id="0" playtime="29.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2083430233" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2646,9 +3233,15 @@
 　
 　
 　
-　]]></d>
-<d p="301.8,1,25,16777215,1266755019,0,a01cd930,429583"><![CDATA[...]]></d>
-<d p="48,4,37,16711680,1266755600,0,a01cd930,429593"><![CDATA[　
+　</text>
+	<attr id="0" playtime="30.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2018221905" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>...</text>
+	<attr id="0" playtime="301.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1609226099" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2657,8 +3250,11 @@
 　
 　
 　
-　]]></d>
-<d p="46.6,4,25,16711680,1266755664,0,a01cd930,429594"><![CDATA[　
+　</text>
+	<attr id="0" playtime="48" mode="4" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1051482193" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2672,8 +3268,11 @@
 　
 　
 　
-　]]></d>
-<d p="50.6,4,25,16711680,1266755697,0,a01cd930,429595"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1302339395" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2687,8 +3286,11 @@
 　
 　
 　
-　]]></d>
-<d p="52.3,4,25,16711680,1266755745,0,a01cd930,429596"><![CDATA[　
+　</text>
+	<attr id="0" playtime="50.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="715091594" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2702,8 +3304,11 @@
 　
 　
 　
-　]]></d>
-<d p="54.5,4,25,16711680,1266755797,0,a01cd930,429597"><![CDATA[　
+　</text>
+	<attr id="0" playtime="52.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="636105168" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2717,8 +3322,11 @@
 　
 　
 　
-　]]></d>
-<d p="56.1,4,25,16711680,1266755866,0,a01cd930,429598"><![CDATA[　
+　</text>
+	<attr id="0" playtime="54.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="519535384" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　　　　　　　　　　　　ほらグルグル　　
@@ -2732,8 +3340,11 @@
 　
 　
 　
-　]]></d>
-<d p="58.4,4,25,16711680,1266755899,0,a01cd930,429599"><![CDATA[　
+　</text>
+	<attr id="0" playtime="56.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="899135303" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　　　　　　　ほらグルグル　　　　　　　
 　
@@ -2747,8 +3358,11 @@
 　
 　
 　
-　]]></d>
-<d p="60.1,4,25,16777215,1266755969,0,a01cd930,429600"><![CDATA[　
+　</text>
+	<attr id="0" playtime="58.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="170103127" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2762,8 +3376,11 @@
 　
 　
 　
-　]]></d>
-<d p="60.1,4,25,0,1266756041,0,a01cd930,429601"><![CDATA[　
+　</text>
+	<attr id="0" playtime="60.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1211139256" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2777,8 +3394,11 @@
 　
 　
 　
-　]]></d>
-<d p="61.2,4,25,16777215,1266756105,0,a01cd930,429602"><![CDATA[　
+　</text>
+	<attr id="0" playtime="60.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1896478082" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2792,8 +3412,11 @@
 　
 　
 　
-　]]></d>
-<d p="61.2,4,25,0,1266756180,0,a01cd930,429603"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="283695930" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2807,8 +3430,11 @@
 　
 　
 　
-　]]></d>
-<d p="61.2,4,25,0,1266756240,0,a01cd930,429604"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="110080060" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2822,8 +3448,11 @@
 　
 　
 　
-　]]></d>
-<d p="61.2,4,25,16777215,1266756281,0,a01cd930,429605"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="658392069" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2837,8 +3466,11 @@
 　
 　
 　
-　]]></d>
-<d p="61.2,4,37,16711680,1266756340,0,a01cd930,429606"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1089092699" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2847,16 +3479,43 @@
 　
 　
 　
-　]]></d>
-<d p="277.6,1,37,0,1266756489,0,a01cd930,429609"><![CDATA[黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　]]></d>
-<d p="277.6,1,37,0,1266756531,0,a01cd930,429610"><![CDATA[黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　黒になれ　　]]></d>
-<d p="277.6,1,37,0,1266756595,0,a01cd930,429611"><![CDATA[黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　]]></d>
-<d p="278.3,1,25,0,1266756665,0,a01cd930,429612"><![CDATA[黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　]]></d>
-<d p="278.3,1,37,0,1266756727,0,a01cd930,429613"><![CDATA[黒になれ　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　]]></d>
-<d p="278.3,1,25,0,1266756764,0,a01cd930,429614"><![CDATA[黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　]]></d>
-<d p="278.3,1,37,0,1266756836,0,a01cd930,429615"><![CDATA[　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒]]></d>
-<d p="278.3,1,37,0,1266756874,0,a01cd930,429616"><![CDATA[黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　]]></d>
-<d p="146.8,4,25,0,1266756923,0,a01cd930,429617"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.2" mode="4" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1785562796" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　</text>
+	<attr id="0" playtime="277.6" mode="1" fontsize="37" color="0"/>
+</comment>
+<comment id="183202357" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　黒になれ　　</text>
+	<attr id="0" playtime="277.6" mode="1" fontsize="37" color="0"/>
+</comment>
+<comment id="1899207561" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　</text>
+	<attr id="0" playtime="277.6" mode="1" fontsize="37" color="0"/>
+</comment>
+<comment id="247186112" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　</text>
+	<attr id="0" playtime="278.3" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="2052240602" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>黒になれ　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　</text>
+	<attr id="0" playtime="278.3" mode="1" fontsize="37" color="0"/>
+</comment>
+<comment id="359874215" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　</text>
+	<attr id="0" playtime="278.3" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="278487084" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒</text>
+	<attr id="0" playtime="278.3" mode="1" fontsize="37" color="0"/>
+</comment>
+<comment id="2037384789" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　　　　黒になれ　　</text>
+	<attr id="0" playtime="278.3" mode="1" fontsize="37" color="0"/>
+</comment>
+<comment id="2118757670" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2869,8 +3528,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="147.3,4,25,0,1266756959,0,a01cd930,429618"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="146.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1196858024" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2884,8 +3546,11 @@
 　
 　
 　　
-████████████████████]]></d>
-<d p="147.3,4,25,16711680,1266757018,0,a01cd930,429619"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="147.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2057695731" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2898,8 +3563,11 @@
 　
 　
 　
-　　　　　这样的我　　　　　　　　　　　]]></d>
-<d p="149.4,4,25,0,1266757078,0,a01cd930,429620"><![CDATA[　
+　　　　　这样的我　　　　　　　　　　　</text>
+	<attr id="0" playtime="147.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1756073551" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2912,8 +3580,11 @@
 　
 　
 　
-████████████████████]]></d>
-<d p="149.4,4,25,16711680,1266757144,0,a01cd930,429621"><![CDATA[　
+████████████████████</text>
+	<attr id="0" playtime="149.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="500611605" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -2926,8 +3597,11 @@
 　
 　
 　
-　　　　　这样的我　也能改变吗　　　　　]]></d>
-<d p="232.7,4,25,16711680,1266757210,0,a01cd930,429622"><![CDATA[ 
+　　　　　这样的我　也能改变吗　　　　　</text>
+	<attr id="0" playtime="149.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="590411436" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -2941,8 +3615,11 @@
  
  
  
-☆　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="232.6,4,25,16776960,1266757265,0,a01cd930,429623"><![CDATA[ 
+☆　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="232.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1963978469" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -2956,8 +3633,11 @@
  
  
  
-　　　　　　　　　　　　　　　　　　　☆]]></d>
-<d p="233.6,4,25,16776960,1266757336,0,a01cd930,429624"><![CDATA[ 
+　　　　　　　　　　　　　　　　　　　☆</text>
+	<attr id="0" playtime="232.6" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="661991228" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -2971,8 +3651,11 @@
  
  
  
-☆　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="234.2,4,25,16711680,1266757415,0,a01cd930,429625"><![CDATA[ 
+☆　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="233.6" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="789004450" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -2986,8 +3669,11 @@
  
  
  
-　　　　　　　　　　　　　　　　　　　☆]]></d>
-<d p="234.7,4,25,16711680,1266757493,0,a01cd930,429626"><![CDATA[ 
+　　　　　　　　　　　　　　　　　　　☆</text>
+	<attr id="0" playtime="234.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="37585567" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3001,8 +3687,11 @@
  
  
  
-　☆　　　　　　　　　　　　　　　　　　]]></d>
-<d p="235.1,4,25,16776960,1266757555,0,a01cd930,429627"><![CDATA[ 
+　☆　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="234.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="912552590" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3016,8 +3705,11 @@
  
  
  
-　　　　　　　　　　　　　　　　　　☆　]]></d>
-<d p="235.6,4,25,16711680,1266757634,0,a01cd930,429628"><![CDATA[ 
+　　　　　　　　　　　　　　　　　　☆　</text>
+	<attr id="0" playtime="235.1" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="293434585" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3031,8 +3723,11 @@
  
  
  
-☆☆☆　　　　　　　　　　　　　　☆☆☆]]></d>
-<d p="235.9,4,25,16776960,1266757677,0,a01cd930,429629"><![CDATA[ 
+☆☆☆　　　　　　　　　　　　　　☆☆☆</text>
+	<attr id="0" playtime="235.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1114663632" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3046,8 +3741,11 @@
  
  
   
-☆☆☆　　　　　　　　　　　　　　☆☆☆]]></d>
-<d p="236.5,4,25,16711680,1266757713,0,a01cd930,429630"><![CDATA[ 
+☆☆☆　　　　　　　　　　　　　　☆☆☆</text>
+	<attr id="0" playtime="235.9" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2040416861" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3061,8 +3759,11 @@
  
  
  
-　☆　　　　　　　　　　　　　　　　　　]]></d>
-<d p="237,4,25,6750207,1266757789,0,a01cd930,429631"><![CDATA[ 
+　☆　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="236.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="369252555" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3076,8 +3777,11 @@
  
  
  
-　　　　　　　　　　　　　　　　　　　☆]]></d>
-<d p="237.4,4,25,6750207,1266757824,0,a01cd930,429632"><![CDATA[ 
+　　　　　　　　　　　　　　　　　　　☆</text>
+	<attr id="0" playtime="237" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1093045080" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3091,8 +3795,11 @@
  
  
  
-☆　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="238,4,25,16711680,1266757900,0,a01cd930,429633"><![CDATA[ 
+☆　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="237.4" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="278139086" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3106,8 +3813,11 @@
  
  
  
-　　　　　　　　　　　　　　　　　　☆　]]></d>
-<d p="238.3,4,25,6750207,1266757978,0,a01cd930,429634"><![CDATA[ 
+　　　　　　　　　　　　　　　　　　☆　</text>
+	<attr id="0" playtime="238" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="662800374" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3121,8 +3831,11 @@
  
  
  
-☆　☆　　　　　　　　　　　　　　　　　]]></d>
-<d p="239,4,25,16711680,1266758027,0,a01cd930,429635"><![CDATA[ 
+☆　☆　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="238.3" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1305309208" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3136,8 +3849,11 @@
  
  
  
-　　　　　　　　　　　　　　　　　☆☆☆]]></d>
-<d p="239.4,4,25,6750207,1266758101,0,a01cd930,429636"><![CDATA[ 
+　　　　　　　　　　　　　　　　　☆☆☆</text>
+	<attr id="0" playtime="239" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1034431652" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3151,8 +3867,11 @@
  
  
  
-☆☆☆　　　　　　　　　　　　　　　　　]]></d>
-<d p="239.8,4,25,6750207,1266758162,0,a01cd930,429637"><![CDATA[ 
+☆☆☆　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="239.4" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="7598635" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3166,8 +3885,11 @@
  
  
  
-　　　　　　　　　　　　　　　　　☆☆☆]]></d>
-<d p="240.3,4,25,6750207,1266758194,0,a01cd930,429638"><![CDATA[ 
+　　　　　　　　　　　　　　　　　☆☆☆</text>
+	<attr id="0" playtime="239.8" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1080450062" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3181,8 +3903,11 @@
  
  
  
-☆　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="240.8,4,25,16776960,1266758224,0,a01cd930,429639"><![CDATA[ 
+☆　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="240.3" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="953532332" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3196,8 +3921,11 @@
  
  
  
-　☆　　　　　　　　　　　　　　　　☆　]]></d>
-<d p="241.3,4,25,16711680,1266758263,0,a01cd930,429640"><![CDATA[ 
+　☆　　　　　　　　　　　　　　　　☆　</text>
+	<attr id="0" playtime="240.8" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1053638444" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3211,8 +3939,11 @@
  
  
  
-☆　　　　　　　　　　　　　　　　　　☆]]></d>
-<d p="241.8,4,25,16776960,1266758340,0,a01cd930,429641"><![CDATA[ 
+☆　　　　　　　　　　　　　　　　　　☆</text>
+	<attr id="0" playtime="241.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1905517678" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3226,8 +3957,11 @@
  
  
  
-☆☆　　　　　　　　　　　　　　　　☆☆]]></d>
-<d p="242.5,4,25,6750207,1266758401,0,a01cd930,429642"><![CDATA[ 
+☆☆　　　　　　　　　　　　　　　　☆☆</text>
+	<attr id="0" playtime="241.8" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2049409973" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3241,8 +3975,11 @@
  
  
   
-☆☆　　　　　　　　　　　　　　　　☆☆]]></d>
-<d p="242.8,4,25,16711680,1266758435,0,a01cd930,429643"><![CDATA[ 
+☆☆　　　　　　　　　　　　　　　　☆☆</text>
+	<attr id="0" playtime="242.5" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1255729033" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3256,8 +3993,11 @@
  
  
  
-☆☆　　　　　　　　　　　　　　　　☆☆]]></d>
-<d p="243.2,4,25,16776960,1266758493,0,a01cd930,429644"><![CDATA[ 
+☆☆　　　　　　　　　　　　　　　　☆☆</text>
+	<attr id="0" playtime="242.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1340650859" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3271,8 +4011,11 @@
  
  
   
-☆☆　　　　　　　　　　　　　　　　☆☆]]></d>
-<d p="243.9,4,25,6750207,1266758553,0,a01cd930,429645"><![CDATA[ 
+☆☆　　　　　　　　　　　　　　　　☆☆</text>
+	<attr id="0" playtime="243.2" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="127361563" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3286,8 +4029,11 @@
  
  
  
-☆　　　　　　　　　　　　　　　　　　　]]></d>
-<d p="244.4,4,25,16711680,1266758617,0,a01cd930,429646"><![CDATA[ 
+☆　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="243.9" mode="4" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1508362375" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text> 
  
  
  
@@ -3301,8 +4047,11 @@
  
  
  
-　　　　　　　　　　　　　　　　　　　☆]]></d>
-<d p="248,4,25,16711680,1266758689,0,a01cd930,429647"><![CDATA[如果能动的話　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　☆</text>
+	<attr id="0" playtime="244.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="285115052" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>如果能动的話　　　　　　　　　　　　　　
  
  
  
@@ -3316,8 +4065,11 @@
  
  
  
- ]]></d>
-<d p="277,4,25,16777215,1266758750,0,a01cd930,429648"><![CDATA[　
+ </text>
+	<attr id="0" playtime="248" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="868729753" poolid="0" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -3331,15 +4083,39 @@
 　
 　
 　
-　]]></d>
-<d p="16.2,1,37,16711680,1266754395,1,a01cd930,429572"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　]]></d>
-<d p="16.8,1,37,16711680,1266754451,1,a01cd930,429573"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　]]></d>
-<d p="17.7,1,37,16711680,1266754504,1,a01cd930,429574"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　]]></d>
-<d p="18.6,1,25,16711680,1266754536,1,a01cd930,429575"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　]]></d>
-<d p="20.7,1,25,16711680,1266754592,1,a01cd930,429576"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　]]></d>
-<d p="21.8,1,37,16711680,1266754634,1,a01cd930,429577"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　]]></d>
-<d p="25.5,1,37,16711680,1266754710,1,a01cd930,429578"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　]]></d>
-<d p="29.5,4,25,0,1266754854,1,a01cd930,429580"><![CDATA[　
+　</text>
+	<attr id="0" playtime="277" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1997884365" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　</text>
+	<attr id="0" playtime="16.2" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1546073221" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　</text>
+	<attr id="0" playtime="16.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1207914488" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　</text>
+	<attr id="0" playtime="17.7" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1748101703" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　</text>
+	<attr id="0" playtime="18.6" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1737594007" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　</text>
+	<attr id="0" playtime="20.7" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1555470548" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　</text>
+	<attr id="0" playtime="21.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="97671193" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　</text>
+	<attr id="0" playtime="25.5" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1009919609" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -3353,8 +4129,11 @@
 　
 　
 　
-　]]></d>
-<d p="30.6,4,25,16777215,1266754981,1,a01cd930,429582"><![CDATA[　
+　</text>
+	<attr id="0" playtime="29.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="436691904" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -3368,8 +4147,11 @@
 　
 　
 　
-　]]></d>
-<d p="30.6,4,37,16711680,1266755094,1,a01cd930,429584"><![CDATA[　
+　</text>
+	<attr id="0" playtime="30.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1852592922" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -3378,16 +4160,43 @@
 　
 　
 　
-　]]></d>
-<d p="31.7,1,25,16711680,1266755150,1,a01cd930,429585"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて]]></d>
-<d p="32.3,1,37,16711680,1266755229,1,a01cd930,429586"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて]]></d>
-<d p="33.2,1,37,16711680,1266755279,1,a01cd930,429587"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて]]></d>
-<d p="34.6,1,37,16711680,1266755352,1,a01cd930,429588"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて]]></d>
-<d p="36.7,1,37,16711680,1266755384,1,a01cd930,429589"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて]]></d>
-<d p="35.2,1,37,16711680,1266755432,1,a01cd930,429590"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて]]></d>
-<d p="40.3,1,37,16711680,1266755488,1,a01cd930,429591"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて]]></d>
-<d p="42.2,1,37,16711680,1266755567,1,a01cd930,429592"><![CDATA[流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて　　　　　　流れて]]></d>
-<d p="30,1,25,0,1266756393,1,a01cd930,429607"><![CDATA[　
+　</text>
+	<attr id="0" playtime="30.6" mode="4" fontsize="37" color="16711680"/>
+</comment>
+<comment id="513396719" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて</text>
+	<attr id="0" playtime="31.7" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="550711951" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて</text>
+	<attr id="0" playtime="32.3" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="17649062" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて</text>
+	<attr id="0" playtime="33.2" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="34462189" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて</text>
+	<attr id="0" playtime="34.6" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2012682266" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて</text>
+	<attr id="0" playtime="36.7" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="351279187" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて</text>
+	<attr id="0" playtime="35.2" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="525199331" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて</text>
+	<attr id="0" playtime="40.3" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1042784167" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>流れて　　　　　　流れて　　　　　　流れて　　　　　　流れて　　　　　流れて　　　　　　流れて</text>
+	<attr id="0" playtime="42.2" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="385444347" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -3400,8 +4209,11 @@
 　
 　
 　
-　　　　　流れて　　　　流れて　　　　　]]></d>
-<d p="30,4,25,0,1266756440,1,a01cd930,429608"><![CDATA[　
+　　　　　流れて　　　　流れて　　　　　</text>
+	<attr id="0" playtime="30" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="64845861" poolid="1" userhash="deadbeef" sendtime="1321632695">
+	<text>　
 　
 　
 　
@@ -3415,5 +4227,7 @@
 　
 　
 　　
-　　　　　流れて　　　　流れて　　　　　]]></d>
-</i>
+　　　　　流れて　　　　流れて　　　　　</text>
+	<attr id="0" playtime="30" mode="4" fontsize="25" color="0"/>
+</comment>
+</comments>

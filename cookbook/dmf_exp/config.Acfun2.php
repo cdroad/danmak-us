@@ -38,10 +38,11 @@ class Acfun2GroupConfig extends GroupConfig
 	public function GenerateFlashVarArr(VideoData $source)
 	{
 		$AFVArray = array();
+		
 	    switch (strtoupper($source->sourcetype->getType()))
 	    {
 	        case "NOR":
-	            $AFVArray['vid'] = $source->dmid;
+	            $AFVArray['id'] = $source->dmid;
 	        break;
 	        
 			case "QQ":
@@ -88,8 +89,12 @@ class Acfun2GroupConfig extends GroupConfig
             $pool = 1;
             if ($comment->message['mode'] == '8') $pool = 2;
 			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef');
-            $danmaku->AddAttr($comment->playTime, $comment->message['mode'],
-                        $comment->message['fontsize'], $comment->message['color']);
+            $attrs = array(
+                    'playtime'  => $comment->playTime,
+                    'mode'      => $comment->message['mode'],
+                    'fontsize'  => $comment->message['fontsize'],
+                    'color'     => $comment->message['color']);
+            $danmaku->AddAttr($attrs);
 			$XMLString .= (string)$danmaku;
 		}
 		$XMLString .= "\r\n</comments>";

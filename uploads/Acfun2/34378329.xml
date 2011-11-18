@@ -1,28 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-   <playTime>1.8</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[I love you 传达的这份思念]]></message>
-   <times>2010-06-21 08:30:12</times>
-  </data>
-  <data>
-   <playTime>5.1</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[　　　　　传达的这份思念]]></message>
-   <times>2010-06-21 08:30:54</times>
-  </data>
-  <data>
-   <playTime>8.8</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[一定总有一天　　　　　　　]]></message>
-   <times>2010-06-21 08:31:37</times>
-  </data>
-  <data>
-   <playTime>12</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[　　　　　　　会实现的吧]]></message>
-   <times>2010-06-21 08:32:29</times>
-  </data>
-  <data>
-   <playTime>14.9</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1277895217" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>I love you 传达的这份思念</text>
+	<attr id="0" playtime="1.8" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="1980583949" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　　　　　传达的这份思念</text>
+	<attr id="0" playtime="5.1" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="1214311514" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>一定总有一天　　　　　　　</text>
+	<attr id="0" playtime="8.8" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="1416344357" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　　　　　　　会实现的吧</text>
+	<attr id="0" playtime="12" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="1500474874" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -34,12 +29,11 @@
 
 
 
-这份心情是不是　　　　　　　]]></message>
-   <times>2010-06-21 08:33:34</times>
-  </data>
-  <data>
-   <playTime>16.7</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[　
+这份心情是不是　　　　　　　</text>
+	<attr id="0" playtime="14.9" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="1243563535" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -51,29 +45,11 @@
 
 
 
-　　　　　　　　过于悲切了呢]]></message>
-   <times>2010-06-21 08:34:24</times>
-  </data>
-  <data>
-   <playTime>25.9</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
-
-
-
-
-
-
-
-力
-
-
-
-　]]></message>
-   <times>2010-06-21 08:35:19</times>
-  </data>
-  <data>
-   <playTime>25</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+　　　　　　　　过于悲切了呢</text>
+	<attr id="0" playtime="16.7" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="270875460" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -85,12 +61,27 @@
 
 
 
-　]]></message>
-   <times>2010-06-21 08:37:29</times>
-  </data>
-  <data>
-   <playTime>25</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="25.9" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1779932832" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
+
+
+
+
+
+
+
+力
+
+
+
+　</text>
+	<attr id="0" playtime="25" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1033469215" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -102,12 +93,11 @@
 
 
 
-　]]></message>
-   <times>2010-06-21 08:38:10</times>
-  </data>
-  <data>
-   <playTime>25</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="25" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="716708568" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -119,12 +109,11 @@
 
 
 
-　]]></message>
-   <times>2010-06-21 08:38:43</times>
-  </data>
-  <data>
-   <playTime>25</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="25" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="921662182" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -136,12 +125,11 @@
 
 
 
-　]]></message>
-   <times>2010-06-21 08:39:21</times>
-  </data>
-  <data>
-   <playTime>25</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="25" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1873869012" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -153,17 +141,15 @@
 
 
 
-　]]></message>
-   <times>2010-06-21 08:39:55</times>
-  </data>
-  <data>
-   <playTime>26.4</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[—制止恋爱的力量—]]></message>
-   <times>2010-06-21 08:41:48</times>
-  </data>
-  <data>
-   <playTime>40.4</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="25" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1291097765" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>—制止恋爱的力量—</text>
+	<attr id="0" playtime="26.4" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1970650163" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -175,12 +161,11 @@
 开始了也懵然不知　　　　　　　　　　
 
 
-　]]></message>
-   <times>2010-06-21 08:43:01</times>
-  </data>
-  <data>
-   <playTime>42.9</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="40.4" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="955472502" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -192,12 +177,11 @@
 
 　　名字也平凡无比　仿佛随处可寻
 
-　]]></message>
-   <times>2010-06-21 08:44:13</times>
-  </data>
-  <data>
-   <playTime>46.9</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="42.9" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="90635504" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -209,12 +193,11 @@
 
 
 
-　]]></message>
-   <times>2010-06-21 08:45:30</times>
-  </data>
-  <data>
-   <playTime>49.5</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.9" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1757726701" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -226,12 +209,11 @@
 
 我也一定能找到你
 
-　]]></message>
-   <times>2010-06-21 08:46:16</times>
-  </data>
-  <data>
-   <playTime>52.5</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="49.5" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1596527475" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -243,12 +225,11 @@
 
 抑制住这份　纯朴的感情
 
-　]]></message>
-   <times>2010-06-21 08:47:03</times>
-  </data>
-  <data>
-   <playTime>55.2</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="52.5" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="2050625040" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -260,12 +241,11 @@
 
 　　讨厌封闭自我的自己
 
-　]]></message>
-   <times>2010-06-21 08:47:57</times>
-  </data>
-  <data>
-   <playTime>58.8</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="55.2" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1754234656" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -277,12 +257,11 @@
 
 每次装作毫不在意的样子　　　
 
-　]]></message>
-   <times>2010-06-21 08:49:07</times>
-  </data>
-  <data>
-   <playTime>62</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="58.8" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1964798784" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -293,12 +272,11 @@
 
 
 　　就会再次增添伤痛
-　]]></message>
-   <times>2010-06-21 08:50:11</times>
-  </data>
-  <data>
-   <playTime>65.6</playTime>
-   <message fontsize="25" color="16744576" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="62" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="441738875" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -310,12 +288,11 @@
 
 你在祈愿着什么？
 
-　]]></message>
-   <times>2010-06-21 08:53:05</times>
-  </data>
-  <data>
-   <playTime>65.6</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="65.6" mode="1" fontsize="25" color="16744576"/>
+</comment>
+<comment id="934807112" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -327,12 +304,11 @@
 
 你在祈愿着什么？　
 
-　]]></message>
-   <times>2010-06-21 08:54:23</times>
-  </data>
-  <data>
-   <playTime>65.6</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="65.6" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1895855722" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -344,12 +320,11 @@
 
 你在祈愿着什么？　　
 
-　]]></message>
-   <times>2010-06-21 08:54:57</times>
-  </data>
-  <data>
-   <playTime>70.7</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="65.6" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="351632588" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -361,12 +336,11 @@
 
 想你在我的身边
 
-　]]></message>
-   <times>2010-06-21 09:02:48</times>
-  </data>
-  <data>
-   <playTime>79.7</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="70.7" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1341421086" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -378,12 +352,11 @@
 制止恋爱的力量
 
 
-　]]></message>
-   <times>2010-06-21 09:05:52</times>
-  </data>
-  <data>
-   <playTime>82.4</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="79.7" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1755304456" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -395,12 +368,11 @@
 
 　　　　　你看，游戏已经开始了
 
-　]]></message>
-   <times>2010-06-21 09:07:00</times>
-  </data>
-  <data>
-   <playTime>85.5</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="82.4" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="490708399" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -412,12 +384,11 @@
 
 
 
-倘若相互对视的话不就明白了吗？　　]]></message>
-   <times>2010-06-21 09:08:15</times>
-  </data>
-  <data>
-   <playTime>89.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+倘若相互对视的话不就明白了吗？　　</text>
+	<attr id="0" playtime="85.5" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="886000392" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -429,12 +400,11 @@
 
 
 
-　]]></message>
-   <times>2010-06-21 09:09:31</times>
-  </data>
-  <data>
-   <playTime>92.1</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="89.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="392586906" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -446,12 +416,11 @@
 
 请倾听我的心
 
-　]]></message>
-   <times>2010-06-21 09:10:53</times>
-  </data>
-  <data>
-   <playTime>92.1</playTime>
-   <message fontsize="25" color="16776960" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="92.1" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1863338445" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -463,17 +432,15 @@
 
 Listen To My Heart
 
-　]]></message>
-   <times>2010-06-21 09:11:41</times>
-  </data>
-  <data>
-   <playTime>94.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　　　　没有说出来的这份心声]]></message>
-   <times>2010-06-21 09:12:19</times>
-  </data>
-  <data>
-   <playTime>98</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="92.1" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1446411515" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　　　　没有说出来的这份心声</text>
+	<attr id="0" playtime="94.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1887799662" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -485,17 +452,15 @@ Listen To My Heart
 
 停止吧 制止恋爱的力量　　　　　
 
-　]]></message>
-   <times>2010-06-21 09:13:12</times>
-  </data>
-  <data>
-   <playTime>101.7</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　　　　想要传达 我的一切]]></message>
-   <times>2010-06-21 09:13:44</times>
-  </data>
-  <data>
-   <playTime>107.5</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="98" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1798150112" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　　　　想要传达 我的一切</text>
+	<attr id="0" playtime="101.7" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="2036291359" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -507,22 +472,19 @@ Listen To My Heart
 
 虽然若无其事地把头发剪了　　　　
 
-　]]></message>
-   <times>2010-06-21 09:14:59</times>
-  </data>
-  <data>
-   <playTime>110.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　　　　但真的因为你而无法说出口]]></message>
-   <times>2010-06-21 09:15:38</times>
-  </data>
-  <data>
-   <playTime>114.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[只会撒谎来逃避　　　　　　]]></message>
-   <times>2010-06-21 09:16:08</times>
-  </data>
-  <data>
-   <playTime>116.8</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.5" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1690619215" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　　　　但真的因为你而无法说出口</text>
+	<attr id="0" playtime="110.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1804007178" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>只会撒谎来逃避　　　　　　</text>
+	<attr id="0" playtime="114.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1150428485" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -533,12 +495,11 @@ Listen To My Heart
 
 这样子下去　已经不行了　　　　　
 
-　]]></message>
-   <times>2010-06-21 09:17:09</times>
-  </data>
-  <data>
-   <playTime>119.9</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="116.8" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1046773335" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -550,12 +511,11 @@ Listen To My Heart
 
 
 
-故意地望着周围的人们]]></message>
-   <times>2010-06-21 09:20:17</times>
-  </data>
-  <data>
-   <playTime>122.7</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+故意地望着周围的人们</text>
+	<attr id="0" playtime="119.9" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="408508426" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -567,17 +527,15 @@ Listen To My Heart
 
 　　　　这份逞强　你却不知道着
 
-　]]></message>
-   <times>2010-06-21 09:21:24</times>
-  </data>
-  <data>
-   <playTime>126.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[转瞬走过身边的背影　　　　　　]]></message>
-   <times>2010-06-21 09:21:59</times>
-  </data>
-  <data>
-   <playTime>129.3</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="122.7" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1864784301" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>转瞬走过身边的背影　　　　　　</text>
+	<attr id="0" playtime="126.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1667774720" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -589,12 +547,11 @@ Listen To My Heart
 
 走得越远心里就感觉得越痛
 
-　]]></message>
-   <times>2010-06-21 09:22:35</times>
-  </data>
-  <data>
-   <playTime>133</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="129.3" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="859102209" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -606,12 +563,11 @@ Listen To My Heart
 
 你到底在思念着谁？
 
-　]]></message>
-   <times>2010-06-21 09:23:44</times>
-  </data>
-  <data>
-   <playTime>133</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="133" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1722923883" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -623,12 +579,11 @@ Listen To My Heart
 
 你到底在思恋着谁？　
 
-　]]></message>
-   <times>2010-06-21 09:24:32</times>
-  </data>
-  <data>
-   <playTime>133</playTime>
-   <message fontsize="25" color="16744576" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="133" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="973661152" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -640,12 +595,11 @@ Listen To My Heart
 
 你到底在思恋着谁？　　
 
-　]]></message>
-   <times>2010-06-21 09:25:08</times>
-  </data>
-  <data>
-   <playTime>138.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="133" mode="1" fontsize="25" color="16744576"/>
+</comment>
+<comment id="549971442" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -657,177 +611,143 @@ Listen To My Heart
 
 告诉我你们两个将会　直至何时　　　
 
-　]]></message>
-   <times>2010-06-21 09:26:12</times>
-  </data>
-  <data>
-   <playTime>142</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[　　　　将会这样一直持续着关系？]]></message>
-   <times>2010-06-21 09:26:59</times>
-  </data>
-  <data>
-   <playTime>147</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[制止恋爱的力量]]></message>
-   <times>2010-06-21 09:36:24</times>
-  </data>
-  <data>
-   <playTime>149.8</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[你看，游戏已经开始了]]></message>
-   <times>2010-06-21 09:36:41</times>
-  </data>
-  <data>
-   <playTime>152.9</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[互相缠绕的思念已经]]></message>
-   <times>2010-06-21 09:37:21</times>
-  </data>
-  <data>
-   <playTime>156.5</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[无法解开 开始蠢动]]></message>
-   <times>2010-06-21 09:37:47</times>
-  </data>
-  <data>
-   <playTime>159.5</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[请倾听我的心]]></message>
-   <times>2010-06-21 09:38:13</times>
-  </data>
-  <data>
-   <playTime>162.3</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[要能变得更加坦白的话]]></message>
-   <times>2010-06-21 09:38:29</times>
-  </data>
-  <data>
-   <playTime>165.4</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[停止吧 制止恋爱的力量]]></message>
-   <times>2010-06-21 09:38:44</times>
-  </data>
-  <data>
-   <playTime>169</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[就是这份心情 想你在我的身边]]></message>
-   <times>2010-06-21 09:38:56</times>
-  </data>
-  <data>
-   <playTime>178.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[一直在说的 「最喜欢你了」]]></message>
-   <times>2010-06-21 09:39:26</times>
-  </data>
-  <data>
-   <playTime>181.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[在梦里说的   「一直以来抱歉」]]></message>
-   <times>2010-06-21 09:39:38</times>
-  </data>
-  <data>
-   <playTime>184.3</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[一直说过的 要一直在一起]]></message>
-   <times>2010-06-21 09:39:49</times>
-  </data>
-  <data>
-   <playTime>187.2</playTime>
-   <message fontsize="37" color="16763904" mode="4"><![CDATA[永远不分离]]></message>
-   <times>2010-06-21 09:40:02</times>
-  </data>
-  <data>
-   <playTime>189</playTime>
-   <message fontsize="37" color="16763904" mode="4"><![CDATA[紧紧地紧紧地握紧我手]]></message>
-   <times>2010-06-21 09:40:30</times>
-  </data>
-  <data>
-   <playTime>202.5</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[制止恋爱的力量]]></message>
-   <times>2010-06-21 09:40:55</times>
-  </data>
-  <data>
-   <playTime>206.1</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[你看，游戏已经开始了]]></message>
-   <times>2010-06-21 09:41:08</times>
-  </data>
-  <data>
-   <playTime>209.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[这份直率的思念]]></message>
-   <times>2010-06-21 09:41:24</times>
-  </data>
-  <data>
-   <playTime>212.5</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[现在充满于心开始作动]]></message>
-   <times>2010-06-21 09:41:36</times>
-  </data>
-  <data>
-   <playTime>215.7</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[已经讨厌只有自己一个人了哦]]></message>
-   <times>2010-06-21 09:41:48</times>
-  </data>
-  <data>
-   <playTime>219.1</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[看着我吧]]></message>
-   <times>2010-06-21 09:42:13</times>
-  </data>
-  <data>
-   <playTime>221.9</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[把全部给你与你心心相印]]></message>
-   <times>2010-06-21 09:42:23</times>
-  </data>
-  <data>
-   <playTime>225.5</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[无论过去如何将来也要一直 一直…]]></message>
-   <times>2010-06-21 09:42:37</times>
-  </data>
-  <data>
-   <playTime>234.5</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[这次相遇 改变了世界]]></message>
-   <times>2010-06-21 09:42:59</times>
-  </data>
-  <data>
-   <playTime>237.2</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[在放学的课室里 现在两个人]]></message>
-   <times>2010-06-21 09:43:18</times>
-  </data>
-  <data>
-   <playTime>241</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[是神灵给予的机会哦]]></message>
-   <times>2010-06-21 09:43:31</times>
-  </data>
-  <data>
-   <playTime>244</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[时间再次过去了]]></message>
-   <times>2010-06-21 09:43:42</times>
-  </data>
-  <data>
-   <playTime>247</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[一定会就这样子 两人驻门不入]]></message>
-   <times>2010-06-21 09:43:55</times>
-  </data>
-  <data>
-   <playTime>249.8</playTime>
-   <message fontsize="25" color="16763904" mode="4"><![CDATA[重合的背影 就此分离了]]></message>
-   <times>2010-06-21 09:44:16</times>
-  </data>
-  <data>
-   <playTime>259.9</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[I love you 传达的这份思念]]></message>
-   <times>2010-06-21 09:44:38</times>
-  </data>
-  <data>
-   <playTime>263.5</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[　　　　　　传达的这份思念]]></message>
-   <times>2010-06-21 09:45:03</times>
-  </data>
-  <data>
-   <playTime>266.1</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[一定总有一天 会实现的吧]]></message>
-   <times>2010-06-21 09:45:16</times>
-  </data>
-  <data>
-   <playTime>271</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[这份心情是不是 过于悲伤了呢]]></message>
-   <times>2010-06-21 09:45:56</times>
-  </data>
-  <data>
-   <playTime>279.4</playTime>
-   <message fontsize="25" color="16744576" mode="4"><![CDATA[但愿能够停止住]]></message>
-   <times>2010-06-21 09:46:18</times>
-  </data>
-  <data>
-   <playTime>283.1</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="138.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1098865403" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　　　　将会这样一直持续着关系？</text>
+	<attr id="0" playtime="142" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="49013818" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>制止恋爱的力量</text>
+	<attr id="0" playtime="147" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="688768575" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>你看，游戏已经开始了</text>
+	<attr id="0" playtime="149.8" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="454161151" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>互相缠绕的思念已经</text>
+	<attr id="0" playtime="152.9" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="351780815" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>无法解开 开始蠢动</text>
+	<attr id="0" playtime="156.5" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="936479114" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>请倾听我的心</text>
+	<attr id="0" playtime="159.5" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="499762178" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>要能变得更加坦白的话</text>
+	<attr id="0" playtime="162.3" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="444506345" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>停止吧 制止恋爱的力量</text>
+	<attr id="0" playtime="165.4" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="220830885" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>就是这份心情 想你在我的身边</text>
+	<attr id="0" playtime="169" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="140624031" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>一直在说的 「最喜欢你了」</text>
+	<attr id="0" playtime="178.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="356926187" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>在梦里说的   「一直以来抱歉」</text>
+	<attr id="0" playtime="181.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="874082207" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>一直说过的 要一直在一起</text>
+	<attr id="0" playtime="184.3" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1313757637" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>永远不分离</text>
+	<attr id="0" playtime="187.2" mode="4" fontsize="37" color="16763904"/>
+</comment>
+<comment id="756611184" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>紧紧地紧紧地握紧我手</text>
+	<attr id="0" playtime="189" mode="4" fontsize="37" color="16763904"/>
+</comment>
+<comment id="753766196" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>制止恋爱的力量</text>
+	<attr id="0" playtime="202.5" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1611109787" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>你看，游戏已经开始了</text>
+	<attr id="0" playtime="206.1" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="175486368" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>这份直率的思念</text>
+	<attr id="0" playtime="209.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="113976837" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>现在充满于心开始作动</text>
+	<attr id="0" playtime="212.5" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1658398406" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>已经讨厌只有自己一个人了哦</text>
+	<attr id="0" playtime="215.7" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1561718767" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>看着我吧</text>
+	<attr id="0" playtime="219.1" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1579930517" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>把全部给你与你心心相印</text>
+	<attr id="0" playtime="221.9" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="306585515" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>无论过去如何将来也要一直 一直…</text>
+	<attr id="0" playtime="225.5" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="2029876604" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>这次相遇 改变了世界</text>
+	<attr id="0" playtime="234.5" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1877497629" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>在放学的课室里 现在两个人</text>
+	<attr id="0" playtime="237.2" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1431311320" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>是神灵给予的机会哦</text>
+	<attr id="0" playtime="241" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1777870429" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>时间再次过去了</text>
+	<attr id="0" playtime="244" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="2078952508" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>一定会就这样子 两人驻门不入</text>
+	<attr id="0" playtime="247" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1712966765" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>重合的背影 就此分离了</text>
+	<attr id="0" playtime="249.8" mode="4" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1876794498" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>I love you 传达的这份思念</text>
+	<attr id="0" playtime="259.9" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="1748098183" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　　　　　　传达的这份思念</text>
+	<attr id="0" playtime="263.5" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="436692492" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>一定总有一天 会实现的吧</text>
+	<attr id="0" playtime="266.1" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="1829056924" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>这份心情是不是 过于悲伤了呢</text>
+	<attr id="0" playtime="271" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="2099137581" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>但愿能够停止住</text>
+	<attr id="0" playtime="279.4" mode="4" fontsize="25" color="16744576"/>
+</comment>
+<comment id="226275740" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -839,12 +759,11 @@ Listen To My Heart
 
 
 
-制　　　　　量]]></message>
-   <times>2010-06-21 09:48:01</times>
-  </data>
-  <data>
-   <playTime>283.1</playTime>
-   <message fontsize="25" color="16763904" mode="1"><![CDATA[　
+制　　　　　量</text>
+	<attr id="0" playtime="283.1" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="858163914" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -856,12 +775,11 @@ Listen To My Heart
 
 
 
-　止　　　力　]]></message>
-   <times>2010-06-21 09:48:45</times>
-  </data>
-  <data>
-   <playTime>283.1</playTime>
-   <message fontsize="25" color="16744576" mode="1"><![CDATA[　
+　止　　　力　</text>
+	<attr id="0" playtime="283.1" mode="1" fontsize="25" color="16763904"/>
+</comment>
+<comment id="1856697361" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -873,12 +791,11 @@ Listen To My Heart
 
 
 
-　　恋　的　　]]></message>
-   <times>2010-06-21 09:49:22</times>
-  </data>
-  <data>
-   <playTime>283.1</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　　恋　的　　</text>
+	<attr id="0" playtime="283.1" mode="1" fontsize="25" color="16744576"/>
+</comment>
+<comment id="204333603" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　
 
 
 
@@ -890,12 +807,11 @@ Listen To My Heart
 
 
 
-　　　爱　　　]]></message>
-   <times>2010-06-21 09:49:47</times>
-  </data>
-  <data>
-   <playTime>294.4</playTime>
-   <message fontsize="15" color="16763904" mode="1"><![CDATA[　　　　　　　　　翻译：FarmerChen　　字幕：飞雪の消失]]></message>
-   <times>飞雪の消失</times>
-  </data>
-</information>
+　　　爱　　　</text>
+	<attr id="0" playtime="283.1" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2118516987" poolid="1" userhash="deadbeef" sendtime="1321635838">
+	<text>　　　　　　　　　翻译：FarmerChen　　字幕：飞雪の消失</text>
+	<attr id="0" playtime="294.4" mode="1" fontsize="15" color="16763904"/>
+</comment>
+</comments>

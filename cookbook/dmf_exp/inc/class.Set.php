@@ -7,13 +7,15 @@ abstract class Set implements Iterator
 	{
 		if (!$this->isVaildType($Obj))
 			return;
-		$this->Set[strtoupper($id)] = $Obj;
+		$this->Set[strtolower($id)] = $Obj;
 		return $this;
 	}
 	
+	abstract protected function get($name);
+	
 	public function __get($name)
 	{
-		return $this->Set[strtoupper($name)];
+		return $this->get(strtolower($name));
 	}
 
 	public function current()

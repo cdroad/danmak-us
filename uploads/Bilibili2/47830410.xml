@@ -1,216 +1,863 @@
-<?xml version="1.0" encoding="UTF-8"?><i><chatserver>chat.bilibili.us</chatserver><chatid>113277</chatid><d p="4.4,7,45,0,1299664323,1,f9c4bfdf,18102020">[&quot;129&quot;,&quot;102&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;《GOD KNOWS》&quot;]</d>
-<d p="4.4,7,45,16711680,1299664335,1,f9c4bfdf,18102035">[&quot;127&quot;,&quot;100&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;《GOD KNOWS》&quot;]</d>
-<d p="4.4,7,25,0,1299664501,1,f9c4bfdf,18102230">[&quot;140&quot;,&quot;160&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;作词：畑亜贵&quot;]</d>
-<d p="4.4,7,25,16711680,1299664516,1,f9c4bfdf,18102248">[&quot;138&quot;,&quot;158&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;作词：畑亜贵&quot;]</d>
-<d p="4.4,7,25,0,1299664541,1,f9c4bfdf,18102277">[&quot;140&quot;,&quot;190&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;作曲：神前暁&quot;]</d>
-<d p="4.4,7,25,16711680,1299664554,1,f9c4bfdf,18102296">[&quot;138&quot;,&quot;188&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;作曲：神前暁&quot;]</d>
-<d p="4.4,7,25,0,1299664577,1,f9c4bfdf,18102324">[&quot;140&quot;,&quot;220&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;编曲：神前暁  &quot;]</d>
-<d p="4.4,7,25,16711680,1299664588,1,f9c4bfdf,18102336">[&quot;138&quot;,&quot;218&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;编曲：神前暁  &quot;]</d>
-<d p="4.4,7,36,0,1299664636,1,f9c4bfdf,18102401">[&quot;140&quot;,&quot;255&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;REMIX：远藤正明&quot;]</d>
-<d p="4.4,7,36,16711680,1299664646,1,f9c4bfdf,18102422">[&quot;138&quot;,&quot;253&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;REMIX：远藤正明&quot;]</d>
-<d p="10.1,7,25,0,1299665373,1,f9c4bfdf,18103492">[&quot;76&quot;,&quot;57&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;主炮手：冰封的羲和&quot;]</d>
-<d p="10.1,7,25,16711680,1299665418,1,f9c4bfdf,18103575">[&quot;74&quot;,&quot;55&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;主炮手：冰封的羲和&quot;]</d>
-<d p="16.4,7,25,0,1299665861,1,f9c4bfdf,18104320">[&quot;85&quot;,&quot;308&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;使用动画：《s.CRY.ed（分身战士）》&quot;]</d>
-<d p="16.4,7,25,16711680,1299665886,1,f9c4bfdf,18104353">[&quot;83&quot;,&quot;306&quot;,&quot;1-1&quot;,&quot;4.5&quot;,&quot;使用动画：《s.CRY.ed（分身战士）》&quot;]</d>
-<d p="23.1,7,36,16711680,1299665940,1,f9c4bfdf,18104438">[&quot;156&quot;,&quot;179&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;炮击即将开始！&quot;]</d>
-<d p="26.4,7,64,16711680,1299665959,1,f9c4bfdf,18104460">[&quot;156&quot;,&quot;179&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;READY？！&quot;]</d>
-<d p="27.5,7,64,16711680,1299665978,1,f9c4bfdf,18104493">[&quot;218&quot;,&quot;177&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;GO！&quot;]</d>
-<d p="29.1,7,25,0,1299667364,1,f9c4bfdf,18106839">[&quot;101&quot;,&quot;86&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;渇いた&quot;]</d>
-<d p="31.4,7,45,16711680,1299667445,1,f9c4bfdf,18107015">[&quot;250&quot;,&quot;280&quot;,&quot;1-1&quot;,&quot;2&quot;,&quot;心&quot;]</d>
-<d p="31.4,7,36,0,1299667463,1,f9c4bfdf,18107038">[&quot;298&quot;,&quot;300&quot;,&quot;1-1&quot;,&quot;2&quot;,&quot;で駆け抜ける&quot;]</d>
-<d p="35.6,7,64,0,1299667560,1,f9c4bfdf,18107213">[&quot;156&quot;,&quot;173&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;ご&quot;]</d>
-<d p="35.9,7,64,0,1299667578,1,f9c4bfdf,18107245">[&quot;156&quot;,&quot;173&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  めん&quot;]</d>
-<d p="36.5,7,64,0,1299667589,1,f9c4bfdf,18107266">[&quot;156&quot;,&quot;173&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;      ね &quot;]</d>
-<d p="37.2,7,36,0,1299667642,1,f9c4bfdf,18107376">[&quot;85&quot;,&quot;82&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;何 もできなくて&quot;]</d>
-<d p="38.2,7,36,16711680,1299667655,1,f9c4bfdf,18107399">[&quot;85&quot;,&quot;82&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;何&quot;]</d>
-<d p="38.2,7,18,0,1299667684,1,f9c4bfdf,18107464">[&quot;89&quot;,&quot;77&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;？？&quot;]</d>
-<d p="38.2,7,18,0,1299667707,1,f9c4bfdf,18107508">[&quot;89&quot;,&quot;107&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;？？&quot;]</d>
-<d p="38.2,7,18,0,1299667739,1,f9c4bfdf,18107566">[&quot;80&quot;,&quot;96&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;？  ？&quot;]</d>
-<d p="42.1,7,45,0,1299667771,1,f9c4bfdf,18107628">[&quot;201&quot;,&quot;186&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;痛&quot;]</d>
-<d p="42.5,7,45,0,1299667783,1,f9c4bfdf,18107652">[&quot;201&quot;,&quot;186&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  み&quot;]</d>
-<d p="43,7,45,0,1299667792,1,f9c4bfdf,18107673">[&quot;201&quot;,&quot;186&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    を&quot;]</d>
-<d p="44.2,7,36,0,1299667901,1,f9c4bfdf,18107852">[&quot;196&quot;,&quot;323&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;分かち合うことさえ&quot;]</d>
-<d p="48.2,7,45,0,1299667941,1,f9c4bfdf,18107923">[&quot;165&quot;,&quot;181&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;あ&quot;]</d>
-<d p="49,7,45,0,1299667952,1,f9c4bfdf,18107938">[&quot;165&quot;,&quot;181&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  なた&quot;]</d>
-<d p="49.4,7,45,0,1299667964,1,f9c4bfdf,18107960">[&quot;165&quot;,&quot;181&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;      は&quot;]</d>
-<d p="50.6,7,45,16711680,1299667995,1,f9c4bfdf,18108022">[&quot;165&quot;,&quot;181&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;してくれない&quot;]</d>
-<d p="50.6,7,64,0,1299668012,1,f9c4bfdf,18108055">[&quot;107&quot;,&quot;168&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;许&quot;]</d>
-<d p="54.9,7,45,0,1299668050,1,f9c4bfdf,18108122">[&quot;107&quot;,&quot;117&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;无垢に&quot;]</d>
-<d p="54.9,7,45,16777215,1299668056,1,f9c4bfdf,18108129">[&quot;107&quot;,&quot;117&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;无垢&quot;]</d>
-<d p="57.1,7,45,0,1299668311,1,f9c4bfdf,18108573">[&quot;62&quot;,&quot;313&quot;,&quot;1-1&quot;,&quot;3.5&quot;,&quot;生きるため振り向かず &quot;]</d>
-<d p="57.1,7,45,16711680,1299668321,1,f9c4bfdf,18108593">[&quot;60&quot;,&quot;311&quot;,&quot;1-1&quot;,&quot;3.5&quot;,&quot;生きるため振り向かず &quot;]</d>
-<d p="60.8,7,36,16711680,1299668351,1,f9c4bfdf,18108661">[&quot;102&quot;,&quot;104&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;背中向けて &quot;]</d>
-<d p="62.6,7,36,16711680,1299668373,1,f9c4bfdf,18108699">[&quot;289&quot;,&quot;278&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;去ってしまう &quot;]</d>
-<d p="63.8,7,45,16711680,1299668418,1,f9c4bfdf,18108789">[&quot;52&quot;,&quot;184&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;on&quot;]</d>
-<d p="64.2,7,45,16711680,1299668433,1,f9c4bfdf,18108818">[&quot;52&quot;,&quot;184&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;   the &quot;]</d>
-<d p="64.7,7,45,0,1299668451,1,f9c4bfdf,18108848">[&quot;52&quot;,&quot;184&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;       lonely &quot;]</d>
-<d p="65.1,7,45,16711680,1299668465,1,f9c4bfdf,18108874">[&quot;52&quot;,&quot;184&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;              rail&quot;]</d>
-<d p="66.3,7,64,16711680,1299668631,1,f9c4bfdf,18109175">[&quot;160&quot;,&quot;165&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;わ&quot;]</d>
-<d p="66.8,7,64,16711680,1299668838,1,f9c4bfdf,18109545">[&quot;160&quot;,&quot;165&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  た&quot;]</d>
-<d p="67.2,7,64,16711680,1299668848,1,f9c4bfdf,18109563">[&quot;160&quot;,&quot;165&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    し&quot;]</d>
-<d p="67.3,7,45,0,1299668871,1,f9c4bfdf,18109605">[&quot;108&quot;,&quot;112&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;ついていくよ &quot;]</d>
-<d p="69.1,7,45,0,1299668887,1,f9c4bfdf,18109627">[&quot;226&quot;,&quot;252&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;どんな辛い&quot;]</d>
-<d p="70.3,7,45,16711680,1299668912,1,f9c4bfdf,18109674">[&quot;105&quot;,&quot;130&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;世界の暗の中でさえ&quot;]</d>
-<d p="70.3,7,45,16777215,1299668919,1,f9c4bfdf,18109690">[&quot;105&quot;,&quot;130&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;世界&quot;]</d>
-<d p="70.3,7,45,0,1299668951,1,f9c4bfdf,18109747">[&quot;100&quot;,&quot;130&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;      暗&quot;]</d>
-<d p="73.9,7,64,0,1299668995,1,f9c4bfdf,18109822">[&quot;127&quot;,&quot;185&quot;,&quot;1-0.5&quot;,&quot;1&quot;,&quot;きっと——&quot;]</d>
-<d p="75.4,7,64,0,1299669029,1,f9c4bfdf,18109889">[&quot;33&quot;,&quot;279&quot;,&quot;1-1&quot;,&quot;3&quot;,&quot;あなたは辉いて&quot;]</d>
-<d p="75.4,7,64,16711680,1299669036,1,f9c4bfdf,18109898">[&quot;33&quot;,&quot;279&quot;,&quot;1-1&quot;,&quot;3&quot;,&quot;あなた&quot;]</d>
-<d p="75.4,7,64,16776960,1299669054,1,f9c4bfdf,18109929">[&quot;33&quot;,&quot;279&quot;,&quot;1-1&quot;,&quot;3&quot;,&quot;        辉&quot;]</d>
-<d p="79,7,64,16776960,1299669080,1,f9c4bfdf,18109964">[&quot;183&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;超&quot;]</d>
-<d p="79.7,7,64,16776960,1299669089,1,f9c4bfdf,18109989">[&quot;183&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  える&quot;]</d>
-<d p="80.5,7,36,0,1299669108,1,f9c4bfdf,18110024">[&quot;115&quot;,&quot;96&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;未来の果て&quot;]</d>
-<d p="81.6,7,36,0,1299669119,1,f9c4bfdf,18110045">[&quot;279&quot;,&quot;286&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;弱さ故に&quot;]</d>
-<d p="83.2,7,36,0,1299669134,1,f9c4bfdf,18110078">[&quot;103&quot;,&quot;108&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;魂こわされぬように&quot;]</d>
-<d p="86.9,7,64,16711680,1299669169,1,f9c4bfdf,18110153">[&quot;173&quot;,&quot;186&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;my way &quot;]</d>
-<d p="88.3,7,45,6710886,1299669197,1,f9c4bfdf,18110209">[&quot;98&quot;,&quot;104&quot;,&quot;1-1&quot;,&quot;1&quot;,&quot;重なるよ&quot;]</d>
-<d p="90,7,45,6710886,1299669209,1,f9c4bfdf,18110230">[&quot;98&quot;,&quot;104&quot;,&quot;1-1&quot;,&quot;1&quot;,&quot;重なるよ  いま&quot;]</d>
-<d p="92.1,7,64,0,1299669240,1,f9c4bfdf,18110300">[&quot;146&quot;,&quot;315&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;ふたりに&quot;]</d>
-<d p="92.1,7,64,0,1299669257,1,f9c4bfdf,18110331">[&quot;140&quot;,&quot;310&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;ふたりに&quot;]</d>
-<d p="93.4,7,64,16711680,1299669295,1,f9c4bfdf,18110391">[&quot;159&quot;,&quot;198&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;God bless&quot;]</d>
-<d p="109.1,7,36,16711680,1299670909,1,f9c4bfdf,18113343">[&quot;72&quot;,&quot;96&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;届けて&quot;]</d>
-<d p="111.3,7,36,0,1299670931,1,f9c4bfdf,18113398">[&quot;271&quot;,&quot;313&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;くなる想いは&quot;]</d>
-<d p="111.3,7,64,16711680,1299670947,1,f9c4bfdf,18113427">[&quot;217&quot;,&quot;313&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;热&quot;]</d>
-<d p="115.3,7,64,0,1299671061,1,f9c4bfdf,18113625">[&quot;190&quot;,&quot;165&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;现 実&quot;]</d>
-<d p="117.8,7,45,0,1299671123,1,f9c4bfdf,18113732">[&quot;93&quot;,&quot;122&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;溶かしてさまよう&quot;]</d>
-<d p="122.1,7,64,0,1299671156,1,f9c4bfdf,18113779">[&quot;137&quot;,&quot;183&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;会&quot;]</d>
-<d p="122.5,7,64,0,1299671165,1,f9c4bfdf,18113793">[&quot;137&quot;,&quot;183&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  い&quot;]</d>
-<d p="122.9,7,64,0,1299671171,1,f9c4bfdf,18113805">[&quot;137&quot;,&quot;183&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    たい&quot;]</d>
-<d p="124.5,7,45,13421772,1299671205,1,f9c4bfdf,18113850">[&quot;88&quot;,&quot;174&quot;,&quot;1-1&quot;,&quot;1.8&quot;,&quot;気持ちに理由はない&quot;]</d>
-<d p="128.5,7,64,16711680,1299671257,1,f9c4bfdf,18113928">[&quot;148&quot;,&quot;187&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;あ&quot;]</d>
-<d p="128.8,7,64,16711680,1299671263,1,f9c4bfdf,18113942">[&quot;148&quot;,&quot;187&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  な&quot;]</d>
-<d p="129.1,7,64,16711680,1299671273,1,f9c4bfdf,18113955">[&quot;148&quot;,&quot;187&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    た&quot;]</d>
-<d p="129.4,7,64,16711680,1299671280,1,f9c4bfdf,18113967">[&quot;148&quot;,&quot;187&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;      へ&quot;]</d>
-<d p="130.7,7,64,16711680,1299672574,1,f9c4bfdf,18115887">[&quot;123&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;あ&quot;]</d>
-<d p="131,7,64,16711680,1299672585,1,f9c4bfdf,18115901">[&quot;123&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  ふれ&quot;]</d>
-<d p="131.3,7,64,16711680,1299672593,1,f9c4bfdf,18115910">[&quot;123&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;      だす&quot;]</d>
-<d p="131.9,7,64,16711680,1299672607,1,f9c4bfdf,18115930">[&quot;123&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;Lovin'&quot;]</d>
-<d p="132.3,7,64,16711680,1299672616,1,f9c4bfdf,18115947">[&quot;123&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;      you&quot;]</d>
-<d p="134.7,7,64,16711680,1299672639,1,f9c4bfdf,18115982">[&quot;123&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;せ&quot;]</d>
-<d p="135.6,7,64,16711680,1299672652,1,f9c4bfdf,18115994">[&quot;123&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;   め&quot;]</d>
-<d p="136.3,7,64,16711680,1299672659,1,f9c4bfdf,18116001">[&quot;123&quot;,&quot;182&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;      て&quot;]</d>
-<d p="137.2,7,36,16711680,1299672677,1,f9c4bfdf,18116024">[&quot;91&quot;,&quot;102&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;美しい梦だけを&quot;]</d>
-<d p="137.2,7,36,16776960,1299672695,1,f9c4bfdf,18116043">[&quot;89&quot;,&quot;100&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;美&quot;]</d>
-<d p="137.2,7,36,65280,1299672713,1,f9c4bfdf,18116077">[&quot;87&quot;,&quot;98&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;美&quot;]</d>
-<d p="137.2,7,36,255,1299672729,1,f9c4bfdf,18116097">[&quot;85&quot;,&quot;96&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;美&quot;]</d>
-<d p="137.2,7,36,10027212,1299672743,1,f9c4bfdf,18116121">[&quot;83&quot;,&quot;94&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;美&quot;]</d>
-<d p="140.9,7,36,16711935,1299672854,1,f9c4bfdf,18116283">[&quot;55&quot;,&quot;320&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;描きながら&quot;]</d>
-<d p="142.5,7,36,16711935,1299672863,1,f9c4bfdf,18116300">[&quot;55&quot;,&quot;320&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;               追いかけよう&quot;]</d>
-<d p="143.8,7,45,16711680,1299673054,1,f9c4bfdf,18116618">[&quot;20&quot;,&quot;178&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;for &quot;]</d>
-<d p="144.2,7,45,16711680,1299673064,1,f9c4bfdf,18116633">[&quot;20&quot;,&quot;178&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    your&quot;]</d>
-<d p="144.6,7,45,0,1299673081,1,f9c4bfdf,18116652">[&quot;20&quot;,&quot;178&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;        lonely &quot;]</d>
-<d p="144.9,7,45,16711680,1299673094,1,f9c4bfdf,18116670">[&quot;20&quot;,&quot;178&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;               heart &quot;]</d>
-<d p="146.4,7,64,16711680,1299673118,1,f9c4bfdf,18116705">[&quot;178&quot;,&quot;185&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;や&quot;]</d>
-<d p="146.8,7,64,16711680,1299673124,1,f9c4bfdf,18116721">[&quot;178&quot;,&quot;185&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  め&quot;]</d>
-<d p="147.1,7,64,16711680,1299673130,1,f9c4bfdf,18116738">[&quot;178&quot;,&quot;185&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    て&quot;]</d>
-<d p="147.3,7,45,0,1299673179,1,f9c4bfdf,18116813">[&quot;74&quot;,&quot;91&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;嘘はあなた&quot;]</d>
-<d p="147.3,7,45,16711680,1299673194,1,f9c4bfdf,18116837">[&quot;74&quot;,&quot;91&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;  は&quot;]</d>
-<d p="148.8,7,45,16711680,1299673207,1,f9c4bfdf,18116852">[&quot;242&quot;,&quot;284&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;らしくないよ&quot;]</d>
-<d p="153.9,7,45,16711680,1299673304,1,f9c4bfdf,18117000">[&quot;62&quot;,&quot;335&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;话&quot;]</d>
-<d p="154.6,7,45,16711680,1299673311,1,f9c4bfdf,18117010">[&quot;62&quot;,&quot;335&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  そう&quot;]</d>
-<d p="150.4,7,36,0,1299673808,1,f9c4bfdf,18117749">[&quot;68&quot;,&quot;109&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;目を见てこれからのことを&quot;]</d>
-<d p="150.4,7,36,16711680,1299673821,1,f9c4bfdf,18117772">[&quot;66&quot;,&quot;107&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;目を见てこれからのことを&quot;]</d>
-<d p="155.3,7,36,16711680,1299673881,1,f9c4bfdf,18117863">[&quot;313&quot;,&quot;335&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;私&quot;]</d>
-<d p="156.1,7,36,16711680,1299673892,1,f9c4bfdf,18117882">[&quot;313&quot;,&quot;335&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  覚悟&quot;]</d>
-<d p="158.2,7,25,16711680,1299673932,1,f9c4bfdf,18117954">[&quot;226&quot;,&quot;173&quot;,&quot;1-1&quot;,&quot;0.5&quot;,&quot;してる&quot;]</d>
-<d p="158.6,7,36,16711680,1299673952,1,f9c4bfdf,18117991">[&quot;200&quot;,&quot;173&quot;,&quot;1-1&quot;,&quot;0.5&quot;,&quot;してる&quot;]</d>
-<d p="159,7,64,16711680,1299673971,1,f9c4bfdf,18118025">[&quot;200&quot;,&quot;173&quot;,&quot;1-1&quot;,&quot;0.5&quot;,&quot;してる？&quot;]</d>
-<d p="159.3,7,64,0,1299674016,1,f9c4bfdf,18118102">[&quot;210&quot;,&quot;175&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;暗い&quot;]</d>
-<d p="160.2,7,64,0,1299674030,1,f9c4bfdf,18118135">[&quot;54&quot;,&quot;77&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;未来だって&quot;]</d>
-<d p="160.2,7,64,16776960,1299674041,1,f9c4bfdf,18118158">[&quot;54&quot;,&quot;77&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;未来&quot;]</d>
-<d p="161.6,7,64,0,1299674067,1,f9c4bfdf,18118207">[&quot;220&quot;,&quot;280&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;强くなって&quot;]</d>
-<d p="161.6,7,64,16711680,1299674073,1,f9c4bfdf,18118223">[&quot;220&quot;,&quot;280&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;强く&quot;]</d>
-<d p="163.4,7,36,0,1299674551,1,f9c4bfdf,18119097">[&quot;106&quot;,&quot;116&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;    変えられるかもね&quot;]</d>
-<d p="163.4,7,64,16711680,1299674590,1,f9c4bfdf,18119166">[&quot;120&quot;,&quot;146&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;命&quot;]</d>
-<d p="163.4,7,64,16711680,1299674606,1,f9c4bfdf,18119191">[&quot;120&quot;,&quot;86&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;運&quot;]</d>
-<d p="167.1,7,64,16711680,1299674637,1,f9c4bfdf,18119245">[&quot;144&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;MY &quot;]</d>
-<d p="167.5,7,64,16711680,1299674716,1,f9c4bfdf,18119391">[&quot;144&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;      WISH！&quot;]</d>
-<d p="167.9,7,36,0,1299674760,1,f9c4bfdf,18119448">[&quot;95&quot;,&quot;73&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;かなえたいのに&quot;]</d>
-<d p="171.8,7,36,0,1299674787,1,f9c4bfdf,18119495">[&quot;99&quot;,&quot;185&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;す&quot;]</d>
-<d p="172.6,7,36,0,1299674796,1,f9c4bfdf,18119513">[&quot;99&quot;,&quot;185&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  べ&quot;]</d>
-<d p="172.9,7,36,0,1299674805,1,f9c4bfdf,18119524">[&quot;99&quot;,&quot;185&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    て&quot;]</d>
-<d p="173.2,7,36,0,1299674815,1,f9c4bfdf,18119535">[&quot;99&quot;,&quot;185&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;      は &quot;]</d>
-<d p="173.4,7,64,16711680,1299674842,1,f9c4bfdf,18119590">[&quot;99&quot;,&quot;185&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;   God&quot;]</d>
-<d p="174.7,7,64,16711680,1299674851,1,f9c4bfdf,18119604">[&quot;99&quot;,&quot;185&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    knows&quot;]</d>
-<d p="176.2,7,45,0,1299675722,1,f9c4bfdf,18121094">[&quot;120&quot;,&quot;89&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;あなたがいて &quot;]</d>
-<d p="176.2,7,45,16711680,1299675728,1,f9c4bfdf,18121104">[&quot;120&quot;,&quot;89&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;あなた&quot;]</d>
-<d p="179.4,7,45,16711680,1299675789,1,f9c4bfdf,18121220">[&quot;120&quot;,&quot;89&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;  がいてほか&quot;]</d>
-<d p="179.4,7,64,0,1299675801,1,f9c4bfdf,18121244">[&quot;120&quot;,&quot;89&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;私&quot;]</d>
-<d p="181.9,7,36,0,1299675840,1,f9c4bfdf,18121320">[&quot;360&quot;,&quot;124&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;の   は&quot;]</d>
-<d p="181.9,7,64,10066329,1299675863,1,f9c4bfdf,18121365">[&quot;360&quot;,&quot;124&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot; 人&quot;]</d>
-<d p="184,7,45,0,1299675913,1,f9c4bfdf,18121462">[&quot;71&quot;,&quot;239&quot;,&quot;1-1&quot;,&quot;1&quot;,&quot;消えてしまった&quot;]</d>
-<d p="186.9,7,45,0,1299675961,1,f9c4bfdf,18121554">[&quot;71&quot;,&quot;239&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;消えてしまった&quot;]</d>
-<d p="187.4,7,45,0,1299676716,1,f9c4bfdf,18122845">[&quot;71&quot;,&quot;239&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;消えてしまった&quot;]</d>
-<d p="189.1,7,45,0,1299676765,1,f9c4bfdf,18122933">[&quot;105&quot;,&quot;91&quot;,&quot;0-1&quot;,&quot;0.5&quot;,&quot;淡&quot;]</d>
-<d p="189.8,7,45,0,1299676780,1,f9c4bfdf,18122964">[&quot;105&quot;,&quot;91&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;淡い梦の&quot;]</d>
-<d p="190.4,7,45,16777215,1299676803,1,f9c4bfdf,18123005">[&quot;105&quot;,&quot;91&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;    梦&quot;]</d>
-<d p="190.5,7,45,0,1299676839,1,f9c4bfdf,18123074">[&quot;105&quot;,&quot;91&quot;,&quot;1-1&quot;,&quot;1&quot;,&quot;淡い梦の&quot;]</d>
-<d p="192.4,7,45,16776960,1299677138,1,f9c4bfdf,18123691">[&quot;66&quot;,&quot;180&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;美しさを描きながら&quot;]</d>
-<d p="197.5,7,64,0,1299677608,1,f9c4bfdf,18124683">[&quot;135&quot;,&quot;166&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;伤迹&quot;]</d>
-<d p="202.5,7,64,0,1299677681,1,f9c4bfdf,18124837">[&quot;73&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;だ&quot;]</d>
-<d p="202.5,7,64,0,1299677685,1,f9c4bfdf,18124848">[&quot;73&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;だ&quot;]</d>
-<d p="202.5,7,64,0,1299677715,1,f9c4bfdf,18124921">[&quot;73&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;だ&quot;]</d>
-<d p="202.8,7,64,0,1299677717,1,f9c4bfdf,18124930">[&quot;73&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;     か&quot;]</d>
-<d p="203.3,7,64,0,1299677725,1,f9c4bfdf,18124944">[&quot;73&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;          ら&quot;]</d>
-<d p="204.1,7,64,0,1299677738,1,f9c4bfdf,18124970">[&quot;73&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;わ&quot;]</d>
-<d p="204.5,7,64,0,1299677749,1,f9c4bfdf,18124992">[&quot;73&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;     た&quot;]</d>
-<d p="204.8,7,64,0,1299677762,1,f9c4bfdf,18125024">[&quot;73&quot;,&quot;176&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;          し&quot;]</d>
-<d p="204.9,7,64,0,1299677866,1,f9c4bfdf,18125199">[&quot;102&quot;,&quot;83&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;ついていくよ&quot;]</d>
-<d p="206.6,7,64,0,1299677880,1,f9c4bfdf,18125218">[&quot;111&quot;,&quot;296&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;どんな辛い&quot;]</d>
-<d p="208.2,7,45,0,1299677897,1,f9c4bfdf,18125241">[&quot;87&quot;,&quot;111&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;世界の暗の中でさえ&quot;]</d>
-<d p="208.2,7,45,0,1299677907,1,f9c4bfdf,18125260">[&quot;87&quot;,&quot;111&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;世界の暗の中でさえ&quot;]</d>
-<d p="208.2,7,45,16777215,1299677913,1,f9c4bfdf,18125275">[&quot;87&quot;,&quot;111&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;世界&quot;]</d>
-<d p="208.2,7,64,10066329,1299677939,1,f9c4bfdf,18125317">[&quot;87&quot;,&quot;111&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;    暗&quot;]</d>
-<d p="211.8,7,64,16711680,1299677970,1,f9c4bfdf,18125382">[&quot;87&quot;,&quot;111&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;きっと——！&quot;]</d>
-<d p="199.8,7,64,0,1299678519,1,f9c4bfdf,18126437">[&quot;230&quot;,&quot;166&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;な&quot;]</d>
-<d p="200.3,7,64,0,1299678526,1,f9c4bfdf,18126450">[&quot;230&quot;,&quot;166&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  ぞ&quot;]</d>
-<d p="200.5,7,64,0,1299678530,1,f9c4bfdf,18126458">[&quot;230&quot;,&quot;166&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    る&quot;]</d>
-<d p="213.1,7,64,0,1299678632,1,f9c4bfdf,18126748">[&quot;46&quot;,&quot;191&quot;,&quot;1-1&quot;,&quot;2&quot;,&quot;あなたは辉いて &quot;]</d>
-<d p="213.1,7,64,0,1299678635,1,f9c4bfdf,18126757">[&quot;46&quot;,&quot;191&quot;,&quot;1-1&quot;,&quot;2&quot;,&quot;あなたは辉いて &quot;]</d>
-<d p="213.3,7,64,16711680,1299678664,1,f9c4bfdf,18126830">[&quot;46&quot;,&quot;191&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;あ&quot;]</d>
-<d p="213.1,7,64,0,1299678665,1,f9c4bfdf,18126834">[&quot;46&quot;,&quot;191&quot;,&quot;1-1&quot;,&quot;2&quot;,&quot;あなたは辉いて &quot;]</d>
-<d p="213.3,7,64,16711680,1299678667,1,f9c4bfdf,18126838">[&quot;46&quot;,&quot;191&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;あ&quot;]</d>
-<d p="213.3,7,64,16711680,1299678694,1,f9c4bfdf,18126889">[&quot;46&quot;,&quot;191&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  な&quot;]</d>
-<d p="213.3,7,64,16711680,1299678694,1,f9c4bfdf,18126890">[&quot;46&quot;,&quot;191&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    た&quot;]</d>
-<d p="214.3,7,64,16776960,1299678705,1,f9c4bfdf,18126916">[&quot;46&quot;,&quot;191&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;        辉&quot;]</d>
-<d p="216.7,7,64,16776960,1299678731,1,f9c4bfdf,18126960">[&quot;46&quot;,&quot;191&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;超&quot;]</d>
-<d p="216.7,7,64,16776960,1299678738,1,f9c4bfdf,18126973">[&quot;46&quot;,&quot;191&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  え&quot;]</d>
-<d p="217.6,7,64,16776960,1299678743,1,f9c4bfdf,18126981">[&quot;46&quot;,&quot;191&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    る&quot;]</d>
-<d p="218,7,45,0,1299678758,1,f9c4bfdf,18127011">[&quot;108&quot;,&quot;71&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;未来の果て&quot;]</d>
-<d p="218,7,45,0,1299678774,1,f9c4bfdf,18127041">[&quot;108&quot;,&quot;71&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;未来の果て&quot;]</d>
-<d p="218,7,45,16776960,1299678782,1,f9c4bfdf,18127055">[&quot;108&quot;,&quot;71&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;未来&quot;]</d>
-<d p="219.5,7,45,10092339,1299678804,1,f9c4bfdf,18127102">[&quot;273&quot;,&quot;269&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;弱さ故に&quot;]</d>
-<d p="220.7,7,45,0,1299678818,1,f9c4bfdf,18127126">[&quot;109&quot;,&quot;100&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;こわされぬように&quot;]</d>
-<d p="220.7,7,64,0,1299678857,1,f9c4bfdf,18127208">[&quot;55&quot;,&quot;100&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;魂&quot;]</d>
-<d p="220.7,7,64,16711680,1299678871,1,f9c4bfdf,18127240">[&quot;53&quot;,&quot;98&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;魂&quot;]</d>
-<d p="224.4,7,64,16711680,1299678896,1,f9c4bfdf,18127287">[&quot;103&quot;,&quot;178&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;MY&quot;]</d>
-<d p="225,7,64,16711680,1299678913,1,f9c4bfdf,18127324">[&quot;103&quot;,&quot;278&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;WAY！&quot;]</d>
-<d p="225.9,7,64,16711680,1299678933,1,f9c4bfdf,18127356">[&quot;271&quot;,&quot;124&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;重&quot;]</d>
-<d p="225.9,7,45,0,1299678944,1,f9c4bfdf,18127377">[&quot;271&quot;,&quot;124&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;   なるよ&quot;]</d>
-<d p="227.6,7,64,0,1299678962,1,f9c4bfdf,18127409">[&quot;190&quot;,&quot;252&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;いま&quot;]</d>
-<d p="228.3,7,64,16711680,1299678971,1,f9c4bfdf,18127426">[&quot;190&quot;,&quot;252&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;いま&quot;]</d>
-<d p="229.6,7,64,16711680,1299679003,1,f9c4bfdf,18127494">[&quot;151&quot;,&quot;109&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;ふ&quot;]</d>
-<d p="230.1,7,64,16711680,1299679011,1,f9c4bfdf,18127515">[&quot;151&quot;,&quot;109&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  た&quot;]</d>
-<d p="230.4,7,64,16711680,1299679017,1,f9c4bfdf,18127534">[&quot;151&quot;,&quot;109&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;    り&quot;]</d>
-<d p="230.7,7,64,16711680,1299679026,1,f9c4bfdf,18127550">[&quot;151&quot;,&quot;109&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;      に&quot;]</d>
-<d p="231.2,7,64,16711680,1299679039,1,f9c4bfdf,18127575">[&quot;151&quot;,&quot;109&quot;,&quot;1-1&quot;,&quot;0.5&quot;,&quot;ふたりに&quot;]</d>
-<d p="231.2,7,64,16711680,1299679064,1,f9c4bfdf,18127620">[&quot;144&quot;,&quot;224&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;God &quot;]</d>
-<d p="232.1,7,64,16711680,1299679073,1,f9c4bfdf,18127635">[&quot;144&quot;,&quot;224&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;     bless&quot;]</d>
-<d p="260.6,7,36,16711680,1299679376,1,f9c4bfdf,18128282">[&quot;163&quot;,&quot;352&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;THANKS FOR WATCHING!&quot;]</d>
-<d p="168.3,7,36,0,1299679891,1,f9c4bfdf,18129228">[&quot;95&quot;,&quot;73&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;かなえたいのに &quot;]</d>
-<d p="0.9,1,36,0,1299680058,1,f9c4bfdf,18129555">备注：请不要随意增加中文翻译……谢谢</d>
-<d p="221,7,64,0,1299714140,1,f9c4bfdf,18152848">[&quot;55&quot;,&quot;100&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;魂&quot;]</d>
-<d p="221,7,64,16711680,1299714154,1,f9c4bfdf,18152855">[&quot;53&quot;,&quot;98&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;魂&quot;]</d>
-<d p="221,7,45,0,1299714184,1,f9c4bfdf,18152862">[&quot;109&quot;,&quot;100&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;こわされぬように&quot;]</d>
-<d p="38.5,7,36,0,1299714302,1,f9c4bfdf,18152877">[&quot;85&quot;,&quot;82&quot;,&quot;1-1&quot;,&quot;2.4&quot;,&quot;   もできなくて &quot;]</d>
-<d p="163.3,7,64,16711680,1299715070,1,f9c4bfdf,18153082">[&quot;120&quot;,&quot;86&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;運&quot;]</d>
-<d p="163.3,7,64,16711680,1299715080,1,f9c4bfdf,18153085">[&quot;120&quot;,&quot;146&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;命&quot;]</d>
-<d p="163.3,7,36,0,1299715106,1,f9c4bfdf,18153093">[&quot;106&quot;,&quot;116&quot;,&quot;1-1&quot;,&quot;2.5&quot;,&quot;    変えられるかもね &quot;]</d>
-<d p="194.8,7,45,16711680,1299715187,1,f9c4bfdf,18153115">[&quot;66&quot;,&quot;180&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;美しさを描きながら&quot;]</d>
-<d p="198,7,64,0,1299715278,1,f9c4bfdf,18153143">[&quot;135&quot;,&quot;166&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;伤迹&quot;]</d>
-<d p="150.6,7,36,0,1299715710,1,f9c4bfdf,18153257">[&quot;68&quot;,&quot;109&quot;,&quot;1-1&quot;,&quot;3&quot;,&quot;目を见てこれからのことを&quot;]</d>
-<d p="150.6,7,36,16711680,1299715725,1,f9c4bfdf,18153263">[&quot;66&quot;,&quot;107&quot;,&quot;1-1&quot;,&quot;3&quot;,&quot;目を见てこれからのことを&quot;]</d>
-<d p="214.1,7,64,0,1299716725,1,f9c4bfdf,18153526">[&quot;46&quot;,&quot;191&quot;,&quot;1-1&quot;,&quot;1.5&quot;,&quot;あなたは辉いて&quot;]</d>
-<d p="156.3,7,36,16711680,1299717583,1,f9c4bfdf,18153804">[&quot;313&quot;,&quot;335&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  覚悟&quot;]</d>
-<d p="157.1,7,36,16711680,1299717591,1,f9c4bfdf,18153807">[&quot;313&quot;,&quot;335&quot;,&quot;1-0&quot;,&quot;0.5&quot;,&quot;  覚悟&quot;]</d>
-</i>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1410459108" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["129","102","1-1","4.5","《GOD KNOWS》"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1538065182" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["127","100","1-1","4.5","《GOD KNOWS》"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1609329522" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["140","160","1-1","4.5","作词：畑亜贵"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="1081132206" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["138","158","1-1","4.5","作词：畑亜贵"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1685942977" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["140","190","1-1","4.5","作曲：神前暁"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="1875046944" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["138","188","1-1","4.5","作曲：神前暁"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="25" color="16711680"/>
+</comment>
+<comment id="486478923" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["140","220","1-1","4.5","编曲：神前暁  "]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="678894205" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["138","218","1-1","4.5","编曲：神前暁  "]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1606815448" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["140","255","1-1","4.5","REMIX：远藤正明"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="462876852" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["138","253","1-1","4.5","REMIX：远藤正明"]</text>
+	<attr id="0" playtime="4.4" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1468396752" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["76","57","1-1","4.5","主炮手：冰封的羲和"]</text>
+	<attr id="0" playtime="10.1" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="2103075838" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["74","55","1-1","4.5","主炮手：冰封的羲和"]</text>
+	<attr id="0" playtime="10.1" mode="7" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1153127400" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["85","308","1-1","4.5","使用动画：《s.CRY.ed（分身战士）》"]</text>
+	<attr id="0" playtime="16.4" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="1527394733" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["83","306","1-1","4.5","使用动画：《s.CRY.ed（分身战士）》"]</text>
+	<attr id="0" playtime="16.4" mode="7" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1600377185" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["156","179","1-1","2.5","炮击即将开始！"]</text>
+	<attr id="0" playtime="23.1" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="654029467" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["156","179","1-0","0.5","READY？！"]</text>
+	<attr id="0" playtime="26.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="576218241" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["218","177","1-0","0.5","GO！"]</text>
+	<attr id="0" playtime="27.5" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1442611718" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["101","86","1-1","1.5","渇いた"]</text>
+	<attr id="0" playtime="29.1" mode="7" fontsize="25" color="0"/>
+</comment>
+<comment id="800203498" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["250","280","1-1","2","心"]</text>
+	<attr id="0" playtime="31.4" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1512669344" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["298","300","1-1","2","で駆け抜ける"]</text>
+	<attr id="0" playtime="31.4" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1600284260" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["156","173","1-0","0.5","ご"]</text>
+	<attr id="0" playtime="35.6" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1279912677" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["156","173","1-0","0.5","  めん"]</text>
+	<attr id="0" playtime="35.9" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="705059855" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["156","173","1-0","0.5","      ね "]</text>
+	<attr id="0" playtime="36.5" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1881458799" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["85","82","1-1","2.5","何 もできなくて"]</text>
+	<attr id="0" playtime="37.2" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="366626397" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["85","82","1-1","2.5","何"]</text>
+	<attr id="0" playtime="38.2" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1368513636" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["89","77","1-1","2.5","？？"]</text>
+	<attr id="0" playtime="38.2" mode="7" fontsize="18" color="0"/>
+</comment>
+<comment id="1848166359" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["89","107","1-1","2.5","？？"]</text>
+	<attr id="0" playtime="38.2" mode="7" fontsize="18" color="0"/>
+</comment>
+<comment id="1498099577" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["80","96","1-1","2.5","？  ？"]</text>
+	<attr id="0" playtime="38.2" mode="7" fontsize="18" color="0"/>
+</comment>
+<comment id="1369038531" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["201","186","1-0","0.5","痛"]</text>
+	<attr id="0" playtime="42.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1775539171" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["201","186","1-0","0.5","  み"]</text>
+	<attr id="0" playtime="42.5" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1818802778" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["201","186","1-0","0.5","    を"]</text>
+	<attr id="0" playtime="43" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="780124974" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["196","323","1-1","2.5","分かち合うことさえ"]</text>
+	<attr id="0" playtime="44.2" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1312120832" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["165","181","1-0","0.5","あ"]</text>
+	<attr id="0" playtime="48.2" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="12640367" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["165","181","1-0","0.5","  なた"]</text>
+	<attr id="0" playtime="49" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="2124575644" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["165","181","1-0","0.5","      は"]</text>
+	<attr id="0" playtime="49.4" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="191438099" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["165","181","1-1","2.5","してくれない"]</text>
+	<attr id="0" playtime="50.6" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="433195145" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["107","168","1-1","2.5","许"]</text>
+	<attr id="0" playtime="50.6" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="491988316" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["107","117","1-1","1.5","无垢に"]</text>
+	<attr id="0" playtime="54.9" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1509875740" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["107","117","1-1","1.5","无垢"]</text>
+	<attr id="0" playtime="54.9" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="644228212" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["62","313","1-1","3.5","生きるため振り向かず "]</text>
+	<attr id="0" playtime="57.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1459528459" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["60","311","1-1","3.5","生きるため振り向かず "]</text>
+	<attr id="0" playtime="57.1" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1399387378" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["102","104","1-1","2.5","背中向けて "]</text>
+	<attr id="0" playtime="60.8" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1557822227" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["289","278","1-1","2.5","去ってしまう "]</text>
+	<attr id="0" playtime="62.6" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="2076944100" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["52","184","1-0","0.5","on"]</text>
+	<attr id="0" playtime="63.8" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1801246518" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["52","184","1-0","0.5","   the "]</text>
+	<attr id="0" playtime="64.2" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="51865182" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["52","184","1-0","0.5","       lonely "]</text>
+	<attr id="0" playtime="64.7" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1487670838" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["52","184","1-0","0.5","              rail"]</text>
+	<attr id="0" playtime="65.1" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="762495940" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["160","165","1-0","0.5","わ"]</text>
+	<attr id="0" playtime="66.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="2125879670" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["160","165","1-0","0.5","  た"]</text>
+	<attr id="0" playtime="66.8" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="67877343" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["160","165","1-0","0.5","    し"]</text>
+	<attr id="0" playtime="67.2" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1308696948" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["108","112","1-1","1.5","ついていくよ "]</text>
+	<attr id="0" playtime="67.3" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="567424745" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["226","252","1-1","1.5","どんな辛い"]</text>
+	<attr id="0" playtime="69.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1964319756" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["105","130","1-1","2.5","世界の暗の中でさえ"]</text>
+	<attr id="0" playtime="70.3" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="585854926" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["105","130","1-1","2.5","世界"]</text>
+	<attr id="0" playtime="70.3" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="2116480945" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["100","130","1-1","2.5","      暗"]</text>
+	<attr id="0" playtime="70.3" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="44396816" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["127","185","1-0.5","1","きっと——"]</text>
+	<attr id="0" playtime="73.9" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="524353814" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["33","279","1-1","3","あなたは辉いて"]</text>
+	<attr id="0" playtime="75.4" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="242229467" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["33","279","1-1","3","あなた"]</text>
+	<attr id="0" playtime="75.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="91585845" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["33","279","1-1","3","        辉"]</text>
+	<attr id="0" playtime="75.4" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="486822190" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["183","182","1-0","0.5","超"]</text>
+	<attr id="0" playtime="79" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="294293267" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["183","182","1-0","0.5","  える"]</text>
+	<attr id="0" playtime="79.7" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="2097608205" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["115","96","1-1","1.5","未来の果て"]</text>
+	<attr id="0" playtime="80.5" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="924929271" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["279","286","1-1","1.5","弱さ故に"]</text>
+	<attr id="0" playtime="81.6" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1117316440" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["103","108","1-1","2.5","魂こわされぬように"]</text>
+	<attr id="0" playtime="83.2" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1290571495" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["173","186","1-0","0.5","my way "]</text>
+	<attr id="0" playtime="86.9" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1377167463" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["98","104","1-1","1","重なるよ"]</text>
+	<attr id="0" playtime="88.3" mode="7" fontsize="45" color="6710886"/>
+</comment>
+<comment id="1862610237" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["98","104","1-1","1","重なるよ  いま"]</text>
+	<attr id="0" playtime="90" mode="7" fontsize="45" color="6710886"/>
+</comment>
+<comment id="633113700" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["146","315","1-1","1.5","ふたりに"]</text>
+	<attr id="0" playtime="92.1" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="8461904" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["140","310","1-1","1.5","ふたりに"]</text>
+	<attr id="0" playtime="92.1" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1699866916" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["159","198","1-1","2.5","God bless"]</text>
+	<attr id="0" playtime="93.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1771561127" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["72","96","1-1","1.5","届けて"]</text>
+	<attr id="0" playtime="109.1" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1585123526" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["271","313","1-1","1.5","くなる想いは"]</text>
+	<attr id="0" playtime="111.3" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="447033348" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["217","313","1-1","1.5","热"]</text>
+	<attr id="0" playtime="111.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1054718185" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["190","165","1-1","1.5","现 実"]</text>
+	<attr id="0" playtime="115.3" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1319776702" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["93","122","1-1","2.5","溶かしてさまよう"]</text>
+	<attr id="0" playtime="117.8" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1190001519" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["137","183","1-0","0.5","会"]</text>
+	<attr id="0" playtime="122.1" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1253723248" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["137","183","1-0","0.5","  い"]</text>
+	<attr id="0" playtime="122.5" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1811525939" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["137","183","1-0","0.5","    たい"]</text>
+	<attr id="0" playtime="122.9" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1812798386" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["88","174","1-1","1.8","気持ちに理由はない"]</text>
+	<attr id="0" playtime="124.5" mode="7" fontsize="45" color="13421772"/>
+</comment>
+<comment id="1261148731" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["148","187","1-0","0.5","あ"]</text>
+	<attr id="0" playtime="128.5" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1101596768" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["148","187","1-0","0.5","  な"]</text>
+	<attr id="0" playtime="128.8" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="329945488" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["148","187","1-0","0.5","    た"]</text>
+	<attr id="0" playtime="129.1" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="750640595" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["148","187","1-0","0.5","      へ"]</text>
+	<attr id="0" playtime="129.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1752326507" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["123","182","1-0","0.5","あ"]</text>
+	<attr id="0" playtime="130.7" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="883074787" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["123","182","1-0","0.5","  ふれ"]</text>
+	<attr id="0" playtime="131" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="744135230" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["123","182","1-0","0.5","      だす"]</text>
+	<attr id="0" playtime="131.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="83749995" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["123","182","1-0","0.5","Lovin'"]</text>
+	<attr id="0" playtime="131.9" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="424928205" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["123","182","1-0","0.5","      you"]</text>
+	<attr id="0" playtime="132.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="677765708" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["123","182","1-0","0.5","せ"]</text>
+	<attr id="0" playtime="134.7" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1237757949" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["123","182","1-0","0.5","   め"]</text>
+	<attr id="0" playtime="135.6" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1219652565" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["123","182","1-0","0.5","      て"]</text>
+	<attr id="0" playtime="136.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1375300110" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["91","102","1-1","2.5","美しい梦だけを"]</text>
+	<attr id="0" playtime="137.2" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="897215487" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["89","100","1-1","2.5","美"]</text>
+	<attr id="0" playtime="137.2" mode="7" fontsize="36" color="16776960"/>
+</comment>
+<comment id="1401059572" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["87","98","1-1","2.5","美"]</text>
+	<attr id="0" playtime="137.2" mode="7" fontsize="36" color="65280"/>
+</comment>
+<comment id="1919233061" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["85","96","1-1","2.5","美"]</text>
+	<attr id="0" playtime="137.2" mode="7" fontsize="36" color="255"/>
+</comment>
+<comment id="1658470805" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["83","94","1-1","2.5","美"]</text>
+	<attr id="0" playtime="137.2" mode="7" fontsize="36" color="10027212"/>
+</comment>
+<comment id="399497241" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["55","320","1-1","2.5","描きながら"]</text>
+	<attr id="0" playtime="140.9" mode="7" fontsize="36" color="16711935"/>
+</comment>
+<comment id="250832089" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["55","320","1-1","2.5","               追いかけよう"]</text>
+	<attr id="0" playtime="142.5" mode="7" fontsize="36" color="16711935"/>
+</comment>
+<comment id="2033258640" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["20","178","1-0","0.5","for "]</text>
+	<attr id="0" playtime="143.8" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1990367948" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["20","178","1-0","0.5","    your"]</text>
+	<attr id="0" playtime="144.2" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1618772107" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["20","178","1-0","0.5","        lonely "]</text>
+	<attr id="0" playtime="144.6" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="941464004" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["20","178","1-0","0.5","               heart "]</text>
+	<attr id="0" playtime="144.9" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="2146811154" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["178","185","1-0","0.5","や"]</text>
+	<attr id="0" playtime="146.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="617296094" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["178","185","1-0","0.5","  め"]</text>
+	<attr id="0" playtime="146.8" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="247542138" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["178","185","1-0","0.5","    て"]</text>
+	<attr id="0" playtime="147.1" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1059816318" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["74","91","1-1","1.5","嘘はあなた"]</text>
+	<attr id="0" playtime="147.3" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="2076003133" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["74","91","1-1","1.5","  は"]</text>
+	<attr id="0" playtime="147.3" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="2055496449" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["242","284","1-1","1.5","らしくないよ"]</text>
+	<attr id="0" playtime="148.8" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="90556015" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["62","335","1-0","0.5","话"]</text>
+	<attr id="0" playtime="153.9" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="96064317" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["62","335","1-0","0.5","  そう"]</text>
+	<attr id="0" playtime="154.6" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1357451821" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["68","109","1-1","2.5","目を见てこれからのことを"]</text>
+	<attr id="0" playtime="150.4" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1754476126" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["66","107","1-1","2.5","目を见てこれからのことを"]</text>
+	<attr id="0" playtime="150.4" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="960145367" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["313","335","1-0","0.5","私"]</text>
+	<attr id="0" playtime="155.3" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1952144898" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["313","335","1-0","0.5","  覚悟"]</text>
+	<attr id="0" playtime="156.1" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="2106154920" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["226","173","1-1","0.5","してる"]</text>
+	<attr id="0" playtime="158.2" mode="7" fontsize="25" color="16711680"/>
+</comment>
+<comment id="599834569" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["200","173","1-1","0.5","してる"]</text>
+	<attr id="0" playtime="158.6" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1865560038" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["200","173","1-1","0.5","してる？"]</text>
+	<attr id="0" playtime="159" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="117631840" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["210","175","1-0","0.5","暗い"]</text>
+	<attr id="0" playtime="159.3" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="483535909" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["54","77","1-1","1.5","未来だって"]</text>
+	<attr id="0" playtime="160.2" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1570609593" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["54","77","1-1","1.5","未来"]</text>
+	<attr id="0" playtime="160.2" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="1345403230" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["220","280","1-1","1.5","强くなって"]</text>
+	<attr id="0" playtime="161.6" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="2006030905" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["220","280","1-1","1.5","强く"]</text>
+	<attr id="0" playtime="161.6" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="455071650" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["106","116","1-1","1.5","    変えられるかもね"]</text>
+	<attr id="0" playtime="163.4" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1179169481" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["120","146","1-1","1.5","命"]</text>
+	<attr id="0" playtime="163.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="2140183391" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["120","86","1-1","1.5","運"]</text>
+	<attr id="0" playtime="163.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="96588470" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["144","176","1-0","0.5","MY "]</text>
+	<attr id="0" playtime="167.1" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="569273586" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["144","176","1-0","0.5","      WISH！"]</text>
+	<attr id="0" playtime="167.5" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1023163340" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["95","73","1-1","1.5","かなえたいのに"]</text>
+	<attr id="0" playtime="167.9" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1345978096" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["99","185","1-0","0.5","す"]</text>
+	<attr id="0" playtime="171.8" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1608113799" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["99","185","1-0","0.5","  べ"]</text>
+	<attr id="0" playtime="172.6" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1851844927" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["99","185","1-0","0.5","    て"]</text>
+	<attr id="0" playtime="172.9" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="1462192992" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["99","185","1-0","0.5","      は "]</text>
+	<attr id="0" playtime="173.2" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="996227971" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["99","185","1-0","0.5","   God"]</text>
+	<attr id="0" playtime="173.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="274667465" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["99","185","1-0","0.5","    knows"]</text>
+	<attr id="0" playtime="174.7" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="185153892" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["120","89","1-1","2.5","あなたがいて "]</text>
+	<attr id="0" playtime="176.2" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="875412077" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["120","89","1-1","2.5","あなた"]</text>
+	<attr id="0" playtime="176.2" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1578047332" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["120","89","1-1","2.5","  がいてほか"]</text>
+	<attr id="0" playtime="179.4" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="445929474" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["120","89","1-1","2.5","私"]</text>
+	<attr id="0" playtime="179.4" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1571339046" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["360","124","1-1","2.5","の   は"]</text>
+	<attr id="0" playtime="181.9" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="2117926231" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["360","124","1-1","2.5"," 人"]</text>
+	<attr id="0" playtime="181.9" mode="7" fontsize="64" color="10066329"/>
+</comment>
+<comment id="1846674020" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["71","239","1-1","1","消えてしまった"]</text>
+	<attr id="0" playtime="184" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="660417293" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["71","239","1-0","0.5","消えてしまった"]</text>
+	<attr id="0" playtime="186.9" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1693063426" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["71","239","1-0","0.5","消えてしまった"]</text>
+	<attr id="0" playtime="187.4" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="963046628" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["105","91","0-1","0.5","淡"]</text>
+	<attr id="0" playtime="189.1" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1822380071" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["105","91","1-1","1.5","淡い梦の"]</text>
+	<attr id="0" playtime="189.8" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="2010342562" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["105","91","1-1","1.5","    梦"]</text>
+	<attr id="0" playtime="190.4" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="1800297076" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["105","91","1-1","1","淡い梦の"]</text>
+	<attr id="0" playtime="190.5" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="281531635" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["66","180","1-1","2.5","美しさを描きながら"]</text>
+	<attr id="0" playtime="192.4" mode="7" fontsize="45" color="16776960"/>
+</comment>
+<comment id="1238097271" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["135","166","1-0","0.5","伤迹"]</text>
+	<attr id="0" playtime="197.5" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1598199241" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["73","176","1-0","0.5","だ"]</text>
+	<attr id="0" playtime="202.5" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="924234467" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["73","176","1-0","0.5","だ"]</text>
+	<attr id="0" playtime="202.5" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="522586981" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["73","176","1-0","0.5","だ"]</text>
+	<attr id="0" playtime="202.5" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1283589609" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["73","176","1-0","0.5","     か"]</text>
+	<attr id="0" playtime="202.8" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="75236239" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["73","176","1-0","0.5","          ら"]</text>
+	<attr id="0" playtime="203.3" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="730107298" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["73","176","1-0","0.5","わ"]</text>
+	<attr id="0" playtime="204.1" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="70844570" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["73","176","1-0","0.5","     た"]</text>
+	<attr id="0" playtime="204.5" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1978225843" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["73","176","1-0","0.5","          し"]</text>
+	<attr id="0" playtime="204.8" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="420485575" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["102","83","1-1","1.5","ついていくよ"]</text>
+	<attr id="0" playtime="204.9" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1613345097" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["111","296","1-1","1.5","どんな辛い"]</text>
+	<attr id="0" playtime="206.6" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1212781859" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["87","111","1-1","1.5","世界の暗の中でさえ"]</text>
+	<attr id="0" playtime="208.2" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="563738433" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["87","111","1-1","2.5","世界の暗の中でさえ"]</text>
+	<attr id="0" playtime="208.2" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="2089310560" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["87","111","1-1","2.5","世界"]</text>
+	<attr id="0" playtime="208.2" mode="7" fontsize="45" color="16777215"/>
+</comment>
+<comment id="881989983" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["87","111","1-1","2.5","    暗"]</text>
+	<attr id="0" playtime="208.2" mode="7" fontsize="64" color="10066329"/>
+</comment>
+<comment id="633781531" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["87","111","1-0","0.5","きっと——！"]</text>
+	<attr id="0" playtime="211.8" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1062488718" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["230","166","1-0","0.5","な"]</text>
+	<attr id="0" playtime="199.8" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1663505200" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["230","166","1-0","0.5","  ぞ"]</text>
+	<attr id="0" playtime="200.3" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="596199756" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["230","166","1-0","0.5","    る"]</text>
+	<attr id="0" playtime="200.5" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="866284881" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-1","2","あなたは辉いて "]</text>
+	<attr id="0" playtime="213.1" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="242871964" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-1","2","あなたは辉いて "]</text>
+	<attr id="0" playtime="213.1" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1183475118" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-0","0.5","あ"]</text>
+	<attr id="0" playtime="213.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="701180236" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-1","2","あなたは辉いて "]</text>
+	<attr id="0" playtime="213.1" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1591707807" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-0","0.5","あ"]</text>
+	<attr id="0" playtime="213.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1384231041" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-0","0.5","  な"]</text>
+	<attr id="0" playtime="213.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="2104889574" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-0","0.5","    た"]</text>
+	<attr id="0" playtime="213.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1176644084" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-0","0.5","        辉"]</text>
+	<attr id="0" playtime="214.3" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="266572399" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-0","0.5","超"]</text>
+	<attr id="0" playtime="216.7" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="1517131761" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-0","0.5","  え"]</text>
+	<attr id="0" playtime="216.7" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="440878830" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-0","0.5","    る"]</text>
+	<attr id="0" playtime="217.6" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="1895599218" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["108","71","1-0","0.5","未来の果て"]</text>
+	<attr id="0" playtime="218" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="2060569205" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["108","71","1-1","1.5","未来の果て"]</text>
+	<attr id="0" playtime="218" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1086094433" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["108","71","1-1","1.5","未来"]</text>
+	<attr id="0" playtime="218" mode="7" fontsize="45" color="16776960"/>
+</comment>
+<comment id="35411390" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["273","269","1-1","1.5","弱さ故に"]</text>
+	<attr id="0" playtime="219.5" mode="7" fontsize="45" color="10092339"/>
+</comment>
+<comment id="2079858221" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["109","100","1-1","1.5","こわされぬように"]</text>
+	<attr id="0" playtime="220.7" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1243270560" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["55","100","1-1","1.5","魂"]</text>
+	<attr id="0" playtime="220.7" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="56514914" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["53","98","1-1","1.5","魂"]</text>
+	<attr id="0" playtime="220.7" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1572184710" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["103","178","1-0","0.5","MY"]</text>
+	<attr id="0" playtime="224.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1054612252" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["103","278","1-0","0.5","WAY！"]</text>
+	<attr id="0" playtime="225" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1755027903" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["271","124","1-1","1.5","重"]</text>
+	<attr id="0" playtime="225.9" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1909736115" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["271","124","1-1","1.5","   なるよ"]</text>
+	<attr id="0" playtime="225.9" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="1660829183" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["190","252","1-0","0.5","いま"]</text>
+	<attr id="0" playtime="227.6" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="2032835449" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["190","252","1-0","0.5","いま"]</text>
+	<attr id="0" playtime="228.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="599742573" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["151","109","1-0","0.5","ふ"]</text>
+	<attr id="0" playtime="229.6" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="976282974" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["151","109","1-0","0.5","  た"]</text>
+	<attr id="0" playtime="230.1" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1915502933" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["151","109","1-0","0.5","    り"]</text>
+	<attr id="0" playtime="230.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="234893865" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["151","109","1-0","0.5","      に"]</text>
+	<attr id="0" playtime="230.7" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1152823234" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["151","109","1-1","0.5","ふたりに"]</text>
+	<attr id="0" playtime="231.2" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1244126660" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["144","224","1-0","0.5","God "]</text>
+	<attr id="0" playtime="231.2" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="421120180" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["144","224","1-0","0.5","     bless"]</text>
+	<attr id="0" playtime="232.1" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="212192356" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["163","352","1-1","1.5","THANKS FOR WATCHING!"]</text>
+	<attr id="0" playtime="260.6" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="953789758" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["95","73","1-1","2.5","かなえたいのに "]</text>
+	<attr id="0" playtime="168.3" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="280231372" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>备注：请不要随意增加中文翻译……谢谢</text>
+	<attr id="0" playtime="0.9" mode="1" fontsize="36" color="0"/>
+</comment>
+<comment id="2136199282" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["55","100","1-1","2.5","魂"]</text>
+	<attr id="0" playtime="221" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="1627685762" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["53","98","1-1","2.5","魂"]</text>
+	<attr id="0" playtime="221" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="446955334" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["109","100","1-1","2.5","こわされぬように"]</text>
+	<attr id="0" playtime="221" mode="7" fontsize="45" color="0"/>
+</comment>
+<comment id="641680492" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["85","82","1-1","2.4","   もできなくて "]</text>
+	<attr id="0" playtime="38.5" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="587714965" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["120","86","1-1","2.5","運"]</text>
+	<attr id="0" playtime="163.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="971080089" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["120","146","1-1","2.5","命"]</text>
+	<attr id="0" playtime="163.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="194622287" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["106","116","1-1","2.5","    変えられるかもね "]</text>
+	<attr id="0" playtime="163.3" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="916994733" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["66","180","1-1","1.5","美しさを描きながら"]</text>
+	<attr id="0" playtime="194.8" mode="7" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1037055830" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["135","166","1-0","0.5","伤迹"]</text>
+	<attr id="0" playtime="198" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="883695944" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["68","109","1-1","3","目を见てこれからのことを"]</text>
+	<attr id="0" playtime="150.6" mode="7" fontsize="36" color="0"/>
+</comment>
+<comment id="946058998" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["66","107","1-1","3","目を见てこれからのことを"]</text>
+	<attr id="0" playtime="150.6" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="279519241" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["46","191","1-1","1.5","あなたは辉いて"]</text>
+	<attr id="0" playtime="214.1" mode="7" fontsize="64" color="0"/>
+</comment>
+<comment id="194275534" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["313","335","1-0","0.5","  覚悟"]</text>
+	<attr id="0" playtime="156.3" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1117110099" poolid="1" userhash="deadbeef" sendtime="1321632718">
+	<text>["313","335","1-0","0.5","  覚悟"]</text>
+	<attr id="0" playtime="157.1" mode="7" fontsize="36" color="16711680"/>
+</comment>
+</comments>

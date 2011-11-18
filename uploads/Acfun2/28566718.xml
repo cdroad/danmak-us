@@ -1,701 +1,567 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>29</playTime>
-    <message fontsize="25" color="16777215" mode="4">就算时间不断流逝</message>
-    <times>2010-01-26 21:34:59</times>
-  </data>
-  <data>
-    <playTime>66.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">鼻音好重</message>
-    <times>2010-01-26 21:35:13</times>
-  </data>
-  <data>
-    <playTime>32.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">这份疲倦感</message>
-    <times>2010-01-26 21:35:26</times>
-  </data>
-  <data>
-    <playTime>33.9</playTime>
-    <message fontsize="25" color="16777215" mode="4">还是不停的在原地打转</message>
-    <times>2010-01-26 21:35:45</times>
-  </data>
-  <data>
-    <playTime>36</playTime>
-    <message fontsize="25" color="16777215" mode="4">我那已失去的心</message>
-    <times>2010-01-26 21:36:06</times>
-  </data>
-  <data>
-    <playTime>37</playTime>
-    <message fontsize="25" color="16777215" mode="4">已到了</message>
-    <times>2010-01-26 21:36:45</times>
-  </data>
-  <data>
-    <playTime>39.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">看不见的地方</message>
-    <times>2010-01-26 21:37:08</times>
-  </data>
-  <data>
-    <playTime>41.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">你</message>
-    <times>2010-01-26 21:37:27</times>
-  </data>
-  <data>
-    <playTime>42.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">能</message>
-    <times>2010-01-26 21:37:32</times>
-  </data>
-  <data>
-    <playTime>42.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">明</message>
-    <times>2010-01-26 21:37:36</times>
-  </data>
-  <data>
-    <playTime>42.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">白</message>
-    <times>2010-01-26 21:37:39</times>
-  </data>
-  <data>
-    <playTime>43.8</playTime>
-    <message fontsize="25" color="16777215" mode="4">就算自己什么都不做</message>
-    <times>2010-01-26 21:37:53</times>
-  </data>
-  <data>
-    <playTime>46.6</playTime>
-    <message fontsize="25" color="16777215" mode="4">时光仍渐渐消失在缝隙中</message>
-    <times>2010-01-26 21:38:27</times>
-  </data>
-  <data>
-    <playTime>50.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">周遭的一切</message>
-    <times>2010-01-26 21:38:51</times>
-  </data>
-  <data>
-    <playTime>51.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">我一概不知</message>
-    <times>2010-01-26 21:39:08</times>
-  </data>
-  <data>
-    <playTime>54</playTime>
-    <message fontsize="25" color="16777215" mode="4">我就是我</message>
-    <times>2010-01-26 21:39:25</times>
-  </data>
-  <data>
-    <playTime>7.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:39:45</times>
-  </data>
-  <data>
-    <playTime>10.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:39:49</times>
-  </data>
-  <data>
-    <playTime>55.1</playTime>
-    <message fontsize="25" color="16777215" mode="4">就</message>
-    <times>2010-01-26 21:39:52</times>
-  </data>
-  <data>
-    <playTime>16.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:39:54</times>
-  </data>
-  <data>
-    <playTime>55.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">是</message>
-    <times>2010-01-26 21:39:55</times>
-  </data>
-  <data>
-    <playTime>20.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:39:58</times>
-  </data>
-  <data>
-    <playTime>55.8</playTime>
-    <message fontsize="25" color="16777215" mode="4">这</message>
-    <times>2010-01-26 21:39:58</times>
-  </data>
-  <data>
-    <playTime>25.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:04</times>
-  </data>
-  <data>
-    <playTime>56.1</playTime>
-    <message fontsize="25" color="16777215" mode="4">样</message>
-    <times>2010-01-26 21:40:02</times>
-  </data>
-  <data>
-    <playTime>28.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:07</times>
-  </data>
-  <data>
-    <playTime>32.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:10</times>
-  </data>
-  <data>
-    <playTime>36</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:14</times>
-  </data>
-  <data>
-    <playTime>57.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">在梦中发现了吗</message>
-    <times>2010-01-26 21:40:20</times>
-  </data>
-  <data>
-    <playTime>46.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:24</times>
-  </data>
-  <data>
-    <playTime>49.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:28</times>
-  </data>
-  <data>
-    <playTime>58.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">还是什么都没变</message>
-    <times>2010-01-26 21:40:27</times>
-  </data>
-  <data>
-    <playTime>52.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:31</times>
-  </data>
-  <data>
-    <playTime>55.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:34</times>
-  </data>
-  <data>
-    <playTime>58.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:36</times>
-  </data>
-  <data>
-    <playTime>61</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:39</times>
-  </data>
-  <data>
-    <playTime>64</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:42</times>
-  </data>
-  <data>
-    <playTime>67.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:46</times>
-  </data>
-  <data>
-    <playTime>60.8</playTime>
-    <message fontsize="25" color="16777215" mode="4">说也没用的</message>
-    <times>2010-01-26 21:40:45</times>
-  </data>
-  <data>
-    <playTime>70.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:49</times>
-  </data>
-  <data>
-    <playTime>73.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:51</times>
-  </data>
-  <data>
-    <playTime>77.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:40:55</times>
-  </data>
-  <data>
-    <playTime>61.6</playTime>
-    <message fontsize="25" color="16777215" mode="4">自己的真心话</message>
-    <times>2010-01-26 21:40:58</times>
-  </data>
-  <data>
-    <playTime>63.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">悲伤那种东西</message>
-    <times>2010-01-26 21:41:41</times>
-  </data>
-  <data>
-    <playTime>65.1</playTime>
-    <message fontsize="25" color="16777215" mode="4">只会使自己更疲倦</message>
-    <times>2010-01-26 21:41:58</times>
-  </data>
-  <data>
-    <playTime>66.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">干脆什么也别想</message>
-    <times>2010-01-26 21:42:22</times>
-  </data>
-  <data>
-    <playTime>68.8</playTime>
-    <message fontsize="25" color="16777215" mode="4">如此度日就好</message>
-    <times>2010-01-26 21:43:46</times>
-  </data>
-  <data>
-    <playTime>70.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">就算听到</message>
-    <times>2010-01-26 21:44:01</times>
-  </data>
-  <data>
-    <playTime>72.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">令人困惑的话语</message>
-    <times>2010-01-26 21:44:25</times>
-  </data>
-  <data>
-    <playTime>74</playTime>
-    <message fontsize="25" color="16777215" mode="4">自己的心</message>
-    <times>2010-01-26 21:44:38</times>
-  </data>
-  <data>
-    <playTime>75.9</playTime>
-    <message fontsize="25" color="16777215" mode="4">早已悬在半空</message>
-    <times>2010-01-26 21:44:55</times>
-  </data>
-  <data>
-    <playTime>77.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">若我试着</message>
-    <times>2010-01-26 21:45:12</times>
-  </data>
-  <data>
-    <playTime>78.8</playTime>
-    <message fontsize="25" color="16777215" mode="4">改变这一切</message>
-    <times>2010-01-26 21:45:25</times>
-  </data>
-  <data>
-    <playTime>81.1</playTime>
-    <message fontsize="37" color="16777215" mode="4">如果我能改变这一切</message>
-    <times>2010-01-26 21:45:44</times>
-  </data>
-  <data>
-    <playTime>82.4</playTime>
-    <message fontsize="37" color="16777215" mode="4">一切将化为黑暗</message>
-    <times>2010-01-26 21:46:15</times>
-  </data>
-  <data>
-    <playTime>84.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">这</message>
-    <times>2010-01-26 21:46:38</times>
-  </data>
-  <data>
-    <playTime>84.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">.</message>
-    <times>2010-01-26 21:46:49</times>
-  </data>
-  <data>
-    <playTime>84.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">这</message>
-    <times>2010-01-26 21:46:55</times>
-  </data>
-  <data>
-    <playTime>84.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">样</message>
-    <times>2010-01-26 21:46:57</times>
-  </data>
-  <data>
-    <playTime>84.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">的</message>
-    <times>2010-01-26 21:46:59</times>
-  </data>
-  <data>
-    <playTime>84.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">自</message>
-    <times>2010-01-26 21:47:02</times>
-  </data>
-  <data>
-    <playTime>84.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">己</message>
-    <times>2010-01-26 21:47:06</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">能</message>
-    <times>2010-01-26 21:47:18</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">有</message>
-    <times>2010-01-26 21:47:20</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">未</message>
-    <times>2010-01-26 21:47:24</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">来</message>
-    <times>2010-01-26 21:47:25</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">吗</message>
-    <times>2010-01-26 21:47:27</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">?</message>
-    <times>2010-01-26 21:47:29</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">这</message>
-    <times>2010-01-26 21:47:52</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">样</message>
-    <times>2010-01-26 21:47:54</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">的</message>
-    <times>2010-01-26 21:47:56</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">世</message>
-    <times>2010-01-26 21:47:58</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">界</message>
-    <times>2010-01-26 21:48:06</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:48:07</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">我</message>
-    <times>2010-01-26 21:48:09</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">还</message>
-    <times>2010-01-26 21:48:11</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">活</message>
-    <times>2010-01-26 21:48:14</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">着</message>
-    <times>2010-01-26 21:48:16</times>
-  </data>
-  <data>
-    <playTime>87.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">吗</message>
-    <times>2010-01-26 21:48:18</times>
-  </data>
-  <data>
-    <playTime>91.3</playTime>
-    <message fontsize="25" color="16777215" mode="5">现</message>
-    <times>2010-01-26 21:49:02</times>
-  </data>
-  <data>
-    <playTime>91.3</playTime>
-    <message fontsize="25" color="16777215" mode="5">在</message>
-    <times>2010-01-26 21:49:03</times>
-  </data>
-  <data>
-    <playTime>91.3</playTime>
-    <message fontsize="37" color="16777215" mode="5">难</message>
-    <times>2010-01-26 21:49:09</times>
-  </data>
-  <data>
-    <playTime>91.3</playTime>
-    <message fontsize="37" color="16777215" mode="5">过</message>
-    <times>2010-01-26 21:49:11</times>
-  </data>
-  <data>
-    <playTime>91.3</playTime>
-    <message fontsize="25" color="16777215" mode="5">吗</message>
-    <times>2010-01-26 21:49:16</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">现</message>
-    <times>2010-01-26 21:49:41</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">在</message>
-    <times>2010-01-26 21:49:46</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">悲</message>
-    <times>2010-01-26 21:49:55</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">伤</message>
-    <times>2010-01-26 21:49:59</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">吗</message>
-    <times>2010-01-26 21:50:01</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">?</message>
-    <times>2010-01-26 21:50:03</times>
-  </data>
-  <data>
-    <playTime>95.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">连</message>
-    <times>2010-01-26 21:50:17</times>
-  </data>
-  <data>
-    <playTime>95.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">我</message>
-    <times>2010-01-26 21:50:19</times>
-  </data>
-  <data>
-    <playTime>95.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">自</message>
-    <times>2010-01-26 21:50:26</times>
-  </data>
-  <data>
-    <playTime>95.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">己</message>
-    <times>2010-01-26 21:50:28</times>
-  </data>
-  <data>
-    <playTime>96.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">都</message>
-    <times>2010-01-26 21:50:52</times>
-  </data>
-  <data>
-    <playTime>96.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">不</message>
-    <times>2010-01-26 21:50:54</times>
-  </data>
-  <data>
-    <playTime>96.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">清</message>
-    <times>2010-01-26 21:50:56</times>
-  </data>
-  <data>
-    <playTime>96.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">楚</message>
-    <times>2010-01-26 21:50:59</times>
-  </data>
-  <data>
-    <playTime>98.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">就 算 继 续 走 下 去</message>
-    <times>2010-01-26 21:51:29</times>
-  </data>
-  <data>
-    <playTime>100.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">也 只 会 感 到 更 累</message>
-    <times>2010-01-26 21:51:57</times>
-  </data>
-  <data>
-    <playTime>102.1</playTime>
-    <message fontsize="25" color="16777215" mode="4">别 人 的 事</message>
-    <times>2010-01-26 21:52:13</times>
-  </data>
-  <data>
-    <playTime>103.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">我 不 想 知 道</message>
-    <times>2010-01-26 21:52:29</times>
-  </data>
-  <data>
-    <playTime>105.6</playTime>
-    <message fontsize="25" color="16777215" mode="5">这样的我</message>
-    <times>2010-01-26 21:52:53</times>
-  </data>
-  <data>
-    <playTime>106.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">也能改变的话</message>
-    <times>2010-01-26 21:53:08</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="4">
-    </message>
-    <times>2010-01-26 21:53:31</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:53:38</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="1">如</message>
-    <times>2010-01-26 21:53:42</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="1">果</message>
-    <times>2010-01-26 21:53:45</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="1">真</message>
-    <times>2010-01-26 21:53:47</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="1">的</message>
-    <times>2010-01-26 21:53:50</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="1">改</message>
-    <times>2010-01-26 21:53:53</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="1">变</message>
-    <times>2010-01-26 21:53:54</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="1">的</message>
-    <times>2010-01-26 21:53:57</times>
-  </data>
-  <data>
-    <playTime>109</playTime>
-    <message fontsize="25" color="16777215" mode="1">话</message>
-    <times>2010-01-26 21:53:58</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">一</message>
-    <times>2010-01-26 21:54:13</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:54:17</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">切</message>
-    <times>2010-01-26 21:54:19</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:54:20</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">能</message>
-    <times>2010-01-26 21:54:22</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:54:24</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">回</message>
-    <times>2010-01-26 21:54:26</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:54:27</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">归</message>
-    <times>2010-01-26 21:54:29</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:54:31</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">虚</message>
-    <times>2010-01-26 21:54:35</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-26 21:54:37</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">无</message>
-    <times>2010-01-26 21:54:39</times>
-  </data>
-  <data>
-    <playTime>110.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">吗</message>
-    <times>2010-01-26 21:54:43</times>
-  </data>
-  <data>
-    <playTime>0.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">大家好.我是白字.字幕君</message>
-    <times>2010-01-26 21:55:11</times>
-  </data>
-  <data>
-    <playTime>1.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">由于懒惰的关系.我只做了前半段字幕</message>
-    <times>2010-01-26 21:55:39</times>
-  </data>
-  <data>
-    <playTime>4.8</playTime>
-    <message fontsize="25" color="16777215" mode="4">后半段和前半段一样.各位见谅</message>
-    <times>2010-01-26 21:55:55</times>
-  </data>
-  <data>
-    <playTime>188.6</playTime>
-    <message fontsize="37" color="13434624" mode="4">想要行动的话 想要改变的话 一切都会毁坏 一切都会崩溃</message>
-    <times>2010-01-27 01:05:18</times>
-  </data>
-  <data>
-    <playTime>195.6</playTime>
-    <message fontsize="15" color="13434624" mode="4">不管是你的一切 或是我的一切 甚至是所有的一切 我还完全不清楚</message>
-    <times>2010-01-27 01:06:56</times>
-  </data>
-  <data>
-    <playTime>202.6</playTime>
-    <message fontsize="15" color="13434624" mode="4">想张开这沉重的眼睛的话 想毁灭一切的话 就让黑暗吞噬掉这一切</message>
-    <times>2010-01-27 01:08:01</times>
-  </data>
-</information>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1554267624" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>就算时间不断流逝</text>
+	<attr id="0" playtime="29" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1540476012" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>鼻音好重</text>
+	<attr id="0" playtime="66.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1068036614" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>这份疲倦感</text>
+	<attr id="0" playtime="32.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1102147714" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>还是不停的在原地打转</text>
+	<attr id="0" playtime="33.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="883760574" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>我那已失去的心</text>
+	<attr id="0" playtime="36" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="720819907" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>已到了</text>
+	<attr id="0" playtime="37" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1089839188" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>看不见的地方</text>
+	<attr id="0" playtime="39.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="270190748" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>你</text>
+	<attr id="0" playtime="41.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1232845036" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>能</text>
+	<attr id="0" playtime="42.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1282330858" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>明</text>
+	<attr id="0" playtime="42.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="972206125" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>白</text>
+	<attr id="0" playtime="42.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="780783397" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>就算自己什么都不做</text>
+	<attr id="0" playtime="43.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1759353785" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>时光仍渐渐消失在缝隙中</text>
+	<attr id="0" playtime="46.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="319626151" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>周遭的一切</text>
+	<attr id="0" playtime="50.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="793556476" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>我一概不知</text>
+	<attr id="0" playtime="51.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1992571676" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>我就是我</text>
+	<attr id="0" playtime="54" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="132038901" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="7.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1841234962" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="10.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="489065879" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>就</text>
+	<attr id="0" playtime="55.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1102070071" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="16.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1259482758" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>是</text>
+	<attr id="0" playtime="55.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="152161308" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="20.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="112923800" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>这</text>
+	<attr id="0" playtime="55.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1732483121" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="25.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="366120697" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>样</text>
+	<attr id="0" playtime="56.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1727369543" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="28.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1695147387" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="32.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2121627885" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="36" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1283790749" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>在梦中发现了吗</text>
+	<attr id="0" playtime="57.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="739393740" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="46.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1529827845" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="49.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1258115770" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>还是什么都没变</text>
+	<attr id="0" playtime="58.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1360567886" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="52.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1299915918" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="55.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1483072653" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="58.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1628281121" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="61" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="783604887" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="64" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="190759905" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="67.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1520522151" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>说也没用的</text>
+	<attr id="0" playtime="60.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1617030737" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="70.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2069755192" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="73.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1277147315" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="77.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1593561314" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>自己的真心话</text>
+	<attr id="0" playtime="61.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="341329504" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>悲伤那种东西</text>
+	<attr id="0" playtime="63.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="339463898" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>只会使自己更疲倦</text>
+	<attr id="0" playtime="65.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1066438701" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>干脆什么也别想</text>
+	<attr id="0" playtime="66.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1424958930" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>如此度日就好</text>
+	<attr id="0" playtime="68.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1575008059" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>就算听到</text>
+	<attr id="0" playtime="70.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1615458532" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>令人困惑的话语</text>
+	<attr id="0" playtime="72.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="64458699" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>自己的心</text>
+	<attr id="0" playtime="74" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="978159471" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>早已悬在半空</text>
+	<attr id="0" playtime="75.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="633983620" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>若我试着</text>
+	<attr id="0" playtime="77.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1694161800" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>改变这一切</text>
+	<attr id="0" playtime="78.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="921330648" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>如果我能改变这一切</text>
+	<attr id="0" playtime="81.1" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="910169393" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>一切将化为黑暗</text>
+	<attr id="0" playtime="82.4" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="484050557" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>这</text>
+	<attr id="0" playtime="84.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1559051527" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>.</text>
+	<attr id="0" playtime="84.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1937298951" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>这</text>
+	<attr id="0" playtime="84.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="237413422" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>样</text>
+	<attr id="0" playtime="84.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1464622726" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>的</text>
+	<attr id="0" playtime="84.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="12813136" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>自</text>
+	<attr id="0" playtime="84.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1487235317" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>己</text>
+	<attr id="0" playtime="84.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2087742017" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>能</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="379895418" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>有</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1794300338" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>未</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1357887995" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>来</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="761694097" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>吗</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1298663065" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>?</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1113422002" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>这</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="647496653" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>样</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="305237096" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>的</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1191173783" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>世</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1152060369" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>界</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1011950741" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1636691682" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>我</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="560940787" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>还</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1878851835" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>活</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1378638311" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>着</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2071760671" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>吗</text>
+	<attr id="0" playtime="87.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1671490503" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>现</text>
+	<attr id="0" playtime="91.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="959091658" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>在</text>
+	<attr id="0" playtime="91.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1645311609" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>难</text>
+	<attr id="0" playtime="91.3" mode="5" fontsize="37" color="16777215"/>
+</comment>
+<comment id="905275817" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>过</text>
+	<attr id="0" playtime="91.3" mode="5" fontsize="37" color="16777215"/>
+</comment>
+<comment id="146081340" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>吗</text>
+	<attr id="0" playtime="91.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="796456053" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>现</text>
+	<attr id="0" playtime="93.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1805684548" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>在</text>
+	<attr id="0" playtime="93.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1559589501" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>悲</text>
+	<attr id="0" playtime="93.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="899761068" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>伤</text>
+	<attr id="0" playtime="93.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="432970795" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>吗</text>
+	<attr id="0" playtime="93.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1844341775" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>?</text>
+	<attr id="0" playtime="93.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="370166389" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>连</text>
+	<attr id="0" playtime="95.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2037700088" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>我</text>
+	<attr id="0" playtime="95.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2069803529" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>自</text>
+	<attr id="0" playtime="95.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="651266624" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>己</text>
+	<attr id="0" playtime="95.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1289477868" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>都</text>
+	<attr id="0" playtime="96.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="981771528" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>不</text>
+	<attr id="0" playtime="96.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1635047661" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>清</text>
+	<attr id="0" playtime="96.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="928461562" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>楚</text>
+	<attr id="0" playtime="96.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1408657477" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>就 算 继 续 走 下 去</text>
+	<attr id="0" playtime="98.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1318026756" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>也 只 会 感 到 更 累</text>
+	<attr id="0" playtime="100.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2087350637" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>别 人 的 事</text>
+	<attr id="0" playtime="102.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="227390102" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>我 不 想 知 道</text>
+	<attr id="0" playtime="103.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1040310892" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>这样的我</text>
+	<attr id="0" playtime="105.6" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="86067571" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>也能改变的话</text>
+	<attr id="0" playtime="106.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="320798674" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="109" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1078965430" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="109" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="278819953" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>如</text>
+	<attr id="0" playtime="109" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1877104434" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>果</text>
+	<attr id="0" playtime="109" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="949062477" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>真</text>
+	<attr id="0" playtime="109" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="880371604" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>的</text>
+	<attr id="0" playtime="109" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1734991595" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>改</text>
+	<attr id="0" playtime="109" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2128880170" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>变</text>
+	<attr id="0" playtime="109" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1356856127" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>的</text>
+	<attr id="0" playtime="109" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="616753608" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>话</text>
+	<attr id="0" playtime="109" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2018032157" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>一</text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1870327569" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="854157988" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>切</text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1639860557" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="708943559" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>能</text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1991819957" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1105819629" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>回</text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1726395855" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="174361922" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>归</text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1902897553" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="179311718" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>虚</text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="77648975" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>
+    </text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1509736748" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>无</text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1238848515" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>吗</text>
+	<attr id="0" playtime="110.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="966795320" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>大家好.我是白字.字幕君</text>
+	<attr id="0" playtime="0.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1494238440" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>由于懒惰的关系.我只做了前半段字幕</text>
+	<attr id="0" playtime="1.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="613876158" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>后半段和前半段一样.各位见谅</text>
+	<attr id="0" playtime="4.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2146574798" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>想要行动的话 想要改变的话 一切都会毁坏 一切都会崩溃</text>
+	<attr id="0" playtime="188.6" mode="4" fontsize="37" color="13434624"/>
+</comment>
+<comment id="2079460990" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>不管是你的一切 或是我的一切 甚至是所有的一切 我还完全不清楚</text>
+	<attr id="0" playtime="195.6" mode="4" fontsize="15" color="13434624"/>
+</comment>
+<comment id="1525617439" poolid="1" userhash="deadbeef" sendtime="1321635802">
+	<text>想张开这沉重的眼睛的话 想毁灭一切的话 就让黑暗吞噬掉这一切</text>
+	<attr id="0" playtime="202.6" mode="4" fontsize="15" color="13434624"/>
+</comment>
+</comments>

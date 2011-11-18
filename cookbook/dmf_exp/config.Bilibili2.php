@@ -45,6 +45,7 @@ class Bilibili2GroupConfig extends GroupConfig
 	public function GenerateFlashVarArr(VideoData $source)
 	{
 		$AFVArray = array();
+		
 	    switch (strtoupper($source->sourcetype->getType()))
 	    {
 	        case "NOR":
@@ -97,8 +98,12 @@ class Bilibili2GroupConfig extends GroupConfig
             $pool = 1;
             if ($comment->message['mode'] == '8') $pool = 2;
 			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef');
-            $danmaku->AddAttr($comment->playTime, $comment->message['mode'],
-                        $comment->message['fontsize'], $comment->message['color']);
+            $attrs = array(
+                    'playtime'  => $comment->playTime,
+                    'mode'      => $comment->message['mode'],
+                    'fontsize'  => $comment->message['fontsize'],
+                    'color'     => $comment->message['color']);
+            $danmaku->AddAttr($attrs);
 			$XMLString .= (string)$danmaku;
 		}
 		$XMLString .= "\r\n</comments>";
@@ -112,7 +117,12 @@ class Bilibili2GroupConfig extends GroupConfig
 		foreach ($Obj->d as $comment) {
 			$arr = explode(",", $comment['p']);
 			$danmaku = new DanmakuBuilder((string)$comment, $arr[5], 'deadbeef');
-            $danmaku->AddAttr($arr[0], $arr[1], $arr[2], $arr[3]);
+            $attrs = array(
+                    'playtime'  => $arr[0],
+                    'mode'      => $arr[1],
+                    'fontsize'  => $arr[2],
+                    'color'     => $arr[3],);
+            $danmaku->AddAttr($attrs);
 			$XMLString .= (string)$danmaku;
 		}
 		$XMLString .= "\r\n</comments>";

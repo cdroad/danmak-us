@@ -1,19 +1,20 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
 DP_P0=acold
-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+PartPlayer_P1=acold
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=aUser
 cauthor=aUser
 charset=UTF-8
 csum=
 ctime=1296011956
-host=114.243.109.239
-keywords=音乐, 
+host=127.0.0.1
+keywords=音乐,
 name=Acfun2.1179
-rev=2
+rev=4
 targets=Category.音乐
 text=(:VideoStr:45391794:)%0a(:title 	【鏡音リン・レンAppend】からくり卍ばーすと【オリジナル】 :)%0a(:keywords 音乐, :)%0a(:sourcelink:http://124.228.254.229/html/music/20110122/168053.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
-time=1296012359
-title=	【鏡音リン・レンAppend】からくり卍ばーすと【オリジナル】 
+time=1321637362
+title=	【鏡音リン・レンAppend】からくり卍ばーすと【オリジナル】
 author:1296012359=aUser
 diff:1296012359:1296011956:=
 host:1296012359=114.243.109.239

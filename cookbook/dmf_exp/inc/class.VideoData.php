@@ -91,34 +91,35 @@ class VideoData
 		
 		$this->source = PageVar($this->pagename,'$:VideoStr');
 		
-		$partIndex = intval($_REQUEST['part']);
+		$this->partIndex = intval($_REQUEST['Part']) > 1 ? intval($_REQUEST['Part']) : 1;
+		
 		$isRequestPartIndexExist = ($part > 1);
-		$PageVarResult = PageVar($this->pagename, '$:P'.$partIndex);
+		$PageVarResult = PageVar($this->pagename, '$:P'.$this->partIndex);
 		$isRequestPartIndexVaild = !empty($PageVarResult);
 		
-		$UserPreferPlayer = $page["PartPlayer_".$this->partIndex];
+		$PartPreferPlayer = $page["PartPlayer_P".$this->partIndex];
 		$UserPreferPlayer = $_REQUEST['player'];
-		if ( !empty($this->groupConfig->PlayersSet->$PartPreferPlayer) )
-		{
-			$this->player = $this->groupConfig->PlayersSet->$PartPreferPlayer;
-		}
-		else
-		if ( !empty($this->groupConfig->PlayersSet->$PartPreferPlayer) )
+		if ( $this->groupConfig->PlayersSet->$UserPreferPlayer !== FALSE )
 		{
 			$this->player = $this->groupConfig->PlayersSet->$UserPreferPlayer;
+		}
+		else
+		if ( $this->groupConfig->PlayersSet->$PartPreferPlayer !== FALSE )
+		{
+			$this->player = $this->groupConfig->PlayersSet->$PartPreferPlayer;
 		}
 		else
 		{
 			$this->player = $this->groupConfig->PlayersSet->Default;
 		}
-
+        
 		$vt = PageVar($this->pagename,'$:VideoType');
 		if (is_null($this->groupConfig->VideoSourceSet->$vt))  {$this->setBroken();return;}
 		$this->sourcetype = $this->groupConfig->VideoSourceSet->$vt->init($this);
 		$this->muti = $this->sourcetype->MutiAble && PageVar($this->pagename, '$:IsMuti') == 'true';
 		if ($this->muti && $isRequestPartIndexExist && $isRequestPartIndexVaild)
 		{
-			$this->partIndex = $partIndex;
+			$this->partIndex = $this->partIndex;
 		} 
 		$this->dmid = $this->sourcetype->danmakuId;
 	}

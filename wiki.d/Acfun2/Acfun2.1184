@@ -1,19 +1,20 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
 DP_P0=acnew
-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+PartPlayer_P1=acnew
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=aUser
 cauthor=aUser
 charset=UTF-8
 csum=
 ctime=1297359344
-host=114.243.82.203
-keywords=音乐,vocaloid,歌ってみた,巡音ルカ,【蓮】 
+host=127.0.0.1
+keywords=音乐,vocaloid,歌ってみた,巡音ルカ,【蓮】
 name=Acfun2.1184
-rev=3
+rev=5
 targets=Category.音乐,Category.Vocaloid,Category.歌ってみた,Category.巡音ルカ,Category.【蓮】
 text=(:VideoStr:46277422:)%0a(:title 【蓮】巡音「Leia」（ゆよゆっぺ）翻唱 :)%0a(:keywords 音乐,vocaloid,歌ってみた,巡音ルカ,【蓮】 :)%0a(:sourcelink:http://124.228.254.229/html/music/20110209/172182.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
-time=1297359738
-title=【蓮】巡音「Leia」（ゆよゆっぺ）翻唱 
+time=1321637362
+title=【蓮】巡音「Leia」（ゆよゆっぺ）翻唱
 author:1297359738=aUser
 diff:1297359738:1297359694:=
 host:1297359738=114.243.82.203

@@ -1,793 +1,633 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>69.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">半径250CM 这双手能够够到的距离</message>
-    <times>2009-08-14 13:48:17</times>
-  </data>
-  <data>
-    <playTime>65</playTime>
-    <message fontsize="25" color="6749952" mode="1">隔了一个人</message>
-    <times>2009-08-14 13:48:17</times>
-  </data>
-  <data>
-    <playTime>121</playTime>
-    <message fontsize="25" color="6749952" mode="1">隔了三个人</message>
-    <times>2009-08-14 13:48:17</times>
-  </data>
-  <data>
-    <playTime>33.1</playTime>
-    <message fontsize="25" color="16777215" mode="4">芙：最喜欢姐姐的炒饭了</message>
-    <times>2009-08-14 14:52:23</times>
-  </data>
-  <data>
-    <playTime>36.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">蕾：但是很麻烦啊 自己做炒饭什么的</message>
-    <times>2009-08-14 14:54:03</times>
-  </data>
-  <data>
-    <playTime>39.9</playTime>
-    <message fontsize="25" color="16777215" mode="4">芙：姐姐的炒饭最棒了</message>
-    <times>2009-08-14 14:54:42</times>
-  </data>
-  <data>
-    <playTime>44.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">蕾：为了芙兰 请借给我力量</message>
-    <times>2009-08-14 14:55:41</times>
-  </data>
-  <data>
-    <playTime>89.8</playTime>
-    <message fontsize="25" color="16777215" mode="4">芙：小芙每天都是好孩子</message>
-    <times>2009-08-14 14:58:33</times>
-  </data>
-  <data>
-    <playTime>97.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">芙：姐姐看到一定会高兴的</message>
-    <times>2009-08-14 14:58:57</times>
-  </data>
-  <data>
-    <playTime>161.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">图书：还记得 是为了什么而努力到现在的吗</message>
-    <times>2009-08-14 15:01:22</times>
-  </data>
-  <data>
-    <playTime>50</playTime>
-    <message fontsize="25" color="16777215" mode="4">蕾：为了芙兰的幸福生活 我会成为最强</message>
-    <times>2009-08-14 15:02:18</times>
-  </data>
-  <data>
-    <playTime>194.9</playTime>
-    <message fontsize="37" color="52735" mode="2">85厘米两人间的距离</message>
-    <times>2009-08-14 15:04:05</times>
-  </data>
-  <data>
-    <playTime>17.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">竟然是不一样的。。</message>
-    <times>2009-08-14 21:43:05</times>
-  </data>
-  <data>
-    <playTime>24.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">不过还是炒啊。。</message>
-    <times>2009-08-14 21:43:12</times>
-  </data>
-  <data>
-    <playTime>51.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">大小姐你炒的没小猫好看哦</message>
-    <times>2009-08-14 21:43:39</times>
-  </data>
-  <data>
-    <playTime>29.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">ただ回る事が楽しかった</message>
-    <times>2009-08-21 23:52:05</times>
-  </data>
-  <data>
-    <playTime>29.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">只是觉得一直转动很快乐</message>
-    <times>2009-08-21 23:52:10</times>
-  </data>
-
-  <data>
-    <playTime>39.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">止まり方を忘れていた </message>
-    <times>2009-08-21 23:54:16</times>
-  </data>
-  <data>
-    <playTime>39.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">就忘记怎麼停止</message>
-    <times>2009-08-21 23:54:24</times>
-  </data>
-  <data>
-    <playTime>42.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">周りの仲间达が</message>
-    <times>2009-08-21 23:55:26</times>
-  </data>
-  <data>
-    <playTime>42.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">看著周围的同伴们</message>
-    <times>2009-08-21 23:55:35</times>
-  </data>
-  <data>
-    <playTime>46.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">自分より上手く回れるのを</message>
-    <times>2009-08-21 23:56:09</times>
-  </data>
-  <data>
-    <playTime>46.7</playTime>
-    <message fontsize="25" color="16711680" mode="4"> 转的比我还好</message>
-    <times>2009-08-21 23:56:14</times>
-  </data>
-  <data>
-    <playTime>49.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">仕方ないと一言</message>
-    <times>2009-08-21 23:57:00</times>
-  </data>
-  <data>
-    <playTime>49.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">念著没办法</message>
-    <times>2009-08-21 23:57:08</times>
-  </data>
-  <data>
-    <playTime>53.4</playTime>
-    <message fontsize="25" color="16711680" mode="4">つぶやいて谛めたフリをしていた</message>
-    <times>2009-08-21 23:57:48</times>
-  </data>
-  <data>
-    <playTime>53.4</playTime>
-    <message fontsize="25" color="16711680" mode="4">假装放弃</message>
-    <times>2009-08-21 23:57:54</times>
-  </data>
-  <data>
-    <playTime>60.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">半径250センチは</message>
-    <times>2009-08-21 23:58:10</times>
-  </data>
-  <data>
-    <playTime>60.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">半径250公分是</message>
-    <times>2009-08-21 23:58:15</times>
-  </data>
-  <data>
-    <playTime>64.1</playTime>
-    <message fontsize="25" color="16711680" mode="4"> この手の届く距离</message>
-    <times>2009-08-21 23:58:37</times>
-  </data>
-  <data>
-    <playTime>64.1</playTime>
-    <message fontsize="25" color="16711680" mode="4"> 这只手能到达的距离</message>
-    <times>2009-08-21 23:58:43</times>
-  </data>
-  <data>
-    <playTime>66.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">今から动き回りますので</message>
-    <times>2009-08-21 23:58:53</times>
-  </data>
-  <data>
-    <playTime>66.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">现在就要开始旋转了</message>
-    <times>2009-08-21 23:59:08</times>
-  </data>
-  <data>
-    <playTime>71.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">离れていてください</message>
-    <times>2009-08-21 23:59:18</times>
-  </data>
-  <data>
-    <playTime>71.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">所以请保持距离</message>
-    <times>2009-08-21 23:59:25</times>
-  </data>
-  <data>
-    <playTime>88.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">から回る事も楽しかった </message>
-    <times>2009-08-21 23:59:51</times>
-  </data>
-  <data>
-    <playTime>88.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">一直空转也很快乐</message>
-    <times>2009-08-21 23:59:55</times>
-  </data>
-  <data>
-    <playTime>91.6</playTime>
-    <message fontsize="25" color="16711680" mode="4">このままでいたかった</message>
-    <times>2009-08-22 00:00:49</times>
-  </data>
-  <data>
-    <playTime>91.6</playTime>
-    <message fontsize="25" color="16711680" mode="4">想要保持这样</message>
-    <times>2009-08-22 00:00:55</times>
-  </data>
-  <data>
-    <playTime>94.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">から回る事を続けていたら</message>
-    <times>2009-08-22 00:01:05</times>
-  </data>
-  <data>
-    <playTime>94.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">相信一直旋转下去</message>
-    <times>2009-08-22 00:01:13</times>
-  </data>
-  <data>
-    <playTime>98.5</playTime>
-    <message fontsize="25" color="16711680" mode="4">报われると信じていた</message>
-    <times>2009-08-22 00:01:37</times>
-  </data>
-  <data>
-    <playTime>98.5</playTime>
-    <message fontsize="25" color="16711680" mode="4"> 就会得到回报</message>
-    <times>2009-08-22 00:01:47</times>
-  </data>
-  <data>
-    <playTime>101.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">周りの仲间达は</message>
-    <times>2009-08-22 00:01:56</times>
-  </data>
-  <data>
-    <playTime>101.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">看著周遭的同伴们</message>
-    <times>2009-08-22 00:02:01</times>
-  </data>
-  <data>
-    <playTime>105.4</playTime>
-    <message fontsize="25" color="16711680" mode="4">自分より高く回れるから</message>
-    <times>2009-08-22 00:02:09</times>
-  </data>
-  <data>
-    <playTime>105.4</playTime>
-    <message fontsize="25" color="16711680" mode="4">转的比我还高</message>
-    <times>2009-08-22 00:02:13</times>
-  </data>
-  <data>
-    <playTime>108.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">下から眺めるのは</message>
-    <times>2009-08-22 00:02:42</times>
-  </data>
-  <data>
-    <playTime>108.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">说向下面看脖子好酸</message>
-    <times>2009-08-22 00:03:38</times>
-  </data>
-  <data>
-    <playTime>112.4</playTime>
-    <message fontsize="25" color="16711680" mode="4">首が痛いと拗ねたフリをしていた</message>
-    <times>2009-08-22 00:03:48</times>
-  </data>
-  <data>
-    <playTime>112.4</playTime>
-    <message fontsize="25" color="16711680" mode="4">假装在闹脾气</message>
-    <times>2009-08-22 00:03:52</times>
-  </data>
-  <data>
-    <playTime>119.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">半径5200センチは</message>
-    <times>2009-08-22 00:04:06</times>
-  </data>
-  <data>
-    <playTime>119.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">（半径5200公分是</message>
-    <times>2009-08-22 00:04:10</times>
-  </data>
-  <data>
-    <playTime>123.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">この手の届く距离</message>
-    <times>2009-08-22 00:04:19</times>
-  </data>
-  <data>
-    <playTime>123.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">这只手能到达的距离</message>
-    <times>2009-08-22 00:04:24</times>
-  </data>
-  <data>
-    <playTime>126.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">今から飞び回りますので</message>
-    <times>2009-08-22 00:04:32</times>
-  </data>
-  <data>
-    <playTime>126.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">现在要开始到处跳动了 </message>
-    <times>2009-08-22 00:04:37</times>
-  </data>
-  <data>
-    <playTime>130.2</playTime>
-    <message fontsize="25" color="16711680" mode="4"> 离れていてください</message>
-    <times>2009-08-22 00:04:46</times>
-  </data>
-  <data>
-    <playTime>130.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">请保持距离</message>
-    <times>2009-08-22 00:04:53</times>
-  </data>
-  <data>
-    <playTime>147.3</playTime>
-    <message fontsize="25" color="16711680" mode="4">どうでしょう</message>
-    <times>2009-08-22 00:05:20</times>
-  </data>
-  <data>
-    <playTime>147.3</playTime>
-    <message fontsize="25" color="16711680" mode="4">你觉得呢</message>
-    <times>2009-08-22 00:05:26</times>
-  </data>
-  <data>
-    <playTime>148.4</playTime>
-    <message fontsize="25" color="16711680" mode="4"> 昔の自分が</message>
-    <times>2009-08-22 00:05:51</times>
-  </data>
-  <data>
-    <playTime>148.4</playTime>
-    <message fontsize="25" color="16711680" mode="4">过去的自己</message>
-    <times>2009-08-22 00:05:54</times>
-  </data>
-  <data>
-    <playTime>150.5</playTime>
-    <message fontsize="25" color="16711680" mode="4">见たら褒めてくれるかな</message>
-    <times>2009-08-22 00:06:02</times>
-  </data>
-  <data>
-    <playTime>150.5</playTime>
-    <message fontsize="25" color="16711680" mode="4">看到了会夸奖我么？</message>
-    <times>2009-08-22 00:06:35</times>
-  </data>
-  <data>
-    <playTime>154.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">目が回り轴もぶれてるけど</message>
-    <times>2009-08-22 00:06:47</times>
-  </data>
-  <data>
-    <playTime>154.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">虽然眼前晕眩轴心偏移</message>
-    <times>2009-08-22 00:06:51</times>
-  </data>
-  <data>
-    <playTime>160.6</playTime>
-    <message fontsize="25" color="16711680" mode="4">23.4度倾いて</message>
-    <times>2009-08-22 00:07:49</times>
-  </data>
-  <data>
-    <playTime>160.6</playTime>
-    <message fontsize="25" color="16711680" mode="4">倾斜23.4度</message>
-    <times>2009-08-22 00:07:59</times>
-  </data>
-  <data>
-    <playTime>164.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">眺めた町并みは </message>
-    <times>2009-08-22 00:09:14</times>
-  </data>
-  <data>
-    <playTime>164.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">眺望的城市</message>
-    <times>2009-08-22 00:09:22</times>
-  </data>
-  <data>
-    <playTime>167.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">いつの间</message>
-    <times>2009-08-22 00:10:48</times>
-  </data>
-  <data>
-    <playTime>167.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">不知何时</message>
-    <times>2009-08-22 00:10:53</times>
-  </data>
-  <data>
-    <playTime>170.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">见た事のない色に染まっていた</message>
-    <times>2009-08-22 00:12:13</times>
-  </data>
-  <data>
-    <playTime>170.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">被染上未曾见过的颜色</message>
-    <times>2009-08-22 00:12:31</times>
-  </data>
-  <data>
-    <playTime>174.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">半径6300キロは</message>
-    <times>2009-08-22 00:12:45</times>
-  </data>
-  <data>
-    <playTime>174.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">半径6300公里是</message>
-    <times>2009-08-22 00:12:49</times>
-  </data>
-  <data>
-    <playTime>178.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">この手の届く距离</message>
-    <times>2009-08-22 00:13:04</times>
-  </data>
-  <data>
-    <playTime>178.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">这只手能到达的距离</message>
-    <times>2009-08-22 00:13:08</times>
-  </data>
-  <data>
-    <playTime>181.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">今ならできる気がしますので</message>
-    <times>2009-08-22 00:13:19</times>
-  </data>
-  <data>
-    <playTime>181.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">感觉现在就办得到</message>
-    <times>2009-08-22 00:13:24</times>
-  </data>
-  <data>
-    <playTime>186.1</playTime>
-    <message fontsize="25" color="16711680" mode="4"> 离れていてください</message>
-    <times>2009-08-22 00:13:33</times>
-  </data>
-  <data>
-    <playTime>186.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">请快点远离</message>
-    <times>2009-08-22 00:13:41</times>
-  </data>
-  <data>
-    <playTime>189.3</playTime>
-    <message fontsize="25" color="16711680" mode="4">半径85センチが</message>
-    <times>2009-08-22 00:13:49</times>
-  </data>
-  <data>
-    <playTime>189.3</playTime>
-    <message fontsize="25" color="16711680" mode="4">半径85公分是</message>
-    <times>2009-08-22 00:13:53</times>
-  </data>
-  <data>
-    <playTime>192.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">この手の届く距离</message>
-    <times>2009-08-22 00:14:01</times>
-  </data>
-  <data>
-    <playTime>192.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">这只手能到达的距离</message>
-    <times>2009-08-22 00:14:06</times>
-  </data>
-  <data>
-    <playTime>195.6</playTime>
-    <message fontsize="25" color="16711680" mode="4">いつの日か回り疲れた时は</message>
-    <times>2009-08-22 00:14:14</times>
-  </data>
-  <data>
-    <playTime>195.6</playTime>
-    <message fontsize="25" color="16711680" mode="4">哪天转到疲倦的时候</message>
-    <times>2009-08-22 00:14:26</times>
-  </data>
-  <data>
-    <playTime>199.9</playTime>
-    <message fontsize="25" color="16711680" mode="4"> 侧にいてください</message>
-    <times>2009-08-22 00:14:35</times>
-  </data>
-  <data>
-    <playTime>199.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">请陪伴在我的身旁</message>
-    <times>2009-08-22 00:14:44</times>
-  </data>
-  <data>
-    <playTime>203.5</playTime>
-    <message fontsize="25" color="16711680" mode="4">------终わり-----</message>
-    <times>2009-08-22 00:14:53</times>
-  </data>
-  <data>
-    <playTime>203.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">防止再次被刷</message>
-    <times>2009-08-22 00:16:13</times>
-  </data>
-  <data>
-    <playTime>203.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">重复了一遍对话</message>
-    <times>2009-08-22 00:16:21</times>
-  </data>
-  <data>
-    <playTime>203.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">请不要介意</message>
-    <times>2009-08-22 00:16:25</times>
-  </data>
-  <data>
-    <playTime>186.8</playTime>
-    <message fontsize="25" color="16777215" mode="4">“对不起，我的妹妹……”</message>
-    <times>2009-08-28 09:20:49</times>
-  </data>
-  <data>
-    <playTime>57.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">芙：姐姐……</message>
-    <times>2009-08-28 09:23:43</times>
-  </data>
-  <data>
-    <playTime>1.5</playTime>
-    <message fontsize="25" color="16711680" mode="4">半径85センチが</message>
-    <times>2009-08-28 09:30:14</times>
-  </data>
-  <data>
-    <playTime>1.5</playTime>
-    <message fontsize="25" color="16711680" mode="4">半径八十五厘米</message>
-    <times>2009-08-28 09:30:28</times>
-  </data>
-  <data>
-    <playTime>5.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">この手の届く距离</message>
-    <times>2009-08-28 09:31:53</times>
-  </data>
-  <data>
-    <playTime>5.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">是这双手能触及的范围</message>
-    <times>2009-08-28 09:31:57</times>
-  </data>
-  <data>
-    <playTime>8.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">今から振り回しますので</message>
-    <times>2009-08-28 09:33:56</times>
-  </data>
-  <data>
-    <playTime>8.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">现在开始就要旋转</message>
-    <times>2009-08-28 09:34:17</times>
-  </data>
-  <data>
-    <playTime>12.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">离れていてください</message>
-    <times>2009-08-28 09:35:08</times>
-  </data>
-  <data>
-    <playTime>12.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">所以请保持距离</message>
-    <times>2009-08-28 09:35:24</times>
-  </data>
-  <data>
-    <playTime>32.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">このままでいたかった</message>
-    <times>2009-08-28 09:38:18</times>
-  </data>
-  <data>
-    <playTime>32.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">想一直这样旋转下去</message>
-    <times>2009-08-28 09:38:20</times>
-  </data>
-  <data>
-    <playTime>36.3</playTime>
-    <message fontsize="25" color="16711680" mode="4">ただ回る事を続けていたら</message>
-    <times>2009-08-28 09:39:04</times>
-  </data>
-  <data>
-    <playTime>36.3</playTime>
-    <message fontsize="25" color="16711680" mode="4">只是一直转下去</message>
-    <times>2009-08-28 09:39:24</times>
-  </data>
-  <data>
-    <playTime>173.1</playTime>
-    <message fontsize="25" color="16777215" mode="5">“我……做了不可原谅的事情……”</message>
-    <times>2009-08-28 10:17:51</times>
-  </data>
-  <data>
-    <playTime>175.1</playTime>
-    <message fontsize="25" color="16777215" mode="5">必须……马上去见她！</message>
-    <times>2009-08-28 10:18:29</times>
-  </data>
-  <data>
-    <playTime>206.5</playTime>
-    <message fontsize="25" color="16777215" mode="5">友情重复字幕</message>
-    <times>2009-08-28 10:21:13</times>
-  </data>
-  <data>
-    <playTime>206.5</playTime>
-    <message fontsize="25" color="16777215" mode="5">请不要介意</message>
-    <times>2009-08-28 10:22:01</times>
-  </data>
-  <data>
-    <playTime>206.5</playTime>
-    <message fontsize="25" color="16777215" mode="5">——野生字幕君⑨号</message>
-    <times>2009-08-28 10:22:30</times>
-  </data>
-  <data>
-    <playTime>21.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">炒饭歌</message>
-    <times>2009-08-28 10:41:31</times>
-  </data>
-  <data>
-    <playTime>72.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">转圈了</message>
-    <times>2009-08-28 10:42:22</times>
-  </data>
-  <data>
-    <playTime>190.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">我承认我感动了TAT</message>
-    <times>2009-09-01 19:50:18</times>
-  </data>
-  <data>
-    <playTime>15.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">原来我看过的。。。</message>
-    <times>2009-09-13 01:49:03</times>
-  </data>
-  <data>
-    <playTime>118.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">出去干架了！</message>
-    <times>2009-09-13 01:50:52</times>
-  </data>
-  <data>
-    <playTime>208.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">笑夜和蕾米的位置是不是颠倒了。。。吵饭她就那么拿手吗</message>
-    <times>2009-09-13 01:52:58</times>
-  </data>
-  <data>
-    <playTime>26.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">我爱这曲</message>
-    <times>2009-09-13 01:55:40</times>
-  </data>
-  <data>
-    <playTime>10.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">双重字幕自重</message>
-    <times>2009-09-23 15:42:21</times>
-  </data>
-  <data>
-    <playTime>203.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">这是作弊啊混蛋</message>
-    <times>2009-09-23 20:44:10</times>
-  </data>
-  <data>
-    <playTime>70.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">大小姐威武</message>
-    <times>2009-09-29 14:07:15</times>
-  </data>
-  <data>
-    <playTime>88.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">PAD</message>
-    <times>2009-10-02 19:24:14</times>
-  </data>
-  <data>
-    <playTime>194.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">好萌。。</message>
-    <times>2009-10-02 19:22:17</times>
-  </data>
-  <data>
-    <playTime>197.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">我泪目了</message>
-    <times>2009-10-02 19:22:21</times>
-  </data>
-  <data>
-    <playTime>189.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">泪目了</message>
-    <times>2009-10-02 19:25:56</times>
-  </data>
-  <data>
-    <playTime>32.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">大小姐学做菜？</message>
-    <times>2009-10-02 19:33:37</times>
-  </data>
-  <data>
-    <playTime>13.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">....</message>
-    <times>2009-10-02 19:51:06</times>
-  </data>
-  <data>
-    <playTime>196.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">TAT!</message>
-    <times>2009-10-02 19:44:56</times>
-  </data>
-  <data>
-    <playTime>80.5</playTime>
-    <message fontsize="25" color="0" mode="1">巡音的转转歌= =。。</message>
-    <times>2009-10-02 19:45:09</times>
-  </data>
-  <data>
-    <playTime>50</playTime>
-    <message fontsize="25" color="16777215" mode="1">多重字幕?</message>
-    <times>2009-10-02 19:44:43</times>
-  </data>
-  <data>
-    <playTime>36.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">东方馅挂炒饭</message>
-    <times>2009-10-02 19:45:45</times>
-  </data>
-  <data>
-    <playTime>175.6</playTime>
-    <message fontsize="37" color="26367" mode="1">蕾米- -称帝。。。。。</message>
-    <times>2009-10-02 19:47:11</times>
-  </data>
-  <data>
-    <playTime>184.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">...</message>
-    <times>2009-10-02 19:46:57</times>
-  </data>
-  <data>
-    <playTime>197.8</playTime>
-    <message fontsize="37" color="26367" mode="1">85CM是啥含义噶？</message>
-    <times>2009-10-02 19:47:56</times>
-  </data>
-  <data>
-    <playTime>203.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">泪目</message>
-    <times>2009-10-02 19:47:17</times>
-  </data>
-  <data>
-    <playTime>158.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">威严！</message>
-    <times>2009-10-02 19:49:34</times>
-  </data>
-  <data>
-    <playTime>83.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-10-02 19:49:36</times>
-  </data>
-
-  <data>
-    <playTime>101.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">一直旋转</message>
-    <times>2009-10-02 19:49:54</times>
-  </data>
-  <data>
-    <playTime>183.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">大小姐你的威严啊！</message>
-    <times>2009-10-02 19:50:05</times>
-  </data>
-  <data>
-    <playTime>58.7</playTime>
-    <message fontsize="25" color="26367" mode="1">谁说不是巡音的= =你看到 3：31的时候有写= =</message>
-    <times>2009-10-02 19:50:20</times>
-  </data>
-  <data>
-    <playTime>208.6</playTime>
-    <message fontsize="25" color="26367" mode="1">话说蕾米的炒饭会弄跨人不= =？</message>
-    <times>2009-10-02 19:53:22</times>
-  </data>
-  <data>
-    <playTime>26.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">泪崩啊。。。</message>
-    <times>2009-10-02 20:22:41</times>
-  </data>
-  <data>
-    <playTime>25.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">2和一字幕君呀- -</message>
-    <times>2009-10-02 20:32:59</times>
-  </data>
-  <data>
-    <playTime>203.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">心与心的距离？</message>
-    <times>2009-10-02 20:37:53</times>
-  </data>
-  <data>
-    <playTime>74.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">开打了啊</message>
-    <times>2009-10-02 20:50:49</times>
-  </data>
-  <data>
-    <playTime>208.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">不介意，野生字幕君好人，现在AC就缺你们了</message>
-    <times>2009-10-02 20:52:13</times>
-  </data>
-  <data>
-    <playTime>184.9</playTime>
-    <message fontsize="25" color="16777215" mode="4">摔倒了。。</message>
-    <times>2009-10-02 20:52:47</times>
-  </data>
-  <data>
-    <playTime>190.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">
-蕾米莉亚。。。</message>
-    <times>2009-10-02 20:52:52</times>
-  </data>
-  <data>
-    <playTime>21.1</playTime>
-    <message fontsize="25" color="16737843" mode="1">什么东西嘛</message>
-    <times>2009-10-02 20:56:25</times>
-  </data>
-  <data>
-    <playTime>47.9</playTime>
-    <message fontsize="25" color="10040115" mode="1">是饭</message>
-    <times>2009-10-02 20:56:52</times>
-  </data>
-  <data>
-    <playTime>68.4</playTime>
-    <message fontsize="25" color="255" mode="1">一起刷起来</message>
-    <times>2009-10-02 20:57:12</times>
-  </data>
-  <data>
-    <playTime>81.7</playTime>
-    <message fontsize="25" color="255" mode="1">500%</message>
-    <times>2009-10-02 20:57:25</times>
-  </data>
-
-  <data>
-    <playTime>132.9</playTime>
-    <message fontsize="25" color="255" mode="1">80....520</message>
-    <times>2009-10-02 20:58:17</times>
-  </data>
-  <data>
-    <playTime>172.4</playTime>
-    <message fontsize="25" color="16711680" mode="1">
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1699379327" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径250CM 这双手能够够到的距离</text>
+	<attr id="0" playtime="69.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1187625458" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>隔了一个人</text>
+	<attr id="0" playtime="65" mode="1" fontsize="25" color="6749952"/>
+</comment>
+<comment id="2039450900" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>隔了三个人</text>
+	<attr id="0" playtime="121" mode="1" fontsize="25" color="6749952"/>
+</comment>
+<comment id="11658927" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>芙：最喜欢姐姐的炒饭了</text>
+	<attr id="0" playtime="33.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="871333333" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>蕾：但是很麻烦啊 自己做炒饭什么的</text>
+	<attr id="0" playtime="36.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1026656763" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>芙：姐姐的炒饭最棒了</text>
+	<attr id="0" playtime="39.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="57544059" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>蕾：为了芙兰 请借给我力量</text>
+	<attr id="0" playtime="44.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="593615884" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>芙：小芙每天都是好孩子</text>
+	<attr id="0" playtime="89.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2117692463" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>芙：姐姐看到一定会高兴的</text>
+	<attr id="0" playtime="97.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1092411916" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>图书：还记得 是为了什么而努力到现在的吗</text>
+	<attr id="0" playtime="161.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="262446550" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>蕾：为了芙兰的幸福生活 我会成为最强</text>
+	<attr id="0" playtime="50" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1860737094" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>85厘米两人间的距离</text>
+	<attr id="0" playtime="194.9" mode="2" fontsize="37" color="52735"/>
+</comment>
+<comment id="1551341737" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>竟然是不一样的。。</text>
+	<attr id="0" playtime="17.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="181262803" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>不过还是炒啊。。</text>
+	<attr id="0" playtime="24.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1624487734" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>大小姐你炒的没小猫好看哦</text>
+	<attr id="0" playtime="51.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1439823982" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>ただ回る事が楽しかった</text>
+	<attr id="0" playtime="29.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1839588939" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>只是觉得一直转动很快乐</text>
+	<attr id="0" playtime="29.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1924596259" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>止まり方を忘れていた </text>
+	<attr id="0" playtime="39.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1998168259" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>就忘记怎麼停止</text>
+	<attr id="0" playtime="39.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="405997348" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>周りの仲间达が</text>
+	<attr id="0" playtime="42.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1411997440" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>看著周围的同伴们</text>
+	<attr id="0" playtime="42.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1520269516" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>自分より上手く回れるのを</text>
+	<attr id="0" playtime="46.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1590177107" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text> 转的比我还好</text>
+	<attr id="0" playtime="46.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1842855131" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>仕方ないと一言</text>
+	<attr id="0" playtime="49.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1384799706" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>念著没办法</text>
+	<attr id="0" playtime="49.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1287152321" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>つぶやいて谛めたフリをしていた</text>
+	<attr id="0" playtime="53.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="669744704" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>假装放弃</text>
+	<attr id="0" playtime="53.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="89831379" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径250センチは</text>
+	<attr id="0" playtime="60.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="365454713" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径250公分是</text>
+	<attr id="0" playtime="60.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="539875589" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text> この手の届く距离</text>
+	<attr id="0" playtime="64.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="169620109" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text> 这只手能到达的距离</text>
+	<attr id="0" playtime="64.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="815061360" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>今から动き回りますので</text>
+	<attr id="0" playtime="66.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2141854045" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>现在就要开始旋转了</text>
+	<attr id="0" playtime="66.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="789870668" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>离れていてください</text>
+	<attr id="0" playtime="71.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1068240382" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>所以请保持距离</text>
+	<attr id="0" playtime="71.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2723120" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>から回る事も楽しかった </text>
+	<attr id="0" playtime="88.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="901123015" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>一直空转也很快乐</text>
+	<attr id="0" playtime="88.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2079815839" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>このままでいたかった</text>
+	<attr id="0" playtime="91.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1856854636" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>想要保持这样</text>
+	<attr id="0" playtime="91.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1740320104" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>から回る事を続けていたら</text>
+	<attr id="0" playtime="94.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1730372204" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>相信一直旋转下去</text>
+	<attr id="0" playtime="94.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="721286049" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>报われると信じていた</text>
+	<attr id="0" playtime="98.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="377480723" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text> 就会得到回报</text>
+	<attr id="0" playtime="98.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1317937380" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>周りの仲间达は</text>
+	<attr id="0" playtime="101.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="581198809" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>看著周遭的同伴们</text>
+	<attr id="0" playtime="101.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1227879444" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>自分より高く回れるから</text>
+	<attr id="0" playtime="105.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1005225668" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>转的比我还高</text>
+	<attr id="0" playtime="105.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1364329746" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>下から眺めるのは</text>
+	<attr id="0" playtime="108.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1286178750" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>说向下面看脖子好酸</text>
+	<attr id="0" playtime="108.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1730869679" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>首が痛いと拗ねたフリをしていた</text>
+	<attr id="0" playtime="112.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1562304571" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>假装在闹脾气</text>
+	<attr id="0" playtime="112.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1269317628" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径5200センチは</text>
+	<attr id="0" playtime="119.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="138560489" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>（半径5200公分是</text>
+	<attr id="0" playtime="119.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="560201178" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>この手の届く距离</text>
+	<attr id="0" playtime="123.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1483369784" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>这只手能到达的距离</text>
+	<attr id="0" playtime="123.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2088056492" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>今から飞び回りますので</text>
+	<attr id="0" playtime="126.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1115026171" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>现在要开始到处跳动了 </text>
+	<attr id="0" playtime="126.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="44241272" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text> 离れていてください</text>
+	<attr id="0" playtime="130.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2067000109" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>请保持距离</text>
+	<attr id="0" playtime="130.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1329316415" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>どうでしょう</text>
+	<attr id="0" playtime="147.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="672269727" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>你觉得呢</text>
+	<attr id="0" playtime="147.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2136798124" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text> 昔の自分が</text>
+	<attr id="0" playtime="148.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1083840020" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>过去的自己</text>
+	<attr id="0" playtime="148.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1188343493" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>见たら褒めてくれるかな</text>
+	<attr id="0" playtime="150.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="298270467" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>看到了会夸奖我么？</text>
+	<attr id="0" playtime="150.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="459878521" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>目が回り轴もぶれてるけど</text>
+	<attr id="0" playtime="154.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="223060545" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>虽然眼前晕眩轴心偏移</text>
+	<attr id="0" playtime="154.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="802471756" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>23.4度倾いて</text>
+	<attr id="0" playtime="160.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="176663471" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>倾斜23.4度</text>
+	<attr id="0" playtime="160.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1538484315" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>眺めた町并みは </text>
+	<attr id="0" playtime="164.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1015822850" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>眺望的城市</text>
+	<attr id="0" playtime="164.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1339146070" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>いつの间</text>
+	<attr id="0" playtime="167.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1137956317" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>不知何时</text>
+	<attr id="0" playtime="167.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="995071262" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>见た事のない色に染まっていた</text>
+	<attr id="0" playtime="170.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2059409932" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>被染上未曾见过的颜色</text>
+	<attr id="0" playtime="170.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="55492898" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径6300キロは</text>
+	<attr id="0" playtime="174.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2127388992" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径6300公里是</text>
+	<attr id="0" playtime="174.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1445090549" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>この手の届く距离</text>
+	<attr id="0" playtime="178.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="466330136" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>这只手能到达的距离</text>
+	<attr id="0" playtime="178.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2015753897" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>今ならできる気がしますので</text>
+	<attr id="0" playtime="181.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="819405205" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>感觉现在就办得到</text>
+	<attr id="0" playtime="181.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="526152947" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text> 离れていてください</text>
+	<attr id="0" playtime="186.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="96761323" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>请快点远离</text>
+	<attr id="0" playtime="186.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1488592518" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径85センチが</text>
+	<attr id="0" playtime="189.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1418161770" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径85公分是</text>
+	<attr id="0" playtime="189.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1479432905" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>この手の届く距离</text>
+	<attr id="0" playtime="192.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="190210130" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>这只手能到达的距离</text>
+	<attr id="0" playtime="192.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1794316811" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>いつの日か回り疲れた时は</text>
+	<attr id="0" playtime="195.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1212649090" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>哪天转到疲倦的时候</text>
+	<attr id="0" playtime="195.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2016836235" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text> 侧にいてください</text>
+	<attr id="0" playtime="199.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="14290503" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>请陪伴在我的身旁</text>
+	<attr id="0" playtime="199.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1884248820" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>------终わり-----</text>
+	<attr id="0" playtime="203.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1846056134" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>防止再次被刷</text>
+	<attr id="0" playtime="203.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2122998470" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>重复了一遍对话</text>
+	<attr id="0" playtime="203.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="738805675" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>请不要介意</text>
+	<attr id="0" playtime="203.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1872799220" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>“对不起，我的妹妹……”</text>
+	<attr id="0" playtime="186.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1281723823" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>芙：姐姐……</text>
+	<attr id="0" playtime="57.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="502976700" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径85センチが</text>
+	<attr id="0" playtime="1.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1959149818" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>半径八十五厘米</text>
+	<attr id="0" playtime="1.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="695180081" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>この手の届く距离</text>
+	<attr id="0" playtime="5.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1152855318" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>是这双手能触及的范围</text>
+	<attr id="0" playtime="5.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1099907952" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>今から振り回しますので</text>
+	<attr id="0" playtime="8.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1143015006" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>现在开始就要旋转</text>
+	<attr id="0" playtime="8.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1643359526" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>离れていてください</text>
+	<attr id="0" playtime="12.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="623598234" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>所以请保持距离</text>
+	<attr id="0" playtime="12.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1199556513" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>このままでいたかった</text>
+	<attr id="0" playtime="32.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="957822388" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>想一直这样旋转下去</text>
+	<attr id="0" playtime="32.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="607101105" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>ただ回る事を続けていたら</text>
+	<attr id="0" playtime="36.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="354618393" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>只是一直转下去</text>
+	<attr id="0" playtime="36.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="537604133" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>“我……做了不可原谅的事情……”</text>
+	<attr id="0" playtime="173.1" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1713264720" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>必须……马上去见她！</text>
+	<attr id="0" playtime="175.1" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="571210603" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>友情重复字幕</text>
+	<attr id="0" playtime="206.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1338017391" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>请不要介意</text>
+	<attr id="0" playtime="206.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="144876525" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>——野生字幕君⑨号</text>
+	<attr id="0" playtime="206.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="80236465" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>炒饭歌</text>
+	<attr id="0" playtime="21.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="123675315" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>转圈了</text>
+	<attr id="0" playtime="72.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="115439356" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>我承认我感动了TAT</text>
+	<attr id="0" playtime="190.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="488656491" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>原来我看过的。。。</text>
+	<attr id="0" playtime="15.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1988732194" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>出去干架了！</text>
+	<attr id="0" playtime="118.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="378992093" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>笑夜和蕾米的位置是不是颠倒了。。。吵饭她就那么拿手吗</text>
+	<attr id="0" playtime="208.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="197644634" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>我爱这曲</text>
+	<attr id="0" playtime="26.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1030969602" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>双重字幕自重</text>
+	<attr id="0" playtime="10.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2127244932" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>这是作弊啊混蛋</text>
+	<attr id="0" playtime="203.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1908670652" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>大小姐威武</text>
+	<attr id="0" playtime="70.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1821078836" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>PAD</text>
+	<attr id="0" playtime="88.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1914863239" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>好萌。。</text>
+	<attr id="0" playtime="194.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1067673193" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>我泪目了</text>
+	<attr id="0" playtime="197.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="444835555" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>泪目了</text>
+	<attr id="0" playtime="189.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="603198262" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>大小姐学做菜？</text>
+	<attr id="0" playtime="32.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="444639352" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>....</text>
+	<attr id="0" playtime="13.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="931275046" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>TAT!</text>
+	<attr id="0" playtime="196.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="509056765" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>巡音的转转歌= =。。</text>
+	<attr id="0" playtime="80.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1969664885" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>多重字幕?</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1570648816" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>东方馅挂炒饭</text>
+	<attr id="0" playtime="36.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="945488881" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>蕾米- -称帝。。。。。</text>
+	<attr id="0" playtime="175.6" mode="1" fontsize="37" color="26367"/>
+</comment>
+<comment id="1654107447" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>...</text>
+	<attr id="0" playtime="184.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="305938814" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>85CM是啥含义噶？</text>
+	<attr id="0" playtime="197.8" mode="1" fontsize="37" color="26367"/>
+</comment>
+<comment id="1794768201" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>泪目</text>
+	<attr id="0" playtime="203.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="360621804" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>威严！</text>
+	<attr id="0" playtime="158.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1289204575" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>
+    </text>
+	<attr id="0" playtime="83.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="377373197" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>一直旋转</text>
+	<attr id="0" playtime="101.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2133198001" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>大小姐你的威严啊！</text>
+	<attr id="0" playtime="183.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="303350970" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>谁说不是巡音的= =你看到 3：31的时候有写= =</text>
+	<attr id="0" playtime="58.7" mode="1" fontsize="25" color="26367"/>
+</comment>
+<comment id="1044312820" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>话说蕾米的炒饭会弄跨人不= =？</text>
+	<attr id="0" playtime="208.6" mode="1" fontsize="25" color="26367"/>
+</comment>
+<comment id="1652698843" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>泪崩啊。。。</text>
+	<attr id="0" playtime="26.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2070441431" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>2和一字幕君呀- -</text>
+	<attr id="0" playtime="25.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1242858178" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>心与心的距离？</text>
+	<attr id="0" playtime="203.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1772899989" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>开打了啊</text>
+	<attr id="0" playtime="74.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1197122250" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>不介意，野生字幕君好人，现在AC就缺你们了</text>
+	<attr id="0" playtime="208.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="505639621" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>摔倒了。。</text>
+	<attr id="0" playtime="184.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="604500455" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>
+蕾米莉亚。。。</text>
+	<attr id="0" playtime="190.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1791320296" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>什么东西嘛</text>
+	<attr id="0" playtime="21.1" mode="1" fontsize="25" color="16737843"/>
+</comment>
+<comment id="1357567187" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>是饭</text>
+	<attr id="0" playtime="47.9" mode="1" fontsize="25" color="10040115"/>
+</comment>
+<comment id="78343188" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>一起刷起来</text>
+	<attr id="0" playtime="68.4" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="1359404074" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>500%</text>
+	<attr id="0" playtime="81.7" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="279812098" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>80....520</text>
+	<attr id="0" playtime="132.9" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="666775711" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>
 　
 
 
@@ -802,92 +642,75 @@
 
 
 
-　</message>
-    <times>2009-10-02 21:19:55</times>
-  </data>
-  <data>
-    <playTime>54</playTime>
-    <message fontsize="25" color="6749952" mode="1">增到一个图书业务员</message>
-    <times>2009-10-03 04:39:13</times>
-  </data>
-  <data>
-    <playTime>80</playTime>
-    <message fontsize="25" color="6749952" mode="1">增到一个美玲业务员</message>
-    <times>2009-10-03 04:39:13</times>
-  </data>
-  <data>
-    <playTime>87</playTime>
-    <message fontsize="25" color="6749952" mode="1">增到一个PAD业务员</message>
-    <times>2009-10-03 04:39:13</times>
-  </data>
-  <data>
-    <playTime>121</playTime>
-    <message fontsize="25" color="6749952" mode="1">妹妹大人不高兴了</message>
-    <times>2009-10-03 04:39:13</times>
-  </data>
-  <data>
-    <playTime>5.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">........</message>
-    <times>2009-10-02 21:36:03</times>
-  </data>
-  <data>
-    <playTime>14.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">双字幕?</message>
-    <times>2009-10-02 21:36:12</times>
-  </data>
-  <data>
-    <playTime>211.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">泪流满面啊混蛋！！！！</message>
-    <times>2009-10-02 21:36:42</times>
-  </data>
-  <data>
-    <playTime>62</playTime>
-    <message fontsize="25" color="6749952" mode="1">为了妹妹...</message>
-    <times>2009-10-02 21:38:16</times>
-  </data>
-  <data>
-    <playTime>75.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">妹控的力量是无穷大的...你们以为我是谁!</message>
-    <times>2009-10-02 21:45:11</times>
-  </data>
-  <data>
-    <playTime>100.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">LOLI有爱!</message>
-    <times>2009-10-02 21:47:25</times>
-  </data>
-  <data>
-    <playTime>154.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">你是好人图书桑</message>
-    <times>2009-10-02 21:48:19</times>
-  </data>
-  <data>
-    <playTime>183.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">变身</message>
-    <times>2009-10-02 21:48:47</times>
-  </data>
-  <data>
-    <playTime>200.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">合体吧!!!!!</message>
-    <times>2009-10-02 21:49:04</times>
-  </data>
-  <data>
-    <playTime>183.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">大小姐创业史？</message>
-    <times>2009-10-02 22:03:36</times>
-  </data>
-  <data>
-    <playTime>211.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">中国你居然上桌了。 = =、</message>
-    <times>2009-10-02 10:36:23</times>
-  </data>
-  <data>
-    <playTime>194.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">泪目</message>
-    <times>2009-10-03 04:37:11</times>
-  </data>
-  <data>
-    <playTime>164</playTime>
-    <message fontsize="25" color="6749952" mode="1">为了妹妹的幸福啊！混蛋</message>
-    <times>2009-10-03 04:39:13</times>
-  </data>
-</information>
+　</text>
+	<attr id="0" playtime="172.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1402638994" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>增到一个图书业务员</text>
+	<attr id="0" playtime="54" mode="1" fontsize="25" color="6749952"/>
+</comment>
+<comment id="1808015208" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>增到一个美玲业务员</text>
+	<attr id="0" playtime="80" mode="1" fontsize="25" color="6749952"/>
+</comment>
+<comment id="653651829" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>增到一个PAD业务员</text>
+	<attr id="0" playtime="87" mode="1" fontsize="25" color="6749952"/>
+</comment>
+<comment id="1434329748" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>妹妹大人不高兴了</text>
+	<attr id="0" playtime="121" mode="1" fontsize="25" color="6749952"/>
+</comment>
+<comment id="531098907" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>........</text>
+	<attr id="0" playtime="5.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1674663272" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>双字幕?</text>
+	<attr id="0" playtime="14.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1660799617" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>泪流满面啊混蛋！！！！</text>
+	<attr id="0" playtime="211.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1362202777" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>为了妹妹...</text>
+	<attr id="0" playtime="62" mode="1" fontsize="25" color="6749952"/>
+</comment>
+<comment id="1682713119" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>妹控的力量是无穷大的...你们以为我是谁!</text>
+	<attr id="0" playtime="75.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1459707789" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>LOLI有爱!</text>
+	<attr id="0" playtime="100.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="592251844" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>你是好人图书桑</text>
+	<attr id="0" playtime="154.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1087701240" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>变身</text>
+	<attr id="0" playtime="183.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="838341793" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>合体吧!!!!!</text>
+	<attr id="0" playtime="200.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2013929617" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>大小姐创业史？</text>
+	<attr id="0" playtime="183.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2065439079" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>中国你居然上桌了。 = =、</text>
+	<attr id="0" playtime="211.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="659112951" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>泪目</text>
+	<attr id="0" playtime="194.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2036668694" poolid="1" userhash="deadbeef" sendtime="1321635713">
+	<text>为了妹妹的幸福啊！混蛋</text>
+	<attr id="0" playtime="164" mode="1" fontsize="25" color="6749952"/>
+</comment>
+</comments>

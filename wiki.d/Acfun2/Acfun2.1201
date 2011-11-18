@@ -1,19 +1,20 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
 DP_P0=acnew
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
+PartPlayer_P1=acnew
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=Admin
 cauthor=Admin
 charset=UTF-8
 csum=
 ctime=1299484590
-host=180.110.96.164
-keywords=音乐,GUMI, 
+host=127.0.0.1
+keywords=音乐,GUMI,
 name=Acfun2.1201
-rev=2
+rev=4
 targets=Category.音乐,Category.GUMI
 text=(:VideoStr:47519974:)%0a(:title 【GUMI】 卒業 -また会う日まで- :)%0a(:keywords 音乐,GUMI, :)%0a(:sourcelink:http://124.228.254.229/html/music/20110303/177386.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
-time=1299484605
-title=【GUMI】 卒業 -また会う日まで- 
+time=1321637362
+title=【GUMI】 卒業 -また会う日まで-
 author:1299484605=Admin
 diff:1299484605:1299484590:=
 host:1299484605=180.110.96.164

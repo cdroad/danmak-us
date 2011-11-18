@@ -1,138 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>15.2</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[街上的每个角落 都是冬天的景色]]></message>
-    <times>2009-11-03 11:56:04</times>
-  </data>
-  <data>
-    <playTime>22.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">北风静静的吹动</message>
-    <times>2009-11-03 11:56:11</times>
-  </data>
-  <data>
-    <playTime>28.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">明明已经习惯了寒冷 为何仍觉得悲伤</message>
-    <times>2009-11-03 11:56:17</times>
-  </data>
-  <data>
-    <playTime>32.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">会有这种感觉 是冬天的影响吗？</message>
-    <times>2009-11-03 11:56:34</times>
-  </data>
-  <data>
-    <playTime>47.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">天空仿佛紧紧相连一般</message>
-    <times>2009-11-03 11:56:57</times>
-  </data>
-  <data>
-    <playTime>54.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">是否可以到达你的所在呢</message>
-    <times>2009-11-03 11:57:03</times>
-  </data>
-  <data>
-    <playTime>60.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">这份浓厚的感情始终相伴</message>
-    <times>2009-11-03 11:57:10</times>
-  </data>
-  <data>
-    <playTime>70.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">穿越了天空</message>
-    <times>2009-11-03 11:57:19</times>
-  </data>
-  <data>
-    <playTime>73.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">距离上次相见 已经过去了一个月</message>
-    <times>2009-11-03 11:57:27</times>
-  </data>
-  <data>
-    <playTime>80</playTime>
-    <message fontsize="15" color="16777215" mode="4">北风静静的吹动</message>
-    <times>2009-11-03 11:57:34</times>
-  </data>
-  <data>
-    <playTime>86</playTime>
-    <message fontsize="15" color="16777215" mode="4">明明已经习惯了寒冷 为何仍觉得悲伤</message>
-    <times>2009-11-03 11:57:40</times>
-  </data>
-  <data>
-    <playTime>92.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">在下次相见之前 仍需忍耐</message>
-    <times>2009-11-03 11:57:47</times>
-  </data>
-  <data>
-    <playTime>105.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">天空仿佛紧紧相连一般</message>
-    <times>2009-11-03 11:57:59</times>
-  </data>
-  <data>
-    <playTime>111.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">是否可以到达你的所在呢</message>
-    <times>2009-11-03 11:58:06</times>
-  </data>
-  <data>
-    <playTime>118.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">这份浓厚的感情始终相伴</message>
-    <times>2009-11-03 11:58:12</times>
-  </data>
-  <data>
-    <playTime>127.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">穿越了天空</message>
-    <times>2009-11-03 11:58:30</times>
-  </data>
-  <data>
-    <playTime>130.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">漫长的寒冬结束的话</message>
-    <times>2009-11-03 11:58:39</times>
-  </data>
-  <data>
-    <playTime>137.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">就会静静的吹来春风</message>
-    <times>2009-11-03 11:58:46</times>
-  </data>
-  <data>
-    <playTime>143.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">只要再过上一阵 就可以与你相见</message>
-    <times>2009-11-03 11:58:52</times>
-  </data>
-  <data>
-    <playTime>150.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">一起感受这轻柔的暖风</message>
-    <times>2009-11-03 11:58:59</times>
-  </data>
-  <data>
-    <playTime>161.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">天空仿佛紧紧相连一般</message>
-    <times>2009-11-03 11:59:10</times>
-  </data>
-  <data>
-    <playTime>167.8</playTime>
-    <message fontsize="15" color="0" mode="4">一直通到你所在的地方</message>
-    <times>2009-11-03 11:59:24</times>
-  </data>
-  <data>
-    <playTime>174.2</playTime>
-    <message fontsize="15" color="0" mode="4">两人的感情始终相伴</message>
-    <times>2009-11-03 11:59:30</times>
-  </data>
-  <data>
-    <playTime>183.5</playTime>
-    <message fontsize="15" color="0" mode="4">度过这寒冬</message>
-    <times>2009-11-03 11:59:45</times>
-  </data>
-  <data>
-    <playTime>192.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">好想再与你相伴左右</message>
-    <times>2009-11-04 01:31:28</times>
-  </data>
-  <data>
-    <playTime>210</playTime>
-    <message fontsize="25" color="16777215" mode="1">下一次的相遇 请让我给你幸福</message>
-    <times>2009-11-04 01:31:45</times>
-  </data>
-  <data>
-    <playTime>217.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">"我爱你"</message>
-    <times>2009-11-04 01:32:27</times>
-  </data>
-</information>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="798563129" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>街上的每个角落 都是冬天的景色</text>
+	<attr id="0" playtime="15.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="320799530" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>北风静静的吹动</text>
+	<attr id="0" playtime="22.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="594895978" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>明明已经习惯了寒冷 为何仍觉得悲伤</text>
+	<attr id="0" playtime="28.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1775376951" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>会有这种感觉 是冬天的影响吗？</text>
+	<attr id="0" playtime="32.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="784530146" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>天空仿佛紧紧相连一般</text>
+	<attr id="0" playtime="47.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="842308759" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>是否可以到达你的所在呢</text>
+	<attr id="0" playtime="54.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1855526829" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>这份浓厚的感情始终相伴</text>
+	<attr id="0" playtime="60.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1374979087" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>穿越了天空</text>
+	<attr id="0" playtime="70.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2003416755" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>距离上次相见 已经过去了一个月</text>
+	<attr id="0" playtime="73.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1669828959" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>北风静静的吹动</text>
+	<attr id="0" playtime="80" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="461503827" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>明明已经习惯了寒冷 为何仍觉得悲伤</text>
+	<attr id="0" playtime="86" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1527842713" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>在下次相见之前 仍需忍耐</text>
+	<attr id="0" playtime="92.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1765914409" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>天空仿佛紧紧相连一般</text>
+	<attr id="0" playtime="105.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2062870916" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>是否可以到达你的所在呢</text>
+	<attr id="0" playtime="111.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1158483268" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>这份浓厚的感情始终相伴</text>
+	<attr id="0" playtime="118.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1946850331" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>穿越了天空</text>
+	<attr id="0" playtime="127.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1616425847" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>漫长的寒冬结束的话</text>
+	<attr id="0" playtime="130.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="471206947" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>就会静静的吹来春风</text>
+	<attr id="0" playtime="137.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="918807276" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>只要再过上一阵 就可以与你相见</text>
+	<attr id="0" playtime="143.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1071361626" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>一起感受这轻柔的暖风</text>
+	<attr id="0" playtime="150.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1157176457" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>天空仿佛紧紧相连一般</text>
+	<attr id="0" playtime="161.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="130693259" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>一直通到你所在的地方</text>
+	<attr id="0" playtime="167.8" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="1663269237" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>两人的感情始终相伴</text>
+	<attr id="0" playtime="174.2" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="678493228" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>度过这寒冬</text>
+	<attr id="0" playtime="183.5" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="1801123460" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>好想再与你相伴左右</text>
+	<attr id="0" playtime="192.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="962777600" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>下一次的相遇 请让我给你幸福</text>
+	<attr id="0" playtime="210" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="808961054" poolid="1" userhash="deadbeef" sendtime="1321635749">
+	<text>"我爱你"</text>
+	<attr id="0" playtime="217.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+</comments>

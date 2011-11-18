@@ -1,2214 +1,1774 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>1153.1</playTime>
-    <message fontsize="15" color="16763904" mode="4"><![CDATA[月饼Shrimp兼职野生翻译]]></message>
-    <times>2009-10-20 02:51:31</times>
-  </data>
-  <data>
-    <playTime>1154.2</playTime>
-    <message fontsize="15" color="16763904" mode="4">有错误请轻拍……</message>
-    <times>2009-10-20 02:51:49</times>
-  </data>
-  <data>
-    <playTime>1165.7</playTime>
-    <message fontsize="15" color="16763904" mode="4">欢迎来到星级争霸2战报</message>
-    <times>2009-10-20 02:52:11</times>
-  </data>
-  <data>
-    <playTime>1167.2</playTime>
-    <message fontsize="15" color="16763904" mode="4">我是David 星际2主设计师</message>
-    <times>2009-10-20 02:52:59</times>
-  </data>
-  <data>
-    <playTime>1168.7</playTime>
-    <message fontsize="15" color="16763904" mode="4">更正：Dustin= =</message>
-    <times>2009-10-20 02:53:11</times>
-  </data>
-  <data>
-    <playTime>1170.5</playTime>
-    <message fontsize="15" color="16763904" mode="4">之后我是Robert Simpson（干啥的不知道）</message>
-    <times>2009-10-20 02:54:00</times>
-  </data>
-  <data>
-    <playTime>1172.9</playTime>
-    <message fontsize="15" color="16763904" mode="4">今天又一场壮绝的比赛要带给大家</message>
-    <times>2009-10-20 02:55:02</times>
-  </data>
-  <data>
-    <playTime>1174.3</playTime>
-    <message fontsize="15" color="16763904" mode="4">（比赛选手和种族就不翻译了）</message>
-    <times>2009-10-20 02:55:26</times>
-  </data>
-  <data>
-    <playTime>1180.6</playTime>
-    <message fontsize="15" color="16763904" mode="4">他们将在Lost Temple一决雌雄</message>
-    <times>2009-10-20 02:56:08</times>
-  </data>
-  <data>
-    <playTime>1182.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">这张地图也许会听起来很熟悉</message>
-    <times>2009-10-20 02:56:47</times>
-  </data>
-  <data>
-    <playTime>1184.9</playTime>
-    <message fontsize="15" color="16763904" mode="4">没错</message>
-    <times>2009-10-20 02:56:53</times>
-  </data>
-  <data>
-    <playTime>1185</playTime>
-    <message fontsize="15" color="16763904" mode="4">这张图专门为了星际2而被重制</message>
-    <times>2009-10-20 02:57:38</times>
-  </data>
-  <data>
-    <playTime>1171.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">我是玻璃渣电子竞技组员</message>
-    <times>2009-10-20 02:57:32</times>
-  </data>
-  <data>
-    <playTime>1188.7</playTime>
-    <message fontsize="15" color="16763904" mode="4">这是原版游戏里的经典地图，嗯……</message>
-    <times>2009-10-20 02:59:41</times>
-  </data>
-  <data>
-    <playTime>1190.6</playTime>
-    <message fontsize="15" color="16763904" mode="4">women </message>
-    <times>2009-10-20 03:01:54</times>
-  </data>
-  <data>
-    <playTime>1190.6</playTime>
-    <message fontsize="15" color="16763904" mode="4">我们在这张图又加入了许多新特性</message>
-    <times>2009-10-20 03:02:09</times>
-  </data>
-  <data>
-    <playTime>1195.6</playTime>
-    <message fontsize="15" color="16763904" mode="4">现在俺看到两个基地,还看到SCV</message>
-    <times>2009-10-20 03:02:35</times>
-  </data>
-  <data>
-    <playTime>1197.7</playTime>
-    <message fontsize="15" color="16763904" mode="4">David Kim 的红色人族出生在右边</message>
-    <times>2009-10-20 03:05:26</times>
-  </data>
-  <data>
-    <playTime>1198.9</playTime>
-    <message fontsize="15" color="16763904" mode="4">两个玩家的出生位置非常的近</message>
-    <times>2009-10-20 03:07:54</times>
-  </data>
-  <data>
-    <playTime>1200.9</playTime>
-    <message fontsize="15" color="16763904" mode="4">中间只有非常小的空间</message>
-    <times>2009-10-20 03:08:47</times>
-  </data>
-  <data>
-    <playTime>1204.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">但若你纵览地图瞧瞧地貌特征</message>
-    <times>2009-10-20 03:10:03</times>
-  </data>
-  <data>
-    <playTime>1207.2</playTime>
-    <message fontsize="15" color="16763904" mode="4">这将是游戏的关键所在</message>
-    <times>2009-10-20 03:10:30</times>
-  </data>
-  <data>
-    <playTime>1208.5</playTime>
-    <message fontsize="15" color="16763904" mode="4">这里有一处狭窄隘口可以通往低地</message>
-    <times>2009-10-20 03:11:04</times>
-  </data>
-  <data>
-    <playTime>1211.3</playTime>
-    <message fontsize="15" color="16763904" mode="4">相当好守的位置</message>
-    <times>2009-10-20 03:11:45</times>
-  </data>
-  <data>
-    <playTime>1212.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">这地方很容易就能开起分基来</message>
-    <times>2009-10-20 03:12:52</times>
-  </data>
-  <data>
-    <playTime>1216</playTime>
-    <message fontsize="15" color="16763904" mode="4">采集资源，并驻守另一处狭窄的通路</message>
-    <times>2009-10-20 03:13:45</times>
-  </data>
-  <data>
-    <playTime>1223.5</playTime>
-    <message fontsize="15" color="16763904" mode="4">在这片地方后面有高地</message>
-    <times>2009-10-20 03:14:35</times>
-  </data>
-  <data>
-    <playTime>1225.6</playTime>
-    <message fontsize="15" color="16763904" mode="4">你可以尝试偷偷运点什么东西到上面去</message>
-    <times>2009-10-20 03:14:52</times>
-  </data>
-  <data>
-    <playTime>1230.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">这里还有Xel'Nage Tower（观测塔）</message>
-    <times>2009-10-20 03:15:18</times>
-  </data>
-  <data>
-    <playTime>1225.3</playTime>
-    <message fontsize="15" color="16763904" mode="4">可以利用这种地形对付敌人</message>
-    <times>2009-10-20 03:16:23</times>
-  </data>
-  <data>
-    <playTime>1231.3</playTime>
-    <message fontsize="15" color="16763904" mode="4">当你用部队占据观测塔的时候，你会得到极为宽广的视野</message>
-    <times>2009-10-20 03:16:52</times>
-  </data>
-  <data>
-    <playTime>1234.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">这对于了解战场动向来说是极为关键的。</message>
-    <times>2009-10-20 03:17:20</times>
-  </data>
-  <data>
-    <playTime>1240.4</playTime>
-    <message fontsize="15" color="16763904" mode="4">这里还有片富矿</message>
-    <times>2009-10-20 03:18:00</times>
-  </data>
-  <data>
-    <playTime>1241.4</playTime>
-    <message fontsize="15" color="16763904" mode="4">呃，中间还有一堆可破坏的石块挡着</message>
-    <times>2009-10-20 03:18:40</times>
-  </data>
-  <data>
-    <playTime>1242.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">富矿自重</message>
-    <times>2009-10-20 03:19:06</times>
-  </data>
-  <data>
-    <playTime>1245.1</playTime>
-    <message fontsize="15" color="16763904" mode="4">这些地方对于中后期游戏继续资源的玩家也是非常，非常重要的</message>
-    <times>2009-10-20 03:19:32</times>
-  </data>
-  <data>
-    <playTime>1250.3</playTime>
-    <message fontsize="15" color="16763904" mode="4">这能帮助玩家攒出最后一波总攻来干掉对手</message>
-    <times>2009-10-20 03:21:21</times>
-  </data>
-  <data>
-    <playTime>1254.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">啊你们看这里又一个观测塔又一堆石头更多的高地可以开分基……</message>
-    <times>2009-10-20 03:22:38</times>
-  </data>
-  <data>
-    <playTime>1240.2</playTime>
-    <message fontsize="15" color="16763904" mode="4">这里是高原……</message>
-    <times>2009-10-20 03:23:32</times>
-  </data>
-  <data>
-    <playTime>1259.9</playTime>
-    <message fontsize="15" color="16763904" mode="4">旁边还有一片高地</message>
-    <times>2009-10-20 03:24:29</times>
-  </data>
-  <data>
-    <playTime>1264.4</playTime>
-    <message fontsize="15" color="16763904" mode="4">你可以用来防守，也可以利用它偷袭吓对手一跳</message>
-    <times>2009-10-20 03:25:00</times>
-  </data>
-  <data>
-    <playTime>1269.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">哦哦双方玩家已经开始侦查了</message>
-    <times>2009-10-20 03:26:03</times>
-  </data>
-  <data>
-    <playTime>1273</playTime>
-    <message fontsize="15" color="16763904" mode="4">派出送死的农民来瞧瞧对方家里在干什么</message>
-    <times>2009-10-20 03:26:36</times>
-  </data>
-  <data>
-    <playTime>1279.3</playTime>
-    <message fontsize="15" color="16763904" mode="4">这时候人族家里已经开始起气矿了。</message>
-    <times>2009-10-20 03:28:02</times>
-  </data>
-  <data>
-    <playTime>1283</playTime>
-    <message fontsize="15" color="16763904" mode="4">双方的侦查农民刚刚擦肩而过</message>
-    <times>2009-10-20 03:29:06</times>
-  </data>
-  <data>
-    <playTime>1283.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">人族这时候对于神族家在什么位置应该心里有数了</message>
-    <times>2009-10-20 03:30:03</times>
-  </data>
-  <data>
-    <playTime>1287</playTime>
-    <message fontsize="15" color="16763904" mode="4">人族把农民派向了12点的位置。</message>
-    <times>2009-10-20 03:30:50</times>
-  </data>
-  <data>
-    <playTime>1290.7</playTime>
-    <message fontsize="15" color="16763904" mode="4">回到人族家里，他正在用兵营和两个房子堵口</message>
-    <times>2009-10-20 03:31:26</times>
-  </data>
-  <data>
-    <playTime>1296.9</playTime>
-    <message fontsize="15" color="16763904" mode="4">这对于面对虫族与神族的人族玩家来讲是非常自然的事情</message>
-    <times>2009-10-20 03:33:03</times>
-  </data>
-  <data>
-    <playTime>1300.4</playTime>
-    <message fontsize="15" color="16763904" mode="4">这样就能把神族的狂徒挡在门外</message>
-    <times>2009-10-20 03:33:52</times>
-  </data>
-  <data>
-    <playTime>1301.1</playTime>
-    <message fontsize="15" color="16763904" mode="4">让自己家的机枪兵能多射几枪</message>
-    <times>2009-10-20 03:34:12</times>
-  </data>
-  <data>
-    <playTime>1306</playTime>
-    <message fontsize="15" color="16763904" mode="4">结果神族的农民进不去了，在门外徘徊</message>
-    <times>2009-10-20 03:34:56</times>
-  </data>
-  <data>
-    <playTime>1311.1</playTime>
-    <message fontsize="15" color="16763904" mode="4">结果进不去，就看不到人族家里什么东西了</message>
-    <times>2009-10-20 03:36:00</times>
-  </data>
-  <data>
-    <playTime>1314.7</playTime>
-    <message fontsize="15" color="16763904" mode="4">农民很生气很暴力开始焊SCV</message>
-    <times>2009-10-20 03:36:23</times>
-  </data>
-  <data>
-    <playTime>1317.5</playTime>
-    <message fontsize="15" color="16763904" mode="4">人族农民凭借淫荡的身法闪避愤怒的Probe（逐字太累了……开始乱翻）</message>
-    <times>2009-10-20 03:37:53</times>
-  </data>
-  <data>
-    <playTime>1322.9</playTime>
-    <message fontsize="15" color="16763904" mode="4">人族农民还剩下20点血</message>
-    <times>2009-10-20 03:38:36</times>
-  </data>
-  <data>
-    <playTime>1329.5</playTime>
-    <message fontsize="15" color="16763904" mode="4">人族正在升级自己的基地</message>
-    <times>2009-10-20 03:39:06</times>
-  </data>
-  <data>
-    <playTime>1331.1</playTime>
-    <message fontsize="15" color="16763904" mode="4">叫啥Orbital Command（轨道命令？？），能够为他带来资源上的优势</message>
-    <times>2009-10-20 03:40:08</times>
-  </data>
-  <data>
-    <playTime>1334.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">人族让房子下地，放自己农民进来</message>
-    <times>2009-10-20 03:46:17</times>
-  </data>
-  <data>
-    <playTime>1340.2</playTime>
-    <message fontsize="15" color="16763904" mode="4">人族让房子下地，放自己农民进去</message>
-    <times>2009-10-20 03:47:16</times>
-  </data>
-  <data>
-    <playTime>1340.2</playTime>
-    <message fontsize="15" color="16763904" mode="4">机枪兵把神族农民赶跑了</message>
-    <times>2009-10-20 03:47:32</times>
-  </data>
-  <data>
-    <playTime>1343.5</playTime>
-    <message fontsize="15" color="16763904" mode="4">这时候神族家里已经被人族看光光了</message>
-    <times>2009-10-20 03:48:07</times>
-  </data>
-  <data>
-    <playTime>1348.6</playTime>
-    <message fontsize="15" color="16763904" mode="4">但这时候神族完全不知道人族在干啥</message>
-    <times>2009-10-20 03:48:49</times>
-  </data>
-  <data>
-    <playTime>1352</playTime>
-    <message fontsize="15" color="16763904" mode="4">这现在看起来没什么，但是对后面有很大的影响</message>
-    <times>2009-10-20 03:49:18</times>
-  </data>
-  <data>
-    <playTime>1355.4</playTime>
-    <message fontsize="15" color="16763904" mode="4">因为你需要根据对方的开局来选择相应的战术</message>
-    <times>2009-10-20 03:49:37</times>
-  </data>
-  <data>
-    <playTime>1359.4</playTime>
-    <message fontsize="15" color="16763904" mode="4">这时候神族家里单兵营</message>
-    <times>2009-10-20 03:50:11</times>
-  </data>
-  <data>
-    <playTime>1362.6</playTime>
-    <message fontsize="15" color="16763904" mode="4">之后强起电脑中心，打算出Stalker（闪烁龙骑）</message>
-    <times>2009-10-20 03:50:59</times>
-  </data>
-  <data>
-    <playTime>1369.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">这招好像对机枪兵比较管用</message>
-    <times>2009-10-20 03:51:40</times>
-  </data>
-  <data>
-    <playTime>1369.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">（这跟原来单兵营爆龙骑同出一辙嘛）</message>
-    <times>2009-10-20 03:52:07</times>
-  </data>
-  <data>
-    <playTime>1374.5</playTime>
-    <message fontsize="15" color="16763904" mode="4">Stalkers可以在机枪兵周围跳来跳去随便打</message>
-    <times>2009-10-20 03:54:37</times>
-  </data>
-  <data>
-    <playTime>1377.7</playTime>
-    <message fontsize="15" color="16763904" mode="4">这时候人族兵营就要出Marauder（劫掠者，火箭步兵）来反制</message>
-    <times>2009-10-20 03:55:14</times>
-  </data>
-  <data>
-    <playTime>1153.6</playTime>
-    <message fontsize="15" color="16763904" mode="4">先行部分字幕</message>
-    <times>2009-10-20 03:56:33</times>
-  </data>
-  <data>
-    <playTime>1380.8</playTime>
-    <message fontsize="15" color="16763904" mode="4">（这解说各种废话来回说，我决定睡觉……）</message>
-    <times>2009-10-20 03:59:01</times>
-  </data>
-  <data>
-    <playTime>1381.2</playTime>
-    <message fontsize="15" color="16763904" mode="4">（如果起床发现没人接棒，那我继续……）</message>
-    <times>2009-10-20 03:59:18</times>
-  </data>
-  <data>
-    <playTime>1381.8</playTime>
-    <message fontsize="25" color="16777215" mode="4">当然了 DavidKim已经知道这个了</message>
-    <times>2009-10-20 04:02:31</times>
-  </data>
-  <data>
-    <playTime>1384.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">他知道会有这种威胁</message>
-    <times>2009-10-20 04:02:47</times>
-  </data>
-  <data>
-    <playTime>1386</playTime>
-    <message fontsize="25" color="16777215" mode="4">他知道会有被压制的危险</message>
-    <times>2009-10-20 04:03:17</times>
-  </data>
-  <data>
-    <playTime>1388.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">同时 神族玩家还不知道人族玩家到底在搞啥</message>
-    <times>2009-10-20 04:04:08</times>
-  </data>
-  <data>
-    <playTime>1391.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">瞧 这个机枪兵很神勇的孤军占领守望塔</message>
-    <times>2009-10-20 04:06:02</times>
-  </data>
-  <data>
-    <playTime>1394.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">狂战士过来他就落跑了</message>
-    <times>2009-10-20 04:06:42</times>
-  </data>
-  <data>
-    <playTime>1396.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">机枪兵只是顾着逃跑 根本没预计到会再来一个狂战士</message>
-    <times>2009-10-20 04:07:19</times>
-  </data>
-  <data>
-    <playTime>1400.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">现在他真的遇到麻烦了</message>
-    <times>2009-10-20 04:07:45</times>
-  </data>
-  <data>
-    <playTime>1401.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">他只能拼命跑路了</message>
-    <times>2009-10-20 04:07:58</times>
-  </data>
-  <data>
-    <playTime>1403.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">被打得满头是包  这里有个转角</message>
-    <times>2009-10-20 04:09:03</times>
-  </data>
-  <data>
-    <playTime>1404.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">这个狂战士穷追不舍</message>
-    <times>2009-10-20 04:09:19</times>
-  </data>
-  <data>
-    <playTime>1408.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim很聪明 他试图把狂战士甩开</message>
-    <times>2009-10-20 04:10:42</times>
-  </data>
-  <data>
-    <playTime>1410.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">啊 一个小失误 挂了</message>
-    <times>2009-10-20 04:11:09</times>
-  </data>
-  <data>
-    <playTime>1413.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">回到David Kim的基地</message>
-    <times>2009-10-20 04:12:03</times>
-  </data>
-  <data>
-    <playTime>1415.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">他把兵营弄走了 补上了一个房子</message>
-    <times>2009-10-20 04:13:51</times>
-  </data>
-  <data>
-    <playTime>1417.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">继续堵基地</message>
-    <times>2009-10-20 04:14:25</times>
-  </data>
-  <data>
-    <playTime>1420.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">他也早了一个工厂 现在正准备对接反应堆</message>
-    <times>2009-10-20 04:15:12</times>
-  </data>
-  <data>
-    <playTime>1423.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">离开原有的反应堆接入新的反应堆</message>
-    <times>2009-10-20 04:17:23</times>
-  </data>
-  <data>
-    <playTime>1425.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">现在可以同时建造两个hellion</message>
-    <times>2009-10-20 04:18:28</times>
-  </data>
-  <data>
-    <playTime>1426.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">真的是在烧钱</message>
-    <times>2009-10-20 04:19:31</times>
-  </data>
-  <data>
-    <playTime>1430.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">用这个对付狂战士很有效</message>
-    <times>2009-10-20 04:19:59</times>
-  </data>
-  <data>
-    <playTime>1433</playTime>
-    <message fontsize="15" color="16777215" mode="4">这些东西移动速度很快 可以边跑边打</message>
-    <times>2009-10-20 04:20:51</times>
-  </data>
-  <data>
-    <playTime>1438.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">狂战士只能逃命了 试图逃到安全区域</message>
-    <times>2009-10-20 04:21:27</times>
-  </data>
-  <data>
-    <playTime>1440.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">Stalker就可以对付Hellion 能对他们进行追击</message>
-    <times>2009-10-20 04:22:22</times>
-  </data>
-  <data>
-    <playTime>1445</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是Stalker依然不能追上Hellion</message>
-    <times>2009-10-20 04:22:59</times>
-  </data>
-  <data>
-    <playTime>1447</playTime>
-    <message fontsize="15" color="16777215" mode="4">Hellion跟他们擦身而过</message>
-    <times>2009-10-20 04:23:15</times>
-  </data>
-  <data>
-    <playTime>1450.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">长驱直入神族的基地</message>
-    <times>2009-10-20 04:23:28</times>
-  </data>
-  <data>
-    <playTime>1451.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">迅速接近矿工</message>
-    <times>2009-10-20 04:23:38</times>
-  </data>
-  <data>
-    <playTime>1452</playTime>
-    <message fontsize="15" color="16777215" mode="4">然后矿工只能逃命了</message>
-    <times>2009-10-20 04:23:55</times>
-  </data>
-  <data>
-    <playTime>1453.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">Hellion步步紧逼</message>
-    <times>2009-10-20 04:24:10</times>
-  </data>
-  <data>
-    <playTime>1456</playTime>
-    <message fontsize="15" color="16777215" mode="4">搞得这里一团糟</message>
-    <times>2009-10-20 04:24:18</times>
-  </data>
-  <data>
-    <playTime>1457.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim要继续施压 他去追杀矿工</message>
-    <times>2009-10-20 04:25:14</times>
-  </data>
-  <data>
-    <playTime>1182.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">又是这俩</message>
-    <times>2009-10-19 22:25:24</times>
-  </data>
-  <data>
-    <playTime>1460.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">他也去烧了几下建筑</message>
-    <times>2009-10-20 04:27:41</times>
-  </data>
-  <data>
-    <playTime>1463.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">奥 有一台爆掉了</message>
-    <times>2009-10-20 04:27:54</times>
-  </data>
-  <data>
-    <playTime>1465.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">被Stalker打爆</message>
-    <times>2009-10-20 04:28:10</times>
-  </data>
-  <data>
-    <playTime>1467</playTime>
-    <message fontsize="15" color="16777215" mode="4">Stalker真的在努力攻击</message>
-    <times>2009-10-20 04:28:50</times>
-  </data>
-  <data>
-    <playTime>1469.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">他可不想失去更多的矿工</message>
-    <times>2009-10-20 04:29:09</times>
-  </data>
-  <data>
-    <playTime>1470.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族这次损失了3个矿工</message>
-    <times>2009-10-20 04:29:43</times>
-  </data>
-  <data>
-    <playTime>1218.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">这慢到死的卷轴速度啊....</message>
-    <times>2009-10-20 04:29:26</times>
-  </data>
-  <data>
-    <playTime>1472.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">非常幸运</message>
-    <times>2009-10-20 04:30:06</times>
-  </data>
-  <data>
-    <playTime>1474.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">没错 在控制矿工逃跑的同时利用军队反击是很重要的</message>
-    <times>2009-10-20 04:31:13</times>
-  </data>
-  <data>
-    <playTime>1176.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">挖挖翻译酱辛苦了</message>
-    <times>2009-10-20 04:31:34</times>
-  </data>
-  <data>
-    <playTime>1478.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim的两个 Hellion并没有造成太多的伤害</message>
-    <times>2009-10-20 04:31:46</times>
-  </data>
-  <data>
-    <playTime>1481.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">不过他们的确弄出了一些麻烦</message>
-    <times>2009-10-20 04:32:09</times>
-  </data>
-  <data>
-    <playTime>1588.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">神操作~~</message>
-    <times>2009-10-19 22:32:23</times>
-  </data>
-  <data>
-    <playTime>1481.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">并不值得</message>
-    <times>2009-10-20 04:32:58</times>
-  </data>
-  <data>
-    <playTime>1486</playTime>
-    <message fontsize="15" color="16777215" mode="4">看起来人族失去了主动权 神族已经扩张了</message>
-    <times>2009-10-20 04:33:57</times>
-  </data>
-  <data>
-    <playTime>1490.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">人族却只是缩在自己的基地 等待敌人进攻</message>
-    <times>2009-10-20 04:34:39</times>
-  </data>
-  <data>
-    <playTime>1496.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">人族刚完成坦克的升级</message>
-    <times>2009-10-20 04:35:00</times>
-  </data>
-  <data>
-    <playTime>1500.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">刚好能进行实战</message>
-    <times>2009-10-20 04:35:15</times>
-  </data>
-  <data>
-    <playTime>1502.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">这些试图入侵的Stalker被坦克赶走了</message>
-    <times>2009-10-20 04:35:56</times>
-  </data>
-  <data>
-    <playTime>1509.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">没错 神族可不想承受这种损失</message>
-    <times>2009-10-20 04:36:25</times>
-  </data>
-  <data>
-    <playTime>1510.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">这些Stalker不能承受那种火力的打击</message>
-    <times>2009-10-20 04:36:46</times>
-  </data>
-  <data>
-    <playTime>1514.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">想要冲破这道防线 需要更多的部队</message>
-    <times>2009-10-20 04:37:07</times>
-  </data>
-  <data>
-    <playTime>1518.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">看来David Kim要建造双基地</message>
-    <times>2009-10-20 04:37:33</times>
-  </data>
-  <data>
-    <playTime>1521.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">这些基地可以飞去地图上的任何一个角落</message>
-    <times>2009-10-20 04:38:43</times>
-  </data>
-  <data>
-    <playTime>1525.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">不过这种时候建造这种东西貌似不合时宜</message>
-    <times>2009-10-20 04:39:13</times>
-  </data>
-  <data>
-    <playTime>1320.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">翻译真欢乐</message>
-    <times>2009-10-20 04:39:27</times>
-  </data>
-  <data>
-    <playTime>1527.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">他真的应该要在经济上迎头赶上了</message>
-    <times>2009-10-20 04:39:44</times>
-  </data>
-  <data>
-    <playTime>1529.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族这边的第二基地已经开始运作了</message>
-    <times>2009-10-20 04:40:06</times>
-  </data>
-  <data>
-    <playTime>1535.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">他应该把分基地降落在富矿那里 这样能赶上去</message>
-    <times>2009-10-20 04:42:28</times>
-  </data>
-  <data>
-    <playTime>1535.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">人族应该把基地放到小岛上 这样更安全</message>
-    <times>2009-10-20 04:43:35</times>
-  </data>
-  <data>
-    <playTime>2276.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">太奔放了</message>
-    <times>2009-10-19 22:44:00</times>
-  </data>
-  <data>
-    <playTime>1541.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">这个正是Lost Temple的人族战术之一 无论在星际1还是星际2里面</message>
-    <times>2009-10-20 04:44:04</times>
-  </data>
-  <data>
-    <playTime>1546.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">利用基地的飞行特性来进行岛矿收集</message>
-    <times>2009-10-20 04:44:47</times>
-  </data>
-  <data>
-    <playTime>1550.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族是有很多方法保护自己的基地</message>
-    <times>2009-10-20 04:45:42</times>
-  </data>
-  <data>
-    <playTime>1556.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是像这种地图 玩家们都离得非常近</message>
-    <times>2009-10-20 04:46:32</times>
-  </data>
-  <data>
-    <playTime>1558.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">很难及时发现身边的威胁</message>
-    <times>2009-10-20 04:46:46</times>
-  </data>
-  <data>
-    <playTime>1561</playTime>
-    <message fontsize="15" color="16777215" mode="4">很多时候一个基地就突然没了</message>
-    <times>2009-10-20 04:47:18</times>
-  </data>
-  <data>
-    <playTime>1552.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族是有很多强力的空中单位去搜索这种分基地</message>
-    <times>2009-10-20 04:48:04</times>
-  </data>
-  <data>
-    <playTime>1556.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是像这种地图 玩家都离得太近了</message>
-    <times>2009-10-20 04:48:25</times>
-  </data>
-  <data>
-    <playTime>1562.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">很多时候一个分基地就神不知鬼不觉的建立起来了</message>
-    <times>2009-10-20 04:49:00</times>
-  </data>
-  <data>
-    <playTime>1564.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">看来有一些Hellion被空投到分基地进行骚扰</message>
-    <times>2009-10-20 04:49:39</times>
-  </data>
-  <data>
-    <playTime>1568.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim进行了一系列非常高明的微操作</message>
-    <times>2009-10-20 04:50:05</times>
-  </data>
-  <data>
-    <playTime>1569.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">在这些Stalker追杀Hellion的时候把他们抓上飞船</message>
-    <times>2009-10-20 04:50:49</times>
-  </data>
-  <data>
-    <playTime>1572.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">然后在另一边打爆了一些矿工</message>
-    <times>2009-10-20 04:51:31</times>
-  </data>
-  <data>
-    <playTime>1575.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族在进行反击 但是 他又一次上飞机跑路了</message>
-    <times>2009-10-20 04:52:11</times>
-  </data>
-  <data>
-    <playTime>1579.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族再次试图击落飞机</message>
-    <times>2009-10-20 04:52:35</times>
-  </data>
-  <data>
-    <playTime>1583.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是David Kim的微操作真的是太牛X了</message>
-    <times>2009-10-20 04:52:53</times>
-  </data>
-  <data>
-    <playTime>2297</playTime>
-    <message fontsize="25" color="16777215" mode="1">人族打法很强力</message>
-    <times>2009-10-20 04:52:41</times>
-  </data>
-  <data>
-    <playTime>1586.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">他又放下Hellion进行破坏 一架被打爆了</message>
-    <times>2009-10-20 04:53:22</times>
-  </data>
-  <data>
-    <playTime>1160.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">19分钟的人参??太长了</message>
-    <times>2009-10-20 04:53:29</times>
-  </data>
-  <data>
-    <playTime>1588.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">再次虎口脱险 只要回去修理一下就OK了</message>
-    <times>2009-10-20 04:54:06</times>
-  </data>
-  <data>
-    <playTime>1592.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">难以置信 他进去打击了神族的经济 他不再落后了</message>
-    <times>2009-10-20 04:55:12</times>
-  </data>
-  <data>
-    <playTime>1596.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">这次出击的确有效 然后修理一下 又能去再干一票了</message>
-    <times>2009-10-20 04:56:33</times>
-  </data>
-  <data>
-    <playTime>1597.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">居然飞机没被打爆</message>
-    <times>2009-10-20 04:57:17</times>
-  </data>
-  <data>
-    <playTime>1604.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族的确试图反击 但是这些高机动性的骚扰战术实在难以应对</message>
-    <times>2009-10-20 04:57:42</times>
-  </data>
-  <data>
-    <playTime>1610.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">利用Hellion的速度优势 以及运输机的便利</message>
-    <times>2009-10-20 04:58:18</times>
-  </data>
-  <data>
-    <playTime>1676.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">翻译君呢？</message>
-    <times>2009-10-20 04:58:56</times>
-  </data>
-  <data>
-    <playTime>1614.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">真的太棒了</message>
-    <times>2009-10-20 04:59:27</times>
-  </data>
-  <data>
-    <playTime>1162.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">填坑去啊</message>
-    <times>2009-10-20 05:00:45</times>
-  </data>
-  <data>
-    <playTime>1616.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">这回就真的有料了 几台坦克上了运输机 看看他们开去哪里</message>
-    <times>2009-10-20 05:00:59</times>
-  </data>
-  <data>
-    <playTime>1620.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">这个应该是星际1里常用的高地防守</message>
-    <times>2009-10-20 05:01:53</times>
-  </data>
-  <data>
-    <playTime>1191.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">LT啊...</message>
-    <times>2009-10-20 05:01:40</times>
-  </data>
-  <data>
-    <playTime>1622.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">星际1常用的高地攻击</message>
-    <times>2009-10-20 05:02:42</times>
-  </data>
-  <data>
-    <playTime>1626.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">把坦克放到高地去炮轰基地</message>
-    <times>2009-10-20 05:02:55</times>
-  </data>
-  <data>
-    <playTime>1628.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">我觉得David Kim要做的事应该跟这个很像</message>
-    <times>2009-10-20 05:03:19</times>
-  </data>
-  <data>
-    <playTime>1632.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">尤其是在对付Stalker的时候</message>
-    <times>2009-10-20 05:04:28</times>
-  </data>
-  <data>
-    <playTime>2056.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">就差那么点就打爆了</message>
-    <times>2009-10-20 05:04:48</times>
-  </data>
-  <data>
-    <playTime>1634.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">在 Stalker在进入射程的之前就架起坦克</message>
-    <times>2009-10-20 05:05:23</times>
-  </data>
-  <data>
-    <playTime>1638.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">坦克就不会受到多少伤害</message>
-    <times>2009-10-20 05:06:09</times>
-  </data>
-  <data>
-    <playTime>1641</playTime>
-    <message fontsize="15" color="16777215" mode="4">这个时候人族如果能把坦克弄到一个好位置 就厉害了</message>
-    <times>2009-10-20 05:07:33</times>
-  </data>
-  <data>
-    <playTime>2007.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">离子风暴威力太大了点吧</message>
-    <times>2009-10-20 05:08:09</times>
-  </data>
-  <data>
-    <playTime>1647.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">刚才  Hellion正在追杀狂战士</message>
-    <times>2009-10-20 05:08:09</times>
-  </data>
-  <data>
-    <playTime>1651.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">嗯 这里就是降落地点</message>
-    <times>2009-10-20 05:08:28</times>
-  </data>
-  <data>
-    <playTime>1652.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">这里是Lost Temple经典位置 取得高地的控制权</message>
-    <times>2009-10-20 05:09:00</times>
-  </data>
-  <data>
-    <playTime>1656.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">在星际2里面比星际1更加重要</message>
-    <times>2009-10-20 05:09:21</times>
-  </data>
-  <data>
-    <playTime>1659</playTime>
-    <message fontsize="15" color="16777215" mode="4">你在下面是完全看不到高地 除非你能开什么东西去侦察</message>
-    <times>2009-10-20 05:09:58</times>
-  </data>
-  <data>
-    <playTime>1664.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">这些矿工真的遇到麻烦了</message>
-    <times>2009-10-20 05:10:19</times>
-  </data>
-  <data>
-    <playTime>1666</playTime>
-    <message fontsize="15" color="16777215" mode="4">水晶塔被轰掉了 矿工只能逃命 坦克太暴力了</message>
-    <times>2009-10-20 05:11:19</times>
-  </data>
-  <data>
-    <playTime>1270</playTime>
-    <message fontsize="25" color="16777215" mode="1">没人发言</message>
-    <times>2009-10-19 22:11:25</times>
-  </data>
-  <data>
-    <playTime>1691.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">只能看着啊..</message>
-    <times>2009-10-20 05:11:15</times>
-  </data>
-  <data>
-    <playTime>1671.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">哇 突然钻出一个探测器</message>
-    <times>2009-10-20 05:11:41</times>
-  </data>
-  <data>
-    <playTime>1675.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">人族还没发现这个潜在的威胁</message>
-    <times>2009-10-20 05:12:19</times>
-  </data>
-  <data>
-    <playTime>1743</playTime>
-    <message fontsize="25" color="16777215" mode="1">基本已经输了，别人3基地这么长时间了</message>
-    <times>2009-10-20 05:12:07</times>
-  </data>
-  <data>
-    <playTime>1677.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">而且Stalker的闪烁技能正在升级中</message>
-    <times>2009-10-20 05:12:49</times>
-  </data>
-  <data>
-    <playTime>1778.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">雷神出来了</message>
-    <times>2009-10-20 05:12:42</times>
-  </data>
-  <data>
-    <playTime>1679</playTime>
-    <message fontsize="15" color="16777215" mode="4">一旦完成 神族就能进入高地 处理这里坦克</message>
-    <times>2009-10-20 05:13:19</times>
-  </data>
-  <data>
-    <playTime>1809.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">这个事运输机吧</message>
-    <times>2009-10-20 05:13:13</times>
-  </data>
-  <data>
-    <playTime>1207.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">我等不急玩这个游戏了</message>
-    <times>2009-10-19 17:13:36</times>
-  </data>
-  <data>
-    <playTime>1222</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-这可能是我进你哪来买的唯一正版游戏</message>
-    <times>2009-10-19 17:13:50</times>
-  </data>
-  <data>
-    <playTime>1682.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族在尽量争取时间 Stalker一直不敢进去坦克的射程</message>
-    <times>2009-10-20 05:13:54</times>
-  </data>
-  <data>
-    <playTime>1687.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">他真的不想被坦克肛到</message>
-    <times>2009-10-20 05:14:30</times>
-  </data>
-  <data>
-    <playTime>1689.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">除非闪烁完成 能上去进行还击</message>
-    <times>2009-10-20 05:15:03</times>
-  </data>
-  <data>
-    <playTime>1900.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">兴奋剂？</message>
-    <times>2009-10-20 05:14:45</times>
-  </data>
-  <data>
-    <playTime>1937.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">4个雷神了啊....</message>
-    <times>2009-10-20 05:15:21</times>
-  </data>
-  <data>
-    <playTime>1692</playTime>
-    <message fontsize="15" color="16777215" mode="4">刚才他把探测器弄到了边上</message>
-    <times>2009-10-20 05:15:54</times>
-  </data>
-  <data>
-    <playTime>1695.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">然后 哦 杀上来了</message>
-    <times>2009-10-20 05:16:14</times>
-  </data>
-  <data>
-    <playTime>1973.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">雷神有轰炸的技能吧</message>
-    <times>2009-10-20 05:15:58</times>
-  </data>
-  <data>
-    <playTime>1997</playTime>
-    <message fontsize="25" color="16777215" mode="1">轰炸了</message>
-    <times>2009-10-20 05:16:21</times>
-  </data>
-  <data>
-    <playTime>2024.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">加速的狂战真BT</message>
-    <times>2009-10-20 05:16:48</times>
-  </data>
-  <data>
-    <playTime>1698.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">包围了坦克 另一台坦克正在进行还击</message>
-    <times>2009-10-20 05:17:15</times>
-  </data>
-  <data>
-    <playTime>1765.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">全看这一波P的反攻可以给T造成多大的损失了~</message>
-    <times>2009-10-20 05:17:11</times>
-  </data>
-  <data>
-    <playTime>1703.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">也对自己人造成伤害</message>
-    <times>2009-10-20 05:17:37</times>
-  </data>
-  <data>
-    <playTime>1704.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">现在 David Kim在对坦克进行微操作</message>
-    <times>2009-10-20 05:18:01</times>
-  </data>
-  <data>
-    <playTime>2086.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">原子弹....</message>
-    <times>2009-10-20 05:17:50</times>
-  </data>
-  <data>
-    <playTime>1707.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">这个太棒了</message>
-    <times>2009-10-20 05:18:21</times>
-  </data>
-  <data>
-    <playTime>1708.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">没错 这样的确可以多撑几下</message>
-    <times>2009-10-20 05:18:43</times>
-  </data>
-  <data>
-    <playTime>1512.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-坦克 启动太慢了</message>
-    <times>2009-10-19 17:18:41</times>
-  </data>
-  <data>
-    <playTime>1711.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">真的能多肛好多炮</message>
-    <times>2009-10-20 05:19:06</times>
-  </data>
-  <data>
-    <playTime>1715.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">奥 坦克终于被做掉了</message>
-    <times>2009-10-20 05:19:37</times>
-  </data>
-  <data>
-    <playTime>1717.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim真的做到了伤害最大化</message>
-    <times>2009-10-20 05:20:08</times>
-  </data>
-  <data>
-    <playTime>1722.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族的闪烁也用的很不错</message>
-    <times>2009-10-20 05:20:30</times>
-  </data>
-  <data>
-    <playTime>2251</playTime>
-    <message fontsize="25" color="16777215" mode="1">GG了</message>
-    <times>2009-10-20 05:20:35</times>
-  </data>
-  <data>
-    <playTime>1723.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">这里的战斗也告一段落了</message>
-    <times>2009-10-20 05:21:22</times>
-  </data>
-  <data>
-    <playTime>2004</playTime>
-    <message fontsize="25" color="16777215" mode="1">= = 悲剧了</message>
-    <times>2009-10-20 05:22:06</times>
-  </data>
-  <data>
-    <playTime>1722.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族部队增援 运输机也被击落了</message>
-    <times>2009-10-20 05:22:15</times>
-  </data>
-  <data>
-    <playTime>1728.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim并没有摧毁多少个矿工</message>
-    <times>2009-10-20 05:22:43</times>
-  </data>
-  <data>
-    <playTime>1731.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">不过他轰掉了一个水晶塔 轰掉了一个气矿 也值了</message>
-    <times>2009-10-20 05:23:41</times>
-  </data>
-  <data>
-    <playTime>1735.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">真的很值得 因为他也把神族的矿工赶走了</message>
-    <times>2009-10-20 05:24:21</times>
-  </data>
-  <data>
-    <playTime>1740.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">暂时中止了一个分基地的运作</message>
-    <times>2009-10-20 05:24:46</times>
-  </data>
-  <data>
-    <playTime>1742.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">矿工在那么长的一段时间内无所事事</message>
-    <times>2009-10-20 05:25:10</times>
-  </data>
-  <data>
-    <playTime>1745.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">间接让神族损失了几百的资源</message>
-    <times>2009-10-20 05:26:00</times>
-  </data>
-  <data>
-    <playTime>1402.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">-,-!光看字幕都顾不上仔细看画面了...</message>
-    <times>2009-10-20 05:26:38</times>
-  </data>
-  <data>
-    <playTime>1749.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">不过David Kim也损失了他的部队</message>
-    <times>2009-10-20 05:26:32</times>
-  </data>
-  <data>
-    <playTime>1753.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">很难说谁赚到了</message>
-    <times>2009-10-20 05:26:54</times>
-  </data>
-  <data>
-    <playTime>1757.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">不过他的确迫使对手改变了科技升级路线</message>
-    <times>2009-10-20 05:27:43</times>
-  </data>
-  <data>
-    <playTime>1766.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族正在试图控制地图中心 人族正在门口布置防御</message>
-    <times>2009-10-20 05:29:34</times>
-  </data>
-  <data>
-    <playTime>1784.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-有料了</message>
-    <times>2009-10-19 17:29:40</times>
-  </data>
-  <data>
-    <playTime>1808</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-走 母舰上</message>
-    <times>2009-10-19 17:30:03</times>
-  </data>
-  <data>
-    <playTime>1773.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">他有一些坦克</message>
-    <times>2009-10-20 05:30:07</times>
-  </data>
-  <data>
-    <playTime>1773.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">他可能没有注意到敌人在9点方向有分基地</message>
-    <times>2009-10-20 05:30:42</times>
-  </data>
-  <data>
-    <playTime>1878.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">多线。。。</message>
-    <times>2009-10-19 17:31:14</times>
-  </data>
-  <data>
-    <playTime>1777.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族的第二个分基地</message>
-    <times>2009-10-20 05:31:22</times>
-  </data>
-  <data>
-    <playTime>1778.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">经济方面有希望赶上</message>
-    <times>2009-10-20 05:31:49</times>
-  </data>
-  <data>
-    <playTime>1781.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">而且他也要确认一下这里是不是有一个陷阱在等着他</message>
-    <times>2009-10-20 05:32:07</times>
-  </data>
-  <data>
-    <playTime>1946.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-。。。。机械流。。</message>
-    <times>2009-10-19 17:32:22</times>
-  </data>
-  <data>
-    <playTime>1786.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">进攻开始了 坦克开喷 然后对方闪烁进入高地</message>
-    <times>2009-10-20 05:32:54</times>
-  </data>
-  <data>
-    <playTime>1990.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-。？</message>
-    <times>2009-10-19 17:33:05</times>
-  </data>
-  <data>
-    <playTime>2000.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-10-19 17:33:15</times>
-  </data>
-  <data>
-    <playTime>1790.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">然后坦克被肛掉 闪烁有冷却时间</message>
-    <times>2009-10-20 05:33:28</times>
-  </data>
-  <data>
-    <playTime>1794.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">他真的要逃离这些部队的追杀</message>
-    <times>2009-10-20 05:34:16</times>
-  </data>
-  <data>
-    <playTime>1795.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">他需要时间</message>
-    <times>2009-10-20 05:34:29</times>
-  </data>
-  <data>
-    <playTime>2076.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">再多一个 圣堂就好</message>
-    <times>2009-10-19 17:34:31</times>
-  </data>
-  <data>
-    <playTime>1796.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">闪烁技能冷却 逃跑了</message>
-    <times>2009-10-20 05:34:42</times>
-  </data>
-  <data>
-    <playTime>2092.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-这一期 比较好玩</message>
-    <times>2009-10-19 17:34:47</times>
-  </data>
-  <data>
-    <playTime>1992.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">粒子风暴？</message>
-    <times>2009-10-20 05:35:04</times>
-  </data>
-  <data>
-    <playTime>1799.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">剩下的部队得以生还</message>
-    <times>2009-10-20 05:35:04</times>
-  </data>
-  <data>
-    <playTime>1800.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">不过损失却是大了点</message>
-    <times>2009-10-20 05:35:22</times>
-  </data>
-  <data>
-    <playTime>2138.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-大象没以前那么脆了一样</message>
-    <times>2009-10-19 17:35:33</times>
-  </data>
-  <data>
-    <playTime>2164.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-神族的反隐 休假了</message>
-    <times>2009-10-19 17:35:59</times>
-  </data>
-  <data>
-    <playTime>2193.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-GG</message>
-    <times>2009-10-19 17:36:28</times>
-  </data>
-  <data>
-    <playTime>1802.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族的另一个动作 这边开来了一台相位棱镜</message>
-    <times>2009-10-20 05:37:41</times>
-  </data>
-  <data>
-    <playTime>1806.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">这飞船可以用来传送单位 也能用来创造能量地带</message>
-    <times>2009-10-20 05:38:20</times>
-  </data>
-  <data>
-    <playTime>1809.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">这个对神族来说至关重要</message>
-    <times>2009-10-20 05:39:00</times>
-  </data>
-  <data>
-    <playTime>1809.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">因为现在他可以在任何地方传送部队了</message>
-    <times>2009-10-20 05:39:18</times>
-  </data>
-  <data>
-    <playTime>1816.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim还是占着这个观察他</message>
-    <times>2009-10-20 05:39:47</times>
-  </data>
-  <data>
-    <playTime>1816.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">塔</message>
-    <times>2009-10-20 05:39:51</times>
-  </data>
-  <data>
-    <playTime>1819.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">他有可能已经发现了那台相位棱镜</message>
-    <times>2009-10-20 05:40:17</times>
-  </data>
-  <data>
-    <playTime>1821</playTime>
-    <message fontsize="15" color="16777215" mode="4">也许他没有发现</message>
-    <times>2009-10-20 05:40:38</times>
-  </data>
-  <data>
-    <playTime>1824.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim正在自己的基地里建地堡</message>
-    <times>2009-10-20 05:40:58</times>
-  </data>
-  <data>
-    <playTime>1828.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">这个Stalker暂时不会去骚扰他</message>
-    <times>2009-10-20 05:42:04</times>
-  </data>
-  <data>
-    <playTime>1831.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">地图下面 相位棱镜已经到达了David Kim的岛矿</message>
-    <times>2009-10-20 05:42:46</times>
-  </data>
-  <data>
-    <playTime>1925.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">收割者</message>
-    <times>2009-10-20 05:41:14</times>
-  </data>
-  <data>
-    <playTime>1837.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">利用它的能力 正在将狂战士传送到这里</message>
-    <times>2009-10-20 05:43:26</times>
-  </data>
-  <data>
-    <playTime>1842</playTime>
-    <message fontsize="15" color="16777215" mode="4">这对David Kim来说可不好</message>
-    <times>2009-10-20 05:44:09</times>
-  </data>
-  <data>
-    <playTime>1996.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">电！</message>
-    <times>2009-10-20 05:42:26</times>
-  </data>
-  <data>
-    <playTime>1843.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">我们可以看到水晶矿的储存急速下降</message>
-    <times>2009-10-20 05:44:43</times>
-  </data>
-  <data>
-    <playTime>1845.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim试图反击 矿工是可以进行攻击</message>
-    <times>2009-10-20 05:45:14</times>
-  </data>
-  <data>
-    <playTime>1848.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">的确可以对狂战士造成不小的伤害</message>
-    <times>2009-10-20 05:45:48</times>
-  </data>
-  <data>
-    <playTime>1852.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">能肛掉一个狂战士</message>
-    <times>2009-10-20 05:46:05</times>
-  </data>
-  <data>
-    <playTime>1854.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是 所有的矿工都被杀死了</message>
-    <times>2009-10-20 05:46:33</times>
-  </data>
-  <data>
-    <playTime>1856.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">很大的经济损失</message>
-    <times>2009-10-20 05:46:45</times>
-  </data>
-  <data>
-    <playTime>1856.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">矿工们根本不是对手</message>
-    <times>2009-10-20 05:47:51</times>
-  </data>
-  <data>
-    <playTime>1860.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">指挥中心只能起飞逃跑了</message>
-    <times>2009-10-20 05:48:23</times>
-  </data>
-  <data>
-    <playTime>1863.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">一架飞机 几个狂战士 就毁灭了整个分基地</message>
-    <times>2009-10-20 05:49:01</times>
-  </data>
-  <data>
-    <playTime>1868.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">让他取得了优势</message>
-    <times>2009-10-20 05:49:25</times>
-  </data>
-  <data>
-    <playTime>1870.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim反击了</message>
-    <times>2009-10-20 05:49:36</times>
-  </data>
-  <data>
-    <playTime>1871.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">收割者们跳上高地 但是又被Stalker赶跑了</message>
-    <times>2009-10-20 05:50:05</times>
-  </data>
-  <data>
-    <playTime>1876.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">现在神族取得了主动权 他摧毁了那个小岛的分基地</message>
-    <times>2009-10-20 05:50:51</times>
-  </data>
-  <data>
-    <playTime>1881.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">同时又能防御自己的基地</message>
-    <times>2009-10-20 05:51:33</times>
-  </data>
-  <data>
-    <playTime>1883.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">如果失误 后果严重</message>
-    <times>2009-10-20 05:52:36</times>
-  </data>
-  <data>
-    <playTime>1885.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">这些收割者穿过守望塔 向神族的另一个基地前进</message>
-    <times>2009-10-20 05:54:22</times>
-  </data>
-  <data>
-    <playTime>1890.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">来了 看来他们能抢先一步</message>
-    <times>2009-10-20 05:54:47</times>
-  </data>
-  <data>
-    <playTime>1893.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">真是造成了不小的破坏</message>
-    <times>2009-10-20 05:55:53</times>
-  </data>
-  <data>
-    <playTime>1898.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">然后他们在Stalker传送完毕之后跃上高地</message>
-    <times>2009-10-20 05:56:34</times>
-  </data>
-  <data>
-    <playTime>1894</playTime>
-    <message fontsize="15" color="16777215" mode="4">奥 兴奋剂</message>
-    <times>2009-10-20 05:57:39</times>
-  </data>
-  <data>
-    <playTime>1990.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">闪电兵[[~csga-kpx]]</message>
-    <times>2009-10-20 05:57:43</times>
-  </data>
-  <data>
-    <playTime>1902</playTime>
-    <message fontsize="15" color="16777215" mode="4">他们能在一瞬间摧毁一台Stalker</message>
-    <times>2009-10-20 05:58:10</times>
-  </data>
-  <data>
-    <playTime>1904.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">对方看不到高地 不能闪烁上去</message>
-    <times>2009-10-20 05:58:36</times>
-  </data>
-  <data>
-    <playTime>1908.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">收割者们已经没有什么好顾忌的了</message>
-    <times>2009-10-20 05:59:08</times>
-  </data>
-  <data>
-    <playTime>1911.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">想做啥就做啥</message>
-    <times>2009-10-20 05:59:18</times>
-  </data>
-  <data>
-    <playTime>1915.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">气矿被废</message>
-    <times>2009-10-20 05:59:49</times>
-  </data>
-  <data>
-    <playTime>1916.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">侦察机来了</message>
-    <times>2009-10-20 06:00:00</times>
-  </data>
-  <data>
-    <playTime>1347.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">翻译大哥还没睡啊,,,早上好</message>
-    <times>2009-10-20 06:00:08</times>
-  </data>
-  <data>
-    <playTime>1916.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">这下他就能对付这些人族军队了</message>
-    <times>2009-10-20 06:00:55</times>
-  </data>
-  <data>
-    <playTime>1920</playTime>
-    <message fontsize="15" color="16777215" mode="4">侦察机开过来 能看到高地了</message>
-    <times>2009-10-20 06:01:56</times>
-  </data>
-  <data>
-    <playTime>1922</playTime>
-    <message fontsize="15" color="16777215" mode="4">也不能怪David Kim 他已经尽力了</message>
-    <times>2009-10-20 06:03:51</times>
-  </data>
-  <data>
-    <playTime>2187.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">原子弹了</message>
-    <times>2009-10-19 06:06:37</times>
-  </data>
-  <data>
-    <playTime>2199</playTime>
-    <message fontsize="25" color="16777215" mode="1">不可思议。。。</message>
-    <times>2009-10-19 06:06:48</times>
-  </data>
-  <data>
-    <playTime>2220.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">一起死</message>
-    <times>2009-10-19 06:07:10</times>
-  </data>
-  <data>
-    <playTime>1926.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">他试图跳下来进行反击 不过明显不够强力</message>
-    <times>2009-10-20 06:05:14</times>
-  </data>
-  <data>
-    <playTime>1928.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">Stalker击退了收割者的进攻</message>
-    <times>2009-10-20 06:05:35</times>
-  </data>
-  <data>
-    <playTime>2251.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">人族原子弹逆转大好！</message>
-    <times>2009-10-19 06:07:41</times>
-  </data>
-  <data>
-    <playTime>1931.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">收割者是可以跳上跳下搞破坏 但是他并不知道神族的侦察机早就就位了</message>
-    <times>2009-10-20 06:06:46</times>
-  </data>
-  <data>
-    <playTime>2066.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">一波主力换一个3矿·值吗？还没打掉</message>
-    <times>2009-10-20 06:06:33</times>
-  </data>
-  <data>
-    <playTime>2006.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">哦也</message>
-    <times>2009-10-20 06:07:54</times>
-  </data>
-  <data>
-    <playTime>1939.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">跳上跳下的时间真的要算的很准</message>
-    <times>2009-10-20 06:08:08</times>
-  </data>
-  <data>
-    <playTime>1939.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">跳来跳去真的花费了很多时间</message>
-    <times>2009-10-20 06:08:38</times>
-  </data>
-  <data>
-    <playTime>1942.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">看起来David Kim的部队已经很庞大了</message>
-    <times>2009-10-20 06:09:21</times>
-  </data>
-  <data>
-    <playTime>1944.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">一起出动 横穿地图</message>
-    <times>2009-10-20 06:09:38</times>
-  </data>
-  <data>
-    <playTime>1945.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">他也在富矿这里建立了分基地</message>
-    <times>2009-10-20 06:10:02</times>
-  </data>
-  <data>
-    <playTime>1950.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">这些狂战士就留在这里蹲点了</message>
-    <times>2009-10-20 06:10:23</times>
-  </data>
-  <data>
-    <playTime>1952.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim的部队推进到了10点钟方向偏左的地方 </message>
-    <times>2009-10-20 06:11:57</times>
-  </data>
-  <data>
-    <playTime>1956.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">打算在这里进行大战</message>
-    <times>2009-10-20 06:12:11</times>
-  </data>
-  <data>
-    <playTime>1958.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">Stalker试图回避</message>
-    <times>2009-10-20 06:12:28</times>
-  </data>
-  <data>
-    <playTime>1960.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族这边正在双线作战</message>
-    <times>2009-10-20 06:12:42</times>
-  </data>
-  <data>
-    <playTime>1962.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim的位置对他真的很有利</message>
-    <times>2009-10-20 06:13:05</times>
-  </data>
-  <data>
-    <playTime>1966.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">然后他往后退了一点点 坦克架起 控制观察他</message>
-    <times>2009-10-20 06:14:08</times>
-  </data>
-  <data>
-    <playTime>1966.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">塔</message>
-    <times>2009-10-20 06:14:10</times>
-  </data>
-  <data>
-    <playTime>1975.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">他真的希望对手打下来</message>
-    <times>2009-10-20 06:15:13</times>
-  </data>
-  <data>
-    <playTime>1977.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">又架起了坦克</message>
-    <times>2009-10-20 06:15:34</times>
-  </data>
-  <data>
-    <playTime>1977.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">他真的想对手傻傻的冲下来</message>
-    <times>2009-10-20 06:16:11</times>
-  </data>
-  <data>
-    <playTime>1211</playTime>
-    <message fontsize="37" color="52735" mode="2">连续几个战报出来都是邻居地.何等杯具</message>
-    <times>2009-10-20 06:16:26</times>
-  </data>
-  <data>
-    <playTime>1981.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">然后跟这庞大的军队作战</message>
-    <times>2009-10-20 06:16:36</times>
-  </data>
-  <data>
-    <playTime>1984.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">哇 心灵风暴</message>
-    <times>2009-10-20 06:17:12</times>
-  </data>
-  <data>
-    <playTime>1985.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">造成了非常大的伤害</message>
-    <times>2009-10-20 06:17:32</times>
-  </data>
-  <data>
-    <playTime>1584.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">存活确定= = </message>
-    <times>2009-10-20 06:18:25</times>
-  </data>
-  <data>
-    <playTime>1337.5</playTime>
-    <message fontsize="37" color="52735" mode="2">纯爷们机枪兵出来了!</message>
-    <times>2009-10-20 06:18:52</times>
-  </data>
-  <data>
-    <playTime>1988.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">雷神上来 但是也顶不住多重心灵风暴</message>
-    <times>2009-10-20 06:19:19</times>
-  </data>
-  <data>
-    <playTime>1993.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">这边的神族军队也杀到了</message>
-    <times>2009-10-20 06:19:36</times>
-  </data>
-  <data>
-    <playTime>1994.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">在雷神中心又来了一个心灵风暴</message>
-    <times>2009-10-20 06:20:03</times>
-  </data>
-  <data>
-    <playTime>1998.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族对心灵风暴的运用真的出神入化</message>
-    <times>2009-10-20 06:20:27</times>
-  </data>
-  <data>
-    <playTime>2003.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">他真的利用了科技优势来打败了David Kim的军队</message>
-    <times>2009-10-20 06:21:09</times>
-  </data>
-  <data>
-    <playTime>2008</playTime>
-    <message fontsize="15" color="16777215" mode="4">他的时间计算真的非常精确</message>
-    <times>2009-10-20 06:21:51</times>
-  </data>
-  <data>
-    <playTime>2011.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">利用多个光明圣堂来连续放出心灵风暴</message>
-    <times>2009-10-20 06:22:18</times>
-  </data>
-  <data>
-    <playTime>2017.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族的机会来了 控制了战场 拥有庞大的部队</message>
-    <times>2009-10-20 06:23:02</times>
-  </data>
-  <data>
-    <playTime>2023.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">比敌人更加庞大的军正在推进中</message>
-    <times>2009-10-20 06:23:46</times>
-  </data>
-  <data>
-    <playTime>2026.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">人族也做出了一些反应</message>
-    <times>2009-10-20 06:24:21</times>
-  </data>
-  <data>
-    <playTime>2029.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">看来神族正在对下面的富矿基地进行攻击</message>
-    <times>2009-10-20 06:24:50</times>
-  </data>
-  <data>
-    <playTime>2031.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">矿工们正在进行抢修</message>
-    <times>2009-10-20 06:25:23</times>
-  </data>
-  <data>
-    <playTime>2033.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">冒着心灵风暴也要进行修理工作</message>
-    <times>2009-10-20 06:26:02</times>
-  </data>
-  <data>
-    <playTime>2036.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">人族军队赶到了</message>
-    <times>2009-10-20 06:26:26</times>
-  </data>
-  <data>
-    <playTime>2037.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">又是心灵风暴</message>
-    <times>2009-10-20 06:26:37</times>
-  </data>
-  <data>
-    <playTime>2039.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">基地保卫战开始了</message>
-    <times>2009-10-20 06:26:54</times>
-  </data>
-  <data>
-    <playTime>2042.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">现在神族的形势不妙 被两面夹击</message>
-    <times>2009-10-20 06:27:58</times>
-  </data>
-  <data>
-    <playTime>2047.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">差一点点就可以打爆基地了！</message>
-    <times>2009-10-20 06:28:22</times>
-  </data>
-  <data>
-    <playTime>2051.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是 很遗憾</message>
-    <times>2009-10-20 06:28:31</times>
-  </data>
-  <data>
-    <playTime>2053.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">基地剩下不足100的HP 但是还是存活了下来</message>
-    <times>2009-10-20 06:29:03</times>
-  </data>
-  <data>
-    <playTime>1161.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">19分钟的人身</message>
-    <times>2009-10-20 06:26:14</times>
-  </data>
-  <data>
-    <playTime>2057.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">难以想象 David Kim的经济遭受了很大的打击</message>
-    <times>2009-10-20 06:29:31</times>
-  </data>
-  <data>
-    <playTime>1189.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">。。。。。。。好地图</message>
-    <times>2009-10-20 06:26:42</times>
-  </data>
-  <data>
-    <playTime>2060.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">他失去了很多矿工</message>
-    <times>2009-10-20 06:29:42</times>
-  </data>
-  <data>
-    <playTime>2061.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是他还是灭掉了神族的整支军队</message>
-    <times>2009-10-20 06:30:44</times>
-  </data>
-  <data>
-    <playTime>1312.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">悲剧的农民</message>
-    <times>2009-10-20 06:28:44</times>
-  </data>
-  <data>
-    <playTime>2066.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">这里跑来了两个光明神堂</message>
-    <times>2009-10-20 06:31:39</times>
-  </data>
-  <data>
-    <playTime>2069.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">传送上去的</message>
-    <times>2009-10-20 06:31:48</times>
-  </data>
-  <data>
-    <playTime>2071.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">也许能搞一些破坏</message>
-    <times>2009-10-20 06:31:56</times>
-  </data>
-  <data>
-    <playTime>2072.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">与此同时 看起来这边要轰核弹了</message>
-    <times>2009-10-20 06:32:18</times>
-  </data>
-  <data>
-    <playTime>2076.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">对方正在试图阻止核弹发射</message>
-    <times>2009-10-20 06:33:13</times>
-  </data>
-  <data>
-    <playTime>1410.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">不觉得 解说说的太快了么</message>
-    <times>2009-10-20 06:30:22</times>
-  </data>
-  <data>
-    <playTime>2160.8</playTime>
-    <message fontsize="37" color="52735" mode="2">核蛋一波接一波受不鸟了~</message>
-    <times>2009-10-20 06:33:15</times>
-  </data>
-  <data>
-    <playTime>1421.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">翻译君真辛苦</message>
-    <times>2009-10-20 06:30:34</times>
-  </data>
-  <data>
-    <playTime>2078.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">啊 还是没能做到 幽灵也即时上飞机撤退了</message>
-    <times>2009-10-20 06:33:43</times>
-  </data>
-  <data>
-    <playTime>1453.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">解说太欢乐了</message>
-    <times>2009-10-20 06:31:06</times>
-  </data>
-  <data>
-    <playTime>2083.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">核弹造成了很大的伤害</message>
-    <times>2009-10-20 06:34:20</times>
-  </data>
-  <data>
-    <playTime>2085.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">然后军队开了进来 对神族基地进行破坏</message>
-    <times>2009-10-20 06:34:44</times>
-  </data>
-  <data>
-    <playTime>2088.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">幽灵刚好能逃掉 运输机正在对他进行治疗（哦哦哦，新技能）</message>
-    <times>2009-10-20 06:35:55</times>
-  </data>
-  <data>
-    <playTime>2093.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">哇 他对上面进行了探测 然后就肛掉了上面的神族</message>
-    <times>2009-10-20 06:36:30</times>
-  </data>
-  <data>
-    <playTime>2098.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">现在呢 哇 雷神用特殊技能对基地造成了巨大的伤害</message>
-    <times>2009-10-20 06:37:29</times>
-  </data>
-  <data>
-    <playTime>2105.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族这边正在使用光明圣堂的新技能 </message>
-    <times>2009-10-20 06:41:35</times>
-  </data>
-  <data>
-    <playTime>2109.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">能对单体目标进行大量伤害</message>
-    <times>2009-10-20 06:41:42</times>
-  </data>
-  <data>
-    <playTime>2116.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">巨像也来了</message>
-    <times>2009-10-20 06:42:01</times>
-  </data>
-  <data>
-    <playTime>2117</playTime>
-    <message fontsize="15" color="16777215" mode="4">对这些地面部队造成了非常大的伤害</message>
-    <times>2009-10-20 06:42:22</times>
-  </data>
-  <data>
-    <playTime>2120.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族这次是把能用上的都用了</message>
-    <times>2009-10-20 06:44:06</times>
-  </data>
-  <data>
-    <playTime>2126.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是经济还是受到了很大的打击</message>
-    <times>2009-10-20 06:44:26</times>
-  </data>
-  <data>
-    <playTime>2128.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">又是核弹</message>
-    <times>2009-10-20 06:44:34</times>
-  </data>
-  <data>
-    <playTime>2131.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">对这个基地造成了非常大的伤害</message>
-    <times>2009-10-20 06:44:57</times>
-  </data>
-  <data>
-    <playTime>2132.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">让神族不得安宁</message>
-    <times>2009-10-20 06:45:12</times>
-  </data>
-  <data>
-    <playTime>2136.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim正在做他必须做的事 到处都进行骚扰</message>
-    <times>2009-10-20 06:46:45</times>
-  </data>
-  <data>
-    <playTime>2142.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">看 对手的确没辙了 又是一发核弹</message>
-    <times>2009-10-20 06:47:46</times>
-  </data>
-  <data>
-    <playTime>2148.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">他只剩下左边的那个基地在收集资源了</message>
-    <times>2009-10-20 06:48:18</times>
-  </data>
-  <data>
-    <playTime>1464.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">雷车屠农了</message>
-    <times>2009-10-20 06:50:06</times>
-  </data>
-  <data>
-    <playTime>2151.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">难以置信 幽灵让一颗又一颗的核弹落到了神族的基地上</message>
-    <times>2009-10-20 06:50:34</times>
-  </data>
-  <data>
-    <playTime>2159.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">试图搞一些破坏 用巨像来造成额外的伤害</message>
-    <times>2009-10-20 06:51:57</times>
-  </data>
-  <data>
-    <playTime>2163.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是敌人太多了 这支部队不敌</message>
-    <times>2009-10-20 06:52:20</times>
-  </data>
-  <data>
-    <playTime>1619.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">神族龙骑比以前弱太多了</message>
-    <times>2009-10-20 06:52:41</times>
-  </data>
-  <data>
-    <playTime>2166.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">直接碾压了</message>
-    <times>2009-10-20 06:52:46</times>
-  </data>
-  <data>
-    <playTime>2170.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">人族部队数量太多 他们根本就不是对手</message>
-    <times>2009-10-20 06:53:26</times>
-  </data>
-  <data>
-    <playTime>1705</playTime>
-    <message fontsize="25" color="16777215" mode="1">神族可以退了我感觉。。</message>
-    <times>2009-10-20 06:54:06</times>
-  </data>
-  <data>
-    <playTime>2173.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">不过巨像是重甲杀手这个事实还是不会改变的</message>
-    <times>2009-10-20 06:54:25</times>
-  </data>
-  <data>
-    <playTime>1770.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">3矿，200人口机械化，这个人族很传统</message>
-    <times>2009-10-20 06:55:11</times>
-  </data>
-  <data>
-    <playTime>2180.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">又来一发</message>
-    <times>2009-10-20 06:55:05</times>
-  </data>
-  <data>
-    <playTime>2181.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">难以置信~</message>
-    <times>2009-10-20 06:55:20</times>
-  </data>
-  <data>
-    <playTime>2182</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族正在尽最大努力重建这个基地</message>
-    <times>2009-10-20 06:55:48</times>
-  </data>
-  <data>
-    <playTime>2184.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">看 Stalker传送过去 他们能阻止这颗核弹吗？</message>
-    <times>2009-10-20 06:56:18</times>
-  </data>
-  <data>
-    <playTime>2189.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">不</message>
-    <times>2009-10-20 06:56:27</times>
-  </data>
-  <data>
-    <playTime>2190.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">核弹打了下来</message>
-    <times>2009-10-20 06:56:40</times>
-  </data>
-  <data>
-    <playTime>2191.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">幽灵回到运输机 再次逃脱了</message>
-    <times>2009-10-20 06:57:01</times>
-  </data>
-  <data>
-    <playTime>2194.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">一个幽灵 一个人的军队 在进攻神族</message>
-    <times>2009-10-20 06:58:00</times>
-  </data>
-  <data>
-    <playTime>1990.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">闪电好看太多了</message>
-    <times>2009-10-20 06:58:57</times>
-  </data>
-  <data>
-    <playTime>2199.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">David Kim搞得这些破坏得到了非常好的回报</message>
-    <times>2009-10-20 06:59:43</times>
-  </data>
-  <data>
-    <playTime>2204.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">神族现在情况非常不妙</message>
-    <times>2009-10-20 07:00:20</times>
-  </data>
-  <data>
-    <playTime>2206.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">他们有很多建筑长在建造中 能做的事情实在太少了</message>
-    <times>2009-10-20 07:01:26</times>
-  </data>
-  <data>
-    <playTime>2151.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">大象什么时候脆过。。</message>
-    <times>2009-10-20 07:01:41</times>
-  </data>
-  <data>
-    <playTime>2209.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">人族军队正在肆意摧毁神族的分基地</message>
-    <times>2009-10-20 07:02:18</times>
-  </data>
-  <data>
-    <playTime>2213.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">哇 他在战场中间锁定了一颗核弹</message>
-    <times>2009-10-20 07:02:57</times>
-  </data>
-  <data>
-    <playTime>2218.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">也许神族玩家没有发觉</message>
-    <times>2009-10-20 07:03:17</times>
-  </data>
-  <data>
-    <playTime>2261.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">人族打导弹那个破玩意很猛很猛啊</message>
-    <times>2009-10-20 07:03:30</times>
-  </data>
-  <data>
-    <playTime>2220.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">不 他发现了</message>
-    <times>2009-10-20 07:03:24</times>
-  </data>
-  <data>
-    <playTime>2223</playTime>
-    <message fontsize="15" color="16777215" mode="4">他撤退了</message>
-    <times>2009-10-20 07:03:38</times>
-  </data>
-  <data>
-    <playTime>2224.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">浪费了一颗核弹</message>
-    <times>2009-10-20 07:04:09</times>
-  </data>
-  <data>
-    <playTime>2225.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">不过这个让人族得到了整队的时间</message>
-    <times>2009-10-20 07:04:54</times>
-  </data>
-  <data>
-    <playTime>2227.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">巨像的位置不是很理想</message>
-    <times>2009-10-20 07:05:34</times>
-  </data>
-  <data>
-    <playTime>2230.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">这个情况对神族来说可不理想</message>
-    <times>2009-10-20 07:06:02</times>
-  </data>
-  <data>
-    <playTime>2232.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">虽然巨像帮助Stalker格挡了部分伤害  但是Stalker还是爆掉了</message>
-    <times>2009-10-20 07:07:18</times>
-  </data>
-  <data>
-    <playTime>2239.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">如果有几个狂战士 让巨像能撑久一点</message>
-    <times>2009-10-20 07:08:17</times>
-  </data>
-  <data>
-    <playTime>2244.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">这场战斗的结果也许就会被改变</message>
-    <times>2009-10-20 07:08:57</times>
-  </data>
-  <data>
-    <playTime>2246.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">但是现在神族玩家真的麻烦不断</message>
-    <times>2009-10-20 07:09:15</times>
-  </data>
-  <data>
-    <playTime>2248.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">他四面受敌</message>
-    <times>2009-10-20 07:09:36</times>
-  </data>
-  <data>
-    <playTime>2255.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">他现在被逼到百米送矿了</message>
-    <times>2009-10-20 07:10:36</times>
-  </data>
-  <data>
-    <playTime>2257.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">他真的在尽力撑下去了</message>
-    <times>2009-10-20 07:11:03</times>
-  </data>
-  <data>
-    <playTime>2259.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">看看他接下来怎么办了</message>
-    <times>2009-10-20 07:11:20</times>
-  </data>
-  <data>
-    <playTime>2261.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">是有一些选择 比如出黑暗圣堂 也许会扭转局势</message>
-    <times>2009-10-20 07:12:03</times>
-  </data>
-  <data>
-    <playTime>2265.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">不过问题是挺多的</message>
-    <times>2009-10-20 07:12:37</times>
-  </data>
-  <data>
-    <playTime>2267.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">gg还是打出来了</message>
-    <times>2009-10-20 07:12:53</times>
-  </data>
-  <data>
-    <playTime>2269.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">他觉得自己已经没机会了</message>
-    <times>2009-10-20 07:13:18</times>
-  </data>
-  <data>
-    <playTime>2271.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">他知道David Kim已经打败他了</message>
-    <times>2009-10-20 07:13:41</times>
-  </data>
-  <data>
-    <playTime>2274</playTime>
-    <message fontsize="15" color="16777215" mode="4">看来David Kim又淫了</message>
-    <times>2009-10-20 07:14:04</times>
-  </data>
-  <data>
-    <playTime>2275</playTime>
-    <message fontsize="15" color="16777215" mode="4">难以置信</message>
-    <times>2009-10-20 07:14:46</times>
-  </data>
-  <data>
-    <playTime>2276.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">真是梦幻的对决</message>
-    <times>2009-10-20 07:14:56</times>
-  </data>
-  <data>
-    <playTime>2278.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">我爱核弹</message>
-    <times>2009-10-20 07:15:07</times>
-  </data>
-  <data>
-    <playTime>2279.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">对 没错</message>
-    <times>2009-10-20 07:15:15</times>
-  </data>
-  <data>
-    <playTime>2280.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">很伟大的对战</message>
-    <times>2009-10-20 07:15:31</times>
-  </data>
-  <data>
-    <playTime>2281.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">感谢收看</message>
-    <times>2009-10-20 07:15:40</times>
-  </data>
-</information>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1357211978" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>月饼Shrimp兼职野生翻译</text>
+	<attr id="0" playtime="1153.1" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="225949645" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>有错误请轻拍……</text>
+	<attr id="0" playtime="1154.2" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="273685189" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>欢迎来到星级争霸2战报</text>
+	<attr id="0" playtime="1165.7" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="592007903" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>我是David 星际2主设计师</text>
+	<attr id="0" playtime="1167.2" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1803044647" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>更正：Dustin= =</text>
+	<attr id="0" playtime="1168.7" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="2073888272" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>之后我是Robert Simpson（干啥的不知道）</text>
+	<attr id="0" playtime="1170.5" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1382718387" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>今天又一场壮绝的比赛要带给大家</text>
+	<attr id="0" playtime="1172.9" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="2069777401" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>（比赛选手和种族就不翻译了）</text>
+	<attr id="0" playtime="1174.3" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1716805727" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他们将在Lost Temple一决雌雄</text>
+	<attr id="0" playtime="1180.6" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="115476233" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这张地图也许会听起来很熟悉</text>
+	<attr id="0" playtime="1182.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="837030725" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>没错</text>
+	<attr id="0" playtime="1184.9" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="230693179" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这张图专门为了星际2而被重制</text>
+	<attr id="0" playtime="1185" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="95939507" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>我是玻璃渣电子竞技组员</text>
+	<attr id="0" playtime="1171.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1455372263" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这是原版游戏里的经典地图，嗯……</text>
+	<attr id="0" playtime="1188.7" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="181811450" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>women </text>
+	<attr id="0" playtime="1190.6" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1819020660" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>我们在这张图又加入了许多新特性</text>
+	<attr id="0" playtime="1190.6" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="236805686" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>现在俺看到两个基地,还看到SCV</text>
+	<attr id="0" playtime="1195.6" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="677183966" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim 的红色人族出生在右边</text>
+	<attr id="0" playtime="1197.7" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1748994577" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>两个玩家的出生位置非常的近</text>
+	<attr id="0" playtime="1198.9" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="173847618" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>中间只有非常小的空间</text>
+	<attr id="0" playtime="1200.9" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1389650526" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但若你纵览地图瞧瞧地貌特征</text>
+	<attr id="0" playtime="1204.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1588082354" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这将是游戏的关键所在</text>
+	<attr id="0" playtime="1207.2" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="319210155" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这里有一处狭窄隘口可以通往低地</text>
+	<attr id="0" playtime="1208.5" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1275027613" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>相当好守的位置</text>
+	<attr id="0" playtime="1211.3" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="358353896" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这地方很容易就能开起分基来</text>
+	<attr id="0" playtime="1212.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1100024997" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>采集资源，并驻守另一处狭窄的通路</text>
+	<attr id="0" playtime="1216" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1492892563" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>在这片地方后面有高地</text>
+	<attr id="0" playtime="1223.5" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="2061618415" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>你可以尝试偷偷运点什么东西到上面去</text>
+	<attr id="0" playtime="1225.6" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="919682611" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这里还有Xel'Nage Tower（观测塔）</text>
+	<attr id="0" playtime="1230.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1275288419" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>可以利用这种地形对付敌人</text>
+	<attr id="0" playtime="1225.3" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1581021684" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>当你用部队占据观测塔的时候，你会得到极为宽广的视野</text>
+	<attr id="0" playtime="1231.3" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="2073425984" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这对于了解战场动向来说是极为关键的。</text>
+	<attr id="0" playtime="1234.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="274970502" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这里还有片富矿</text>
+	<attr id="0" playtime="1240.4" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1001256813" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>呃，中间还有一堆可破坏的石块挡着</text>
+	<attr id="0" playtime="1241.4" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="720359481" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>富矿自重</text>
+	<attr id="0" playtime="1242.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2058919607" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这些地方对于中后期游戏继续资源的玩家也是非常，非常重要的</text>
+	<attr id="0" playtime="1245.1" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="6090295" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这能帮助玩家攒出最后一波总攻来干掉对手</text>
+	<attr id="0" playtime="1250.3" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1465326271" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>啊你们看这里又一个观测塔又一堆石头更多的高地可以开分基……</text>
+	<attr id="0" playtime="1254.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1768329469" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这里是高原……</text>
+	<attr id="0" playtime="1240.2" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1595312401" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>旁边还有一片高地</text>
+	<attr id="0" playtime="1259.9" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="830778262" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>你可以用来防守，也可以利用它偷袭吓对手一跳</text>
+	<attr id="0" playtime="1264.4" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1069373399" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>哦哦双方玩家已经开始侦查了</text>
+	<attr id="0" playtime="1269.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1270460833" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>派出送死的农民来瞧瞧对方家里在干什么</text>
+	<attr id="0" playtime="1273" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="974848444" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这时候人族家里已经开始起气矿了。</text>
+	<attr id="0" playtime="1279.3" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="201548754" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>双方的侦查农民刚刚擦肩而过</text>
+	<attr id="0" playtime="1283" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1789806631" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族这时候对于神族家在什么位置应该心里有数了</text>
+	<attr id="0" playtime="1283.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="2047718479" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族把农民派向了12点的位置。</text>
+	<attr id="0" playtime="1287" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="2047892309" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>回到人族家里，他正在用兵营和两个房子堵口</text>
+	<attr id="0" playtime="1290.7" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1440551260" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这对于面对虫族与神族的人族玩家来讲是非常自然的事情</text>
+	<attr id="0" playtime="1296.9" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1058631138" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这样就能把神族的狂徒挡在门外</text>
+	<attr id="0" playtime="1300.4" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1284333690" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>让自己家的机枪兵能多射几枪</text>
+	<attr id="0" playtime="1301.1" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1475801132" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>结果神族的农民进不去了，在门外徘徊</text>
+	<attr id="0" playtime="1306" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="158672910" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>结果进不去，就看不到人族家里什么东西了</text>
+	<attr id="0" playtime="1311.1" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1348712133" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>农民很生气很暴力开始焊SCV</text>
+	<attr id="0" playtime="1314.7" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="487543434" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族农民凭借淫荡的身法闪避愤怒的Probe（逐字太累了……开始乱翻）</text>
+	<attr id="0" playtime="1317.5" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1252250848" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族农民还剩下20点血</text>
+	<attr id="0" playtime="1322.9" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="2008295634" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族正在升级自己的基地</text>
+	<attr id="0" playtime="1329.5" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1801352550" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>叫啥Orbital Command（轨道命令？？），能够为他带来资源上的优势</text>
+	<attr id="0" playtime="1331.1" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="507996686" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族让房子下地，放自己农民进来</text>
+	<attr id="0" playtime="1334.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="251959888" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族让房子下地，放自己农民进去</text>
+	<attr id="0" playtime="1340.2" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="2014210708" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>机枪兵把神族农民赶跑了</text>
+	<attr id="0" playtime="1340.2" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="441220275" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这时候神族家里已经被人族看光光了</text>
+	<attr id="0" playtime="1343.5" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1859051" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但这时候神族完全不知道人族在干啥</text>
+	<attr id="0" playtime="1348.6" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1479242318" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这现在看起来没什么，但是对后面有很大的影响</text>
+	<attr id="0" playtime="1352" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="168347715" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>因为你需要根据对方的开局来选择相应的战术</text>
+	<attr id="0" playtime="1355.4" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1063949414" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这时候神族家里单兵营</text>
+	<attr id="0" playtime="1359.4" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="854969608" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>之后强起电脑中心，打算出Stalker（闪烁龙骑）</text>
+	<attr id="0" playtime="1362.6" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1871219642" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这招好像对机枪兵比较管用</text>
+	<attr id="0" playtime="1369.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="23963562" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>（这跟原来单兵营爆龙骑同出一辙嘛）</text>
+	<attr id="0" playtime="1369.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="160148068" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>Stalkers可以在机枪兵周围跳来跳去随便打</text>
+	<attr id="0" playtime="1374.5" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="686086475" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这时候人族兵营就要出Marauder（劫掠者，火箭步兵）来反制</text>
+	<attr id="0" playtime="1377.7" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="538400106" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>先行部分字幕</text>
+	<attr id="0" playtime="1153.6" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="670271264" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>（这解说各种废话来回说，我决定睡觉……）</text>
+	<attr id="0" playtime="1380.8" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="383828879" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>（如果起床发现没人接棒，那我继续……）</text>
+	<attr id="0" playtime="1381.2" mode="4" fontsize="15" color="16763904"/>
+</comment>
+<comment id="1200042040" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>当然了 DavidKim已经知道这个了</text>
+	<attr id="0" playtime="1381.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="599656519" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他知道会有这种威胁</text>
+	<attr id="0" playtime="1384.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="258623994" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他知道会有被压制的危险</text>
+	<attr id="0" playtime="1386" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1131000092" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>同时 神族玩家还不知道人族玩家到底在搞啥</text>
+	<attr id="0" playtime="1388.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1556663448" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>瞧 这个机枪兵很神勇的孤军占领守望塔</text>
+	<attr id="0" playtime="1391.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2006111001" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>狂战士过来他就落跑了</text>
+	<attr id="0" playtime="1394.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="881749879" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>机枪兵只是顾着逃跑 根本没预计到会再来一个狂战士</text>
+	<attr id="0" playtime="1396.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1293598196" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>现在他真的遇到麻烦了</text>
+	<attr id="0" playtime="1400.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1680671047" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他只能拼命跑路了</text>
+	<attr id="0" playtime="1401.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="544501071" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>被打得满头是包  这里有个转角</text>
+	<attr id="0" playtime="1403.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2092562451" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这个狂战士穷追不舍</text>
+	<attr id="0" playtime="1404.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1546846454" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim很聪明 他试图把狂战士甩开</text>
+	<attr id="0" playtime="1408.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1710317590" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>啊 一个小失误 挂了</text>
+	<attr id="0" playtime="1410.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="356703719" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>回到David Kim的基地</text>
+	<attr id="0" playtime="1413.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1384076252" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他把兵营弄走了 补上了一个房子</text>
+	<attr id="0" playtime="1415.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="767951557" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>继续堵基地</text>
+	<attr id="0" playtime="1417.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="748806820" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他也早了一个工厂 现在正准备对接反应堆</text>
+	<attr id="0" playtime="1420.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="624504805" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>离开原有的反应堆接入新的反应堆</text>
+	<attr id="0" playtime="1423.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="374855593" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>现在可以同时建造两个hellion</text>
+	<attr id="0" playtime="1425.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1971189873" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>真的是在烧钱</text>
+	<attr id="0" playtime="1426.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2010960327" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>用这个对付狂战士很有效</text>
+	<attr id="0" playtime="1430.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="380033308" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这些东西移动速度很快 可以边跑边打</text>
+	<attr id="0" playtime="1433" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2087575536" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>狂战士只能逃命了 试图逃到安全区域</text>
+	<attr id="0" playtime="1438.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="549838085" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>Stalker就可以对付Hellion 能对他们进行追击</text>
+	<attr id="0" playtime="1440.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="215855708" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是Stalker依然不能追上Hellion</text>
+	<attr id="0" playtime="1445" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="254269431" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>Hellion跟他们擦身而过</text>
+	<attr id="0" playtime="1447" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1118407523" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>长驱直入神族的基地</text>
+	<attr id="0" playtime="1450.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1903890851" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>迅速接近矿工</text>
+	<attr id="0" playtime="1451.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2093481166" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>然后矿工只能逃命了</text>
+	<attr id="0" playtime="1452" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="17547282" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>Hellion步步紧逼</text>
+	<attr id="0" playtime="1453.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1762782890" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>搞得这里一团糟</text>
+	<attr id="0" playtime="1456" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="304435649" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim要继续施压 他去追杀矿工</text>
+	<attr id="0" playtime="1457.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2077290077" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>又是这俩</text>
+	<attr id="0" playtime="1182.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1357473710" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他也去烧了几下建筑</text>
+	<attr id="0" playtime="1460.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1279768580" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>奥 有一台爆掉了</text>
+	<attr id="0" playtime="1463.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="730112616" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>被Stalker打爆</text>
+	<attr id="0" playtime="1465.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2036099448" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>Stalker真的在努力攻击</text>
+	<attr id="0" playtime="1467" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="120420603" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他可不想失去更多的矿工</text>
+	<attr id="0" playtime="1469.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="412815706" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族这次损失了3个矿工</text>
+	<attr id="0" playtime="1470.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1651644694" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这慢到死的卷轴速度啊....</text>
+	<attr id="0" playtime="1218.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2115627125" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>非常幸运</text>
+	<attr id="0" playtime="1472.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="467140419" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>没错 在控制矿工逃跑的同时利用军队反击是很重要的</text>
+	<attr id="0" playtime="1474.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="656356502" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>挖挖翻译酱辛苦了</text>
+	<attr id="0" playtime="1176.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1212173774" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim的两个 Hellion并没有造成太多的伤害</text>
+	<attr id="0" playtime="1478.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2079940362" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不过他们的确弄出了一些麻烦</text>
+	<attr id="0" playtime="1481.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="641720436" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神操作~~</text>
+	<attr id="0" playtime="1588.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1938541309" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>并不值得</text>
+	<attr id="0" playtime="1481.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1880186811" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>看起来人族失去了主动权 神族已经扩张了</text>
+	<attr id="0" playtime="1486" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2129524836" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族却只是缩在自己的基地 等待敌人进攻</text>
+	<attr id="0" playtime="1490.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1114334514" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族刚完成坦克的升级</text>
+	<attr id="0" playtime="1496.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1690324527" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>刚好能进行实战</text>
+	<attr id="0" playtime="1500.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1025784472" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这些试图入侵的Stalker被坦克赶走了</text>
+	<attr id="0" playtime="1502.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1935180591" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>没错 神族可不想承受这种损失</text>
+	<attr id="0" playtime="1509.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="927076265" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这些Stalker不能承受那种火力的打击</text>
+	<attr id="0" playtime="1510.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2087076149" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>想要冲破这道防线 需要更多的部队</text>
+	<attr id="0" playtime="1514.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1525191071" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>看来David Kim要建造双基地</text>
+	<attr id="0" playtime="1518.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1151796341" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这些基地可以飞去地图上的任何一个角落</text>
+	<attr id="0" playtime="1521.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1216575629" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不过这种时候建造这种东西貌似不合时宜</text>
+	<attr id="0" playtime="1525.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1297332199" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>翻译真欢乐</text>
+	<attr id="0" playtime="1320.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1120838861" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他真的应该要在经济上迎头赶上了</text>
+	<attr id="0" playtime="1527.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1491515998" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族这边的第二基地已经开始运作了</text>
+	<attr id="0" playtime="1529.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1158427614" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他应该把分基地降落在富矿那里 这样能赶上去</text>
+	<attr id="0" playtime="1535.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1061545439" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族应该把基地放到小岛上 这样更安全</text>
+	<attr id="0" playtime="1535.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2042199901" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>太奔放了</text>
+	<attr id="0" playtime="2276.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="116237490" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这个正是Lost Temple的人族战术之一 无论在星际1还是星际2里面</text>
+	<attr id="0" playtime="1541.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="779613154" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>利用基地的飞行特性来进行岛矿收集</text>
+	<attr id="0" playtime="1546.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1752412156" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族是有很多方法保护自己的基地</text>
+	<attr id="0" playtime="1550.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="818035098" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是像这种地图 玩家们都离得非常近</text>
+	<attr id="0" playtime="1556.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1625159079" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>很难及时发现身边的威胁</text>
+	<attr id="0" playtime="1558.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1498709006" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>很多时候一个基地就突然没了</text>
+	<attr id="0" playtime="1561" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1462364282" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族是有很多强力的空中单位去搜索这种分基地</text>
+	<attr id="0" playtime="1552.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1361519651" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是像这种地图 玩家都离得太近了</text>
+	<attr id="0" playtime="1556.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="903079144" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>很多时候一个分基地就神不知鬼不觉的建立起来了</text>
+	<attr id="0" playtime="1562.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="698707745" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>看来有一些Hellion被空投到分基地进行骚扰</text>
+	<attr id="0" playtime="1564.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="98224817" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim进行了一系列非常高明的微操作</text>
+	<attr id="0" playtime="1568.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="902002785" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>在这些Stalker追杀Hellion的时候把他们抓上飞船</text>
+	<attr id="0" playtime="1569.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="921754782" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>然后在另一边打爆了一些矿工</text>
+	<attr id="0" playtime="1572.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1425006737" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族在进行反击 但是 他又一次上飞机跑路了</text>
+	<attr id="0" playtime="1575.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1171843160" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族再次试图击落飞机</text>
+	<attr id="0" playtime="1579.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1673604881" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是David Kim的微操作真的是太牛X了</text>
+	<attr id="0" playtime="1583.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2071729183" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族打法很强力</text>
+	<attr id="0" playtime="2297" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="465043726" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他又放下Hellion进行破坏 一架被打爆了</text>
+	<attr id="0" playtime="1586.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1164648926" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>19分钟的人参??太长了</text>
+	<attr id="0" playtime="1160.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1725974698" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>再次虎口脱险 只要回去修理一下就OK了</text>
+	<attr id="0" playtime="1588.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2030401260" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>难以置信 他进去打击了神族的经济 他不再落后了</text>
+	<attr id="0" playtime="1592.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="497467492" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这次出击的确有效 然后修理一下 又能去再干一票了</text>
+	<attr id="0" playtime="1596.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1830120913" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>居然飞机没被打爆</text>
+	<attr id="0" playtime="1597.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="718024628" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族的确试图反击 但是这些高机动性的骚扰战术实在难以应对</text>
+	<attr id="0" playtime="1604.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1603063195" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>利用Hellion的速度优势 以及运输机的便利</text>
+	<attr id="0" playtime="1610.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="119752257" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>翻译君呢？</text>
+	<attr id="0" playtime="1676.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="460578798" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>真的太棒了</text>
+	<attr id="0" playtime="1614.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2074751268" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>填坑去啊</text>
+	<attr id="0" playtime="1162.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="991203203" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这回就真的有料了 几台坦克上了运输机 看看他们开去哪里</text>
+	<attr id="0" playtime="1616.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1670791057" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这个应该是星际1里常用的高地防守</text>
+	<attr id="0" playtime="1620.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="888535464" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>LT啊...</text>
+	<attr id="0" playtime="1191.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="648516241" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>星际1常用的高地攻击</text>
+	<attr id="0" playtime="1622.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="547693960" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>把坦克放到高地去炮轰基地</text>
+	<attr id="0" playtime="1626.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2128383887" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>我觉得David Kim要做的事应该跟这个很像</text>
+	<attr id="0" playtime="1628.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="754230714" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>尤其是在对付Stalker的时候</text>
+	<attr id="0" playtime="1632.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1186686369" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>就差那么点就打爆了</text>
+	<attr id="0" playtime="2056.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1506200700" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>在 Stalker在进入射程的之前就架起坦克</text>
+	<attr id="0" playtime="1634.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="601483614" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>坦克就不会受到多少伤害</text>
+	<attr id="0" playtime="1638.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1154707760" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这个时候人族如果能把坦克弄到一个好位置 就厉害了</text>
+	<attr id="0" playtime="1641" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1234952872" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>离子风暴威力太大了点吧</text>
+	<attr id="0" playtime="2007.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1787196055" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>刚才  Hellion正在追杀狂战士</text>
+	<attr id="0" playtime="1647.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="180811502" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>嗯 这里就是降落地点</text>
+	<attr id="0" playtime="1651.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1556872657" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这里是Lost Temple经典位置 取得高地的控制权</text>
+	<attr id="0" playtime="1652.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1211232029" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>在星际2里面比星际1更加重要</text>
+	<attr id="0" playtime="1656.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="412495086" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>你在下面是完全看不到高地 除非你能开什么东西去侦察</text>
+	<attr id="0" playtime="1659" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="795742859" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这些矿工真的遇到麻烦了</text>
+	<attr id="0" playtime="1664.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="529399484" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>水晶塔被轰掉了 矿工只能逃命 坦克太暴力了</text>
+	<attr id="0" playtime="1666" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="156829210" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>没人发言</text>
+	<attr id="0" playtime="1270" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="224857727" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>只能看着啊..</text>
+	<attr id="0" playtime="1691.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1517820911" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>哇 突然钻出一个探测器</text>
+	<attr id="0" playtime="1671.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="473775223" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族还没发现这个潜在的威胁</text>
+	<attr id="0" playtime="1675.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="587257383" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>基本已经输了，别人3基地这么长时间了</text>
+	<attr id="0" playtime="1743" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="992460292" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>而且Stalker的闪烁技能正在升级中</text>
+	<attr id="0" playtime="1677.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1134547975" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>雷神出来了</text>
+	<attr id="0" playtime="1778.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1356627818" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>一旦完成 神族就能进入高地 处理这里坦克</text>
+	<attr id="0" playtime="1679" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="774281254" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这个事运输机吧</text>
+	<attr id="0" playtime="1809.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="564842899" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>我等不急玩这个游戏了</text>
+	<attr id="0" playtime="1207.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="772637177" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+这可能是我进你哪来买的唯一正版游戏</text>
+	<attr id="0" playtime="1222" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1478546393" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族在尽量争取时间 Stalker一直不敢进去坦克的射程</text>
+	<attr id="0" playtime="1682.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1709432804" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他真的不想被坦克肛到</text>
+	<attr id="0" playtime="1687.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1781763317" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>除非闪烁完成 能上去进行还击</text>
+	<attr id="0" playtime="1689.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="851221526" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>兴奋剂？</text>
+	<attr id="0" playtime="1900.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="303838395" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>4个雷神了啊....</text>
+	<attr id="0" playtime="1937.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="641535423" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>刚才他把探测器弄到了边上</text>
+	<attr id="0" playtime="1692" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1283512397" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>然后 哦 杀上来了</text>
+	<attr id="0" playtime="1695.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1069542408" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>雷神有轰炸的技能吧</text>
+	<attr id="0" playtime="1973.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="556809632" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>轰炸了</text>
+	<attr id="0" playtime="1997" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="449296870" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>加速的狂战真BT</text>
+	<attr id="0" playtime="2024.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="581411294" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>包围了坦克 另一台坦克正在进行还击</text>
+	<attr id="0" playtime="1698.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1196449854" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>全看这一波P的反攻可以给T造成多大的损失了~</text>
+	<attr id="0" playtime="1765.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="83065573" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>也对自己人造成伤害</text>
+	<attr id="0" playtime="1703.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1791133313" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>现在 David Kim在对坦克进行微操作</text>
+	<attr id="0" playtime="1704.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1286450338" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>原子弹....</text>
+	<attr id="0" playtime="2086.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="874200422" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这个太棒了</text>
+	<attr id="0" playtime="1707.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1222627450" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>没错 这样的确可以多撑几下</text>
+	<attr id="0" playtime="1708.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1322410161" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+坦克 启动太慢了</text>
+	<attr id="0" playtime="1512.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1580781721" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>真的能多肛好多炮</text>
+	<attr id="0" playtime="1711.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1380255757" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>奥 坦克终于被做掉了</text>
+	<attr id="0" playtime="1715.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="136266453" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim真的做到了伤害最大化</text>
+	<attr id="0" playtime="1717.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1013804204" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族的闪烁也用的很不错</text>
+	<attr id="0" playtime="1722.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1573277546" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>GG了</text>
+	<attr id="0" playtime="2251" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1329237612" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这里的战斗也告一段落了</text>
+	<attr id="0" playtime="1723.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="758955972" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>= = 悲剧了</text>
+	<attr id="0" playtime="2004" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="182387081" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族部队增援 运输机也被击落了</text>
+	<attr id="0" playtime="1722.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1352256900" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim并没有摧毁多少个矿工</text>
+	<attr id="0" playtime="1728.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1622623222" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不过他轰掉了一个水晶塔 轰掉了一个气矿 也值了</text>
+	<attr id="0" playtime="1731.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2115465530" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>真的很值得 因为他也把神族的矿工赶走了</text>
+	<attr id="0" playtime="1735.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="34298427" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>暂时中止了一个分基地的运作</text>
+	<attr id="0" playtime="1740.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="407943553" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>矿工在那么长的一段时间内无所事事</text>
+	<attr id="0" playtime="1742.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="889552918" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>间接让神族损失了几百的资源</text>
+	<attr id="0" playtime="1745.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="92133220" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>-,-!光看字幕都顾不上仔细看画面了...</text>
+	<attr id="0" playtime="1402.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1480713815" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不过David Kim也损失了他的部队</text>
+	<attr id="0" playtime="1749.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="890661938" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>很难说谁赚到了</text>
+	<attr id="0" playtime="1753.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1461573993" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不过他的确迫使对手改变了科技升级路线</text>
+	<attr id="0" playtime="1757.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1390722269" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族正在试图控制地图中心 人族正在门口布置防御</text>
+	<attr id="0" playtime="1766.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="372461876" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+有料了</text>
+	<attr id="0" playtime="1784.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="341160763" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+走 母舰上</text>
+	<attr id="0" playtime="1808" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2078778926" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他有一些坦克</text>
+	<attr id="0" playtime="1773.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="606450880" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他可能没有注意到敌人在9点方向有分基地</text>
+	<attr id="0" playtime="1773.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1172187140" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>多线。。。</text>
+	<attr id="0" playtime="1878.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="793955690" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族的第二个分基地</text>
+	<attr id="0" playtime="1777.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="258258036" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>经济方面有希望赶上</text>
+	<attr id="0" playtime="1778.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="918146479" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>而且他也要确认一下这里是不是有一个陷阱在等着他</text>
+	<attr id="0" playtime="1781.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="995536231" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+。。。。机械流。。</text>
+	<attr id="0" playtime="1946.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="491435571" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>进攻开始了 坦克开喷 然后对方闪烁进入高地</text>
+	<attr id="0" playtime="1786.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="651744478" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+。？</text>
+	<attr id="0" playtime="1990.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="3547424" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+    </text>
+	<attr id="0" playtime="2000.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="368390421" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>然后坦克被肛掉 闪烁有冷却时间</text>
+	<attr id="0" playtime="1790.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1348853969" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他真的要逃离这些部队的追杀</text>
+	<attr id="0" playtime="1794.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="158490400" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他需要时间</text>
+	<attr id="0" playtime="1795.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1128336751" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>再多一个 圣堂就好</text>
+	<attr id="0" playtime="2076.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1726067338" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>闪烁技能冷却 逃跑了</text>
+	<attr id="0" playtime="1796.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1885283475" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+这一期 比较好玩</text>
+	<attr id="0" playtime="2092.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="158624117" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>粒子风暴？</text>
+	<attr id="0" playtime="1992.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1805912591" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>剩下的部队得以生还</text>
+	<attr id="0" playtime="1799.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1984798103" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不过损失却是大了点</text>
+	<attr id="0" playtime="1800.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1190268190" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+大象没以前那么脆了一样</text>
+	<attr id="0" playtime="2138.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1306685796" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+神族的反隐 休假了</text>
+	<attr id="0" playtime="2164.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1584847909" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>
+GG</text>
+	<attr id="0" playtime="2193.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="337556653" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族的另一个动作 这边开来了一台相位棱镜</text>
+	<attr id="0" playtime="1802.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1366891090" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这飞船可以用来传送单位 也能用来创造能量地带</text>
+	<attr id="0" playtime="1806.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1323931007" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这个对神族来说至关重要</text>
+	<attr id="0" playtime="1809.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1771968403" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>因为现在他可以在任何地方传送部队了</text>
+	<attr id="0" playtime="1809.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1919761275" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim还是占着这个观察他</text>
+	<attr id="0" playtime="1816.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="821367525" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>塔</text>
+	<attr id="0" playtime="1816.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1399877955" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他有可能已经发现了那台相位棱镜</text>
+	<attr id="0" playtime="1819.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1548382709" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>也许他没有发现</text>
+	<attr id="0" playtime="1821" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1490003726" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim正在自己的基地里建地堡</text>
+	<attr id="0" playtime="1824.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1094319185" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这个Stalker暂时不会去骚扰他</text>
+	<attr id="0" playtime="1828.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="320038811" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>地图下面 相位棱镜已经到达了David Kim的岛矿</text>
+	<attr id="0" playtime="1831.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1804271520" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>收割者</text>
+	<attr id="0" playtime="1925.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1254242203" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>利用它的能力 正在将狂战士传送到这里</text>
+	<attr id="0" playtime="1837.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2095848633" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这对David Kim来说可不好</text>
+	<attr id="0" playtime="1842" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1480296029" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>电！</text>
+	<attr id="0" playtime="1996.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="215114843" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>我们可以看到水晶矿的储存急速下降</text>
+	<attr id="0" playtime="1843.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1377393001" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim试图反击 矿工是可以进行攻击</text>
+	<attr id="0" playtime="1845.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1639539532" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>的确可以对狂战士造成不小的伤害</text>
+	<attr id="0" playtime="1848.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="175286178" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>能肛掉一个狂战士</text>
+	<attr id="0" playtime="1852.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1654592174" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是 所有的矿工都被杀死了</text>
+	<attr id="0" playtime="1854.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="523060852" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>很大的经济损失</text>
+	<attr id="0" playtime="1856.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1890765343" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>矿工们根本不是对手</text>
+	<attr id="0" playtime="1856.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="617667447" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>指挥中心只能起飞逃跑了</text>
+	<attr id="0" playtime="1860.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1207087382" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>一架飞机 几个狂战士 就毁灭了整个分基地</text>
+	<attr id="0" playtime="1863.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="615365299" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>让他取得了优势</text>
+	<attr id="0" playtime="1868.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1257975994" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim反击了</text>
+	<attr id="0" playtime="1870.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1699941069" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>收割者们跳上高地 但是又被Stalker赶跑了</text>
+	<attr id="0" playtime="1871.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="937206877" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>现在神族取得了主动权 他摧毁了那个小岛的分基地</text>
+	<attr id="0" playtime="1876.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="300573713" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>同时又能防御自己的基地</text>
+	<attr id="0" playtime="1881.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="188223547" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>如果失误 后果严重</text>
+	<attr id="0" playtime="1883.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="651600711" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这些收割者穿过守望塔 向神族的另一个基地前进</text>
+	<attr id="0" playtime="1885.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="580592428" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>来了 看来他们能抢先一步</text>
+	<attr id="0" playtime="1890.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2045186600" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>真是造成了不小的破坏</text>
+	<attr id="0" playtime="1893.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1423401011" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>然后他们在Stalker传送完毕之后跃上高地</text>
+	<attr id="0" playtime="1898.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1380831023" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>奥 兴奋剂</text>
+	<attr id="0" playtime="1894" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="589018303" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>闪电兵[[~csga-kpx]]</text>
+	<attr id="0" playtime="1990.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1962681002" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他们能在一瞬间摧毁一台Stalker</text>
+	<attr id="0" playtime="1902" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="183828259" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>对方看不到高地 不能闪烁上去</text>
+	<attr id="0" playtime="1904.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1589891433" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>收割者们已经没有什么好顾忌的了</text>
+	<attr id="0" playtime="1908.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1843289588" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>想做啥就做啥</text>
+	<attr id="0" playtime="1911.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="757178851" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>气矿被废</text>
+	<attr id="0" playtime="1915.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="736077485" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>侦察机来了</text>
+	<attr id="0" playtime="1916.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1943754664" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>翻译大哥还没睡啊,,,早上好</text>
+	<attr id="0" playtime="1347.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="488338002" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这下他就能对付这些人族军队了</text>
+	<attr id="0" playtime="1916.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1540101732" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>侦察机开过来 能看到高地了</text>
+	<attr id="0" playtime="1920" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="147684427" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>也不能怪David Kim 他已经尽力了</text>
+	<attr id="0" playtime="1922" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="763699861" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>原子弹了</text>
+	<attr id="0" playtime="2187.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="735885883" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不可思议。。。</text>
+	<attr id="0" playtime="2199" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="92350994" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>一起死</text>
+	<attr id="0" playtime="2220.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1014710599" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他试图跳下来进行反击 不过明显不够强力</text>
+	<attr id="0" playtime="1926.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="436284837" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>Stalker击退了收割者的进攻</text>
+	<attr id="0" playtime="1928.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="681476072" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族原子弹逆转大好！</text>
+	<attr id="0" playtime="2251.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="772102808" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>收割者是可以跳上跳下搞破坏 但是他并不知道神族的侦察机早就就位了</text>
+	<attr id="0" playtime="1931.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2086063690" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>一波主力换一个3矿·值吗？还没打掉</text>
+	<attr id="0" playtime="2066.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1366053923" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>哦也</text>
+	<attr id="0" playtime="2006.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1764332573" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>跳上跳下的时间真的要算的很准</text>
+	<attr id="0" playtime="1939.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="310268998" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>跳来跳去真的花费了很多时间</text>
+	<attr id="0" playtime="1939.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2035820970" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>看起来David Kim的部队已经很庞大了</text>
+	<attr id="0" playtime="1942.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1816157092" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>一起出动 横穿地图</text>
+	<attr id="0" playtime="1944.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="527140935" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他也在富矿这里建立了分基地</text>
+	<attr id="0" playtime="1945.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1587124709" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这些狂战士就留在这里蹲点了</text>
+	<attr id="0" playtime="1950.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2067077189" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim的部队推进到了10点钟方向偏左的地方 </text>
+	<attr id="0" playtime="1952.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1282765707" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>打算在这里进行大战</text>
+	<attr id="0" playtime="1956.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="434448869" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>Stalker试图回避</text>
+	<attr id="0" playtime="1958.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="991661671" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族这边正在双线作战</text>
+	<attr id="0" playtime="1960.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="108642918" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim的位置对他真的很有利</text>
+	<attr id="0" playtime="1962.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="770592674" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>然后他往后退了一点点 坦克架起 控制观察他</text>
+	<attr id="0" playtime="1966.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="863797347" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>塔</text>
+	<attr id="0" playtime="1966.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="153343049" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他真的希望对手打下来</text>
+	<attr id="0" playtime="1975.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1926105857" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>又架起了坦克</text>
+	<attr id="0" playtime="1977.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1450701515" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他真的想对手傻傻的冲下来</text>
+	<attr id="0" playtime="1977.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="653125329" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>连续几个战报出来都是邻居地.何等杯具</text>
+	<attr id="0" playtime="1211" mode="2" fontsize="37" color="52735"/>
+</comment>
+<comment id="747983955" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>然后跟这庞大的军队作战</text>
+	<attr id="0" playtime="1981.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2103553278" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>哇 心灵风暴</text>
+	<attr id="0" playtime="1984.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1408279236" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>造成了非常大的伤害</text>
+	<attr id="0" playtime="1985.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1357848342" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>存活确定= = </text>
+	<attr id="0" playtime="1584.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2083734042" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>纯爷们机枪兵出来了!</text>
+	<attr id="0" playtime="1337.5" mode="2" fontsize="37" color="52735"/>
+</comment>
+<comment id="584857607" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>雷神上来 但是也顶不住多重心灵风暴</text>
+	<attr id="0" playtime="1988.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="391059068" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这边的神族军队也杀到了</text>
+	<attr id="0" playtime="1993.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="831260159" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>在雷神中心又来了一个心灵风暴</text>
+	<attr id="0" playtime="1994.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="972204537" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族对心灵风暴的运用真的出神入化</text>
+	<attr id="0" playtime="1998.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1199974759" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他真的利用了科技优势来打败了David Kim的军队</text>
+	<attr id="0" playtime="2003.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1883563166" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他的时间计算真的非常精确</text>
+	<attr id="0" playtime="2008" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="409619894" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>利用多个光明圣堂来连续放出心灵风暴</text>
+	<attr id="0" playtime="2011.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="727858154" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族的机会来了 控制了战场 拥有庞大的部队</text>
+	<attr id="0" playtime="2017.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="776958752" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>比敌人更加庞大的军正在推进中</text>
+	<attr id="0" playtime="2023.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2050723782" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族也做出了一些反应</text>
+	<attr id="0" playtime="2026.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1079507683" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>看来神族正在对下面的富矿基地进行攻击</text>
+	<attr id="0" playtime="2029.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1479348575" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>矿工们正在进行抢修</text>
+	<attr id="0" playtime="2031.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="4753086" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>冒着心灵风暴也要进行修理工作</text>
+	<attr id="0" playtime="2033.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2060949512" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族军队赶到了</text>
+	<attr id="0" playtime="2036.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1268926582" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>又是心灵风暴</text>
+	<attr id="0" playtime="2037.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="67066869" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>基地保卫战开始了</text>
+	<attr id="0" playtime="2039.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1138210742" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>现在神族的形势不妙 被两面夹击</text>
+	<attr id="0" playtime="2042.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2038057075" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>差一点点就可以打爆基地了！</text>
+	<attr id="0" playtime="2047.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1971178135" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是 很遗憾</text>
+	<attr id="0" playtime="2051.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="964681958" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>基地剩下不足100的HP 但是还是存活了下来</text>
+	<attr id="0" playtime="2053.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1460821109" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>19分钟的人身</text>
+	<attr id="0" playtime="1161.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="721896480" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>难以想象 David Kim的经济遭受了很大的打击</text>
+	<attr id="0" playtime="2057.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="101981353" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>。。。。。。。好地图</text>
+	<attr id="0" playtime="1189.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1227377106" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他失去了很多矿工</text>
+	<attr id="0" playtime="2060.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1478031372" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是他还是灭掉了神族的整支军队</text>
+	<attr id="0" playtime="2061.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1047499589" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>悲剧的农民</text>
+	<attr id="0" playtime="1312.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="875756889" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这里跑来了两个光明神堂</text>
+	<attr id="0" playtime="2066.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="344227947" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>传送上去的</text>
+	<attr id="0" playtime="2069.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2123483583" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>也许能搞一些破坏</text>
+	<attr id="0" playtime="2071.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="221554283" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>与此同时 看起来这边要轰核弹了</text>
+	<attr id="0" playtime="2072.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1889499568" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>对方正在试图阻止核弹发射</text>
+	<attr id="0" playtime="2076.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1501501718" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不觉得 解说说的太快了么</text>
+	<attr id="0" playtime="1410.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1701832138" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>核蛋一波接一波受不鸟了~</text>
+	<attr id="0" playtime="2160.8" mode="2" fontsize="37" color="52735"/>
+</comment>
+<comment id="775077113" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>翻译君真辛苦</text>
+	<attr id="0" playtime="1421.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1621740545" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>啊 还是没能做到 幽灵也即时上飞机撤退了</text>
+	<attr id="0" playtime="2078.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1478606986" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>解说太欢乐了</text>
+	<attr id="0" playtime="1453.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="537237006" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>核弹造成了很大的伤害</text>
+	<attr id="0" playtime="2083.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1689299517" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>然后军队开了进来 对神族基地进行破坏</text>
+	<attr id="0" playtime="2085.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="540196148" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>幽灵刚好能逃掉 运输机正在对他进行治疗（哦哦哦，新技能）</text>
+	<attr id="0" playtime="2088.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1840531244" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>哇 他对上面进行了探测 然后就肛掉了上面的神族</text>
+	<attr id="0" playtime="2093.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1532570768" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>现在呢 哇 雷神用特殊技能对基地造成了巨大的伤害</text>
+	<attr id="0" playtime="2098.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="679933759" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族这边正在使用光明圣堂的新技能 </text>
+	<attr id="0" playtime="2105.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1730625950" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>能对单体目标进行大量伤害</text>
+	<attr id="0" playtime="2109.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="118662049" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>巨像也来了</text>
+	<attr id="0" playtime="2116.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="579102600" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>对这些地面部队造成了非常大的伤害</text>
+	<attr id="0" playtime="2117" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1830191353" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族这次是把能用上的都用了</text>
+	<attr id="0" playtime="2120.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="877844087" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是经济还是受到了很大的打击</text>
+	<attr id="0" playtime="2126.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="236655403" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>又是核弹</text>
+	<attr id="0" playtime="2128.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="232451213" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>对这个基地造成了非常大的伤害</text>
+	<attr id="0" playtime="2131.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="33171691" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>让神族不得安宁</text>
+	<attr id="0" playtime="2132.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="632866621" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim正在做他必须做的事 到处都进行骚扰</text>
+	<attr id="0" playtime="2136.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1483229469" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>看 对手的确没辙了 又是一发核弹</text>
+	<attr id="0" playtime="2142.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="221781500" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他只剩下左边的那个基地在收集资源了</text>
+	<attr id="0" playtime="2148.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="901419111" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>雷车屠农了</text>
+	<attr id="0" playtime="1464.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="86968991" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>难以置信 幽灵让一颗又一颗的核弹落到了神族的基地上</text>
+	<attr id="0" playtime="2151.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1910364441" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>试图搞一些破坏 用巨像来造成额外的伤害</text>
+	<attr id="0" playtime="2159.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1648203591" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是敌人太多了 这支部队不敌</text>
+	<attr id="0" playtime="2163.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1805805359" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族龙骑比以前弱太多了</text>
+	<attr id="0" playtime="1619.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1598537805" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>直接碾压了</text>
+	<attr id="0" playtime="2166.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1307175682" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族部队数量太多 他们根本就不是对手</text>
+	<attr id="0" playtime="2170.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1229506015" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族可以退了我感觉。。</text>
+	<attr id="0" playtime="1705" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1460676502" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不过巨像是重甲杀手这个事实还是不会改变的</text>
+	<attr id="0" playtime="2173.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1379402458" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>3矿，200人口机械化，这个人族很传统</text>
+	<attr id="0" playtime="1770.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="380502075" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>又来一发</text>
+	<attr id="0" playtime="2180.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="173829276" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>难以置信~</text>
+	<attr id="0" playtime="2181.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1666158826" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族正在尽最大努力重建这个基地</text>
+	<attr id="0" playtime="2182" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1078796796" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>看 Stalker传送过去 他们能阻止这颗核弹吗？</text>
+	<attr id="0" playtime="2184.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1155575718" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不</text>
+	<attr id="0" playtime="2189.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1275641162" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>核弹打了下来</text>
+	<attr id="0" playtime="2190.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="485392827" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>幽灵回到运输机 再次逃脱了</text>
+	<attr id="0" playtime="2191.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1010245568" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>一个幽灵 一个人的军队 在进攻神族</text>
+	<attr id="0" playtime="2194.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="595828643" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>闪电好看太多了</text>
+	<attr id="0" playtime="1990.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1260912975" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>David Kim搞得这些破坏得到了非常好的回报</text>
+	<attr id="0" playtime="2199.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="912861376" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>神族现在情况非常不妙</text>
+	<attr id="0" playtime="2204.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1152657200" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他们有很多建筑长在建造中 能做的事情实在太少了</text>
+	<attr id="0" playtime="2206.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="797386395" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>大象什么时候脆过。。</text>
+	<attr id="0" playtime="2151.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="725749610" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族军队正在肆意摧毁神族的分基地</text>
+	<attr id="0" playtime="2209.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1652227892" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>哇 他在战场中间锁定了一颗核弹</text>
+	<attr id="0" playtime="2213.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2001329853" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>也许神族玩家没有发觉</text>
+	<attr id="0" playtime="2218.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="900590052" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>人族打导弹那个破玩意很猛很猛啊</text>
+	<attr id="0" playtime="2261.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="944297275" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不 他发现了</text>
+	<attr id="0" playtime="2220.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="268263636" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他撤退了</text>
+	<attr id="0" playtime="2223" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2138963063" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>浪费了一颗核弹</text>
+	<attr id="0" playtime="2224.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="632648400" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不过这个让人族得到了整队的时间</text>
+	<attr id="0" playtime="2225.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1912986574" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>巨像的位置不是很理想</text>
+	<attr id="0" playtime="2227.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1205100680" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这个情况对神族来说可不理想</text>
+	<attr id="0" playtime="2230.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1363354436" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>虽然巨像帮助Stalker格挡了部分伤害  但是Stalker还是爆掉了</text>
+	<attr id="0" playtime="2232.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1193538704" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>如果有几个狂战士 让巨像能撑久一点</text>
+	<attr id="0" playtime="2239.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="61578485" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>这场战斗的结果也许就会被改变</text>
+	<attr id="0" playtime="2244.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1780119944" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>但是现在神族玩家真的麻烦不断</text>
+	<attr id="0" playtime="2246.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="805997747" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他四面受敌</text>
+	<attr id="0" playtime="2248.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1167655812" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他现在被逼到百米送矿了</text>
+	<attr id="0" playtime="2255.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="189340119" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他真的在尽力撑下去了</text>
+	<attr id="0" playtime="2257.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="826804090" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>看看他接下来怎么办了</text>
+	<attr id="0" playtime="2259.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2032191383" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>是有一些选择 比如出黑暗圣堂 也许会扭转局势</text>
+	<attr id="0" playtime="2261.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1004840781" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>不过问题是挺多的</text>
+	<attr id="0" playtime="2265.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="945664653" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>gg还是打出来了</text>
+	<attr id="0" playtime="2267.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="446876212" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他觉得自己已经没机会了</text>
+	<attr id="0" playtime="2269.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="236137948" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>他知道David Kim已经打败他了</text>
+	<attr id="0" playtime="2271.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1727325682" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>看来David Kim又淫了</text>
+	<attr id="0" playtime="2274" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="677657738" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>难以置信</text>
+	<attr id="0" playtime="2275" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="959977050" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>真是梦幻的对决</text>
+	<attr id="0" playtime="2276.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="963044300" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>我爱核弹</text>
+	<attr id="0" playtime="2278.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="68141716" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>对 没错</text>
+	<attr id="0" playtime="2279.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="924808475" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>很伟大的对战</text>
+	<attr id="0" playtime="2280.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1121009763" poolid="1" userhash="deadbeef" sendtime="1321635737">
+	<text>感谢收看</text>
+	<attr id="0" playtime="2281.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+</comments>

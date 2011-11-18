@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>4.1</playTime>
-    <message fontsize="15" color="33023" mode="4">　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="535827686" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -21,12 +20,11 @@
 
 
 
-　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>194.6</playTime>
-    <message fontsize="25" color="12566272" mode="4">　
+　</text>
+	<attr id="0" playtime="4.1" mode="4" fontsize="15" color="33023"/>
+</comment>
+<comment id="1251991940" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -40,12 +38,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>78.2</playTime>
-    <message fontsize="25" color="8650752" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="194.6" mode="4" fontsize="25" color="12566272"/>
+</comment>
+<comment id="1228619654" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -59,12 +56,11 @@
 
 
 
-　　　黑夜的惆怅　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>194.6</playTime>
-    <message fontsize="25" color="12566272" mode="4">　
+　　　黑夜的惆怅　　　　　　　　　　　　</text>
+	<attr id="0" playtime="78.2" mode="4" fontsize="25" color="8650752"/>
+</comment>
+<comment id="71008311" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -78,12 +74,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>189.8</playTime>
-    <message fontsize="25" color="16776960" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="194.6" mode="4" fontsize="25" color="12566272"/>
+</comment>
+<comment id="753133514" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -97,12 +92,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>192.6</playTime>
-    <message fontsize="25" color="12541952" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="189.8" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="483385093" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -116,12 +110,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>80.2</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="192.6" mode="4" fontsize="25" color="12541952"/>
+</comment>
+<comment id="1607546721" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -135,12 +128,11 @@
 
 
 
-　　　黑夜的惆怅　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>253.5</playTime>
-    <message fontsize="25" color="16765440" mode="5">　
+　　　黑夜的惆怅　　　　　　　　　　　　</text>
+	<attr id="0" playtime="80.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1642739288" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 　　　　　　　　　　　　Ｐ
 　　　　　　　　　　　　Ａ
 　　　　　　　　　　　　Ｒ
@@ -154,12 +146,11 @@
 　　　　　　　　　　　　Ｏ
 　　　　　　　　　　　　Ｓ
 　　　　　　　　　　　　Ｔ
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>79.2</playTime>
-    <message fontsize="25" color="4718592" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="253.5" mode="5" fontsize="25" color="16765440"/>
+</comment>
+<comment id="1612652583" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -173,12 +164,11 @@
 
 
 
-　　　黑夜的惆怅　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>252.0</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+　　　黑夜的惆怅　　　　　　　　　　　　</text>
+	<attr id="0" playtime="79.2" mode="4" fontsize="25" color="4718592"/>
+</comment>
+<comment id="1424543707" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -192,12 +182,11 @@
 
 
 
-最后唯有</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>76.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+最后唯有</text>
+	<attr id="0" playtime="252.0" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1975700246" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -211,12 +200,11 @@
 
 
 
-　　　黑夜的惆怅　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>73.2</playTime>
-    <message fontsize="25" color="5399725" mode="4">　
+　　　黑夜的惆怅　　　　　　　　　　　　</text>
+	<attr id="0" playtime="76.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1691620299" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -230,12 +218,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>248.9</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="73.2" mode="4" fontsize="25" color="5399725"/>
+</comment>
+<comment id="1065943471" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -249,12 +236,11 @@
 
 
 
-崩塌所有信仰</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>240.3</playTime>
-    <message fontsize="25" color="0" mode="4">　
+崩塌所有信仰</text>
+	<attr id="0" playtime="248.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1463614256" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -268,12 +254,11 @@
 
 
 
-独自一人归于沧沧洪荒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>231.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+独自一人归于沧沧洪荒</text>
+	<attr id="0" playtime="240.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1225232938" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -287,12 +272,11 @@
 
 
 
-你那平静不带伤痛释然的脸庞</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>67.6</playTime>
-    <message fontsize="25" color="8355711" mode="4">　
+你那平静不带伤痛释然的脸庞</text>
+	<attr id="0" playtime="231.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="58349584" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 　　我以为我可以坚强
 
@@ -306,12 +290,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>237.3</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="67.6" mode="4" fontsize="25" color="8355711"/>
+</comment>
+<comment id="1646655180" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -325,12 +308,11 @@
 
 
 
-披上层层密不透风的伪装</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>225.0</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+披上层层密不透风的伪装</text>
+	<attr id="0" playtime="237.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1650419305" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -344,12 +326,11 @@
 
 
 
-完美无瑕不留任何的迷惘</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>225.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+完美无瑕不留任何的迷惘</text>
+	<attr id="0" playtime="225.0" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="726271001" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -363,12 +344,11 @@
 
 
 
-完美无瑕不留任何的迷惘</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>219.7</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+完美无瑕不留任何的迷惘</text>
+	<attr id="0" playtime="225.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="285471334" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -382,12 +362,11 @@
 
 
 
-月光下你依旧绚烂的锋芒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>212.7</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+月光下你依旧绚烂的锋芒</text>
+	<attr id="0" playtime="219.7" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="597095381" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -401,12 +380,11 @@
 
 
 
-你温暖的指尖 至今我仍深眷恋</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>188.8</playTime>
-    <message fontsize="25" color="12566272" mode="4">　
+你温暖的指尖 至今我仍深眷恋</text>
+	<attr id="0" playtime="212.7" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="222113541" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -420,12 +398,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>64.6</playTime>
-    <message fontsize="25" color="8355711" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="188.8" mode="4" fontsize="25" color="12566272"/>
+</comment>
+<comment id="1950484006" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 　　我以为我可以坚强
 
@@ -439,12 +416,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>218.7</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="64.6" mode="4" fontsize="25" color="8355711"/>
+</comment>
+<comment id="1785046666" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -458,12 +434,11 @@
 
 
 
-无法任由自已忽略遗忘 你温柔目光</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>121.6</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+无法任由自已忽略遗忘 你温柔目光</text>
+	<attr id="0" playtime="218.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="535940703" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -477,12 +452,11 @@
 
 
 
-带着甜蜜回想 你我共拥的过往</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>206.9</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+带着甜蜜回想 你我共拥的过往</text>
+	<attr id="0" playtime="121.6" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1425058689" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -496,12 +470,11 @@
 
 
 
-你温暖的指尖 至今我仍深眷恋</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>170.4</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+你温暖的指尖 至今我仍深眷恋</text>
+	<attr id="0" playtime="206.9" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1084779826" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -515,12 +488,11 @@
 
 
 
-天际的光亮（也充满绝望）</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>112.1</playTime>
-    <message fontsize="25" color="0" mode="4">　
+天际的光亮（也充满绝望）</text>
+	<attr id="0" playtime="170.4" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="2105033978" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -534,12 +506,11 @@
 
 
 
-在刹那刀剑的碰撞</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>162.0</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+在刹那刀剑的碰撞</text>
+	<attr id="0" playtime="112.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1057843832" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -553,12 +524,11 @@
 
 
 
-黑夜的惆怅（弥漫着疯狂）</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>150.3</playTime>
-    <message fontsize="25" color="0" mode="4">　
+黑夜的惆怅（弥漫着疯狂）</text>
+	<attr id="0" playtime="162.0" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="438990613" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -572,12 +542,11 @@
 
 
 
-你那平静不带伤痛释然的脸庞</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>155.9</playTime>
-    <message fontsize="25" color="0" mode="4">　
+你那平静不带伤痛释然的脸庞</text>
+	<attr id="0" playtime="150.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="394957331" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -591,12 +560,11 @@
 
 
 
-披上层层密不透风的伪装</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>159.0</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+披上层层密不透风的伪装</text>
+	<attr id="0" playtime="155.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1784368776" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -610,12 +578,11 @@
 
 
 
-直到地老天荒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>161.6</playTime>
-    <message fontsize="25" color="0" mode="4">　
+直到地老天荒</text>
+	<attr id="0" playtime="159.0" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1599128867" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -629,12 +596,11 @@
 
 
 
-直到地老天荒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>152.3</playTime>
-    <message fontsize="25" color="0" mode="4">　
+直到地老天荒</text>
+	<attr id="0" playtime="161.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1237601269" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -648,12 +614,11 @@
 
 
 
-我以为我可以坚强</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>138.0</playTime>
-    <message fontsize="25" color="0" mode="4">　
+我以为我可以坚强</text>
+	<attr id="0" playtime="152.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1367112766" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -667,12 +632,11 @@
 
 
 
-无法任由自已忽略遗忘 你温柔目光</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>136.2</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+无法任由自已忽略遗忘 你温柔目光</text>
+	<attr id="0" playtime="138.0" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="934041990" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -686,12 +650,11 @@
 
 
 
-无法任由自已忽略遗忘 你温柔目光</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>140.6</playTime>
-    <message fontsize="25" color="0" mode="4">　
+无法任由自已忽略遗忘 你温柔目光</text>
+	<attr id="0" playtime="136.2" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1344236174" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -705,12 +668,11 @@
 
 
 
-月光下你依旧绚烂的锋芒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>129.6</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+月光下你依旧绚烂的锋芒</text>
+	<attr id="0" playtime="140.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="317930099" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -724,12 +686,11 @@
 
 
 
-你温暖的指尖 至今我仍深眷恋</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>186.8</playTime>
-    <message fontsize="25" color="16776960" mode="4">　
+你温暖的指尖 至今我仍深眷恋</text>
+	<attr id="0" playtime="129.6" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1972068812" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -743,12 +704,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>124.5</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="186.8" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1422561605" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -762,12 +722,11 @@
 
 
 
-带着甜蜜回想 你我共拥的过往</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>133.2</playTime>
-    <message fontsize="25" color="0" mode="4">　
+带着甜蜜回想 你我共拥的过往</text>
+	<attr id="0" playtime="124.5" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="463536399" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -781,12 +740,11 @@
 
 
 
-你温暖的指尖 至今我仍深眷恋</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>126.7</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+你温暖的指尖 至今我仍深眷恋</text>
+	<attr id="0" playtime="133.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="704994090" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -800,12 +758,11 @@
 
 
 
-你温暖的指尖 至今我仍深眷恋</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>58.6</playTime>
-    <message fontsize="25" color="33023" mode="4">　
+你温暖的指尖 至今我仍深眷恋</text>
+	<attr id="0" playtime="126.7" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1421776085" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 　利
 　刃
@@ -819,12 +776,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>115.8</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="58.6" mode="4" fontsize="25" color="33023"/>
+</comment>
+<comment id="849931901" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -838,12 +794,11 @@
 
 
 
-叫我如何能不哀伤</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>55.9</playTime>
-    <message fontsize="25" color="16744448" mode="4">　
+叫我如何能不哀伤</text>
+	<attr id="0" playtime="115.8" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="548154156" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -857,12 +812,11 @@
 　　完美无瑕不留
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>57.2</playTime>
-    <message fontsize="25" color="16744448" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="55.9" mode="4" fontsize="25" color="16744448"/>
+</comment>
+<comment id="696305984" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -876,12 +830,11 @@
 　　完美无瑕不留任何的迷惘
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>118.7</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="57.2" mode="4" fontsize="25" color="16744448"/>
+</comment>
+<comment id="545543241" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -895,12 +848,11 @@
 
 
 
-今夜我亲手为你送葬</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>110.1</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+今夜我亲手为你送葬</text>
+	<attr id="0" playtime="118.7" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="809898386" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -914,12 +866,11 @@
 
 
 
-在刹那刀剑的碰撞</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>110.0</playTime>
-    <message fontsize="25" color="0" mode="4">　
+在刹那刀剑的碰撞</text>
+	<attr id="0" playtime="110.1" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1985664819" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -933,12 +884,11 @@
 
 
 
-森林尽头我与你相望</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>53.0</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+森林尽头我与你相望</text>
+	<attr id="0" playtime="110.0" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1970350056" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -952,24 +902,22 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>4.1</playTime>
-    <message fontsize="70" color="16777215" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="53.0" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="550906199" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
 
 
 GA・REI  ZERO
-　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>107.2</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+　</text>
+	<attr id="0" playtime="4.1" mode="4" fontsize="70" color="16777215"/>
+</comment>
+<comment id="269822595" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -983,12 +931,11 @@ GA・REI  ZERO
 
 
 
-森林尽头我与你相望</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>192.6</playTime>
-    <message fontsize="25" color="12566272" mode="4">　
+森林尽头我与你相望</text>
+	<attr id="0" playtime="107.2" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="2046476158" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1002,12 +949,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>192.6</playTime>
-    <message fontsize="25" color="16776960" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="192.6" mode="4" fontsize="25" color="12566272"/>
+</comment>
+<comment id="360263658" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1021,12 +967,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>194.6</playTime>
-    <message fontsize="25" color="12566272" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="192.6" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="830982195" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1040,12 +985,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>52.6</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="194.6" mode="4" fontsize="25" color="12566272"/>
+</comment>
+<comment id="1642473210" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1059,12 +1003,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>50.6</playTime>
-    <message fontsize="25" color="10034403" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="52.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1583183888" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 　　　　　　　　　　　　　　　　　　无
 　　　　　　　　　　　　　　　　　　法
@@ -1078,12 +1021,11 @@ GA・REI  ZERO
 　　　　　　　　　　　　　　　　　　忘
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>194.6</playTime>
-    <message fontsize="25" color="12566272" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="50.6" mode="4" fontsize="25" color="10034403"/>
+</comment>
+<comment id="1771841504" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1097,12 +1039,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>192.6</playTime>
-    <message fontsize="25" color="12566272" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="194.6" mode="4" fontsize="25" color="12566272"/>
+</comment>
+<comment id="69792157" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1116,12 +1057,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>52.6</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="192.6" mode="4" fontsize="25" color="12566272"/>
+</comment>
+<comment id="2032620593" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1135,12 +1075,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>83.2</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="52.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="79948665" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1154,12 +1093,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　天际的光亮　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>192.6</playTime>
-    <message fontsize="25" color="12566272" mode="4">　
+　　　　　　　　天际的光亮　　　　　　　</text>
+	<attr id="0" playtime="83.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="399882720" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1173,12 +1111,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>191.4</playTime>
-    <message fontsize="25" color="12541952" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="192.6" mode="4" fontsize="25" color="12566272"/>
+</comment>
+<comment id="1663946515" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1192,12 +1129,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>47.5</playTime>
-    <message fontsize="25" color="10034403" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="191.4" mode="4" fontsize="25" color="12541952"/>
+</comment>
+<comment id="1390353508" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 　　　　　　　　　　　　　　　　　　无
 　　　　　　　　　　　　　　　　　　法
@@ -1211,12 +1147,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>187.4</playTime>
-    <message fontsize="25" color="12541952" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="47.5" mode="4" fontsize="25" color="10034403"/>
+</comment>
+<comment id="468402006" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1230,12 +1165,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>45.0</playTime>
-    <message fontsize="25" color="16711935" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="187.4" mode="4" fontsize="25" color="12541952"/>
+</comment>
+<comment id="1294005405" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 　你温暖的指尖至今我仍深眷恋
@@ -1249,12 +1183,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>189.9</playTime>
-    <message fontsize="25" color="12517376" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="45.0" mode="4" fontsize="25" color="16711935"/>
+</comment>
+<comment id="290360235" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1268,12 +1201,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>191.9</playTime>
-    <message fontsize="25" color="12517376" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="189.9" mode="4" fontsize="25" color="12517376"/>
+</comment>
+<comment id="1609005936" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1287,12 +1219,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>192.6</playTime>
-    <message fontsize="25" color="12517376" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="191.9" mode="4" fontsize="25" color="12517376"/>
+</comment>
+<comment id="856988872" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1306,12 +1237,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>43.5</playTime>
-    <message fontsize="25" color="16711935" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="192.6" mode="4" fontsize="25" color="12517376"/>
+</comment>
+<comment id="1382724519" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 　你温暖的指尖至今我
@@ -1325,12 +1255,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>77.2</playTime>
-    <message fontsize="25" color="13238272" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="43.5" mode="4" fontsize="25" color="16711935"/>
+</comment>
+<comment id="2124382613" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1344,12 +1273,11 @@ GA・REI  ZERO
 
 
 
-　　　黑夜的惆怅　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>37.3</playTime>
-    <message fontsize="25" color="255" mode="4">　
+　　　黑夜的惆怅　　　　　　　　　　　　</text>
+	<attr id="0" playtime="77.2" mode="4" fontsize="25" color="13238272"/>
+</comment>
+<comment id="1026861511" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1363,12 +1291,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>84.7</playTime>
-    <message fontsize="37" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="37.3" mode="4" fontsize="25" color="255"/>
+</comment>
+<comment id="509117264" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 最后唯有Destiny
 
@@ -1377,12 +1304,11 @@ GA・REI  ZERO
 
 
 
-　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>33.0</playTime>
-    <message fontsize="25" color="8388863" mode="4">　
+　</text>
+	<attr id="0" playtime="84.7" mode="4" fontsize="37" color="16711680"/>
+</comment>
+<comment id="91865358" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1396,12 +1322,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>83.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="33.0" mode="4" fontsize="25" color="8388863"/>
+</comment>
+<comment id="2075671168" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1415,12 +1340,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　也充满绝望　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>183.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　也充满绝望　　　　　　　</text>
+	<attr id="0" playtime="83.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="506492907" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1434,12 +1358,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>81.9</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="183.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="299940766" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1453,27 +1376,24 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　天际的光亮　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>171.5</playTime>
-    <message fontsize="4" color="0" mode="1">████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-█████████████████████████████████████████████████████████████████████████████████████████████████████████████████</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>270.0</playTime>
-    <message fontsize="1" color="14668256" mode="5">                                                                                                                                                                                                                           
+　　　　　　　　天际的光亮　　　　　　　</text>
+	<attr id="0" playtime="81.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1602495063" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████</text>
+	<attr id="0" playtime="171.5" mode="1" fontsize="4" color="0"/>
+</comment>
+<comment id="2112559110" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>                                                                                                                                                                                                                           
                                                                                                                                                                                                                            
                                                                                                                                                                                                                            
                                                                                                                                                                                                                            
-                                                                                                                                                </message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>120.0</playTime>
-    <message fontsize="1" color="255" mode="5">                                                                                                          
+                                                                                                                                                </text>
+	<attr id="0" playtime="270.0" mode="5" fontsize="1" color="14668256"/>
+</comment>
+<comment id="1108559630" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>                                                                                                          
                                                                                                           
                                                                                                           
                                              .72JBMMMMOMOMOBBU1Y,                                         
@@ -1482,12 +1402,11 @@ GA・REI  ZERO
                                   SBB0k25U1U2U2U2U2U2U1U1U2U1U2U2U22F2P8BM,                               
                                :BBBBSuU2U1U2U1U2U2U2U2U2U2U1U2U2U1U1U1U550BBj                             
                              ,BBBMBGjj2U1U1U2U2U1U1U2U2U2U1U1U2U2U2U2U2U2U5FMBv                           
-                           :BBBBOMMFY2U1U2U2U1U1U2U2U1U1U2U1U</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>30.1</playTime>
-    <message fontsize="25" color="8388863" mode="4">　
+                           :BBBBOMMFY2U1U2U2U1U1U2U2U1U1U2U1U</text>
+	<attr id="0" playtime="120.0" mode="5" fontsize="1" color="255"/>
+</comment>
+<comment id="1904080708" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1501,12 +1420,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>80.6</playTime>
-    <message fontsize="25" color="5197568" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="30.1" mode="4" fontsize="25" color="8388863"/>
+</comment>
+<comment id="502346287" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1520,12 +1438,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　弥漫着疯狂　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>81.6</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　　　　　　　　　　　　弥漫着疯狂　　</text>
+	<attr id="0" playtime="80.6" mode="4" fontsize="25" color="5197568"/>
+</comment>
+<comment id="247064791" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1539,12 +1456,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　弥漫着疯狂　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>171.5</playTime>
-    <message fontsize="37" color="16711680" mode="1">███████
+　　　　　　　　　　　　　弥漫着疯狂　　</text>
+	<attr id="0" playtime="81.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1637905672" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>███████
 ███████
 ███████
 ███████
@@ -1553,12 +1469,11 @@ GA・REI  ZERO
 ███████
 ███████
 ███████
-███████</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>77.6</playTime>
-    <message fontsize="25" color="16776960" mode="4">　
+███████</text>
+	<attr id="0" playtime="171.5" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="922773800" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1572,12 +1487,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　弥漫着疯狂　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>79.6</playTime>
-    <message fontsize="25" color="8552960" mode="4">　
+　　　　　　　　　　　　　弥漫着疯狂　　</text>
+	<attr id="0" playtime="77.6" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1796786477" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1591,12 +1505,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　弥漫着疯狂　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>70.4</playTime>
-    <message fontsize="25" color="5399725" mode="4">　
+　　　　　　　　　　　　　弥漫着疯狂　　</text>
+	<attr id="0" playtime="79.6" mode="4" fontsize="25" color="8552960"/>
+</comment>
+<comment id="51498959" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1610,12 +1523,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>55.0</playTime>
-    <message fontsize="25" color="16744448" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="70.4" mode="4" fontsize="25" color="5399725"/>
+</comment>
+<comment id="1412174554" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1629,12 +1541,11 @@ GA・REI  ZERO
 　　完美无瑕
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>54.3</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="55.0" mode="4" fontsize="25" color="16744448"/>
+</comment>
+<comment id="609673935" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1648,12 +1559,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>69.0</playTime>
-    <message fontsize="25" color="8355711" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="54.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1726857224" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 　　我以为我可以坚强
 
@@ -1667,12 +1577,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>50.6</playTime>
-    <message fontsize="25" color="16711935" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="69.0" mode="4" fontsize="25" color="8355711"/>
+</comment>
+<comment id="141696198" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 　你温暖的指尖至今我仍深眷恋
@@ -1686,12 +1595,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>47.8</playTime>
-    <message fontsize="25" color="16711935" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="50.6" mode="4" fontsize="25" color="16711935"/>
+</comment>
+<comment id="1858847578" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 　你温暖的指尖至今我仍深眷恋
@@ -1705,12 +1613,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>48.5</playTime>
-    <message fontsize="25" color="10034403" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="47.8" mode="4" fontsize="25" color="16711935"/>
+</comment>
+<comment id="722972550" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 　　　　　　　　　　　　　　　　　　无
 　　　　　　　　　　　　　　　　　　法
@@ -1724,12 +1631,11 @@ GA・REI  ZERO
 　　　　　　　　　　　　　　　　　　忘
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>54.1</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="48.5" mode="4" fontsize="25" color="10034403"/>
+</comment>
+<comment id="1429584349" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1743,12 +1649,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>53.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="54.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1535497222" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1762,12 +1667,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>26.4</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="53.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1124284146" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1781,12 +1685,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>35.8</playTime>
-    <message fontsize="25" color="255" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="26.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="445356540" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1800,12 +1703,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>41.0</playTime>
-    <message fontsize="25" color="16711935" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="35.8" mode="4" fontsize="25" color="255"/>
+</comment>
+<comment id="335275187" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 　你温暖
@@ -1819,12 +1721,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>42.1</playTime>
-    <message fontsize="25" color="16711935" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="41.0" mode="4" fontsize="25" color="16711935"/>
+</comment>
+<comment id="1083518450" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 　你温暖的指尖
@@ -1838,12 +1739,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>209.8</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="42.1" mode="4" fontsize="25" color="16711935"/>
+</comment>
+<comment id="1145876952" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1857,12 +1757,11 @@ GA・REI  ZERO
 
 
 
-你温暖的指尖 至今我仍深眷恋</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>21.3</playTime>
-    <message fontsize="25" color="16744448" mode="4">　
+你温暖的指尖 至今我仍深眷恋</text>
+	<attr id="0" playtime="209.8" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1788698359" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1876,12 +1775,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>254.1</playTime>
-    <message fontsize="25" color="14286592" mode="5">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="21.3" mode="4" fontsize="25" color="16744448"/>
+</comment>
+<comment id="1301438750" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 　　　　　　　　　Ｐ
 　　　　　　　　　Ａ
 　　　　　　　　　Ｒ
@@ -1895,12 +1793,11 @@ GA・REI  ZERO
 　　　　　　　　　Ｏ
 　　　　　　　　　Ｓ
 　　　　　　　　　Ｔ
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>18.5</playTime>
-    <message fontsize="25" color="16744448" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="254.1" mode="5" fontsize="25" color="14286592"/>
+</comment>
+<comment id="1281529221" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1914,12 +1811,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>252.9</playTime>
-    <message fontsize="25" color="16711680" mode="1">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="18.5" mode="4" fontsize="25" color="16744448"/>
+</comment>
+<comment id="821307532" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 Ｐ
 Ａ
 Ｒ
@@ -1933,12 +1829,11 @@ GA・REI  ZERO
 Ｏ
 Ｓ
 Ｔ
-　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>255.9</playTime>
-    <message fontsize="25" color="65286" mode="1">　
+　</text>
+	<attr id="0" playtime="252.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="772019687" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 Ｐ
 Ａ
 Ｒ
@@ -1952,12 +1847,11 @@ GA・REI  ZERO
 Ｏ
 Ｓ
 Ｔ
-　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>246.3</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+　</text>
+	<attr id="0" playtime="255.9" mode="1" fontsize="25" color="65286"/>
+</comment>
+<comment id="1871687448" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1971,12 +1865,11 @@ GA・REI  ZERO
 
 
 
-崩塌所有信仰</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>249.0</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+崩塌所有信仰</text>
+	<attr id="0" playtime="246.3" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="612270816" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -1990,12 +1883,11 @@ GA・REI  ZERO
 
 
 
-天际的光亮（也充满绝望）</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>252.9</playTime>
-    <message fontsize="25" color="16742656" mode="5">　
+天际的光亮（也充满绝望）</text>
+	<attr id="0" playtime="249.0" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="944152082" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 　　　　　　　　　　　　　　　Ｐ
 　　　　　　　　　　　　　　　Ａ
 　　　　　　　　　　　　　　　Ｒ
@@ -2009,12 +1901,11 @@ GA・REI  ZERO
 　　　　　　　　　　　　　　　Ｏ
 　　　　　　　　　　　　　　　Ｓ
 　　　　　　　　　　　　　　　Ｔ
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>240.4</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="252.9" mode="5" fontsize="25" color="16742656"/>
+</comment>
+<comment id="510885479" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2028,12 +1919,11 @@ GA・REI  ZERO
 
 
 
-直到地老天荒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>236.8</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+直到地老天荒</text>
+	<attr id="0" playtime="240.4" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1890081149" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2047,12 +1937,11 @@ GA・REI  ZERO
 
 
 
-披上层层密不透风的伪装</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>237.4</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+披上层层密不透风的伪装</text>
+	<attr id="0" playtime="236.8" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="719417636" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2066,12 +1955,11 @@ GA・REI  ZERO
 
 
 
-独自一人归于沧沧洪荒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>233.8</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+独自一人归于沧沧洪荒</text>
+	<attr id="0" playtime="237.4" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1778269152" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2085,12 +1973,11 @@ GA・REI  ZERO
 
 
 
-披上层层密不透风的伪装</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>231.3</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+披上层层密不透风的伪装</text>
+	<attr id="0" playtime="233.8" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1189678303" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2104,12 +1991,11 @@ GA・REI  ZERO
 
 
 
-你那平静不带伤痛释然的脸庞</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>231.9</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+你那平静不带伤痛释然的脸庞</text>
+	<attr id="0" playtime="231.3" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="549597105" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2123,12 +2009,11 @@ GA・REI  ZERO
 
 
 
-我以为我可以坚强</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>222.0</playTime>
-    <message fontsize="25" color="0" mode="4">　
+我以为我可以坚强</text>
+	<attr id="0" playtime="231.9" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1091586497" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2142,12 +2027,11 @@ GA・REI  ZERO
 
 
 
-月光下你依旧绚烂的锋芒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>222.1</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+月光下你依旧绚烂的锋芒</text>
+	<attr id="0" playtime="222.0" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1307781247" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2161,12 +2045,11 @@ GA・REI  ZERO
 
 
 
-完美无瑕不留任何的迷惘</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>225.8</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+完美无瑕不留任何的迷惘</text>
+	<attr id="0" playtime="222.1" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1943101783" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2180,12 +2063,11 @@ GA・REI  ZERO
 
 
 
-利刃刺入身体冰凉</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>213.3</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+利刃刺入身体冰凉</text>
+	<attr id="0" playtime="225.8" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="729277361" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2199,12 +2081,11 @@ GA・REI  ZERO
 
 
 
-无法任由自已忽略遗忘 你温柔目光</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>213.2</playTime>
-    <message fontsize="25" color="0" mode="4">　
+无法任由自已忽略遗忘 你温柔目光</text>
+	<attr id="0" playtime="213.3" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1833950946" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2218,12 +2099,11 @@ GA・REI  ZERO
 
 
 
-你温暖的指尖 至今我仍深眷恋</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>216.2</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+你温暖的指尖 至今我仍深眷恋</text>
+	<attr id="0" playtime="213.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1747480878" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2237,12 +2117,11 @@ GA・REI  ZERO
 
 
 
-无法任由自已忽略遗忘 你温柔目光</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>167.4</playTime>
-    <message fontsize="25" color="0" mode="4">　
+无法任由自已忽略遗忘 你温柔目光</text>
+	<attr id="0" playtime="216.2" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="2124052230" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2256,12 +2135,11 @@ GA・REI  ZERO
 
 
 
-崩塌所有信仰</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>164.8</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+崩塌所有信仰</text>
+	<attr id="0" playtime="167.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="52684659" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2275,12 +2153,11 @@ GA・REI  ZERO
 
 
 
-崩塌所有信仰</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>173.5</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+崩塌所有信仰</text>
+	<attr id="0" playtime="164.8" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1471442201" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2294,12 +2171,11 @@ GA・REI  ZERO
 
 
 
-最后唯有Destiny</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>170.6</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+最后唯有Destiny</text>
+	<attr id="0" playtime="173.5" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1510951778" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2313,12 +2189,11 @@ GA・REI  ZERO
 
 
 
-最后唯有Destiny</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>170.5</playTime>
-    <message fontsize="25" color="0" mode="4">　
+最后唯有Destiny</text>
+	<attr id="0" playtime="170.6" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="306765970" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2332,12 +2207,11 @@ GA・REI  ZERO
 
 
 
-天际的光亮（也充满绝望）</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>158.9</playTime>
-    <message fontsize="25" color="0" mode="4">　
+天际的光亮（也充满绝望）</text>
+	<attr id="0" playtime="170.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="629187048" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2351,12 +2225,11 @@ GA・REI  ZERO
 
 
 
-独自一人归于沧沧洪荒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>156.0</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+独自一人归于沧沧洪荒</text>
+	<attr id="0" playtime="158.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="954981098" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2370,12 +2243,11 @@ GA・REI  ZERO
 
 
 
-独自一人归于沧沧洪荒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>155.3</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+独自一人归于沧沧洪荒</text>
+	<attr id="0" playtime="156.0" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="472495346" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2389,12 +2261,11 @@ GA・REI  ZERO
 
 
 
-披上层层密不透风的伪装</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>152.4</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+披上层层密不透风的伪装</text>
+	<attr id="0" playtime="155.3" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="228406276" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2408,12 +2279,11 @@ GA・REI  ZERO
 
 
 
-披上层层密不透风的伪装</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>164.7</playTime>
-    <message fontsize="25" color="0" mode="4">　
+披上层层密不透风的伪装</text>
+	<attr id="0" playtime="152.4" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="237942733" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2427,12 +2297,11 @@ GA・REI  ZERO
 
 
 
-黑夜的惆怅（弥漫着疯狂）</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>144.4</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+黑夜的惆怅（弥漫着疯狂）</text>
+	<attr id="0" playtime="164.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="114336506" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2446,12 +2315,11 @@ GA・REI  ZERO
 
 
 
-利刃刺入身体冰凉</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>144.2</playTime>
-    <message fontsize="25" color="0" mode="4">　
+利刃刺入身体冰凉</text>
+	<attr id="0" playtime="144.4" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1436938044" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2465,12 +2333,11 @@ GA・REI  ZERO
 
 
 
-完美无瑕不留任何的迷惘</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>149.8</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+完美无瑕不留任何的迷惘</text>
+	<attr id="0" playtime="144.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1697936257" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2484,12 +2351,11 @@ GA・REI  ZERO
 
 
 
-你那平静不带伤痛释然的脸庞</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>146.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+你那平静不带伤痛释然的脸庞</text>
+	<attr id="0" playtime="149.8" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="2037474326" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2503,12 +2369,11 @@ GA・REI  ZERO
 
 
 
-利刃刺入身体冰凉</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>150.4</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+利刃刺入身体冰凉</text>
+	<attr id="0" playtime="146.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="857569158" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2522,12 +2387,11 @@ GA・REI  ZERO
 
 
 
-我以为我可以坚强</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>143.6</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+我以为我可以坚强</text>
+	<attr id="0" playtime="150.4" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1747706549" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2541,12 +2405,11 @@ GA・REI  ZERO
 
 
 
-完美无瑕不留任何的迷惘</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>140.7</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+完美无瑕不留任何的迷惘</text>
+	<attr id="0" playtime="143.6" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1813759218" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2560,12 +2423,11 @@ GA・REI  ZERO
 
 
 
-完美无瑕不留任何的迷惘</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>132.5</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+完美无瑕不留任何的迷惘</text>
+	<attr id="0" playtime="140.7" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="1990023670" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2579,12 +2441,11 @@ GA・REI  ZERO
 
 
 
-你温暖的指尖 至今我仍深眷恋</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>138.4</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+你温暖的指尖 至今我仍深眷恋</text>
+	<attr id="0" playtime="132.5" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="2009589900" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2598,12 +2459,11 @@ GA・REI  ZERO
 
 
 
-月光下你依旧绚烂的锋芒</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>133.3</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+月光下你依旧绚烂的锋芒</text>
+	<attr id="0" playtime="138.4" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="189634867" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2617,12 +2477,11 @@ GA・REI  ZERO
 
 
 
-无法任由自已忽略遗忘 你温柔目光</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>118.6</playTime>
-    <message fontsize="25" color="0" mode="4">　
+无法任由自已忽略遗忘 你温柔目光</text>
+	<attr id="0" playtime="133.3" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="519860999" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2636,12 +2495,11 @@ GA・REI  ZERO
 
 
 
-叫我如何能不哀伤</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>112.2</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+叫我如何能不哀伤</text>
+	<attr id="0" playtime="118.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1697225001" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2655,12 +2513,11 @@ GA・REI  ZERO
 
 
 
-泪水已濡湿眼眶</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>121.5</playTime>
-    <message fontsize="25" color="0" mode="4">　
+泪水已濡湿眼眶</text>
+	<attr id="0" playtime="112.2" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="487871835" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2674,12 +2531,11 @@ GA・REI  ZERO
 
 
 
-今夜我亲手为你送葬</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>125.7</playTime>
-    <message fontsize="25" color="0" mode="4">　
+今夜我亲手为你送葬</text>
+	<attr id="0" playtime="121.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1717946586" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2693,12 +2549,11 @@ GA・REI  ZERO
 
 
 
-带着甜蜜回想 你我共拥的过往</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>115.0</playTime>
-    <message fontsize="25" color="0" mode="4">　
+带着甜蜜回想 你我共拥的过往</text>
+	<attr id="0" playtime="125.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="804124360" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2712,12 +2567,11 @@ GA・REI  ZERO
 
 
 
-泪水已濡湿眼眶</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>107.1</playTime>
-    <message fontsize="25" color="0" mode="4">　
+泪水已濡湿眼眶</text>
+	<attr id="0" playtime="115.0" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="93163580" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2731,12 +2585,11 @@ GA・REI  ZERO
 
 
 
-天际没有一丝光亮</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>104.5</playTime>
-    <message fontsize="25" color="8421631" mode="4">　
+天际没有一丝光亮</text>
+	<attr id="0" playtime="107.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="526098211" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2750,24 +2603,22 @@ GA・REI  ZERO
 
 
 
-天际没有一丝光亮</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>4.1</playTime>
-    <message fontsize="71" color="0" mode="4">　
+天际没有一丝光亮</text>
+	<attr id="0" playtime="104.5" mode="4" fontsize="25" color="8421631"/>
+</comment>
+<comment id="522375778" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
 
 
 GA・REI  ZERO
-　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>4.1</playTime>
-    <message fontsize="15" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="4.1" mode="4" fontsize="71" color="0"/>
+</comment>
+<comment id="513451833" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2786,12 +2637,11 @@ GA・REI  ZERO
 
 
 
-　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>185.9</playTime>
-    <message fontsize="25" color="12517376" mode="4">　
+　</text>
+	<attr id="0" playtime="4.1" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="577734496" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2805,12 +2655,11 @@ GA・REI  ZERO
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>4.1</playTime>
-    <message fontsize="15" color="33023" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="185.9" mode="4" fontsize="25" color="12517376"/>
+</comment>
+<comment id="1273407051" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2829,12 +2678,11 @@ _________________________________________________
 
 
 
-　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>188.3</playTime>
-    <message fontsize="25" color="16776960" mode="4">　
+　</text>
+	<attr id="0" playtime="4.1" mode="4" fontsize="15" color="33023"/>
+</comment>
+<comment id="1777970046" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 
@@ -2848,23 +2696,21 @@ _________________________________________________
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>4.1</playTime>
-    <message fontsize="1" color="13684944" mode="5">. . . . .                                                                                                                                             
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="188.3" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="756013220" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>. . . . .                                                                                                                                             
                                                                                                                                                       
 .                                                                                                                                                     
                                                                                                                                                       
                                                AMMMMB.                                                                                                
                                               oMMMMMM@.                                                                                               
-                                              MMMMMMMM@.                                                              </message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>79.0</playTime>
-    <message fontsize="37" color="65344" mode="4">　
+                                              MMMMMMMM@.                                                              </text>
+	<attr id="0" playtime="4.1" mode="5" fontsize="1" color="13684944"/>
+</comment>
+<comment id="1754750316" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　
 
 
 崩塌所有信仰
@@ -2873,12 +2719,11 @@ _________________________________________________
 
 
 
-　</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>171.5</playTime>
-    <message fontsize="37" color="16711680" mode="1">███████
+　</text>
+	<attr id="0" playtime="79.0" mode="4" fontsize="37" color="65344"/>
+</comment>
+<comment id="99445581" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>███████
 ███████
 ███████
 ███████
@@ -2887,275 +2732,224 @@ _________________________________________________
 ███████
 ███████
 ███████
-███████</message>
-    <times>2009-06-19 08:42:02</times>
-  </data>
-  <data>
-    <playTime>81.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">地老天荒</message>
-    <times>2009-09-10 22:06:49</times>
-  </data>
-  <data>
-    <playTime>32.8</playTime>
-    <message fontsize="25" color="10066380" mode="1">今天我亲手为你送葬　　　　　　　　　　</message>
-    <times>2009-08-22 23:11:25</times>
-  </data>
-  <data>
-    <playTime>32.8</playTime>
-    <message fontsize="25" color="3407667" mode="1">　　</message>
-    <times>2009-08-22 23:10:53</times>
-  </data>
-  <data>
-    <playTime>32.8</playTime>
-    <message fontsize="25" color="3407667" mode="1">  
-　</message>
-    <times>2009-08-22 23:10:50</times>
-  </data>
-  <data>
-    <playTime>133.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 23:06:52</times>
-  </data>
-  <data>
-    <playTime>101.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 23:06:20</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="16777011" mode="5">　　　　　　　　　　　　　　　　　　　伤</message>
-    <times>2009-08-22 22:13:26</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="3407667" mode="5">　　　　　　　　　　　　　　　　　　　哀</message>
-    <times>2009-08-22 22:13:16</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="6750207" mode="5">　　　　　　　　　　　　　　　　　　　不</message>
-    <times>2009-08-22 22:12:44</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="13395711" mode="5">　　　　　　　　　　　　　　　　　　　能</message>
-    <times>2009-08-22 22:12:36</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="3355647" mode="5">　　　　　　　　　　　　　　　　　　　何</message>
-    <times>2009-08-22 22:12:26</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="16737894" mode="5">　　　　　　　　　　　　　　　　　　　如</message>
-    <times>2009-08-22 22:12:13</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="39423" mode="5">　　　　　　　　　　　　　　　　　　　我</message>
-    <times>2009-08-22 22:12:05</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="16711935" mode="5">　　　　　　　　　　　　　　　　　　　叫</message>
-    <times>2009-08-22 22:11:49</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">　　　　　　　　　　　　　　　叫　　　　</message>
-    <times>2009-08-22 22:11:32</times>
-  </data>
-  <data>
-    <playTime>27.8</playTime>
-    <message fontsize="25" color="6736998" mode="4">　　　　　　　　　　　　　润湿泪眶</message>
-    <times>2009-08-22 22:10:54</times>
-  </data>
-  <data>
-    <playTime>27.3</playTime>
-    <message fontsize="25" color="16777215" mode="4">
-    </message>
-    <times>2009-08-22 22:10:25</times>
-  </data>
-  <data>
-    <playTime>27.3</playTime>
-    <message fontsize="25" color="16777215" mode="4">　　　　　　　　　　　　　润湿泪眶</message>
-    <times>2009-08-22 22:10:00</times>
-  </data>
-  <data>
-    <playTime>26.4</playTime>
-    <message fontsize="25" color="10092543" mode="4">　　　　　已　　　　　　　　　　　</message>
-    <times>2009-08-22 22:08:56</times>
-  </data>
-  <data>
-    <playTime>26.4</playTime>
-    <message fontsize="25" color="6736998" mode="4">水　　　　　　　　　　　　　　</message>
-    <times>2009-08-22 22:08:29</times>
-  </data>
-  <data>
-    <playTime>26.4</playTime>
-    <message fontsize="25" color="52428" mode="5">泪　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-08-22 22:07:57</times>
-  </data>
-  <data>
-    <playTime>26.4</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　　　　　　　　　　　　　已</message>
-    <times>2009-08-22 22:07:33</times>
-  </data>
-  <data>
-    <playTime>26.4</playTime>
-    <message fontsize="25" color="13421568" mode="5">　　　　　　　　　　　　　　　　　水</message>
-    <times>2009-08-22 22:07:18</times>
-  </data>
-  <data>
-    <playTime>26.4</playTime>
-    <message fontsize="25" color="13382655" mode="5">　　　　　　　　　　　　　　　　　　　泪</message>
-    <times>2009-08-22 22:07:05</times>
-  </data>
-  <data>
-    <playTime>25.3</playTime>
-    <message fontsize="25" color="13382655" mode="5">★
+███████</text>
+	<attr id="0" playtime="171.5" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1955113584" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>地老天荒</text>
+	<attr id="0" playtime="81.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="820948485" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>今天我亲手为你送葬　　　　　　　　　　</text>
+	<attr id="0" playtime="32.8" mode="1" fontsize="25" color="10066380"/>
+</comment>
+<comment id="54372510" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　</text>
+	<attr id="0" playtime="32.8" mode="1" fontsize="25" color="3407667"/>
+</comment>
+<comment id="810268028" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>  
+　</text>
+	<attr id="0" playtime="32.8" mode="1" fontsize="25" color="3407667"/>
+</comment>
+<comment id="664827526" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="133.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2033228568" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="101.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1431982840" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　伤</text>
+	<attr id="0" playtime="30.2" mode="5" fontsize="25" color="16777011"/>
+</comment>
+<comment id="1331645214" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　哀</text>
+	<attr id="0" playtime="30.2" mode="5" fontsize="25" color="3407667"/>
+</comment>
+<comment id="1790399982" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　不</text>
+	<attr id="0" playtime="30.2" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1776157440" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　能</text>
+	<attr id="0" playtime="30.2" mode="5" fontsize="25" color="13395711"/>
+</comment>
+<comment id="190609682" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　何</text>
+	<attr id="0" playtime="30.2" mode="5" fontsize="25" color="3355647"/>
+</comment>
+<comment id="350664883" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　如</text>
+	<attr id="0" playtime="30.2" mode="5" fontsize="25" color="16737894"/>
+</comment>
+<comment id="1624443921" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　我</text>
+	<attr id="0" playtime="30.2" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="899337893" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　叫</text>
+	<attr id="0" playtime="30.2" mode="5" fontsize="25" color="16711935"/>
+</comment>
+<comment id="822863307" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　叫　　　　</text>
+	<attr id="0" playtime="30.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1345528197" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　润湿泪眶</text>
+	<attr id="0" playtime="27.8" mode="4" fontsize="25" color="6736998"/>
+</comment>
+<comment id="1655277995" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="27.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1702749064" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　润湿泪眶</text>
+	<attr id="0" playtime="27.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="524649977" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　已　　　　　　　　　　　</text>
+	<attr id="0" playtime="26.4" mode="4" fontsize="25" color="10092543"/>
+</comment>
+<comment id="746363097" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>水　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="26.4" mode="4" fontsize="25" color="6736998"/>
+</comment>
+<comment id="1265137699" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>泪　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="26.4" mode="5" fontsize="25" color="52428"/>
+</comment>
+<comment id="31361935" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　已</text>
+	<attr id="0" playtime="26.4" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="498533607" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　水</text>
+	<attr id="0" playtime="26.4" mode="5" fontsize="25" color="13421568"/>
+</comment>
+<comment id="56448490" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　泪</text>
+	<attr id="0" playtime="26.4" mode="5" fontsize="25" color="13382655"/>
+</comment>
+<comment id="1481827711" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>★
 在
 ★
 刹那
-</message>
-    <times>2009-08-22 22:06:21</times>
-  </data>
-  <data>
-    <playTime>24.9</playTime>
-    <message fontsize="25" color="6750156" mode="5">刀剑的碰撞</message>
-    <times>2009-08-22 22:05:29</times>
-  </data>
-  <data>
-    <playTime>24.9</playTime>
-    <message fontsize="25" color="3342489" mode="5">★
+</text>
+	<attr id="0" playtime="25.3" mode="5" fontsize="25" color="13382655"/>
+</comment>
+<comment id="1857873991" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>刀剑的碰撞</text>
+	<attr id="0" playtime="24.9" mode="5" fontsize="25" color="6750156"/>
+</comment>
+<comment id="564390494" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>★
 在
 ★
 刹那
 ★☆
-</message>
-    <times>2009-08-22 22:05:15</times>
-  </data>
-  <data>
-    <playTime>23.8</playTime>
-    <message fontsize="25" color="16724838" mode="4">★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆</message>
-    <times>2009-08-22 22:03:25</times>
-  </data>
-  <data>
-    <playTime>23.6</playTime>
-    <message fontsize="25" color="16737792" mode="5">★☆★☆★☆★☆★☆★☆★☆★☆★☆</message>
-    <times>2009-08-22 22:03:01</times>
-  </data>
-  <data>
-    <playTime>23.6</playTime>
-    <message fontsize="25" color="10079385" mode="5">　　　　　　　　　　　★☆★☆★☆★☆★☆</message>
-    <times>2009-08-22 22:02:25</times>
-  </data>
-  <data>
-    <playTime>23.6</playTime>
-    <message fontsize="25" color="13382604" mode="5">　　　　　　　　　　　　　　　★☆★☆</message>
-    <times>2009-08-22 22:01:39</times>
-  </data>
-  <data>
-    <playTime>23.6</playTime>
-    <message fontsize="25" color="39423" mode="5">　　　　　　　　　　　　　　　　　　　　★☆★☆</message>
-    <times>2009-08-22 22:01:05</times>
-  </data>
-  <data>
-    <playTime>23.3</playTime>
-    <message fontsize="25" color="16711731" mode="4">缘分尽头我与你相望　　　　　　　　　</message>
-    <times>2009-08-22 21:58:00</times>
-  </data>
-  <data>
-    <playTime>23.3</playTime>
-    <message fontsize="25" color="16777215" mode="4">　　　　　　　　　　　　　　</message>
-    <times>2009-08-22 21:57:39</times>
-  </data>
-  <data>
-    <playTime>23.3</playTime>
-    <message fontsize="25" color="16777215" mode="4">　　　　　　　　　　　　</message>
-    <times>2009-08-22 21:57:37</times>
-  </data>
-  <data>
-    <playTime>23.3</playTime>
-    <message fontsize="25" color="16777215" mode="4">　　</message>
-    <times>2009-08-22 21:57:30</times>
-  </data>
-  <data>
-    <playTime>23.3</playTime>
-    <message fontsize="25" color="16777215" mode="4">　　　　</message>
-    <times>2009-08-22 21:57:32</times>
-  </data>
-  <data>
-    <playTime>23.3</playTime>
-    <message fontsize="15" color="16777011" mode="5">　　　　　　　　　　</message>
-    <times>2009-08-22 21:57:22</times>
-  </data>
-  <data>
-    <playTime>23.2</playTime>
-    <message fontsize="25" color="16750899" mode="5">缘分尽头我与你相望　　　　　　　　　　</message>
-    <times>2009-08-22 21:56:44</times>
-  </data>
-  <data>
-    <playTime>23.2</playTime>
-    <message fontsize="25" color="16750899" mode="5">缘分尽头我与你相望　　　　　　　　　</message>
-    <times>2009-08-22 21:56:11</times>
-  </data>
-  <data>
-    <playTime>23.2</playTime>
-    <message fontsize="25" color="16750899" mode="5"></message>
-    <times>2009-08-22 21:54:43</times>
-  </data>
-  <data>
-    <playTime>23.2</playTime>
-    <message fontsize="25" color="16750899" mode="5"></message>
-    <times>2009-08-22 21:54:37</times>
-  </data>
-  <data>
-    <playTime>23.2</playTime>
-    <message fontsize="25" color="16750899" mode="5"></message>
-    <times>2009-08-22 21:54:34</times>
-  </data>
-  <data>
-    <playTime>23.2</playTime>
-    <message fontsize="25" color="16750899" mode="5"></message>
-    <times>2009-08-22 21:54:31</times>
-  </data>
-  <data>
-    <playTime>16.8</playTime>
-    <message fontsize="37" color="10040268" mode="2">天际没有一似光亮</message>
-    <times>2009-08-22 21:52:21</times>
-  </data>
-  <data>
-    <playTime>143.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▍▊▉▉▉▉▉▉▉▉▉▉▉</message>
-    <times>2009-08-22 21:51:43</times>
-  </data>
-  <data>
-    <playTime>128.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▍▊▉▉▉▉▉▉▉▉▉▉▉▉</message>
-    <times>2009-08-22 21:51:28</times>
-  </data>
-  <data>
-    <playTime>16.8</playTime>
-    <message fontsize="15" color="10040268" mode="2">天际没有一丝光亮</message>
-    <times>2009-08-22 21:51:20</times>
-  </data>
-  <data>
-    <playTime>16.8</playTime>
-    <message fontsize="25" color="10040217" mode="2">天际没有一丝光亮</message>
-    <times>2009-08-22 21:50:55</times>
-  </data>
-  <data>
-    <playTime>16.8</playTime>
-    <message fontsize="15" color="10040166" mode="2">天际没有一丝光亮</message>
-    <times>2009-08-22 21:50:09</times>
-  </data>
-  <data>
-    <playTime>13.0</playTime>
-    <message fontsize="2" color="16777215" mode="5">
+</text>
+	<attr id="0" playtime="24.9" mode="5" fontsize="25" color="3342489"/>
+</comment>
+<comment id="554742340" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆</text>
+	<attr id="0" playtime="23.8" mode="4" fontsize="25" color="16724838"/>
+</comment>
+<comment id="1754722800" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>★☆★☆★☆★☆★☆★☆★☆★☆★☆</text>
+	<attr id="0" playtime="23.6" mode="5" fontsize="25" color="16737792"/>
+</comment>
+<comment id="1756069091" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　★☆★☆★☆★☆★☆</text>
+	<attr id="0" playtime="23.6" mode="5" fontsize="25" color="10079385"/>
+</comment>
+<comment id="1420203733" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　★☆★☆</text>
+	<attr id="0" playtime="23.6" mode="5" fontsize="25" color="13382604"/>
+</comment>
+<comment id="316860552" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　　　　★☆★☆</text>
+	<attr id="0" playtime="23.6" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1722984280" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>缘分尽头我与你相望　　　　　　　　　</text>
+	<attr id="0" playtime="23.3" mode="4" fontsize="25" color="16711731"/>
+</comment>
+<comment id="1747092110" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="23.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1692916965" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　</text>
+	<attr id="0" playtime="23.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1885690983" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　</text>
+	<attr id="0" playtime="23.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1651779377" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　</text>
+	<attr id="0" playtime="23.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1807234745" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　</text>
+	<attr id="0" playtime="23.3" mode="5" fontsize="15" color="16777011"/>
+</comment>
+<comment id="543504716" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>缘分尽头我与你相望　　　　　　　　　　</text>
+	<attr id="0" playtime="23.2" mode="5" fontsize="25" color="16750899"/>
+</comment>
+<comment id="790835711" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>缘分尽头我与你相望　　　　　　　　　</text>
+	<attr id="0" playtime="23.2" mode="5" fontsize="25" color="16750899"/>
+</comment>
+<comment id="1182634260" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text></text>
+	<attr id="0" playtime="23.2" mode="5" fontsize="25" color="16750899"/>
+</comment>
+<comment id="1401923854" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text></text>
+	<attr id="0" playtime="23.2" mode="5" fontsize="25" color="16750899"/>
+</comment>
+<comment id="1587902101" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text></text>
+	<attr id="0" playtime="23.2" mode="5" fontsize="25" color="16750899"/>
+</comment>
+<comment id="678225104" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text></text>
+	<attr id="0" playtime="23.2" mode="5" fontsize="25" color="16750899"/>
+</comment>
+<comment id="1422842646" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>天际没有一似光亮</text>
+	<attr id="0" playtime="16.8" mode="2" fontsize="37" color="10040268"/>
+</comment>
+<comment id="13804279" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▍▊▉▉▉▉▉▉▉▉▉▉▉</text>
+	<attr id="0" playtime="143.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1586565544" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▍▊▉▉▉▉▉▉▉▉▉▉▉▉</text>
+	<attr id="0" playtime="128.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="64262236" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>天际没有一丝光亮</text>
+	<attr id="0" playtime="16.8" mode="2" fontsize="15" color="10040268"/>
+</comment>
+<comment id="1689302743" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>天际没有一丝光亮</text>
+	<attr id="0" playtime="16.8" mode="2" fontsize="25" color="10040217"/>
+</comment>
+<comment id="2056763893" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>天际没有一丝光亮</text>
+	<attr id="0" playtime="16.8" mode="2" fontsize="15" color="10040166"/>
+</comment>
+<comment id="161047792" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
 
 
 
@@ -3210,233 +3004,190 @@ _________________________________________________
 
 
 ▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎
-▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▎▎▎▎▎▎▎▎▎▎▎▏▏▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎</message>
-    <times>1991-10-03 00:00:00</times>
-  </data>
-  <data>
-    <playTime>64.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 21:38:30</times>
-  </data>
-  <data>
-    <playTime>53.0</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 21:38:19</times>
-  </data>
-  <data>
-    <playTime>44.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 21:38:10</times>
-  </data>
-  <data>
-    <playTime>35.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 21:38:01</times>
-  </data>
-  <data>
-    <playTime>27.0</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 21:37:53</times>
-  </data>
-  <data>
-    <playTime>24.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 21:37:50</times>
-  </data>
-  <data>
-    <playTime>23.0</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 21:37:49</times>
-  </data>
-  <data>
-    <playTime>2.0</playTime>
-    <message fontsize="2" color="6737049" mode="1">▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▍▊▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉██▋▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▎▎▎▎▎▎▎▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍
+▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▎▎▎▎▎▎▎▎▎▎▎▏▏▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎▎</text>
+	<attr id="0" playtime="13.0" mode="5" fontsize="2" color="16777215"/>
+</comment>
+<comment id="1148806598" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="64.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1754050213" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="53.0" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1629175400" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="44.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="64955042" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="35.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1863069854" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="27.0" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="413507325" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="24.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1469561204" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="23.0" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1407899394" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▍▊▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉██▋▎▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▎▎▎▎▎▎▎▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍
 ▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▍▊▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉███▊▍▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▏▎▎▎▎▎▎▎▎▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍▍
-▏▏▏▏▏▏▏▏▏▏</message>
-    <times>1991-10-03 00:00:00</times>
-  </data>
-  <data>
-    <playTime>250.2</playTime>
-    <message fontsize="25" color="0" mode="4">天际的光亮（也充满绝望）</message>
-    <times>2009-08-22 21:14:01</times>
-  </data>
-  <data>
-    <playTime>246.8</playTime>
-    <message fontsize="25" color="0" mode="4">崩塌所有信仰</message>
-    <times>2009-08-22 21:13:48</times>
-  </data>
-  <data>
-    <playTime>243.9</playTime>
-    <message fontsize="25" color="0" mode="4">黑夜的惆怅（弥漫着疯狂）</message>
-    <times>2009-08-22 21:13:38</times>
-  </data>
-  <data>
-    <playTime>241.2</playTime>
-    <message fontsize="25" color="0" mode="4">直到地老天荒</message>
-    <times>2009-08-22 21:13:24</times>
-  </data>
-  <data>
-    <playTime>238.9</playTime>
-    <message fontsize="25" color="0" mode="4">独自一人归于沧沧洪荒</message>
-    <times>2009-08-22 21:13:07</times>
-  </data>
-  <data>
-    <playTime>226.1</playTime>
-    <message fontsize="25" color="16777215" mode="4">利刃刺入身体冰凉</message>
-    <times>2009-08-22 21:12:19</times>
-  </data>
-  <data>
-    <playTime>226.1</playTime>
-    <message fontsize="25" color="16777215" mode="4">利刃刺入身体冰凉 </message>
-    <times>2009-08-22 21:12:05</times>
-  </data>
-  <data>
-    <playTime>226.1</playTime>
-    <message fontsize="25" color="0" mode="1">利刃刺入身体冰凉</message>
-    <times>2009-08-22 21:11:50</times>
-  </data>
-  <data>
-    <playTime>28.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 21:05:00</times>
-  </data>
-  <data>
-    <playTime>107.5</playTime>
-    <message fontsize="37" color="13369344" mode="1">天际没有一丝光亮　　　</message>
-    <times>2009-08-22 20:11:42</times>
-  </data>
-  <data>
-    <playTime>132.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2009-08-22 19:59:06</times>
-  </data>
-  <data>
-    <playTime>283.0</playTime>
-    <message fontsize="25" color="16777215" mode="1">活下来了......................</message>
-    <times>2009-08-22 19:56:02</times>
-  </data>
-  <data>
-    <playTime>116.4</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　　　叫我如何能不哀伤</message>
-    <times>2009-08-22 19:55:29</times>
-  </data>
-  <data>
-    <playTime>116.4</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　</message>
-    <times>2009-08-22 19:55:20</times>
-  </data>
-  <data>
-    <playTime>116.4</playTime>
-    <message fontsize="25" color="16711680" mode="5">　</message>
-    <times>2009-08-22 19:55:18</times>
-  </data>
-  <data>
-    <playTime>114.7</playTime>
-    <message fontsize="25" color="16711680" mode="5">泪水已濡湿眼眶　　　　　　　　　　</message>
-    <times>2009-08-22 19:54:00</times>
-  </data>
-  <data>
-    <playTime>114.7</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　</message>
-    <times>2009-08-22 19:53:49</times>
-  </data>
-    <data>
-    <playTime>114.7</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　　</message>
-    <times>2009-08-22 19:53:47</times>
-  </data>
-  <data>
-    <playTime>114.7</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　</message>
-    <times>2009-08-22 19:53:45</times>
-  </data>
-  <data>
-    <playTime>114.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　　　</message>
-    <times>2009-08-22 19:53:34</times>
-  </data>
-  <data>
-    <playTime>114.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　　</message>
-    <times>2009-08-22 19:53:30</times>
-  </data>
-  <data>
-    <playTime>114.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　</message>
-    <times>2009-08-22 19:53:28</times>
-  </data>
-  <data>
-    <playTime>110.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">在刹那刀剑的碰撞　　　　　</message>
-    <times>2009-08-22 19:52:31</times>
-  </data>
-  <data>
-    <playTime>110.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　　　　　　</message>
-    <times>2009-08-22 19:52:22</times>
-  </data>
-  <data>
-    <playTime>110.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　　　　　</message>
-    <times>2009-08-22 19:52:20</times>
-  </data>
-  <data>
-    <playTime>110.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　　　　</message>
-    <times>2009-08-22 19:52:16</times>
-  </data>
-  <data>
-    <playTime>110.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　　</message>
-    <times>2009-08-22 19:52:12</times>
-  </data>
-  <data>
-    <playTime>110.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　　　</message>
-    <times>2009-08-22 19:52:14</times>
-  </data>
-  <data>
-    <playTime>110.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　</message>
-    <times>2009-08-22 19:52:11</times>
-  </data>
-  <data>
-    <playTime>110.7</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　　　　　　　　　　　　　　　</message>
-    <times>2009-08-22 19:52:05</times>
-  </data>
-  <data>
-    <playTime>110.7</playTime>
-    <message fontsize="25" color="16711680" mode="5">在刹那刀剑的碰撞　　　　　　　</message>
-    <times>2009-08-22 19:51:22</times>
-  </data>
-  <data>
-    <playTime>107.8</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　森林尽头我与你相望</message>
-    <times>2009-08-22 19:50:32</times>
-  </data>
-  <data>
-    <playTime>104.9</playTime>
-    <message fontsize="25" color="16711680" mode="5">天际没有一丝光亮　　　　　　　　　　　</message>
-    <times>2009-08-22 19:50:10</times>
-  </data>
-  <data>
-    <playTime>231.0</playTime>
-    <message fontsize="25" color="16777215" mode="4">paradise lost&gt;中文版翻唱paradise lost&gt;中文版翻唱paradise lost&gt;中文版翻唱par</message>
-    <times>2009-08-22 19:50:14</times>
-  </data>
-  <data>
-    <playTime>82.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">沧桑洪荒</message>
-    <times>2009-08-22 19:23:05</times>
-  </data>
-</information>
+▏▏▏▏▏▏▏▏▏▏</text>
+	<attr id="0" playtime="2.0" mode="1" fontsize="2" color="6737049"/>
+</comment>
+<comment id="1209565032" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>天际的光亮（也充满绝望）</text>
+	<attr id="0" playtime="250.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1219180944" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>崩塌所有信仰</text>
+	<attr id="0" playtime="246.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1565183688" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>黑夜的惆怅（弥漫着疯狂）</text>
+	<attr id="0" playtime="243.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1697110965" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>直到地老天荒</text>
+	<attr id="0" playtime="241.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="904770458" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>独自一人归于沧沧洪荒</text>
+	<attr id="0" playtime="238.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="191393923" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>利刃刺入身体冰凉</text>
+	<attr id="0" playtime="226.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1794139069" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>利刃刺入身体冰凉 </text>
+	<attr id="0" playtime="226.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="485354782" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>利刃刺入身体冰凉</text>
+	<attr id="0" playtime="226.1" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="65137338" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="28.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1342821271" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>天际没有一丝光亮　　　</text>
+	<attr id="0" playtime="107.5" mode="1" fontsize="37" color="13369344"/>
+</comment>
+<comment id="1294458319" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>
+    </text>
+	<attr id="0" playtime="132.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="138860643" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>活下来了......................</text>
+	<attr id="0" playtime="283.0" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1311448302" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　叫我如何能不哀伤</text>
+	<attr id="0" playtime="116.4" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="788779589" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　</text>
+	<attr id="0" playtime="116.4" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="291603964" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　</text>
+	<attr id="0" playtime="116.4" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1835348607" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>泪水已濡湿眼眶　　　　　　　　　　</text>
+	<attr id="0" playtime="114.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2072967080" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　</text>
+	<attr id="0" playtime="114.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="66030007" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　</text>
+	<attr id="0" playtime="114.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="958288986" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　</text>
+	<attr id="0" playtime="114.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="941476522" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　</text>
+	<attr id="0" playtime="114.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="654474659" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　</text>
+	<attr id="0" playtime="114.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1873975005" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　</text>
+	<attr id="0" playtime="114.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1123129441" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>在刹那刀剑的碰撞　　　　　</text>
+	<attr id="0" playtime="110.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1149195342" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　</text>
+	<attr id="0" playtime="110.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1327390549" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　</text>
+	<attr id="0" playtime="110.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1194469301" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　</text>
+	<attr id="0" playtime="110.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1665999508" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　</text>
+	<attr id="0" playtime="110.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1311056591" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　</text>
+	<attr id="0" playtime="110.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="947109423" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　</text>
+	<attr id="0" playtime="110.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1164009636" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="110.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="547632495" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>在刹那刀剑的碰撞　　　　　　　</text>
+	<attr id="0" playtime="110.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="544544719" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>　　　森林尽头我与你相望</text>
+	<attr id="0" playtime="107.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="206755459" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>天际没有一丝光亮　　　　　　　　　　　</text>
+	<attr id="0" playtime="104.9" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="831539641" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>paradise lost&gt;中文版翻唱paradise lost&gt;中文版翻唱paradise lost&gt;中文版翻唱par</text>
+	<attr id="0" playtime="231.0" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1635270664" poolid="1" userhash="deadbeef" sendtime="1321635714">
+	<text>沧桑洪荒</text>
+	<attr id="0" playtime="82.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+</comments>

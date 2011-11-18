@@ -1,384 +1,1531 @@
-<?xml version="1.0" encoding="UTF-8"?><i><chatserver>s8.m-b.cc</chatserver><chatid>63056</chatid>
-<d p="0,7,12,13421772,1290435944,0,23514e99,7769980">[&quot;18&quot;,&quot;333&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;写在前面:0v0感谢大家的支持/n字幕其实并不神.只是花了点时间想怎样做才更适合&quot;]</d>
-<d p="0,7,12,13421772,1290436078,0,23514e99,7770174">[&quot;20&quot;,&quot;359&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;这是DEMO版 录的时候有各种各样的不足欢迎大家指出/n我和幻次会尽量改正的/n多谢大家的谅解.感激不尽了.m(_ _)m.&quot;]</d>
-<d p="0,7,16,13421772,1290436118,0,23514e99,7770201">[&quot;16&quot;,&quot;31&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;多谢大家的谅解.感激不尽了.m(_ _)m&quot;]</d>
-<d p="11.7,1,18,0,1290774788,0,cb4f6297,7955978">/n/n/n/n/n/n/n/n/n/n碎月落乌啼/n/n/n/n</d>
-<d p="13.3,1,18,0,1290774808,0,cb4f6297,7955990">/n/n/n/n/n/n/n/n/n/n霜飞逸/n/n/n/n</d>
-<d p="14.6,1,18,0,1290774837,0,cb4f6297,7956014">/n/n/n/n/n/n/n/n/n/n孤坐江畔无人依/n/n/n/n</d>
-<d p="17.8,1,18,0,1290774887,0,cb4f6297,7956064">/n/n/n/n/n/n/n/n/n/n眼迷离,灯火亮起,斜影捡起泪滴/n/n/n/n</d>
-<d p="24.7,1,18,0,1290774962,0,cb4f6297,7956156">/n/n/n/n/n/n/n/n/n/n风无息,水无漪,花无期,刹那间凋零/n/n/n/n</d>
-<d p="31.3,1,18,0,1290774991,0,cb4f6297,7956194">/n/n/n/n/n/n/n/n/n/n欲寻觅,何处无人空叹息/n/n/n/n</d>
-<d p="35.9,1,18,0,1290775037,0,cb4f6297,7956241">/n/n/n/n/n/n/n/n/n/n碎月伴乌啼/n/n/n/n</d>
-<d p="38.5,1,18,0,1290775049,0,cb4f6297,7956257">/n/n/n/n/n/n/n/n/n/n霜落地/n/n/n/n</d>
-<d p="40.3,1,18,0,1290775076,0,cb4f6297,7956287">/n/n/n/n/n/n/n/n/n/n孤坐江舟何人依/n/n/n/n</d>
-<d p="0,7,36,13395660,1290292836,1,23514e99,7665663">[&quot;202&quot;,&quot;80&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;340&quot;,&quot;0&quot;]</d>
-<d p="0.5,7,36,13395660,1290292914,1,23514e99,7665676">[&quot;243&quot;,&quot;126&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;320&quot;,&quot;0&quot;]</d>
-<d p="0.7,7,36,13395660,1290292982,1,23514e99,7665681">[&quot;230&quot;,&quot;184&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;300&quot;,&quot;0&quot;]</d>
-<d p="1.2,7,36,13395660,1290293022,1,23514e99,7665687">[&quot;248&quot;,&quot;253&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;280&quot;,&quot;0&quot;]</d>
-<d p="0,7,36,10040319,1290293130,1,23514e99,7665701">[&quot;187&quot;,&quot;122&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;220&quot;,&quot;0&quot;]</d>
-<d p="0.5,7,36,10040319,1290293156,1,23514e99,7665705">[&quot;185&quot;,&quot;172&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;200&quot;,&quot;0&quot;]</d>
-<d p="1.2,7,36,10040319,1290293307,1,23514e99,7665716">[&quot;204&quot;,&quot;226&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;190&quot;,&quot;0&quot;]</d>
-<d p="1.8,7,36,10040319,1290293341,1,23514e99,7665719">[&quot;203&quot;,&quot;260&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;170&quot;,&quot;0&quot;]</d>
-<d p="1.3,7,36,10040268,1290293470,1,23514e99,7665735">[&quot;222&quot;,&quot;259&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;170&quot;,&quot;0&quot;]</d>
-<d p="0.3,7,25,16737996,1290293579,1,23514e99,7665745">[&quot;230&quot;,&quot;117&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;80&quot;,&quot;0&quot;]</d>
-<d p="0.7,7,25,16737996,1290293610,1,23514e99,7665753">[&quot;240&quot;,&quot;169&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;90&quot;,&quot;0&quot;]</d>
-<d p="1.2,7,25,16737996,1290293638,1,23514e99,7665758">[&quot;199&quot;,&quot;224&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;97&quot;,&quot;0&quot;]</d>
-<d p="0.8,7,45,10053324,1290293737,1,23514e99,7665769">[&quot;229&quot;,&quot;79&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;97&quot;,&quot;0&quot;]</d>
-<d p="1.6,7,45,10053324,1290293778,1,23514e99,7665773">[&quot;216&quot;,&quot;143&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;8&quot;,&quot;0&quot;]</d>
-<d p="1.9,7,45,10053324,1290293881,1,23514e99,7665789">[&quot;192&quot;,&quot;243&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;50&quot;,&quot;20&quot;]</d>
-<d p="2.2,7,36,10053324,1290293942,1,23514e99,7665805">[&quot;181&quot;,&quot;230&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;65&quot;,&quot;40&quot;]</d>
-<d p="2.6,7,25,10053324,1290294006,1,23514e99,7665821">[&quot;173&quot;,&quot;220&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;80&quot;,&quot;50&quot;]</d>
-<d p="3.3,7,18,10053324,1290294064,1,23514e99,7665827">[&quot;148&quot;,&quot;220&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;87&quot;,&quot;50&quot;]</d>
-<d p="4.2,7,16,10053324,1290294133,1,23514e99,7665831">[&quot;140&quot;,&quot;215&quot;,&quot;0.6-0.1&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;89&quot;,&quot;60&quot;]</d>
-<d p="0,7,18,16777215,1290294347,1,23514e99,7665859">[&quot;347&quot;,&quot;348&quot;,&quot;0.2-0.6&quot;,&quot;0.5&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="0.2,7,18,16777215,1290294398,1,23514e99,7665866">[&quot;347&quot;,&quot;348&quot;,&quot;0.6-0.2&quot;,&quot;0.8&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="0.8,7,18,16777215,1290294437,1,23514e99,7665874">[&quot;347&quot;,&quot;348&quot;,&quot;0.2-0.6&quot;,&quot;0.8&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="1.1,7,18,16777215,1290294480,1,23514e99,7665877">[&quot;347&quot;,&quot;348&quot;,&quot;0.6-0.2&quot;,&quot;0.8&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="1.5,7,18,16777215,1290294523,1,23514e99,7665884">[&quot;347&quot;,&quot;348&quot;,&quot;0.2-0.6&quot;,&quot;0.8&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="2.1,7,18,16777215,1290294616,1,23514e99,7665900">[&quot;347&quot;,&quot;348&quot;,&quot;0.6-0.2&quot;,&quot;0.8&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="2.8,7,18,16777215,1290294628,1,23514e99,7665901">[&quot;347&quot;,&quot;348&quot;,&quot;0.2-0.6&quot;,&quot;0.8&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="3.4,7,18,16777215,1290294650,1,23514e99,7665908">[&quot;347&quot;,&quot;348&quot;,&quot;0.6-0.2&quot;,&quot;0.8&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="4.1,7,18,16777215,1290294660,1,23514e99,7665910">[&quot;347&quot;,&quot;348&quot;,&quot;0.2-0.6&quot;,&quot;0.8&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="4.8,7,18,16777215,1290294817,1,23514e99,7665931">[&quot;347&quot;,&quot;348&quot;,&quot;0.6-0.2&quot;,&quot;0.8&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="5.3,7,18,16777215,1290294867,1,23514e99,7665939">[&quot;347&quot;,&quot;348&quot;,&quot;0.2-0.8&quot;,&quot;1.5&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="6.5,7,18,16764159,1290294955,1,23514e99,7665951">[&quot;347&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;2&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="7.2,7,18,16751103,1290294974,1,23514e99,7665955">[&quot;347&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;2&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="9,7,18,16751103,1290295030,1,23514e99,7665968">[&quot;347&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;2&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="9.6,7,18,16738047,1290295044,1,23514e99,7665971">[&quot;347&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;2&quot;,&quot;少女祈祷中…&quot;]</d>
-<d p="10.9,7,18,1,1290295127,1,23514e99,7665991">[&quot;347&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;5&quot;,&quot;██████&quot;]</d>
-<d p="10.9,7,18,1,1290295142,1,23514e99,7665995">[&quot;347&quot;,&quot;348&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;██████&quot;]</d>
-<d p="10.9,7,18,13408716,1290295287,1,23514e99,7666021">[&quot;347&quot;,&quot;348&quot;,&quot;1-1&quot;,&quot;1&quot;,&quot;            碎&quot;]</d>
-<d p="11.3,7,18,1,1290295381,1,23514e99,7666032">[&quot;347&quot;,&quot;348&quot;,&quot;1-1&quot;,&quot;1&quot;,&quot;            █&quot;]</d>
-<d p="11.3,7,18,13408716,1290295411,1,23514e99,7666037">[&quot;347&quot;,&quot;348&quot;,&quot;1-1&quot;,&quot;1&quot;,&quot;          碎月&quot;]</d>
-<d p="11.3,7,18,1,1290295516,1,23514e99,7666052">[&quot;347&quot;,&quot;348&quot;,&quot;1-1&quot;,&quot;2&quot;,&quot;          ██&quot;]</d>
-<d p="11.7,7,18,13408716,1290295626,1,23514e99,7666067">[&quot;347&quot;,&quot;348&quot;,&quot;1-1&quot;,&quot;2&quot;,&quot;        碎月落&quot;]</d>
-<d p="11.2,7,18,13408716,1290295914,1,23514e99,7666110">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;          碎月&quot;]</d>
-<d p="11.2,7,18,1,1290295949,1,23514e99,7666114">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;          ██&quot;]</d>
-<d p="12.1,7,18,1,1290295981,1,23514e99,7666123">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;        ███&quot;]</d>
-<d p="12.1,7,18,13408716,1290296022,1,23514e99,7666128">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;      碎月落乌&quot;]</d>
-<d p="12.3,7,18,1,1290296096,1,23514e99,7666141">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;      ████&quot;]</d>
-<d p="12.3,7,18,13408716,1290296246,1,23514e99,7666166">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;    碎月落乌啼&quot;]</d>
-<d p="11.3,7,18,13408716,1290296321,1,23514e99,7666178">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;          碎月&quot;]</d>
-<d p="13,7,18,1,1290296390,1,23514e99,7666188">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;    █████&quot;]</d>
-<d p="13,7,18,13421823,1290296582,1,23514e99,7666231">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;1.8&quot;,&quot;        霜飞逸&quot;]</d>
-<d p="14.6,7,18,1,1290296659,1,23514e99,7666246">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;1.8&quot;,&quot;      █████&quot;]</d>
-<d p="14.6,7,18,13408716,1290296707,1,23514e99,7666254">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;5&quot;,&quot;    孤&quot;]</d>
-<d p="15.1,7,18,13408716,1290296751,1,23514e99,7666262">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;5&quot;,&quot;      坐&quot;]</d>
-<d p="15.6,7,18,13408716,1290296805,1,23514e99,7666276">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;5&quot;,&quot;        江&quot;]</d>
-<d p="15.8,7,18,13408716,1290296814,1,23514e99,7666277">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;5&quot;,&quot;          舟&quot;]</d>
-<d p="16.5,7,18,13408716,1290296830,1,23514e99,7666280">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;5&quot;,&quot;            無&quot;]</d>
-<d p="16.8,7,18,13408716,1290296925,1,23514e99,7666294">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;5&quot;,&quot;              人&quot;]</d>
-<d p="16.7,7,18,13408716,1290297018,1,23514e99,7666307">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;                依&quot;]</d>
-<d p="16.4,7,18,13408716,1290297208,1,23514e99,7666348">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;              人&quot;]</d>
-<d p="17.6,7,18,1,1290297455,1,23514e99,7666415">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;    ████████&quot;]</d>
-<d p="17.8,6,18,13408716,1290297706,1,23514e99,7666495">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n眼迷離/n/n</d>
-<d p="19.4,7,18,16750899,1290297792,1,23514e99,7666526">[&quot;347&quot;,&quot;348&quot;,&quot;0-1.00&quot;,&quot;2&quot;,&quot;      燈火亮起&quot;]</d>
-<d p="20.9,7,18,13408716,1290297919,1,23514e99,7666561">[&quot;47&quot;,&quot;348&quot;,&quot;1-0&quot;,&quot;3&quot;,&quot;斜影撿起淚滴&quot;]</d>
-<d p="25.1,7,18,1,1290298184,1,23514e99,7666629">[&quot;222&quot;,&quot;340&quot;,&quot;1-0&quot;,&quot;10&quot;,&quot;      █████████████▎&quot;]</d>
-<d p="25.6,1,18,13408716,1290298280,1,23514e99,7666652">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n水無漪/n</d>
-<d p="26.6,7,18,1,1290298443,1,23514e99,7666688">[&quot;0&quot;,&quot;340&quot;,&quot;1-1&quot;,&quot;10&quot;,&quot;███████████████&quot;]</d>
-<d p="25,7,18,1,1290298553,1,23514e99,7666718">[&quot;222&quot;,&quot;340&quot;,&quot;1-1&quot;,&quot;10&quot;,&quot;       █████████████████████&quot;]</d>
-<d p="24.7,7,18,13408716,1290300353,1,23514e99,7667320">[&quot;176&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;風無息&quot;]</d>
-<d p="26.7,7,18,13408716,1290300434,1,23514e99,7667342">[&quot;303&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;水無漪&quot;]</d>
-<d p="27.1,7,18,13408716,1290300586,1,23514e99,7667375">[&quot;200&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;花無期&quot;]</d>
-<d p="28.3,7,18,13408716,1290300636,1,23514e99,7667394">[&quot;200&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;　　　 煞那間凋零&quot;]</d>
-<d p="28.3,7,18,1,1290300661,1,23514e99,7667408">[&quot;200&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;███&quot;]</d>
-<d p="28.3,7,18,13408716,1290300696,1,23514e99,7667415">[&quot;200&quot;,&quot;340&quot;,&quot;1.00-0&quot;,&quot;0.5&quot;,&quot;花無期&quot;]</d>
-<d p="30.1,7,18,1,1290300787,1,23514e99,7667437">[&quot;200&quot;,&quot;340&quot;,&quot;1.00-1&quot;,&quot;10&quot;,&quot;█████████&quot;]</d>
-<d p="30.1,7,18,13408716,1290300941,1,23514e99,7667484">[&quot;350&quot;,&quot;340&quot;,&quot;0.2-0.7&quot;,&quot;2&quot;,&quot;欲尋覓&quot;]</d>
-<d p="31.5,7,18,13408716,1290301030,1,23514e99,7667512">[&quot;380&quot;,&quot;360&quot;,&quot;0.2-0.7&quot;,&quot;4&quot;,&quot;何處無人空歎息&quot;]</d>
-<d p="23.8,6,18,13408716,1290301206,1,23514e99,7667565">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n風無息/n</d>
-<d p="24.8,7,18,1,1290301366,1,23514e99,7667613">[&quot;233&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;█████&quot;]</d>
-<d p="26.6,7,18,1,1290301440,1,23514e99,7667635">[&quot;246&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;███&quot;]</d>
-<d p="26.5,7,18,1,1290301957,1,23514e99,7667795">[&quot;180&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;██████&quot;]</d>
-<d p="26.5,7,18,1,1290301984,1,23514e99,7667806">[&quot;180&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;███████&quot;]</d>
-<d p="30.9,7,18,1,1290302014,1,23514e99,7667822">[&quot;180&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;█████████&quot;]</d>
-<d p="26.8,7,18,1,1290302106,1,23514e99,7667860">[&quot;0&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;████████████&quot;]</d>
-<d p="35.4,7,18,13408716,1290304571,1,23514e99,7669336">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;　　　　　　　碎&quot;]</d>
-<d p="36.1,7,18,1,1290304641,1,23514e99,7669381">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;　　　　　　　█&quot;]</d>
-<d p="36.1,7,18,13408716,1290304673,1,23514e99,7669402">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;　　　　　　碎月&quot;]</d>
-<d p="36.4,7,18,1,1290304710,1,23514e99,7669430">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;　　　　　　██&quot;]</d>
-<d p="36.4,7,18,13408716,1290304957,1,23514e99,7669562">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;　　　　　碎月伴&quot;]</d>
-<d p="36.6,7,18,1,1290305025,1,23514e99,7669591">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;　　　　　███&quot;]</d>
-<d p="36.6,7,18,13408716,1290305159,1,23514e99,7669681">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;　　　　碎月伴烏&quot;]</d>
-<d p="37.2,7,18,1,1290305196,1,23514e99,7669705">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;　　　　████&quot;]</d>
-<d p="37.2,7,18,13408716,1290305275,1,23514e99,7669752">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;2&quot;,&quot;　　　碎月伴烏啼&quot;]</d>
-<d p="38.1,7,18,1,1290305438,1,23514e99,7669850">[&quot;347&quot;,&quot;348&quot;,&quot;1.00-1.00&quot;,&quot;&quot;,&quot;　　　█████&quot;]</d>
-<d p="38.1,7,18,10066329,1290305588,1,23514e99,7669937">[&quot;377&quot;,&quot;340&quot;,&quot;1.00-0&quot;,&quot;0.9&quot;,&quot;霜&quot;,&quot;350&quot;,&quot;0&quot;]</d>
-<d p="38.4,7,18,10066329,1290305619,1,23514e99,7669965">[&quot;413&quot;,&quot;348&quot;,&quot;1.00-0&quot;,&quot;0.9&quot;,&quot;落&quot;,&quot;5&quot;,&quot;0&quot;]</d>
-<d p="39,7,18,10066329,1290305646,1,23514e99,7669984">[&quot;445&quot;,&quot;369&quot;,&quot;1.00-0&quot;,&quot;0.9&quot;,&quot;地&quot;,&quot;354&quot;,&quot;0&quot;]</d>
-<d p="88.6,7,18,1,1290306370,1,d2b8a56b,7670421">[&quot;20&quot;,&quot;344&quot;,&quot;1.00-1.00&quot;,&quot;9.99&quot;,&quot;███████████████████████████&quot;]</d>
-<d p="88.7,7,18,16764159,1290306947,1,d2b8a56b,7670874">[&quot;50&quot;,&quot;344&quot;,&quot;1.00-1.00&quot;,&quot;3.0&quot;,&quot;碎&quot;]</d>
-<d p="89.2,7,18,16751052,1290307009,1,d2b8a56b,7670915">[&quot;70&quot;,&quot;344&quot;,&quot;1.00-1.00&quot;,&quot;3.0&quot;,&quot;月&quot;]</d>
-<d p="89.4,7,18,16737945,1290307058,1,d2b8a56b,7670958">[&quot;90&quot;,&quot;344&quot;,&quot;1.00-1.00&quot;,&quot;3.0&quot;,&quot;落&quot;]</d>
-<d p="90,7,18,16724838,1290307096,1,d2b8a56b,7670979">[&quot;110&quot;,&quot;344&quot;,&quot;1.00-1.00&quot;,&quot;3.0&quot;,&quot;烏&quot;]</d>
-<d p="90.2,7,18,16711731,1290307135,1,d2b8a56b,7671013">[&quot;130&quot;,&quot;344&quot;,&quot;0.6-1.00&quot;,&quot;3.0&quot;,&quot;蹄&quot;]</d>
-<d p="88.6,7,18,16764159,1290307278,1,d2b8a56b,7671128">[&quot;50&quot;,&quot;380&quot;,&quot;0.6-0.6&quot;,&quot;3.0&quot;,&quot;碎&quot;,&quot;180&quot;,&quot;180&quot;]</d>
-<d p="89.2,7,18,16751052,1290307401,1,d2b8a56b,7671236">[&quot;70&quot;,&quot;381&quot;,&quot;0.6-0.6&quot;,&quot;3.0&quot;,&quot;月&quot;,&quot;180&quot;,&quot;180&quot;]</d>
-<d p="89.5,7,18,16737945,1290307440,1,d2b8a56b,7671270">[&quot;90&quot;,&quot;381&quot;,&quot;0.6-0.6&quot;,&quot;3.0&quot;,&quot;落&quot;,&quot;180&quot;,&quot;180&quot;]</d>
-<d p="89.9,7,18,16724838,1290307457,1,d2b8a56b,7671284">[&quot;110&quot;,&quot;381&quot;,&quot;0.6-0.6&quot;,&quot;3.0&quot;,&quot;烏&quot;,&quot;180&quot;,&quot;180&quot;]</d>
-<d p="90.3,7,18,16711731,1290307506,1,d2b8a56b,7671327">[&quot;130&quot;,&quot;381&quot;,&quot;0.3-0.6&quot;,&quot;3.0&quot;,&quot;蹄&quot;,&quot;180&quot;,&quot;180&quot;]</d>
-<d p="91.1,7,18,10027008,1290307873,1,d2b8a56b,7671647">[&quot;148&quot;,&quot;305&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;霜&quot;,&quot;10&quot;,&quot;0&quot;]</d>
-<d p="91.3,7,18,13369344,1290307977,1,d2b8a56b,7671727">[&quot;176&quot;,&quot;330&quot;,&quot;1.00-1.00&quot;,&quot;3.0&quot;,&quot;飛&quot;,&quot;10&quot;,&quot;0&quot;]</d>
-<d p="91.9,7,18,16711680,1290308051,1,d2b8a56b,7671793">[&quot;178&quot;,&quot;363&quot;,&quot;0.6-1.00&quot;,&quot;3.0&quot;,&quot;逸&quot;,&quot;10&quot;,&quot;0&quot;]</d>
-<d p="39.2,6,16,6710886,1290308162,1,23514e99,7671886">/n/n/n/n/n/n/n/n/n/n/n/n/n/n  孤                              /n  坐  /n  江/n  舟/n  何/n  人/n　依/n</d>
-<d p="39.5,6,16,10066329,1290308185,1,23514e99,7671906">/n/n/n/n/n/n/n/n/n/n/n/n/n/n  孤               /n  坐  /n  江/n  舟/n  何/n  人/n　依/n</d>
-<d p="40,6,16,13421772,1290308261,1,23514e99,7671965">/n/n/n/n/n/n/n/n/n/n/n/n/n/n  孤/n  坐  /n  江/n  舟/n  何/n  人/n　依/n</d>
-<d p="42.7,7,18,13408716,1290308564,1,23514e99,7672241">[&quot;30&quot;,&quot;348&quot;,&quot;1.00-0.2&quot;,&quot;1.5&quot;,&quot;伤迷离&quot;]</d>
-<d p="44.2,7,18,16750899,1290308680,1,23514e99,7672368">[&quot;30&quot;,&quot;348&quot;,&quot;0.8-0.2&quot;,&quot;0.6&quot;,&quot;　　　燈火搖曳&quot;]</d>
-<d p="44.7,7,18,16750899,1290308707,1,23514e99,7672397">[&quot;30&quot;,&quot;348&quot;,&quot;0.2-0.8&quot;,&quot;0.6&quot;,&quot;　　　燈火搖曳&quot;]</d>
-<d p="45,7,18,16750899,1290308721,1,23514e99,7672413">[&quot;30&quot;,&quot;348&quot;,&quot;0.8-0.2&quot;,&quot;0.6&quot;,&quot;　　　燈火搖曳&quot;]</d>
-<d p="45.8,7,18,16750899,1290308732,1,23514e99,7672423">[&quot;30&quot;,&quot;348&quot;,&quot;0.2-0.8&quot;,&quot;0.6&quot;,&quot;　　　燈火搖曳&quot;]</d>
-<d p="46,7,18,13408716,1290308879,1,23514e99,7672577">[&quot;170&quot;,&quot;348&quot;,&quot;1-0&quot;,&quot;3&quot;,&quot;斜影轻抚泪滴&quot;]</d>
-<d p="48.6,7,18,16777215,1290309443,1,23514e99,7673063">[&quot;40&quot;,&quot;348&quot;,&quot;0.3-0.3&quot;,&quot;4&quot;,&quot;心無喜 情無依 思無期&quot;]</d>
-<d p="49,7,18,10027008,1290309481,1,23514e99,7673101">[&quot;40&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;4&quot;,&quot;心&quot;]</d>
-<d p="49.4,7,18,6710886,1290309569,1,23514e99,7673181">[&quot;40&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;4&quot;,&quot;　無&quot;]</d>
-<d p="49.4,7,18,6710886,1290309575,1,23514e99,7673192">[&quot;40&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;4&quot;,&quot;　　喜&quot;]</d>
-<d p="50,7,18,10027008,1290309600,1,23514e99,7673216">[&quot;40&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;4&quot;,&quot;　　　 情&quot;]</d>
-<d p="50.8,7,18,6710886,1290309627,1,23514e99,7673245">[&quot;40&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;4&quot;,&quot;　　　 　無&quot;]</d>
-<d p="51.1,7,18,6710886,1290309689,1,23514e99,7673295">[&quot;40&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;4&quot;,&quot;　　　 　　依&quot;]</d>
-<d p="92.8,7,18,16777215,1290309701,1,d2b8a56b,7673309">[&quot;350&quot;,&quot;364&quot;,&quot;0.3-0.3&quot;,&quot;3.0&quot;,&quot;孤坐江舟無人依&quot;]</d>
-<d p="51.9,7,18,10027008,1290309731,1,23514e99,7673351">[&quot;40&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;4&quot;,&quot;　　　　　　  思&quot;]</d>
-<d p="52.3,7,18,6710886,1290309757,1,23514e99,7673385">[&quot;40&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;4&quot;,&quot;　　　　　　　  無&quot;]</d>
-<d p="52.3,7,18,6710886,1290309780,1,23514e99,7673409">[&quot;40&quot;,&quot;348&quot;,&quot;0.8-0.8&quot;,&quot;4&quot;,&quot;　　　　　　　　  期&quot;]</d>
-<d p="53.3,1,18,13421772,1290310462,1,23514e99,7674044">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n盼誰的身影/n</d>
-<d p="55.1,7,18,13421772,1290310599,1,23514e99,7674196">[&quot;258&quot;,&quot;348&quot;,&quot;0-1.00&quot;,&quot;2&quot;,&quot;何寻觅&quot;]</d>
-<d p="56.9,7,18,13421772,1290310709,1,23514e99,7674298">[&quot;258&quot;,&quot;348&quot;,&quot;0-1.00&quot;,&quot;1.7&quot;,&quot;　　　 此處僅留空悲憶&quot;]</d>
-<d p="57.8,7,18,13421772,1290310757,1,23514e99,7674336">[&quot;258&quot;,&quot;348&quot;,&quot;1-0&quot;,&quot;1.7&quot;,&quot;　　　 此處僅留空悲憶&quot;]</d>
-<d p="92.7,7,18,10027263,1290323144,1,d2b8a56b,7687860">[&quot;351&quot;,&quot;364&quot;,&quot;1.00-0.01&quot;,&quot;1.0&quot;,&quot;孤&quot;]</d>
-<d p="93.1,7,18,10027212,1290323183,1,d2b8a56b,7687916">[&quot;371&quot;,&quot;364&quot;,&quot;1.00-0.01&quot;,&quot;1.0&quot;,&quot;坐&quot;]</d>
-<d p="93.8,7,18,10027161,1290323216,1,d2b8a56b,7687959">[&quot;390&quot;,&quot;364&quot;,&quot;1.00-0.01&quot;,&quot;1.0&quot;,&quot;江&quot;]</d>
-<d p="93.8,7,18,10027110,1290323304,1,d2b8a56b,7688074">[&quot;409&quot;,&quot;364&quot;,&quot;1.00-0.01&quot;,&quot;0.8&quot;,&quot;舟&quot;]</d>
-<d p="94.5,7,18,10027059,1290323342,1,d2b8a56b,7688120">[&quot;427&quot;,&quot;364&quot;,&quot;1.00-0.01&quot;,&quot;0.8&quot;,&quot;無&quot;]</d>
-<d p="92.5,7,18,1,1290323622,1,d2b8a56b,7688487">[&quot;352&quot;,&quot;364&quot;,&quot;1.00-1.00&quot;,&quot;9.99&quot;,&quot;████████████&quot;]</d>
-<d p="92.5,7,18,16751103,1290323699,1,d2b8a56b,7688590">[&quot;352&quot;,&quot;364&quot;,&quot;0.6-0.6&quot;,&quot;4.0&quot;,&quot;孤坐江舟無人依&quot;]</d>
-<d p="97.9,7,18,1,1290324492,1,d2b8a56b,7689546">[&quot;20&quot;,&quot;344&quot;,&quot;1.00-1.00&quot;,&quot;9.99&quot;,&quot;███████████████████████████████████████████&quot;]</d>
-<d p="94.7,7,18,10027008,1290324675,1,d2b8a56b,7689757">[&quot;447&quot;,&quot;365&quot;,&quot;1.00-0.1&quot;,&quot;0.8&quot;,&quot;人&quot;]</d>
-<d p="95.2,7,18,16711680,1290324748,1,d2b8a56b,7689850">[&quot;467&quot;,&quot;365&quot;,&quot;1.00-0.1&quot;,&quot;3.0&quot;,&quot;依&quot;]</d>
-<d p="95.9,6,18,16751103,1290325265,1,d2b8a56b,7690478">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n▃▃▃/n/n</d>
-<d p="95.9,6,18,10053375,1290325282,1,d2b8a56b,7690500">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n眼迷離/n/n</d>
-<d p="97.1,1,18,6750207,1290325317,1,d2b8a56b,7690543">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n▃▃▃▃/n/n</d>
-<d p="97.1,1,18,13311,1290325331,1,d2b8a56b,7690559">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n灯火亮起/n/n</d>
-<d p="97.9,7,18,10053375,1290325623,1,d2b8a56b,7690885">[&quot;340&quot;,&quot;340&quot;,&quot;0.1-0.9&quot;,&quot;0.5&quot;,&quot;燈火亮起&quot;]</d>
-<d p="98,7,18,10053375,1290325769,1,d2b8a56b,7691030">[&quot;340&quot;,&quot;340&quot;,&quot;0.1-0.9&quot;,&quot;0.7&quot;,&quot;燈火亮起&quot;]</d>
-<d p="99.2,7,16,10092543,1290326364,1,d2b8a56b,7691730">[&quot;30&quot;,&quot;260&quot;,&quot;0.1-1.0&quot;,&quot;3.0&quot;,&quot;斜&quot;,&quot;340&quot;,&quot;0&quot;]</d>
-<d p="99.2,7,16,10079487,1290326447,1,d2b8a56b,7691817">[&quot;65&quot;,&quot;250&quot;,&quot;0.1-1.0&quot;,&quot;3.0&quot;,&quot;影&quot;,&quot;2&quot;,&quot;0&quot;]</d>
-<d p="99.2,7,16,10066431,1290326529,1,d2b8a56b,7691902">[&quot;97&quot;,&quot;260&quot;,&quot;0.1-1.0&quot;,&quot;3.0&quot;,&quot;撿&quot;,&quot;15&quot;,&quot;0&quot;]</d>
-<d p="99.2,7,16,10053375,1290326617,1,d2b8a56b,7691998">[&quot;112&quot;,&quot;290&quot;,&quot;0.1-1.0&quot;,&quot;3.0&quot;,&quot;起&quot;,&quot;5&quot;,&quot;0&quot;]</d>
-<d p="100.6,7,18,16738047,1290326885,1,d2b8a56b,7692256">[&quot;54&quot;,&quot;297&quot;,&quot;0.1-1.0&quot;,&quot;3.0&quot;,&quot;██&quot;]</d>
-<d p="100.6,7,18,16738047,1290326917,1,d2b8a56b,7692294">[&quot;54&quot;,&quot;297&quot;,&quot;1.0-1.0&quot;,&quot;3.0&quot;,&quot;██&quot;]</d>
-<d p="100.6,7,18,10027110,1290326939,1,d2b8a56b,7692312">[&quot;54&quot;,&quot;297&quot;,&quot;1.0-1.0&quot;,&quot;3.0&quot;,&quot;眼淚&quot;]</d>
-<d p="102,7,18,10053375,1290327936,1,d2b8a56b,7693412">[&quot;60&quot;,&quot;360&quot;,&quot;1.0-0.1&quot;,&quot;2.0&quot;,&quot;風無息,&quot;]</d>
-<d p="103.3,7,18,26367,1290328007,1,d2b8a56b,7693481">[&quot;130&quot;,&quot;360&quot;,&quot;1.0-0.1&quot;,&quot;2.0&quot;,&quot;水無漪,&quot;]</d>
-<d p="104.8,7,18,65280,1290328098,1,d2b8a56b,7693591">[&quot;200&quot;,&quot;360&quot;,&quot;1.0-0.1&quot;,&quot;2.0&quot;,&quot;花無泣,&quot;]</d>
-<d p="106.5,7,18,16711833,1290328211,1,d2b8a56b,7693722">[&quot;270&quot;,&quot;360&quot;,&quot;1.0-0.1&quot;,&quot;2.5&quot;,&quot;刹那間凋零。&quot;]</d>
-<d p="97.9,7,18,10053375,1290328308,1,d2b8a56b,7693847">[&quot;340&quot;,&quot;340&quot;,&quot;1.0-0.1&quot;,&quot;3.0&quot;,&quot;燈火亮起&quot;]</d>
-<d p="106.9,7,18,1,1290328446,1,d2b8a56b,7694057">[&quot;0&quot;,&quot;344&quot;,&quot;1.0-0.1&quot;,&quot;3.0&quot;,&quot;█████████████████████████████&quot;]</d>
-<d p="106.5,7,18,1,1290328547,1,d2b8a56b,7694182">[&quot;0&quot;,&quot;344&quot;,&quot;1.0-1.0&quot;,&quot;9.99&quot;,&quot;███████████████████████████████████&quot;]</d>
-<d p="106.5,7,18,6749952,1290328637,1,d2b8a56b,7694302">[&quot;268&quot;,&quot;358&quot;,&quot;1.0-0.1&quot;,&quot;2.5&quot;,&quot;刹那間凋零。&quot;]</d>
-<d p="106.9,7,18,16711833,1290328711,1,d2b8a56b,7694382">[&quot;270&quot;,&quot;360&quot;,&quot;1.0-0.1&quot;,&quot;2.5&quot;,&quot;刹那間凋零。&quot;]</d>
-<d p="106.9,7,18,16776960,1290328743,1,d2b8a56b,7694420">[&quot;268&quot;,&quot;358&quot;,&quot;1.0-0.1&quot;,&quot;2.5&quot;,&quot;刹那間凋零。&quot;]</d>
-<d p="108.6,6,18,16751103,1290330451,1,d2b8a56b,7696326">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n欲尋覓/n/n</d>
-<d p="109.9,6,18,1,1290330570,1,d2b8a56b,7696482">████████████████</d>
-<d p="109.9,5,18,1,1290330625,1,d2b8a56b,7696559">██████████████████████████</d>
-<d p="109.9,7,18,1,1290330847,1,d2b8a56b,7696816">[&quot;230&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;2.5&quot;,&quot;████████████████████&quot;]</d>
-<d p="109.9,7,18,10053375,1290330972,1,d2b8a56b,7696942">[&quot;300&quot;,&quot;340&quot;,&quot;1.00-0.1&quot;,&quot;3.0&quot;,&quot;何處無人空嘆息。&quot;]</d>
-<d p="113.6,7,18,1,1290332493,1,d2b8a56b,7698843">[&quot;0&quot;,&quot;340&quot;,&quot;1.00-1.00&quot;,&quot;9.99&quot;,&quot;█████████████████████████████&quot;]</d>
-<d p="113.6,6,18,10066431,1290333959,1,d2b8a56b,7700525">/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n 月/n  伴/n   烏/n    蹄/n</d>
-<d p="113.6,6,18,10066431,1290333971,1,d2b8a56b,7700540">/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n  月/n    伴/n      烏/n        蹄/n</d>
-<d p="113.6,6,18,10066431,1290333980,1,d2b8a56b,7700552">/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n   月/n      伴/n         烏/n            蹄/n</d>
-<d p="113.6,6,18,10053375,1290333992,1,d2b8a56b,7700566">/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n  月/n    伴/n      烏/n        蹄/n</d>
-<d p="113.6,6,18,10040319,1290333999,1,d2b8a56b,7700574">/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n   月/n      伴/n         烏/n            蹄/n</d>
-<d p="116,7,18,26367,1290334255,1,d2b8a56b,7700878">[&quot;104&quot;,&quot;342&quot;,&quot;1.00-1.00&quot;,&quot;3.0&quot;,&quot;霜落地,&quot;]</d>
-<d p="116,7,18,39423,1290334322,1,d2b8a56b,7700964">[&quot;104&quot;,&quot;383&quot;,&quot;0.5-0.5&quot;,&quot;3.0&quot;,&quot;霜落地,&quot;,&quot;180&quot;,&quot;180&quot;]</d>
-<d p="117.3,7,18,16764159,1290334684,1,d2b8a56b,7701358">[&quot;180&quot;,&quot;350&quot;,&quot;0.5-0.5&quot;,&quot;3.0&quot;,&quot;孤坐江舟無人依&quot;]</d>
-<d p="117.3,7,18,65433,1290334878,1,d2b8a56b,7701567">[&quot;180&quot;,&quot;350&quot;,&quot;1.0-0.5&quot;,&quot;1.0&quot;,&quot;孤&quot;]</d>
-<d p="118,7,18,65484,1290334914,1,d2b8a56b,7701615">[&quot;200&quot;,&quot;350&quot;,&quot;1.0-0.5&quot;,&quot;1.0&quot;,&quot;坐&quot;]</d>
-<d p="118.5,7,18,65535,1290334930,1,d2b8a56b,7701631">[&quot;220&quot;,&quot;350&quot;,&quot;1.0-0.5&quot;,&quot;1.0&quot;,&quot;江&quot;]</d>
-<d p="118.6,7,18,52479,1290334977,1,d2b8a56b,7701679">[&quot;238&quot;,&quot;350&quot;,&quot;1.0-0.5&quot;,&quot;1.0&quot;,&quot;舟&quot;]</d>
-<d p="119.5,7,18,52479,1290334998,1,d2b8a56b,7701713">[&quot;257&quot;,&quot;350&quot;,&quot;1.0-0.5&quot;,&quot;1.0&quot;,&quot;無&quot;]</d>
-<d p="119.9,7,18,39423,1290335015,1,d2b8a56b,7701732">[&quot;276&quot;,&quot;350&quot;,&quot;1.0-0.5&quot;,&quot;1.0&quot;,&quot;人&quot;]</d>
-<d p="119.4,7,18,39423,1290335201,1,d2b8a56b,7701925">[&quot;257&quot;,&quot;330&quot;,&quot;1.0-0.5&quot;,&quot;1.0&quot;,&quot;何&quot;]</d>
-<d p="119.4,7,18,0,1290335287,1,d2b8a56b,7702019">[&quot;258&quot;,&quot;350&quot;,&quot;1.0-1.0&quot;,&quot;2.0&quot;,&quot;×&quot;]</d>
-<d p="119.7,7,18,39423,1290335435,1,d2b8a56b,7702201">[&quot;277&quot;,&quot;350&quot;,&quot;1.0-0.5&quot;,&quot;1.0&quot;,&quot;人&quot;]</d>
-<d p="119.7,7,18,26367,1290335460,1,d2b8a56b,7702237">[&quot;295&quot;,&quot;350&quot;,&quot;1.0-0.5&quot;,&quot;1.0&quot;,&quot;依&quot;]</d>
-<d p="120.8,6,18,10053375,1290335767,1,d2b8a56b,7702569">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n傷迷離/n</d>
-<d p="122.4,6,18,1,1290335945,1,d2b8a56b,7702752">██████████████</d>
-<d p="122.6,7,18,1,1290336521,1,d2b8a56b,7703307">[&quot;278&quot;,&quot;360&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;██████████████&quot;]</d>
-<d p="122.6,7,18,16776960,1290336627,1,d2b8a56b,7703418">[&quot;278&quot;,&quot;360&quot;,&quot;0.1-0.9&quot;,&quot;0.7&quot;,&quot;燈火搖曳,&quot;]</d>
-<d p="123.2,7,18,16776960,1290336659,1,d2b8a56b,7703453">[&quot;278&quot;,&quot;360&quot;,&quot;0.9-0.1&quot;,&quot;0.7&quot;,&quot;燈火搖曳,&quot;]</d>
-<d p="123.5,7,18,16776960,1290336705,1,d2b8a56b,7703501">[&quot;278&quot;,&quot;360&quot;,&quot;0.9-0.1&quot;,&quot;0.7&quot;,&quot;燈火搖曳,&quot;]</d>
-<d p="123.1,7,18,16776960,1290336789,1,d2b8a56b,7703601">[&quot;278&quot;,&quot;360&quot;,&quot;0.9-0.1&quot;,&quot;1.2&quot;,&quot;燈火搖曳,&quot;]</d>
-<d p="123.6,7,18,16776960,1290336847,1,d2b8a56b,7703680">[&quot;278&quot;,&quot;360&quot;,&quot;0.1-0.5&quot;,&quot;1.2&quot;,&quot;燈火搖曳,&quot;]</d>
-<d p="124.2,7,18,10053375,1290337105,1,d2b8a56b,7703985">[&quot;363&quot;,&quot;360&quot;,&quot;0.5-1.0&quot;,&quot;2.5&quot;,&quot;斜影輕拂淚滴。&quot;]</d>
-<d p="126.8,7,18,10053375,1290337337,1,d2b8a56b,7704264">[&quot;130&quot;,&quot;325&quot;,&quot;0.5-1.0&quot;,&quot;2.5&quot;,&quot;███&quot;]</d>
-<d p="126.8,7,18,16751103,1290337364,1,d2b8a56b,7704290">[&quot;130&quot;,&quot;325&quot;,&quot;0.5-1.0&quot;,&quot;2.5&quot;,&quot;♡無喜&quot;]</d>
-<d p="128.4,7,18,10092288,1290337880,1,d2b8a56b,7704805">[&quot;180&quot;,&quot;344&quot;,&quot;0.5-1.00&quot;,&quot;2.5&quot;,&quot;███&quot;]</d>
-<d p="128.4,7,18,16776960,1290337912,1,d2b8a56b,7704849">[&quot;180&quot;,&quot;344&quot;,&quot;0.5-1.00&quot;,&quot;2.5&quot;,&quot;情無依&quot;]</d>
-<d p="130.2,7,18,26367,1290337994,1,d2b8a56b,7704956">[&quot;235&quot;,&quot;365&quot;,&quot;0.5-1.00&quot;,&quot;2.5&quot;,&quot;███&quot;]</d>
-<d p="130.2,7,18,16711680,1290338021,1,d2b8a56b,7705001">[&quot;235&quot;,&quot;365&quot;,&quot;0.5-1.00&quot;,&quot;2.5&quot;,&quot;思無期&quot;]</d>
-<d p="131.5,1,18,16738047,1290338275,1,d2b8a56b,7705280">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡/n</d>
-<d p="131.3,1,18,1,1290338369,1,d2b8a56b,7705381">██████████████</d>
-<d p="131.5,7,18,1,1290338542,1,d2b8a56b,7705568">[&quot;360&quot;,&quot;360&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;████████████&quot;]</d>
-<d p="131.5,7,18,13421823,1290338601,1,d2b8a56b,7705642">[&quot;360&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;盼&quot;]</d>
-<d p="131.8,7,18,13408767,1290338620,1,d2b8a56b,7705659">[&quot;380&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;誰&quot;]</d>
-<d p="131.8,7,18,13395711,1290338632,1,d2b8a56b,7705671">[&quot;400&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;的&quot;]</d>
-<d p="132.5,7,18,13382655,1290338646,1,d2b8a56b,7705685">[&quot;420&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;身&quot;]</d>
-<d p="132.5,7,18,13369599,1290338677,1,d2b8a56b,7705717">[&quot;440&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;影&quot;]</d>
-<d p="132.2,7,18,13369599,1290338759,1,d2b8a56b,7705818">[&quot;440&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;影&quot;]</d>
-<d p="132.5,7,18,13369548,1290338783,1,d2b8a56b,7705847">[&quot;460&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;。&quot;]</d>
-<d p="133,7,18,1,1290338954,1,d2b8a56b,7706073">[&quot;0&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;█████&quot;]</d>
-<d p="133,7,18,1,1290338977,1,d2b8a56b,7706102">[&quot;0&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;███████████████████&quot;]</d>
-<d p="133,7,18,1,1290338998,1,d2b8a56b,7706129">[&quot;0&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;█████&quot;]</d>
-<d p="133,7,18,10053375,1290339061,1,d2b8a56b,7706192">[&quot;38&quot;,&quot;360&quot;,&quot;0.8-0.8&quot;,&quot;3.0&quot;,&quot;何尋覓&quot;]</d>
-<d p="134.4,7,18,16751103,1290339218,1,d2b8a56b,7706368">[&quot;430&quot;,&quot;63&quot;,&quot;0.8-0.8&quot;,&quot;4.5&quot;,&quot;此&quot;,&quot;350&quot;,&quot;0&quot;]</d>
-<d p="134.4,7,18,16738047,1290339289,1,d2b8a56b,7706428">[&quot;433&quot;,&quot;85&quot;,&quot;0.7-0.7&quot;,&quot;4.5&quot;,&quot;處&quot;,&quot;350&quot;,&quot;0&quot;]</d>
-<d p="134.4,7,18,16724991,1290339357,1,d2b8a56b,7706503">[&quot;436&quot;,&quot;108&quot;,&quot;0.7-0.7&quot;,&quot;4.5&quot;,&quot;僅&quot;,&quot;350&quot;,&quot;0&quot;]</d>
-<d p="134.4,7,18,16711935,1290339400,1,d2b8a56b,7706555">[&quot;439&quot;,&quot;130&quot;,&quot;0.7-0.7&quot;,&quot;4.5&quot;,&quot;留&quot;,&quot;350&quot;,&quot;0&quot;]</d>
-<d p="134.4,7,18,16711884,1290339453,1,d2b8a56b,7706612">[&quot;443&quot;,&quot;153&quot;,&quot;0.7-0.7&quot;,&quot;4.5&quot;,&quot;空&quot;,&quot;350&quot;,&quot;0&quot;]</d>
-<d p="134.4,7,18,16711833,1290339496,1,d2b8a56b,7706656">[&quot;446&quot;,&quot;178&quot;,&quot;0.7-0.7&quot;,&quot;4.5&quot;,&quot;傷&quot;,&quot;350&quot;,&quot;0&quot;]</d>
-<d p="134.4,7,18,16711833,1290339542,1,d2b8a56b,7706712">[&quot;450&quot;,&quot;200&quot;,&quot;0.7-0.7&quot;,&quot;4.5&quot;,&quot;悲&quot;,&quot;350&quot;,&quot;0&quot;]</d>
-<d p="131.5,7,25,1,1290340137,1,d2b8a56b,7707366">[&quot;360&quot;,&quot;360&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;██████████████&quot;]</d>
-<d p="131.5,7,18,16764159,1290340165,1,d2b8a56b,7707401">[&quot;360&quot;,&quot;360&quot;,&quot;1.00-1.00&quot;,&quot;3.0&quot;,&quot;盼&quot;]</d>
-<d p="131.6,7,18,10040319,1290340211,1,d2b8a56b,7707447">[&quot;420&quot;,&quot;360&quot;,&quot;1.00-1.00&quot;,&quot;3.0&quot;,&quot;身&quot;]</d>
-<d p="62.3,7,18,39423,1290352530,1,23514e99,7721163">[&quot;347&quot;,&quot;348&quot;,&quot;0.7-0.7&quot;,&quot;4.50&quot;,&quot;虽人已逝去&quot;]</d>
-<d p="63,7,18,26367,1290352539,1,23514e99,7721173">[&quot;347&quot;,&quot;348&quot;,&quot;0.7-0.7&quot;,&quot;4.50&quot;,&quot;虽人已逝去&quot;]</d>
-<d p="63.6,7,18,13311,1290352549,1,23514e99,7721178">[&quot;347&quot;,&quot;348&quot;,&quot;0.7-0.7&quot;,&quot;4.50&quot;,&quot;虽人已逝去&quot;]</d>
-<d p="63.9,7,18,255,1290352559,1,23514e99,7721187">[&quot;347&quot;,&quot;348&quot;,&quot;0.7-0.7&quot;,&quot;4.50&quot;,&quot;虽人已逝去&quot;]</d>
-<d p="64.2,7,18,153,1290353158,1,23514e99,7721757">[&quot;50&quot;,&quot;320&quot;,&quot;0.7-0&quot;,&quot;2&quot;,&quot;憶/n　難/n　　消&quot;]</d>
-<d p="65.2,6,18,16724838,1290353222,1,23514e99,7721811">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n夢你我逍遙/n</d>
-<d p="64.1,7,18,1,1290353368,1,23514e99,7721938">[&quot;347&quot;,&quot;348&quot;,&quot;1-1&quot;,&quot;4&quot;,&quot;█████&quot;]</d>
-<d p="67.2,7,18,16724838,1290353490,1,23514e99,7722050">[&quot;288&quot;,&quot;360&quot;,&quot;1-0&quot;,&quot;0.8&quot;,&quot;夢你我逍遙&quot;]</d>
-<d p="67.2,7,18,1,1290353562,1,23514e99,7722129">[&quot;288&quot;,&quot;360&quot;,&quot;1-1&quot;,&quot;4&quot;,&quot;█████████████&quot;]</d>
-<d p="67.2,7,18,16737894,1290353592,1,23514e99,7722160">[&quot;288&quot;,&quot;360&quot;,&quot;1-0&quot;,&quot;0.8&quot;,&quot;夢你我逍遙&quot;]</d>
-<d p="84.3,1,25,16777215,1290353785,1,4e8e8ac0,7722357">施工中</d>
-<d p="67.7,7,18,13209,1290353856,1,23514e99,7722425">[&quot;40&quot;,&quot;330&quot;,&quot;1.00-1.00&quot;,&quot;7&quot;,&quot;昔日相約江楓橋&quot;]</d>
-<d p="70.4,7,18,6710886,1290353984,1,23514e99,7722578">[&quot;40&quot;,&quot;350&quot;,&quot;0-1.00&quot;,&quot;1.2&quot;,&quot;而今&quot;]</d>
-<d p="71,7,18,6710886,1290354002,1,23514e99,7722608">[&quot;40&quot;,&quot;350&quot;,&quot;1-1.00&quot;,&quot;1.2&quot;,&quot;而今&quot;]</d>
-<d p="70.8,7,18,6710886,1290354049,1,23514e99,7722671">[&quot;40&quot;,&quot;350&quot;,&quot;1-1.00&quot;,&quot;0.8&quot;,&quot;　　陰陽&quot;]</d>
-<d p="71.4,7,18,1,1290354138,1,23514e99,7722757">[&quot;40&quot;,&quot;350&quot;,&quot;1-1.00&quot;,&quot;0.8&quot;,&quot;　　██&quot;]</d>
-<d p="71.4,7,18,6710886,1290354197,1,23514e99,7722796">[&quot;40&quot;,&quot;350&quot;,&quot;1-1.00&quot;,&quot;0.8&quot;,&quot;　　相隔&quot;]</d>
-<d p="71.4,7,18,10027008,1290354330,1,23514e99,7722908">[&quot;117&quot;,&quot;372&quot;,&quot;0-1.00&quot;,&quot;1.2&quot;,&quot;奈何橋&quot;,&quot;180&quot;,&quot;180&quot;]</d>
-<d p="72.1,7,18,10027008,1290354407,1,23514e99,7722970">[&quot;117&quot;,&quot;372&quot;,&quot;1-1.00&quot;,&quot;1.1&quot;,&quot;奈何橋&quot;,&quot;180&quot;,&quot;180&quot;]</d>
-<d p="72.2,7,18,13209,1290354479,1,23514e99,7723020">[&quot;40&quot;,&quot;330&quot;,&quot;1-1.00&quot;,&quot;1.1&quot;,&quot;昔日相約江楓橋&quot;]</d>
-<d p="74.1,7,18,1,1290354508,1,23514e99,7723048">[&quot;40&quot;,&quot;330&quot;,&quot;1-1.00&quot;,&quot;1.1&quot;,&quot;███████&quot;]</d>
-<d p="74.1,7,18,16711731,1290354570,1,23514e99,7723109">[&quot;40&quot;,&quot;348&quot;,&quot;0.7-1.00&quot;,&quot;2&quot;,&quot;彼岸花&quot;]</d>
-<d p="75,7,18,16711680,1290354619,1,23514e99,7723141">[&quot;40&quot;,&quot;348&quot;,&quot;0.7-0&quot;,&quot;2&quot;,&quot;　　　 千年妖嬈&quot;]</d>
-<d p="76.4,7,18,6710886,1290354703,1,23514e99,7723200">[&quot;347&quot;,&quot;348&quot;,&quot;0.7-1&quot;,&quot;2&quot;,&quot;誰的前世今朝&quot;]</d>
-<d p="79.8,7,18,13408716,1290354794,1,23514e99,7723258">[&quot;347&quot;,&quot;348&quot;,&quot;0.5-1&quot;,&quot;2&quot;,&quot;　　　　　　莫&quot;]</d>
-<d p="80.6,7,18,1,1290354851,1,23514e99,7723301">[&quot;347&quot;,&quot;348&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;　　　　　　█&quot;]</d>
-<d p="80.6,7,18,13408716,1290354884,1,23514e99,7723332">[&quot;347&quot;,&quot;348&quot;,&quot;0.5-1&quot;,&quot;5&quot;,&quot;　　　　　莫回&quot;]</d>
-<d p="80.9,7,18,1,1290354971,1,23514e99,7723392">[&quot;347&quot;,&quot;348&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;　　　　　██&quot;]</d>
-<d p="80.9,7,18,13408716,1290355003,1,23514e99,7723419">[&quot;347&quot;,&quot;348&quot;,&quot;0.5-1&quot;,&quot;1.2&quot;,&quot;　　　　莫回望&quot;]</d>
-<d p="81.7,7,18,51,1290355048,1,23514e99,7723448">[&quot;39&quot;,&quot;331&quot;,&quot;1-0&quot;,&quot;0.8&quot;,&quot;夢&quot;]</d>
-<d p="82,7,18,102,1290355087,1,23514e99,7723480">[&quot;60&quot;,&quot;350&quot;,&quot;1-0&quot;,&quot;0.8&quot;,&quot;鄉&quot;]</d>
-<d p="82.4,7,18,153,1290355113,1,23514e99,7723498">[&quot;98&quot;,&quot;359&quot;,&quot;1-0&quot;,&quot;0.8&quot;,&quot;再&quot;]</d>
-<d p="82.4,7,18,204,1290355137,1,23514e99,7723511">[&quot;135&quot;,&quot;352&quot;,&quot;1-0&quot;,&quot;0.8&quot;,&quot;敘&quot;]</d>
-<d p="83.3,7,18,10027008,1290355204,1,23514e99,7723556">[&quot;174&quot;,&quot;348&quot;,&quot;0-1&quot;,&quot;2&quot;,&quot;情&quot;]</d>
-<d p="83.7,7,18,10027008,1290355223,1,23514e99,7723572">[&quot;174&quot;,&quot;348&quot;,&quot;0-1&quot;,&quot;2&quot;,&quot;　長&quot;]</d>
-<d p="73.9,7,25,10066329,1290355537,1,23514e99,7723851">[&quot;20&quot;,&quot;319&quot;,&quot;0-1&quot;,&quot;1&quot;,&quot;❀&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="74.3,7,25,13421772,1290355569,1,23514e99,7723869">[&quot;30&quot;,&quot;319&quot;,&quot;0-1&quot;,&quot;1&quot;,&quot;❀&quot;,&quot;20&quot;,&quot;0&quot;]</d>
-<d p="73.9,7,36,6710886,1290355620,1,23514e99,7723908">[&quot;30&quot;,&quot;319&quot;,&quot;0-1&quot;,&quot;0.5&quot;,&quot;❀&quot;,&quot;60&quot;,&quot;0&quot;]</d>
-<d p="74.1,7,36,6710886,1290355707,1,23514e99,7723974">[&quot;30&quot;,&quot;319&quot;,&quot;0.7-0.7&quot;,&quot;3&quot;,&quot;❀&quot;,&quot;60&quot;,&quot;0&quot;]</d>
-<d p="74.1,7,45,3355443,1290355786,1,23514e99,7724036">[&quot;50&quot;,&quot;300&quot;,&quot;0.0-0.7&quot;,&quot;2&quot;,&quot;❀&quot;,&quot;25&quot;,&quot;0&quot;]</d>
-<d p="74.9,7,18,16711680,1290355848,1,23514e99,7724083">[&quot;31&quot;,&quot;335&quot;,&quot;0.0-0.7&quot;,&quot;0.8&quot;,&quot;❀&quot;,&quot;25&quot;,&quot;0&quot;]</d>
-<d p="75.5,7,18,16711680,1290355883,1,23514e99,7724110">[&quot;31&quot;,&quot;335&quot;,&quot;0.7-0.7&quot;,&quot;1.2&quot;,&quot;❀&quot;,&quot;25&quot;,&quot;0&quot;]</d>
-<d p="138.7,7,18,10027059,1290405845,1,23514e99,7743732">[&quot;509&quot;,&quot;78&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;碎&quot;]</d>
-<d p="139,7,18,10027059,1290405855,1,23514e99,7743741">[&quot;509&quot;,&quot;78&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;/n月&quot;]</d>
-<d p="139.5,7,18,10027110,1290405880,1,23514e99,7743761">[&quot;509&quot;,&quot;78&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;/n/n消&quot;]</d>
-<d p="139.4,7,18,10027161,1290405916,1,23514e99,7743787">[&quot;509&quot;,&quot;78&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;/n/n/n乌&quot;]</d>
-<d p="140.3,7,18,10027212,1290405930,1,23514e99,7743794">[&quot;509&quot;,&quot;78&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;/n/n/n/n啼&quot;]</d>
-<d p="140.9,7,18,10027263,1290406073,1,23514e99,7743901">[&quot;509&quot;,&quot;78&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;/n/n/n/n/n/n霜&quot;]</d>
-<d p="141.3,7,18,10040319,1290406092,1,23514e99,7743916">[&quot;509&quot;,&quot;78&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;/n/n/n/n/n/n/n漸&quot;]</d>
-<d p="141.4,7,18,10053375,1290406135,1,23514e99,7743961">[&quot;509&quot;,&quot;78&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;/n/n/n/n/n/n/n/n晰&quot;]</d>
-<d p="142.7,7,18,13421772,1290406280,1,23514e99,7744058">[&quot;490&quot;,&quot;159&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;孤&quot;]</d>
-<d p="142.7,7,18,10066329,1290406303,1,23514e99,7744080">[&quot;490&quot;,&quot;159&quot;,&quot;1.00-1.00&quot;,&quot;4&quot;,&quot;/n臥&quot;]</d>
-<d p="143.1,7,18,6710886,1290406345,1,23514e99,7744120">[&quot;490&quot;,&quot;159&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;/n/n江&quot;]</d>
-<d p="143.1,7,18,3355443,1290406410,1,23514e99,7744158">[&quot;490&quot;,&quot;159&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;/n/n/n舟&quot;]</d>
-<d p="143.7,7,18,16711731,1290406575,1,23514e99,7744286">[&quot;490&quot;,&quot;159&quot;,&quot;0-1&quot;,&quot;2&quot;,&quot;/n/n/n/n夢/n相/n依&quot;]</d>
-<d p="146,7,18,16777215,1290406684,1,23514e99,7744373">[&quot;23&quot;,&quot;103&quot;,&quot;0.4-1&quot;,&quot;0.8&quot;,&quot;意迷離&quot;]</d>
-<d p="146.6,7,18,16711680,1290406718,1,23514e99,7744399">[&quot;23&quot;,&quot;103&quot;,&quot;1-0.4&quot;,&quot;0.8&quot;,&quot;意迷離&quot;]</d>
-<d p="146.1,6,18,16711680,1290406885,1,23514e99,7744482">/n/n/n/n/n/n/n/n                              灯/n                              火/n                              渐/n                              熄</d>
-<d p="148.3,7,18,1,1290407044,1,23514e99,7744563">[&quot;494&quot;,&quot;159&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;██/n██/n██/n██/n██&quot;]</d>
-<d p="148.3,7,18,1,1290407072,1,23514e99,7744572">[&quot;494&quot;,&quot;161&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;██/n██/n██/n██/n██&quot;]</d>
-<d p="147.4,1,18,13421772,1290407387,1,23514e99,7744794">	/n/n/n/n/n/n/n/n                              灯/n                              火/n                              渐/n                              熄</d>
-<d p="148.9,7,18,10053171,1290407630,1,23514e99,7744969">[&quot;502&quot;,&quot;144&quot;,&quot;1.00-1&quot;,&quot;4.50&quot;,&quot;残/n影/n醉/n拥/n泪/n滴&quot;]</d>
-<d p="149.6,7,18,10053222,1290407660,1,23514e99,7744988">[&quot;502&quot;,&quot;144&quot;,&quot;1.00-1&quot;,&quot;4.50&quot;,&quot;残/n影/n醉/n拥/n泪/n滴&quot;]</d>
-<d p="149.9,7,18,10053273,1290407676,1,23514e99,7745000">[&quot;502&quot;,&quot;144&quot;,&quot;1.00-1&quot;,&quot;4.50&quot;,&quot;残/n影/n醉/n拥/n泪/n滴&quot;]</d>
-<d p="149.9,7,18,10040268,1290407684,1,23514e99,7745007">[&quot;502&quot;,&quot;144&quot;,&quot;1.00-1&quot;,&quot;4.50&quot;,&quot;残/n影/n醉/n拥/n泪/n滴&quot;]</d>
-<d p="149.9,7,18,10040217,1290407698,1,23514e99,7745022">[&quot;502&quot;,&quot;144&quot;,&quot;1.00-1&quot;,&quot;4.50&quot;,&quot;残/n影/n醉/n拥/n泪/n滴&quot;]</d>
-<d p="150.6,7,18,10040268,1290407711,1,23514e99,7745033">[&quot;502&quot;,&quot;144&quot;,&quot;1.00-1&quot;,&quot;4.50&quot;,&quot;残/n影/n醉/n拥/n泪/n滴&quot;]</d>
-<d p="150.6,7,18,10040319,1290407720,1,23514e99,7745040">[&quot;502&quot;,&quot;144&quot;,&quot;1.00-1&quot;,&quot;4.50&quot;,&quot;残/n影/n醉/n拥/n泪/n滴&quot;]</d>
-<d p="151,7,18,10053375,1290407727,1,23514e99,7745044">[&quot;502&quot;,&quot;144&quot;,&quot;1.00-1&quot;,&quot;4.50&quot;,&quot;残/n影/n醉/n拥/n泪/n滴&quot;]</d>
-<d p="151.4,7,18,16777215,1290408361,1,23514e99,7745420">[&quot;26&quot;,&quot;54&quot;,&quot;0.4-0.4&quot;,&quot;4.50&quot;,&quot;心中情/n　淚中憶&quot;]</d>
-<d p="151.8,7,18,16711680,1290408480,1,23514e99,7745488">[&quot;26&quot;,&quot;54&quot;,&quot;1-1&quot;,&quot;0.2&quot;,&quot;心&quot;]</d>
-<d p="152.3,7,18,16711680,1290408512,1,23514e99,7745506">[&quot;26&quot;,&quot;54&quot;,&quot;1-1&quot;,&quot;0.2&quot;,&quot;　中&quot;]</d>
-<d p="152.5,7,18,16711680,1290408523,1,23514e99,7745511">[&quot;26&quot;,&quot;54&quot;,&quot;1-1&quot;,&quot;0.2&quot;,&quot;　　情&quot;]</d>
-<d p="153.5,7,18,16711680,1290408551,1,23514e99,7745521">[&quot;26&quot;,&quot;54&quot;,&quot;1-1&quot;,&quot;0.2&quot;,&quot;/n　淚&quot;]</d>
-<d p="153.7,7,18,16711680,1290408575,1,23514e99,7745534">[&quot;26&quot;,&quot;54&quot;,&quot;1-1&quot;,&quot;0.2&quot;,&quot;/n　　中&quot;]</d>
-<d p="154.3,7,18,16711680,1290408617,1,23514e99,7745558">[&quot;26&quot;,&quot;54&quot;,&quot;1-1&quot;,&quot;0.2&quot;,&quot;/n　　　憶&quot;]</d>
-<d p="154.5,7,18,16777215,1290408891,1,23514e99,7745715">[&quot;28&quot;,&quot;100&quot;,&quot;1-1&quot;,&quot;2&quot;,&quot;夢/n中/n人&quot;]</d>
-<d p="156.2,6,18,10040115,1290408961,1,23514e99,7745764">/n/n/n/n/n/n/n/n已消逝遠去/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n</d>
-<d p="156.2,1,18,10053324,1290408997,1,23514e99,7745783">/n/n/n/n/n/n/n/n/n已消逝遠去/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n</d>
-<d p="157.8,7,18,13421772,1290409118,1,23514e99,7745850">[&quot;11&quot;,&quot;114&quot;,&quot;0-1&quot;,&quot;2&quot;,&quot;難/n尋/n覓&quot;]</d>
-<d p="159.1,7,18,13421772,1290409151,1,23514e99,7745870">[&quot;11&quot;,&quot;114&quot;,&quot;1-1&quot;,&quot;3&quot;,&quot;難/n尋/n覓&quot;]</d>
-<d p="159.5,7,18,26265,1290409274,1,23514e99,7745940">[&quot;25&quot;,&quot;99&quot;,&quot;1-0&quot;,&quot;0.9&quot;,&quot;一&quot;]</d>
-<d p="160.1,7,18,26265,1290409292,1,23514e99,7745951">[&quot;52&quot;,&quot;88&quot;,&quot;1-0&quot;,&quot;0.9&quot;,&quot;朝&quot;]</d>
-<d p="160.3,7,18,26265,1290409312,1,23514e99,7745964">[&quot;77&quot;,&quot;101&quot;,&quot;1-0&quot;,&quot;0.9&quot;,&quot;殘&quot;]</d>
-<d p="160.7,7,18,26265,1290409365,1,23514e99,7745986">[&quot;86&quot;,&quot;126&quot;,&quot;1-0&quot;,&quot;0.9&quot;,&quot;夢&quot;]</d>
-<d p="161,7,18,26265,1290409407,1,23514e99,7746009">[&quot;80&quot;,&quot;148&quot;,&quot;1-0&quot;,&quot;0.9&quot;,&quot;空&quot;]</d>
-<d p="161.3,7,18,26265,1290409427,1,23514e99,7746017">[&quot;59&quot;,&quot;148&quot;,&quot;1-0&quot;,&quot;0.9&quot;,&quot;悲&quot;]</d>
-<d p="161.8,7,18,26265,1290409441,1,23514e99,7746027">[&quot;40&quot;,&quot;148&quot;,&quot;1-0&quot;,&quot;0.9&quot;,&quot;喜&quot;]</d>
-<d p="163.3,7,18,16724736,1290409752,1,23514e99,7746144">[&quot;20&quot;,&quot;110&quot;,&quot;0.7-0.7&quot;,&quot;4.50&quot;,&quot;霞/n光/n映/n江/n際&quot;]</d>
-<d p="163.3,7,18,1,1290409859,1,23514e99,7746206">[&quot;20&quot;,&quot;95&quot;,&quot;0-1&quot;,&quot;0.5&quot;,&quot;▁&quot;]</d>
-<d p="163.3,7,18,1,1290409895,1,23514e99,7746233">[&quot;20&quot;,&quot;95&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;▁&quot;]</d>
-<d p="163.3,7,18,1,1290409941,1,23514e99,7746256">[&quot;21&quot;,&quot;99&quot;,&quot;0-1&quot;,&quot;0.5&quot;,&quot;▁&quot;]</d>
-<d p="163.6,7,18,1,1290410003,1,23514e99,7746289">[&quot;21&quot;,&quot;99&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;▁&quot;]</d>
-<d p="163.6,7,18,1,1290410072,1,23514e99,7746332">[&quot;21&quot;,&quot;107&quot;,&quot;0-1&quot;,&quot;0.5&quot;,&quot;▃&quot;]</d>
-<d p="164.1,7,18,1,1290410122,1,23514e99,7746361">[&quot;21&quot;,&quot;107&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;▄&quot;]</d>
-<d p="164.1,7,18,1,1290410175,1,23514e99,7746392">[&quot;21&quot;,&quot;116&quot;,&quot;0-1&quot;,&quot;0.5&quot;,&quot;▅&quot;]</d>
-<d p="164.6,7,18,1,1290410198,1,23514e99,7746406">[&quot;21&quot;,&quot;116&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;▅&quot;]</d>
-<d p="164.6,7,18,1,1290410233,1,23514e99,7746424">[&quot;21&quot;,&quot;126&quot;,&quot;0-1&quot;,&quot;0.5&quot;,&quot;▅&quot;]</d>
-<d p="164.8,7,18,1,1290410294,1,23514e99,7746454">[&quot;21&quot;,&quot;126&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;▅&quot;]</d>
-<d p="164.8,7,18,1,1290410361,1,23514e99,7746477">[&quot;21&quot;,&quot;132&quot;,&quot;0-1&quot;,&quot;0.5&quot;,&quot;▄&quot;]</d>
-<d p="165.2,7,18,1,1290410376,1,23514e99,7746481">[&quot;21&quot;,&quot;132&quot;,&quot;1-1&quot;,&quot;5&quot;,&quot;▅&quot;]</d>
-<d p="165.9,7,18,13421772,1290410443,1,23514e99,7746504">[&quot;21&quot;,&quot;211&quot;,&quot;0.4-0.4&quot;,&quot;2&quot;,&quot;葉露滴&quot;]</d>
-<d p="167.1,7,18,10092492,1290410614,1,23514e99,7746567">[&quot;21&quot;,&quot;231&quot;,&quot;0.5-0.5&quot;,&quot;2&quot;,&quot;夢醒愁容淚濕衣&quot;]</d>
-<d p="167.6,7,18,10079436,1290410680,1,23514e99,7746594">[&quot;21&quot;,&quot;231&quot;,&quot;0.5-0.5&quot;,&quot;2&quot;,&quot;夢醒愁容淚濕衣&quot;]</d>
-<d p="168.3,7,18,10066380,1290410688,1,23514e99,7746597">[&quot;21&quot;,&quot;231&quot;,&quot;0.5-0.5&quot;,&quot;2&quot;,&quot;夢醒愁容淚濕衣&quot;]</d>
-<d p="168.5,7,18,10053324,1290410694,1,23514e99,7746601">[&quot;21&quot;,&quot;231&quot;,&quot;0.5-0.5&quot;,&quot;2&quot;,&quot;夢醒愁容淚濕衣&quot;]</d>
-<d p="169,7,18,10040268,1290410702,1,23514e99,7746607">[&quot;21&quot;,&quot;231&quot;,&quot;0.5-0.5&quot;,&quot;2&quot;,&quot;夢醒愁容淚濕衣&quot;]</d>
-<d p="169.4,7,18,10027212,1290410710,1,23514e99,7746614">[&quot;21&quot;,&quot;231&quot;,&quot;0.5-0.5&quot;,&quot;2&quot;,&quot;夢醒愁容淚濕衣&quot;]</d>
-<d p="169.7,7,18,10027161,1290410728,1,23514e99,7746623">[&quot;21&quot;,&quot;231&quot;,&quot;0.5-0.5&quot;,&quot;2&quot;,&quot;夢醒愁容淚濕衣&quot;]</d>
-<d p="169.8,6,18,13421772,1290410904,1,23514e99,7746694">/n/n/n/n/n/n/n/n/n/n/n/n/n/n止悲泣               /n/n/n/n/n/n/n/n</d>
-<d p="171.8,7,18,16750950,1290411008,1,23514e99,7746741">[&quot;496&quot;,&quot;281&quot;,&quot;0.5-0.8&quot;,&quot;0.5&quot;,&quot;燈/n火/n吹/n熄&quot;]</d>
-<d p="172.3,7,18,16750950,1290411056,1,23514e99,7746756">[&quot;496&quot;,&quot;281&quot;,&quot;0.8-0&quot;,&quot;0.5&quot;,&quot;燈/n火/n吹/n熄&quot;]</d>
-<d p="173.9,7,18,16750950,1290411143,1,23514e99,7746804">[&quot;518&quot;,&quot;239&quot;,&quot;0.8-0&quot;,&quot;0.5&quot;,&quot;殘/n影/n漸/n行/n遠/n去&quot;]</d>
-<d p="173.9,7,18,10066329,1290411162,1,23514e99,7746816">[&quot;518&quot;,&quot;239&quot;,&quot;0.8-0&quot;,&quot;2&quot;,&quot;残影渐行逝去&quot;]</d>
-<d p="173.8,7,18,10066329,1290411191,1,23514e99,7746830">[&quot;518&quot;,&quot;239&quot;,&quot;0.8-0&quot;,&quot;2&quot;,&quot;残/n影/n渐/n行/n逝/n去&quot;]</d>
-<d p="176.4,7,18,13408716,1290411261,1,23514e99,7746882">[&quot;513&quot;,&quot;277&quot;,&quot;0.8-0&quot;,&quot;1.2&quot;,&quot;風&quot;]</d>
-<d p="177.7,7,18,16764108,1290411450,1,23514e99,7746989">[&quot;513&quot;,&quot;277&quot;,&quot;0.8-0&quot;,&quot;1.2&quot;,&quot;水&quot;]</d>
-<d p="179.6,7,18,16764108,1290411506,1,23514e99,7747028">[&quot;513&quot;,&quot;277&quot;,&quot;0.8-0&quot;,&quot;1.2&quot;,&quot;花&quot;]</d>
-<d p="181.4,7,18,16711680,1290411565,1,23514e99,7747064">[&quot;513&quot;,&quot;277&quot;,&quot;0.8-0&quot;,&quot;1.6&quot;,&quot;替/n我/n意/n凋/n零&quot;]</d>
-<d p="182.1,6,18,16751001,1290411723,1,23514e99,7747140">/n/n/n/n/n/n/n/n/n/n/n/n/n/n     不/n     寻/n     觅/n/n/n/n</d>
-<d p="182.4,6,18,16751001,1290411746,1,23514e99,7747154">/n/n/n/n/n/n/n/n/n/n/n/n/n/n    不/n    寻/n    觅/n/n/n/n</d>
-<d p="182.4,6,18,16764057,1290411761,1,23514e99,7747166">/n/n/n/n/n/n/n/n/n/n/n/n/n/n     不/n     寻/n     觅/n/n/n/n</d>
-<d p="182.4,6,18,16777113,1290411784,1,23514e99,7747177">/n/n/n/n/n/n/n/n/n/n/n/n/n/n    不/n    寻/n    觅/n/n/n/n</d>
-<d p="182.4,6,18,16764108,1290411794,1,23514e99,7747184">/n/n/n/n/n/n/n/n/n/n/n/n/n/n     不/n     寻/n     觅/n/n/n/n</d>
-<d p="184.4,7,18,6710886,1290411867,1,23514e99,7747223">[&quot;23&quot;,&quot;192&quot;,&quot;0.8-0&quot;,&quot;3&quot;,&quot;悲/n喜/n哀/n愁/n随/n涟/n漪&quot;]</d>
-<d p="189.1,7,25,10027008,1290411942,1,23514e99,7747269">[&quot;39&quot;,&quot;168&quot;,&quot;1-0&quot;,&quot;0.8&quot;,&quot;不&quot;,&quot;355&quot;,&quot;0&quot;]</d>
-<d p="189.6,7,25,10027008,1290411965,1,23514e99,7747282">[&quot;88&quot;,&quot;161&quot;,&quot;1-0&quot;,&quot;0.8&quot;,&quot;尋&quot;,&quot;5&quot;,&quot;0&quot;]</d>
-<d p="189.9,7,25,10027008,1290412010,1,23514e99,7747307">[&quot;127&quot;,&quot;187&quot;,&quot;1-0&quot;,&quot;0.8&quot;,&quot;覓&quot;,&quot;10&quot;,&quot;0&quot;]</d>
-<d p="190.8,7,18,10066380,1290412204,1,23514e99,7747409">[&quot;60&quot;,&quot;217&quot;,&quot;0.7-0&quot;,&quot;2&quot;,&quot;悲喜哀愁隨漣漪﹏﹏&quot;]</d>
-<d p="194.5,7,18,1,1290412369,1,23514e99,7747486">[&quot;260&quot;,&quot;37&quot;,&quot;0-0.7&quot;,&quot;0.8&quot;,&quot;碎&quot;]</d>
-<d p="195,7,18,1,1290412384,1,23514e99,7747495">[&quot;260&quot;,&quot;37&quot;,&quot;0-0.7&quot;,&quot;0.8&quot;,&quot;/n月&quot;]</d>
-<d p="195.6,7,18,1,1290412397,1,23514e99,7747502">[&quot;260&quot;,&quot;37&quot;,&quot;0-0.7&quot;,&quot;0.8&quot;,&quot;/n/n照&quot;]</d>
-<d p="195.5,7,18,1,1290412438,1,23514e99,7747519">[&quot;260&quot;,&quot;37&quot;,&quot;0-0.7&quot;,&quot;0.6&quot;,&quot;/n/n伴&quot;]</d>
-<d p="195.9,7,18,1,1290412450,1,23514e99,7747526">[&quot;260&quot;,&quot;37&quot;,&quot;0-0.7&quot;,&quot;0.6&quot;,&quot;/n/n/n我&quot;]</d>
-<d p="196.2,7,18,1,1290412462,1,23514e99,7747534">[&quot;260&quot;,&quot;37&quot;,&quot;0-0.7&quot;,&quot;0.6&quot;,&quot;/n/n/n/n心&quot;]</d>
-<d p="197.1,7,18,10027008,1290412635,1,23514e99,7747625">[&quot;218&quot;,&quot;60&quot;,&quot;0-0.7&quot;,&quot;3&quot;,&quot;一朝思緒/n　　　沉江際&quot;]</d>
-<d p="199.8,7,18,10027008,1290412676,1,23514e99,7747648">[&quot;218&quot;,&quot;60&quot;,&quot;0.7-0&quot;,&quot;3&quot;,&quot;一朝思緒/n　　　沉江際&quot;]</d>
-<d p="176.6,1,18,16751103,1290412900,1,23514e99,7747746">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n       扶衣/n/n/n/n/n/n/n</d>
-<d p="178.1,1,18,16764108,1290412936,1,23514e99,7747767">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n       扶堤/n/n/n/n/n/n/n</d>
-<d p="179.8,1,18,16764108,1290412958,1,23514e99,7747774">/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n       扶心/n/n/n/n/n/n/n</d>
-</i>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="676718621" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>["18","333","1.00-1.00","3","写在前面:0v0感谢大家的支持/n字幕其实并不神.只是花了点时间想怎样做才更适合"]</text>
+	<attr id="0" playtime="0" mode="7" fontsize="12" color="13421772"/>
+</comment>
+<comment id="1852427493" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>["20","359","1.00-1.00","3","这是DEMO版 录的时候有各种各样的不足欢迎大家指出/n我和幻次会尽量改正的/n多谢大家的谅解.感激不尽了.m(_ _)m."]</text>
+	<attr id="0" playtime="0" mode="7" fontsize="12" color="13421772"/>
+</comment>
+<comment id="1159573852" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>["16","31","1.00-1.00","3","多谢大家的谅解.感激不尽了.m(_ _)m"]</text>
+	<attr id="0" playtime="0" mode="7" fontsize="16" color="13421772"/>
+</comment>
+<comment id="807415310" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n碎月落乌啼/n/n/n/n</text>
+	<attr id="0" playtime="11.7" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1503776820" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n霜飞逸/n/n/n/n</text>
+	<attr id="0" playtime="13.3" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="2072630974" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n孤坐江畔无人依/n/n/n/n</text>
+	<attr id="0" playtime="14.6" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="22783450" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n眼迷离,灯火亮起,斜影捡起泪滴/n/n/n/n</text>
+	<attr id="0" playtime="17.8" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1037513829" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n风无息,水无漪,花无期,刹那间凋零/n/n/n/n</text>
+	<attr id="0" playtime="24.7" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1401263882" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n欲寻觅,何处无人空叹息/n/n/n/n</text>
+	<attr id="0" playtime="31.3" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="1885671049" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n碎月伴乌啼/n/n/n/n</text>
+	<attr id="0" playtime="35.9" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="263627423" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n霜落地/n/n/n/n</text>
+	<attr id="0" playtime="38.5" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="498425164" poolid="0" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n孤坐江舟何人依/n/n/n/n</text>
+	<attr id="0" playtime="40.3" mode="1" fontsize="18" color="0"/>
+</comment>
+<comment id="802108054" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["202","80","0.6-0.1","0.8","❀","340","0"]</text>
+	<attr id="0" playtime="0" mode="7" fontsize="36" color="13395660"/>
+</comment>
+<comment id="838126063" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["243","126","0.6-0.1","0.8","❀","320","0"]</text>
+	<attr id="0" playtime="0.5" mode="7" fontsize="36" color="13395660"/>
+</comment>
+<comment id="1790862346" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["230","184","0.6-0.1","0.8","❀","300","0"]</text>
+	<attr id="0" playtime="0.7" mode="7" fontsize="36" color="13395660"/>
+</comment>
+<comment id="1212590700" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["248","253","0.6-0.1","0.8","❀","280","0"]</text>
+	<attr id="0" playtime="1.2" mode="7" fontsize="36" color="13395660"/>
+</comment>
+<comment id="1051760372" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["187","122","0.6-0.1","0.8","❀","220","0"]</text>
+	<attr id="0" playtime="0" mode="7" fontsize="36" color="10040319"/>
+</comment>
+<comment id="1289468952" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["185","172","0.6-0.1","0.8","❀","200","0"]</text>
+	<attr id="0" playtime="0.5" mode="7" fontsize="36" color="10040319"/>
+</comment>
+<comment id="985430338" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["204","226","0.6-0.1","0.8","❀","190","0"]</text>
+	<attr id="0" playtime="1.2" mode="7" fontsize="36" color="10040319"/>
+</comment>
+<comment id="11724468" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["203","260","0.6-0.1","0.8","❀","170","0"]</text>
+	<attr id="0" playtime="1.8" mode="7" fontsize="36" color="10040319"/>
+</comment>
+<comment id="362748351" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["222","259","0.6-0.1","0.8","❀","170","0"]</text>
+	<attr id="0" playtime="1.3" mode="7" fontsize="36" color="10040268"/>
+</comment>
+<comment id="1142832872" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["230","117","0.6-0.1","0.8","❀","80","0"]</text>
+	<attr id="0" playtime="0.3" mode="7" fontsize="25" color="16737996"/>
+</comment>
+<comment id="1482862489" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["240","169","0.6-0.1","0.8","❀","90","0"]</text>
+	<attr id="0" playtime="0.7" mode="7" fontsize="25" color="16737996"/>
+</comment>
+<comment id="2065694942" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["199","224","0.6-0.1","0.8","❀","97","0"]</text>
+	<attr id="0" playtime="1.2" mode="7" fontsize="25" color="16737996"/>
+</comment>
+<comment id="17806077" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["229","79","0.6-0.1","0.8","❀","97","0"]</text>
+	<attr id="0" playtime="0.8" mode="7" fontsize="45" color="10053324"/>
+</comment>
+<comment id="707100128" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["216","143","0.6-0.1","0.8","❀","8","0"]</text>
+	<attr id="0" playtime="1.6" mode="7" fontsize="45" color="10053324"/>
+</comment>
+<comment id="174865577" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["192","243","0.6-0.1","0.8","❀","50","20"]</text>
+	<attr id="0" playtime="1.9" mode="7" fontsize="45" color="10053324"/>
+</comment>
+<comment id="712944079" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["181","230","0.6-0.1","0.8","❀","65","40"]</text>
+	<attr id="0" playtime="2.2" mode="7" fontsize="36" color="10053324"/>
+</comment>
+<comment id="1129567358" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["173","220","0.6-0.1","0.8","❀","80","50"]</text>
+	<attr id="0" playtime="2.6" mode="7" fontsize="25" color="10053324"/>
+</comment>
+<comment id="411565255" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["148","220","0.6-0.1","0.8","❀","87","50"]</text>
+	<attr id="0" playtime="3.3" mode="7" fontsize="18" color="10053324"/>
+</comment>
+<comment id="1116056726" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["140","215","0.6-0.1","0.8","❀","89","60"]</text>
+	<attr id="0" playtime="4.2" mode="7" fontsize="16" color="10053324"/>
+</comment>
+<comment id="527040576" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.2-0.6","0.5","少女祈祷中…"]</text>
+	<attr id="0" playtime="0" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="1327589534" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.6-0.2","0.8","少女祈祷中…"]</text>
+	<attr id="0" playtime="0.2" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="987781466" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.2-0.6","0.8","少女祈祷中…"]</text>
+	<attr id="0" playtime="0.8" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="1482055632" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.6-0.2","0.8","少女祈祷中…"]</text>
+	<attr id="0" playtime="1.1" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="1456435746" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.2-0.6","0.8","少女祈祷中…"]</text>
+	<attr id="0" playtime="1.5" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="977783876" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.6-0.2","0.8","少女祈祷中…"]</text>
+	<attr id="0" playtime="2.1" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="850940457" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.2-0.6","0.8","少女祈祷中…"]</text>
+	<attr id="0" playtime="2.8" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="728597266" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.6-0.2","0.8","少女祈祷中…"]</text>
+	<attr id="0" playtime="3.4" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="668859491" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.2-0.6","0.8","少女祈祷中…"]</text>
+	<attr id="0" playtime="4.1" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="316355628" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.6-0.2","0.8","少女祈祷中…"]</text>
+	<attr id="0" playtime="4.8" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="651659559" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.2-0.8","1.5","少女祈祷中…"]</text>
+	<attr id="0" playtime="5.3" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="748268717" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.8-0.8","2","少女祈祷中…"]</text>
+	<attr id="0" playtime="6.5" mode="7" fontsize="18" color="16764159"/>
+</comment>
+<comment id="1208080919" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.8-0.8","2","少女祈祷中…"]</text>
+	<attr id="0" playtime="7.2" mode="7" fontsize="18" color="16751103"/>
+</comment>
+<comment id="492954078" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.8-0.8","2","少女祈祷中…"]</text>
+	<attr id="0" playtime="9" mode="7" fontsize="18" color="16751103"/>
+</comment>
+<comment id="1032820494" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.8-0.8","2","少女祈祷中…"]</text>
+	<attr id="0" playtime="9.6" mode="7" fontsize="18" color="16738047"/>
+</comment>
+<comment id="1248988808" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.8-0.8","5","██████"]</text>
+	<attr id="0" playtime="10.9" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1709832395" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1-1","5","██████"]</text>
+	<attr id="0" playtime="10.9" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1769658827" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1-1","1","            碎"]</text>
+	<attr id="0" playtime="10.9" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1784493160" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1-1","1","            █"]</text>
+	<attr id="0" playtime="11.3" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="2142995490" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1-1","1","          碎月"]</text>
+	<attr id="0" playtime="11.3" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1641483024" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1-1","2","          ██"]</text>
+	<attr id="0" playtime="11.3" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1773157528" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1-1","2","        碎月落"]</text>
+	<attr id="0" playtime="11.7" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="33744128" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","          碎月"]</text>
+	<attr id="0" playtime="11.2" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1903944432" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","          ██"]</text>
+	<attr id="0" playtime="11.2" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1911635145" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","        ███"]</text>
+	<attr id="0" playtime="12.1" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1872730980" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","3","      碎月落乌"]</text>
+	<attr id="0" playtime="12.1" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="2040572408" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","3","      ████"]</text>
+	<attr id="0" playtime="12.3" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="179788623" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","    碎月落乌啼"]</text>
+	<attr id="0" playtime="12.3" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="738550963" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","          碎月"]</text>
+	<attr id="0" playtime="11.3" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="344447453" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","    █████"]</text>
+	<attr id="0" playtime="13" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1286743077" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","1.8","        霜飞逸"]</text>
+	<attr id="0" playtime="13" mode="7" fontsize="18" color="13421823"/>
+</comment>
+<comment id="1929576384" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","1.8","      █████"]</text>
+	<attr id="0" playtime="14.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="407307725" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","5","    孤"]</text>
+	<attr id="0" playtime="14.6" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="600794520" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","5","      坐"]</text>
+	<attr id="0" playtime="15.1" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="423444637" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","5","        江"]</text>
+	<attr id="0" playtime="15.6" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="531545680" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","5","          舟"]</text>
+	<attr id="0" playtime="15.8" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1289764341" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","5","            無"]</text>
+	<attr id="0" playtime="16.5" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="785354926" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","5","              人"]</text>
+	<attr id="0" playtime="16.8" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="2144147943" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","                依"]</text>
+	<attr id="0" playtime="16.7" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1022975685" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","              人"]</text>
+	<attr id="0" playtime="16.4" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1109263691" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","    ████████"]</text>
+	<attr id="0" playtime="17.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="123115283" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n眼迷離/n/n</text>
+	<attr id="0" playtime="17.8" mode="6" fontsize="18" color="13408716"/>
+</comment>
+<comment id="259716379" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0-1.00","2","      燈火亮起"]</text>
+	<attr id="0" playtime="19.4" mode="7" fontsize="18" color="16750899"/>
+</comment>
+<comment id="217553577" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["47","348","1-0","3","斜影撿起淚滴"]</text>
+	<attr id="0" playtime="20.9" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1683573087" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["222","340","1-0","10","      █████████████▎"]</text>
+	<attr id="0" playtime="25.1" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="33690706" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n水無漪/n</text>
+	<attr id="0" playtime="25.6" mode="1" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1001954052" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["0","340","1-1","10","███████████████"]</text>
+	<attr id="0" playtime="26.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="21732748" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["222","340","1-1","10","       █████████████████████"]</text>
+	<attr id="0" playtime="25" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="61387571" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["176","340","1.00-1.00","4.50","風無息"]</text>
+	<attr id="0" playtime="24.7" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1103391091" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["303","340","1.00-1.00","4.50","水無漪"]</text>
+	<attr id="0" playtime="26.7" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="243334637" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["200","340","1.00-1.00","4.50","花無期"]</text>
+	<attr id="0" playtime="27.1" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="767981606" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["200","340","1.00-1.00","4.50","　　　 煞那間凋零"]</text>
+	<attr id="0" playtime="28.3" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="11575210" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["200","340","1.00-1.00","4.50","███"]</text>
+	<attr id="0" playtime="28.3" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="518348965" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["200","340","1.00-0","0.5","花無期"]</text>
+	<attr id="0" playtime="28.3" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="2101542253" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["200","340","1.00-1","10","█████████"]</text>
+	<attr id="0" playtime="30.1" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="8279248" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["350","340","0.2-0.7","2","欲尋覓"]</text>
+	<attr id="0" playtime="30.1" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1374630446" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["380","360","0.2-0.7","4","何處無人空歎息"]</text>
+	<attr id="0" playtime="31.5" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="2080333789" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n風無息/n</text>
+	<attr id="0" playtime="23.8" mode="6" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1873609847" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["233","340","1.00-1.00","4.50","█████"]</text>
+	<attr id="0" playtime="24.8" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="976372002" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["246","340","1.00-1.00","4.50","███"]</text>
+	<attr id="0" playtime="26.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="2136515534" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["180","340","1.00-1.00","4.50","██████"]</text>
+	<attr id="0" playtime="26.5" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1794105151" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["180","340","1.00-1.00","4.50","███████"]</text>
+	<attr id="0" playtime="26.5" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="909255268" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["180","340","1.00-1.00","4.50","█████████"]</text>
+	<attr id="0" playtime="30.9" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1825512230" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["0","340","1.00-1.00","4.50","████████████"]</text>
+	<attr id="0" playtime="26.8" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="656993840" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","　　　　　　　碎"]</text>
+	<attr id="0" playtime="35.4" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1328674427" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","　　　　　　　█"]</text>
+	<attr id="0" playtime="36.1" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="684326465" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","　　　　　　碎月"]</text>
+	<attr id="0" playtime="36.1" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="878053936" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","　　　　　　██"]</text>
+	<attr id="0" playtime="36.4" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1400892396" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","　　　　　碎月伴"]</text>
+	<attr id="0" playtime="36.4" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1227325192" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","　　　　　███"]</text>
+	<attr id="0" playtime="36.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1043055157" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","　　　　碎月伴烏"]</text>
+	<attr id="0" playtime="36.6" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1300010127" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","4.50","　　　　████"]</text>
+	<attr id="0" playtime="37.2" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="305075443" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","2","　　　碎月伴烏啼"]</text>
+	<attr id="0" playtime="37.2" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="789812293" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1.00-1.00","","　　　█████"]</text>
+	<attr id="0" playtime="38.1" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1762300641" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["377","340","1.00-0","0.9","霜","350","0"]</text>
+	<attr id="0" playtime="38.1" mode="7" fontsize="18" color="10066329"/>
+</comment>
+<comment id="502012977" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["413","348","1.00-0","0.9","落","5","0"]</text>
+	<attr id="0" playtime="38.4" mode="7" fontsize="18" color="10066329"/>
+</comment>
+<comment id="1475460812" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["445","369","1.00-0","0.9","地","354","0"]</text>
+	<attr id="0" playtime="39" mode="7" fontsize="18" color="10066329"/>
+</comment>
+<comment id="1355122067" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["20","344","1.00-1.00","9.99","███████████████████████████"]</text>
+	<attr id="0" playtime="88.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1690754875" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["50","344","1.00-1.00","3.0","碎"]</text>
+	<attr id="0" playtime="88.7" mode="7" fontsize="18" color="16764159"/>
+</comment>
+<comment id="85616017" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["70","344","1.00-1.00","3.0","月"]</text>
+	<attr id="0" playtime="89.2" mode="7" fontsize="18" color="16751052"/>
+</comment>
+<comment id="1227234885" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["90","344","1.00-1.00","3.0","落"]</text>
+	<attr id="0" playtime="89.4" mode="7" fontsize="18" color="16737945"/>
+</comment>
+<comment id="727577977" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["110","344","1.00-1.00","3.0","烏"]</text>
+	<attr id="0" playtime="90" mode="7" fontsize="18" color="16724838"/>
+</comment>
+<comment id="902074807" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["130","344","0.6-1.00","3.0","蹄"]</text>
+	<attr id="0" playtime="90.2" mode="7" fontsize="18" color="16711731"/>
+</comment>
+<comment id="1739446446" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["50","380","0.6-0.6","3.0","碎","180","180"]</text>
+	<attr id="0" playtime="88.6" mode="7" fontsize="18" color="16764159"/>
+</comment>
+<comment id="1265670482" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["70","381","0.6-0.6","3.0","月","180","180"]</text>
+	<attr id="0" playtime="89.2" mode="7" fontsize="18" color="16751052"/>
+</comment>
+<comment id="657288123" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["90","381","0.6-0.6","3.0","落","180","180"]</text>
+	<attr id="0" playtime="89.5" mode="7" fontsize="18" color="16737945"/>
+</comment>
+<comment id="1017995414" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["110","381","0.6-0.6","3.0","烏","180","180"]</text>
+	<attr id="0" playtime="89.9" mode="7" fontsize="18" color="16724838"/>
+</comment>
+<comment id="435463460" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["130","381","0.3-0.6","3.0","蹄","180","180"]</text>
+	<attr id="0" playtime="90.3" mode="7" fontsize="18" color="16711731"/>
+</comment>
+<comment id="1886697550" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["148","305","1.00-1.00","4.50","霜","10","0"]</text>
+	<attr id="0" playtime="91.1" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="1494795524" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["176","330","1.00-1.00","3.0","飛","10","0"]</text>
+	<attr id="0" playtime="91.3" mode="7" fontsize="18" color="13369344"/>
+</comment>
+<comment id="412410061" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["178","363","0.6-1.00","3.0","逸","10","0"]</text>
+	<attr id="0" playtime="91.9" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="60841238" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n  孤                              /n  坐  /n  江/n  舟/n  何/n  人/n　依/n</text>
+	<attr id="0" playtime="39.2" mode="6" fontsize="16" color="6710886"/>
+</comment>
+<comment id="2101302591" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n  孤               /n  坐  /n  江/n  舟/n  何/n  人/n　依/n</text>
+	<attr id="0" playtime="39.5" mode="6" fontsize="16" color="10066329"/>
+</comment>
+<comment id="938090489" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n  孤/n  坐  /n  江/n  舟/n  何/n  人/n　依/n</text>
+	<attr id="0" playtime="40" mode="6" fontsize="16" color="13421772"/>
+</comment>
+<comment id="1599307280" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["30","348","1.00-0.2","1.5","伤迷离"]</text>
+	<attr id="0" playtime="42.7" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1629849411" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["30","348","0.8-0.2","0.6","　　　燈火搖曳"]</text>
+	<attr id="0" playtime="44.2" mode="7" fontsize="18" color="16750899"/>
+</comment>
+<comment id="598361743" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["30","348","0.2-0.8","0.6","　　　燈火搖曳"]</text>
+	<attr id="0" playtime="44.7" mode="7" fontsize="18" color="16750899"/>
+</comment>
+<comment id="661813174" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["30","348","0.8-0.2","0.6","　　　燈火搖曳"]</text>
+	<attr id="0" playtime="45" mode="7" fontsize="18" color="16750899"/>
+</comment>
+<comment id="633798332" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["30","348","0.2-0.8","0.6","　　　燈火搖曳"]</text>
+	<attr id="0" playtime="45.8" mode="7" fontsize="18" color="16750899"/>
+</comment>
+<comment id="1688120457" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["170","348","1-0","3","斜影轻抚泪滴"]</text>
+	<attr id="0" playtime="46" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1643643570" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.3-0.3","4","心無喜 情無依 思無期"]</text>
+	<attr id="0" playtime="48.6" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="1687834282" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.8-0.8","4","心"]</text>
+	<attr id="0" playtime="49" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="149674679" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.8-0.8","4","　無"]</text>
+	<attr id="0" playtime="49.4" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="446598791" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.8-0.8","4","　　喜"]</text>
+	<attr id="0" playtime="49.4" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="1565146843" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.8-0.8","4","　　　 情"]</text>
+	<attr id="0" playtime="50" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="159449478" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.8-0.8","4","　　　 　無"]</text>
+	<attr id="0" playtime="50.8" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="924051089" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.8-0.8","4","　　　 　　依"]</text>
+	<attr id="0" playtime="51.1" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="198372843" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["350","364","0.3-0.3","3.0","孤坐江舟無人依"]</text>
+	<attr id="0" playtime="92.8" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="1192067499" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.8-0.8","4","　　　　　　  思"]</text>
+	<attr id="0" playtime="51.9" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="1936380776" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.8-0.8","4","　　　　　　　  無"]</text>
+	<attr id="0" playtime="52.3" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="1222185596" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.8-0.8","4","　　　　　　　　  期"]</text>
+	<attr id="0" playtime="52.3" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="1936347349" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n盼誰的身影/n</text>
+	<attr id="0" playtime="53.3" mode="1" fontsize="18" color="13421772"/>
+</comment>
+<comment id="1945741150" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["258","348","0-1.00","2","何寻觅"]</text>
+	<attr id="0" playtime="55.1" mode="7" fontsize="18" color="13421772"/>
+</comment>
+<comment id="1597840998" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["258","348","0-1.00","1.7","　　　 此處僅留空悲憶"]</text>
+	<attr id="0" playtime="56.9" mode="7" fontsize="18" color="13421772"/>
+</comment>
+<comment id="532174665" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["258","348","1-0","1.7","　　　 此處僅留空悲憶"]</text>
+	<attr id="0" playtime="57.8" mode="7" fontsize="18" color="13421772"/>
+</comment>
+<comment id="1723347192" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["351","364","1.00-0.01","1.0","孤"]</text>
+	<attr id="0" playtime="92.7" mode="7" fontsize="18" color="10027263"/>
+</comment>
+<comment id="1455782257" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["371","364","1.00-0.01","1.0","坐"]</text>
+	<attr id="0" playtime="93.1" mode="7" fontsize="18" color="10027212"/>
+</comment>
+<comment id="309590398" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["390","364","1.00-0.01","1.0","江"]</text>
+	<attr id="0" playtime="93.8" mode="7" fontsize="18" color="10027161"/>
+</comment>
+<comment id="863018834" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["409","364","1.00-0.01","0.8","舟"]</text>
+	<attr id="0" playtime="93.8" mode="7" fontsize="18" color="10027110"/>
+</comment>
+<comment id="1874280817" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["427","364","1.00-0.01","0.8","無"]</text>
+	<attr id="0" playtime="94.5" mode="7" fontsize="18" color="10027059"/>
+</comment>
+<comment id="1999954799" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["352","364","1.00-1.00","9.99","████████████"]</text>
+	<attr id="0" playtime="92.5" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1906107613" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["352","364","0.6-0.6","4.0","孤坐江舟無人依"]</text>
+	<attr id="0" playtime="92.5" mode="7" fontsize="18" color="16751103"/>
+</comment>
+<comment id="1627123005" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["20","344","1.00-1.00","9.99","███████████████████████████████████████████"]</text>
+	<attr id="0" playtime="97.9" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1352996184" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["447","365","1.00-0.1","0.8","人"]</text>
+	<attr id="0" playtime="94.7" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="1336791606" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["467","365","1.00-0.1","3.0","依"]</text>
+	<attr id="0" playtime="95.2" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="874370242" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n▃▃▃/n/n</text>
+	<attr id="0" playtime="95.9" mode="6" fontsize="18" color="16751103"/>
+</comment>
+<comment id="1235630727" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n眼迷離/n/n</text>
+	<attr id="0" playtime="95.9" mode="6" fontsize="18" color="10053375"/>
+</comment>
+<comment id="8965046" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n▃▃▃▃/n/n</text>
+	<attr id="0" playtime="97.1" mode="1" fontsize="18" color="6750207"/>
+</comment>
+<comment id="235229061" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n灯火亮起/n/n</text>
+	<attr id="0" playtime="97.1" mode="1" fontsize="18" color="13311"/>
+</comment>
+<comment id="1708687527" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["340","340","0.1-0.9","0.5","燈火亮起"]</text>
+	<attr id="0" playtime="97.9" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="832780831" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["340","340","0.1-0.9","0.7","燈火亮起"]</text>
+	<attr id="0" playtime="98" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="1592396448" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["30","260","0.1-1.0","3.0","斜","340","0"]</text>
+	<attr id="0" playtime="99.2" mode="7" fontsize="16" color="10092543"/>
+</comment>
+<comment id="589845100" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["65","250","0.1-1.0","3.0","影","2","0"]</text>
+	<attr id="0" playtime="99.2" mode="7" fontsize="16" color="10079487"/>
+</comment>
+<comment id="860476139" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["97","260","0.1-1.0","3.0","撿","15","0"]</text>
+	<attr id="0" playtime="99.2" mode="7" fontsize="16" color="10066431"/>
+</comment>
+<comment id="1374583989" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["112","290","0.1-1.0","3.0","起","5","0"]</text>
+	<attr id="0" playtime="99.2" mode="7" fontsize="16" color="10053375"/>
+</comment>
+<comment id="601120310" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["54","297","0.1-1.0","3.0","██"]</text>
+	<attr id="0" playtime="100.6" mode="7" fontsize="18" color="16738047"/>
+</comment>
+<comment id="903213071" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["54","297","1.0-1.0","3.0","██"]</text>
+	<attr id="0" playtime="100.6" mode="7" fontsize="18" color="16738047"/>
+</comment>
+<comment id="102740463" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["54","297","1.0-1.0","3.0","眼淚"]</text>
+	<attr id="0" playtime="100.6" mode="7" fontsize="18" color="10027110"/>
+</comment>
+<comment id="129879775" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["60","360","1.0-0.1","2.0","風無息,"]</text>
+	<attr id="0" playtime="102" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="2050777824" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["130","360","1.0-0.1","2.0","水無漪,"]</text>
+	<attr id="0" playtime="103.3" mode="7" fontsize="18" color="26367"/>
+</comment>
+<comment id="209493110" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["200","360","1.0-0.1","2.0","花無泣,"]</text>
+	<attr id="0" playtime="104.8" mode="7" fontsize="18" color="65280"/>
+</comment>
+<comment id="878714239" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["270","360","1.0-0.1","2.5","刹那間凋零。"]</text>
+	<attr id="0" playtime="106.5" mode="7" fontsize="18" color="16711833"/>
+</comment>
+<comment id="1802418170" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["340","340","1.0-0.1","3.0","燈火亮起"]</text>
+	<attr id="0" playtime="97.9" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="1718927536" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["0","344","1.0-0.1","3.0","█████████████████████████████"]</text>
+	<attr id="0" playtime="106.9" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="695579837" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["0","344","1.0-1.0","9.99","███████████████████████████████████"]</text>
+	<attr id="0" playtime="106.5" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="567559040" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["268","358","1.0-0.1","2.5","刹那間凋零。"]</text>
+	<attr id="0" playtime="106.5" mode="7" fontsize="18" color="6749952"/>
+</comment>
+<comment id="708967292" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["270","360","1.0-0.1","2.5","刹那間凋零。"]</text>
+	<attr id="0" playtime="106.9" mode="7" fontsize="18" color="16711833"/>
+</comment>
+<comment id="1260489964" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["268","358","1.0-0.1","2.5","刹那間凋零。"]</text>
+	<attr id="0" playtime="106.9" mode="7" fontsize="18" color="16776960"/>
+</comment>
+<comment id="1601382048" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n欲尋覓/n/n</text>
+	<attr id="0" playtime="108.6" mode="6" fontsize="18" color="16751103"/>
+</comment>
+<comment id="1108577929" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>████████████████</text>
+	<attr id="0" playtime="109.9" mode="6" fontsize="18" color="1"/>
+</comment>
+<comment id="1858036963" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>██████████████████████████</text>
+	<attr id="0" playtime="109.9" mode="5" fontsize="18" color="1"/>
+</comment>
+<comment id="531956422" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["230","340","1.00-1.00","2.5","████████████████████"]</text>
+	<attr id="0" playtime="109.9" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1997706428" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["300","340","1.00-0.1","3.0","何處無人空嘆息。"]</text>
+	<attr id="0" playtime="109.9" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="244464655" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["0","340","1.00-1.00","9.99","█████████████████████████████"]</text>
+	<attr id="0" playtime="113.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1758052310" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n 月/n  伴/n   烏/n    蹄/n</text>
+	<attr id="0" playtime="113.6" mode="6" fontsize="18" color="10066431"/>
+</comment>
+<comment id="802074745" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n  月/n    伴/n      烏/n        蹄/n</text>
+	<attr id="0" playtime="113.6" mode="6" fontsize="18" color="10066431"/>
+</comment>
+<comment id="814166589" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n   月/n      伴/n         烏/n            蹄/n</text>
+	<attr id="0" playtime="113.6" mode="6" fontsize="18" color="10066431"/>
+</comment>
+<comment id="925097125" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n  月/n    伴/n      烏/n        蹄/n</text>
+	<attr id="0" playtime="113.6" mode="6" fontsize="18" color="10053375"/>
+</comment>
+<comment id="2007459825" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n碎/n   月/n      伴/n         烏/n            蹄/n</text>
+	<attr id="0" playtime="113.6" mode="6" fontsize="18" color="10040319"/>
+</comment>
+<comment id="724408024" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["104","342","1.00-1.00","3.0","霜落地,"]</text>
+	<attr id="0" playtime="116" mode="7" fontsize="18" color="26367"/>
+</comment>
+<comment id="1792980886" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["104","383","0.5-0.5","3.0","霜落地,","180","180"]</text>
+	<attr id="0" playtime="116" mode="7" fontsize="18" color="39423"/>
+</comment>
+<comment id="1454191126" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["180","350","0.5-0.5","3.0","孤坐江舟無人依"]</text>
+	<attr id="0" playtime="117.3" mode="7" fontsize="18" color="16764159"/>
+</comment>
+<comment id="994318287" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["180","350","1.0-0.5","1.0","孤"]</text>
+	<attr id="0" playtime="117.3" mode="7" fontsize="18" color="65433"/>
+</comment>
+<comment id="1686713223" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["200","350","1.0-0.5","1.0","坐"]</text>
+	<attr id="0" playtime="118" mode="7" fontsize="18" color="65484"/>
+</comment>
+<comment id="1616832461" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["220","350","1.0-0.5","1.0","江"]</text>
+	<attr id="0" playtime="118.5" mode="7" fontsize="18" color="65535"/>
+</comment>
+<comment id="1995409986" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["238","350","1.0-0.5","1.0","舟"]</text>
+	<attr id="0" playtime="118.6" mode="7" fontsize="18" color="52479"/>
+</comment>
+<comment id="1676404937" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["257","350","1.0-0.5","1.0","無"]</text>
+	<attr id="0" playtime="119.5" mode="7" fontsize="18" color="52479"/>
+</comment>
+<comment id="1916180004" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["276","350","1.0-0.5","1.0","人"]</text>
+	<attr id="0" playtime="119.9" mode="7" fontsize="18" color="39423"/>
+</comment>
+<comment id="133623131" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["257","330","1.0-0.5","1.0","何"]</text>
+	<attr id="0" playtime="119.4" mode="7" fontsize="18" color="39423"/>
+</comment>
+<comment id="1907258449" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["258","350","1.0-1.0","2.0","×"]</text>
+	<attr id="0" playtime="119.4" mode="7" fontsize="18" color="0"/>
+</comment>
+<comment id="1949943853" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["277","350","1.0-0.5","1.0","人"]</text>
+	<attr id="0" playtime="119.7" mode="7" fontsize="18" color="39423"/>
+</comment>
+<comment id="3239911" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["295","350","1.0-0.5","1.0","依"]</text>
+	<attr id="0" playtime="119.7" mode="7" fontsize="18" color="26367"/>
+</comment>
+<comment id="62958343" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n傷迷離/n</text>
+	<attr id="0" playtime="120.8" mode="6" fontsize="18" color="10053375"/>
+</comment>
+<comment id="658618637" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>██████████████</text>
+	<attr id="0" playtime="122.4" mode="6" fontsize="18" color="1"/>
+</comment>
+<comment id="701044750" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["278","360","1.00-1.00","4.50","██████████████"]</text>
+	<attr id="0" playtime="122.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1940382137" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["278","360","0.1-0.9","0.7","燈火搖曳,"]</text>
+	<attr id="0" playtime="122.6" mode="7" fontsize="18" color="16776960"/>
+</comment>
+<comment id="2146691240" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["278","360","0.9-0.1","0.7","燈火搖曳,"]</text>
+	<attr id="0" playtime="123.2" mode="7" fontsize="18" color="16776960"/>
+</comment>
+<comment id="879516373" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["278","360","0.9-0.1","0.7","燈火搖曳,"]</text>
+	<attr id="0" playtime="123.5" mode="7" fontsize="18" color="16776960"/>
+</comment>
+<comment id="874327847" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["278","360","0.9-0.1","1.2","燈火搖曳,"]</text>
+	<attr id="0" playtime="123.1" mode="7" fontsize="18" color="16776960"/>
+</comment>
+<comment id="2004396545" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["278","360","0.1-0.5","1.2","燈火搖曳,"]</text>
+	<attr id="0" playtime="123.6" mode="7" fontsize="18" color="16776960"/>
+</comment>
+<comment id="974518220" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["363","360","0.5-1.0","2.5","斜影輕拂淚滴。"]</text>
+	<attr id="0" playtime="124.2" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="1737199409" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["130","325","0.5-1.0","2.5","███"]</text>
+	<attr id="0" playtime="126.8" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="746933853" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["130","325","0.5-1.0","2.5","♡無喜"]</text>
+	<attr id="0" playtime="126.8" mode="7" fontsize="18" color="16751103"/>
+</comment>
+<comment id="746001801" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["180","344","0.5-1.00","2.5","███"]</text>
+	<attr id="0" playtime="128.4" mode="7" fontsize="18" color="10092288"/>
+</comment>
+<comment id="1390655047" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["180","344","0.5-1.00","2.5","情無依"]</text>
+	<attr id="0" playtime="128.4" mode="7" fontsize="18" color="16776960"/>
+</comment>
+<comment id="396634535" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["235","365","0.5-1.00","2.5","███"]</text>
+	<attr id="0" playtime="130.2" mode="7" fontsize="18" color="26367"/>
+</comment>
+<comment id="61096464" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["235","365","0.5-1.00","2.5","思無期"]</text>
+	<attr id="0" playtime="130.2" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1907425597" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡/n</text>
+	<attr id="0" playtime="131.5" mode="1" fontsize="18" color="16738047"/>
+</comment>
+<comment id="998797391" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>██████████████</text>
+	<attr id="0" playtime="131.3" mode="1" fontsize="18" color="1"/>
+</comment>
+<comment id="900923845" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["360","360","1.00-1.00","4.50","████████████"]</text>
+	<attr id="0" playtime="131.5" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1065328460" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["360","360","0.8-0.8","3.0","盼"]</text>
+	<attr id="0" playtime="131.5" mode="7" fontsize="18" color="13421823"/>
+</comment>
+<comment id="514465703" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["380","360","0.8-0.8","3.0","誰"]</text>
+	<attr id="0" playtime="131.8" mode="7" fontsize="18" color="13408767"/>
+</comment>
+<comment id="1239003668" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["400","360","0.8-0.8","3.0","的"]</text>
+	<attr id="0" playtime="131.8" mode="7" fontsize="18" color="13395711"/>
+</comment>
+<comment id="1089423036" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["420","360","0.8-0.8","3.0","身"]</text>
+	<attr id="0" playtime="132.5" mode="7" fontsize="18" color="13382655"/>
+</comment>
+<comment id="1068756654" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["440","360","0.8-0.8","3.0","影"]</text>
+	<attr id="0" playtime="132.5" mode="7" fontsize="18" color="13369599"/>
+</comment>
+<comment id="1742845639" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["440","360","0.8-0.8","3.0","影"]</text>
+	<attr id="0" playtime="132.2" mode="7" fontsize="18" color="13369599"/>
+</comment>
+<comment id="1034635250" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["460","360","0.8-0.8","3.0","。"]</text>
+	<attr id="0" playtime="132.5" mode="7" fontsize="18" color="13369548"/>
+</comment>
+<comment id="448144200" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["0","360","0.8-0.8","3.0","█████"]</text>
+	<attr id="0" playtime="133" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="62613480" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["0","360","0.8-0.8","3.0","███████████████████"]</text>
+	<attr id="0" playtime="133" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="397367729" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["0","360","0.8-0.8","3.0","█████"]</text>
+	<attr id="0" playtime="133" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1012019184" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["38","360","0.8-0.8","3.0","何尋覓"]</text>
+	<attr id="0" playtime="133" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="1643690677" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["430","63","0.8-0.8","4.5","此","350","0"]</text>
+	<attr id="0" playtime="134.4" mode="7" fontsize="18" color="16751103"/>
+</comment>
+<comment id="1187724291" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["433","85","0.7-0.7","4.5","處","350","0"]</text>
+	<attr id="0" playtime="134.4" mode="7" fontsize="18" color="16738047"/>
+</comment>
+<comment id="297304383" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["436","108","0.7-0.7","4.5","僅","350","0"]</text>
+	<attr id="0" playtime="134.4" mode="7" fontsize="18" color="16724991"/>
+</comment>
+<comment id="152464961" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["439","130","0.7-0.7","4.5","留","350","0"]</text>
+	<attr id="0" playtime="134.4" mode="7" fontsize="18" color="16711935"/>
+</comment>
+<comment id="948477831" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["443","153","0.7-0.7","4.5","空","350","0"]</text>
+	<attr id="0" playtime="134.4" mode="7" fontsize="18" color="16711884"/>
+</comment>
+<comment id="1681740385" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["446","178","0.7-0.7","4.5","傷","350","0"]</text>
+	<attr id="0" playtime="134.4" mode="7" fontsize="18" color="16711833"/>
+</comment>
+<comment id="193230323" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["450","200","0.7-0.7","4.5","悲","350","0"]</text>
+	<attr id="0" playtime="134.4" mode="7" fontsize="18" color="16711833"/>
+</comment>
+<comment id="206267833" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["360","360","1.00-1.00","4.50","██████████████"]</text>
+	<attr id="0" playtime="131.5" mode="7" fontsize="25" color="1"/>
+</comment>
+<comment id="922771850" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["360","360","1.00-1.00","3.0","盼"]</text>
+	<attr id="0" playtime="131.5" mode="7" fontsize="18" color="16764159"/>
+</comment>
+<comment id="66532121" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["420","360","1.00-1.00","3.0","身"]</text>
+	<attr id="0" playtime="131.6" mode="7" fontsize="18" color="10040319"/>
+</comment>
+<comment id="1719231088" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.7-0.7","4.50","虽人已逝去"]</text>
+	<attr id="0" playtime="62.3" mode="7" fontsize="18" color="39423"/>
+</comment>
+<comment id="2061082611" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.7-0.7","4.50","虽人已逝去"]</text>
+	<attr id="0" playtime="63" mode="7" fontsize="18" color="26367"/>
+</comment>
+<comment id="1477275650" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.7-0.7","4.50","虽人已逝去"]</text>
+	<attr id="0" playtime="63.6" mode="7" fontsize="18" color="13311"/>
+</comment>
+<comment id="383614970" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.7-0.7","4.50","虽人已逝去"]</text>
+	<attr id="0" playtime="63.9" mode="7" fontsize="18" color="255"/>
+</comment>
+<comment id="1033262428" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["50","320","0.7-0","2","憶/n　難/n　　消"]</text>
+	<attr id="0" playtime="64.2" mode="7" fontsize="18" color="153"/>
+</comment>
+<comment id="553342011" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n夢你我逍遙/n</text>
+	<attr id="0" playtime="65.2" mode="6" fontsize="18" color="16724838"/>
+</comment>
+<comment id="1249891745" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1-1","4","█████"]</text>
+	<attr id="0" playtime="64.1" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1342115487" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["288","360","1-0","0.8","夢你我逍遙"]</text>
+	<attr id="0" playtime="67.2" mode="7" fontsize="18" color="16724838"/>
+</comment>
+<comment id="507706513" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["288","360","1-1","4","█████████████"]</text>
+	<attr id="0" playtime="67.2" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="595126055" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["288","360","1-0","0.8","夢你我逍遙"]</text>
+	<attr id="0" playtime="67.2" mode="7" fontsize="18" color="16737894"/>
+</comment>
+<comment id="1124585966" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>施工中</text>
+	<attr id="0" playtime="84.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2131480038" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","330","1.00-1.00","7","昔日相約江楓橋"]</text>
+	<attr id="0" playtime="67.7" mode="7" fontsize="18" color="13209"/>
+</comment>
+<comment id="1899614998" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","350","0-1.00","1.2","而今"]</text>
+	<attr id="0" playtime="70.4" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="1516665448" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","350","1-1.00","1.2","而今"]</text>
+	<attr id="0" playtime="71" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="1908410367" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","350","1-1.00","0.8","　　陰陽"]</text>
+	<attr id="0" playtime="70.8" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="635014866" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","350","1-1.00","0.8","　　██"]</text>
+	<attr id="0" playtime="71.4" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1262032629" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","350","1-1.00","0.8","　　相隔"]</text>
+	<attr id="0" playtime="71.4" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="1222683142" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["117","372","0-1.00","1.2","奈何橋","180","180"]</text>
+	<attr id="0" playtime="71.4" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="2057452616" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["117","372","1-1.00","1.1","奈何橋","180","180"]</text>
+	<attr id="0" playtime="72.1" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="805834722" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","330","1-1.00","1.1","昔日相約江楓橋"]</text>
+	<attr id="0" playtime="72.2" mode="7" fontsize="18" color="13209"/>
+</comment>
+<comment id="2123204731" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","330","1-1.00","1.1","███████"]</text>
+	<attr id="0" playtime="74.1" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="2144162381" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.7-1.00","2","彼岸花"]</text>
+	<attr id="0" playtime="74.1" mode="7" fontsize="18" color="16711731"/>
+</comment>
+<comment id="1266555422" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","348","0.7-0","2","　　　 千年妖嬈"]</text>
+	<attr id="0" playtime="75" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="63751525" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.7-1","2","誰的前世今朝"]</text>
+	<attr id="0" playtime="76.4" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="1537140009" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.5-1","2","　　　　　　莫"]</text>
+	<attr id="0" playtime="79.8" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1771282713" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1-1","5","　　　　　　█"]</text>
+	<attr id="0" playtime="80.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="383517861" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.5-1","5","　　　　　莫回"]</text>
+	<attr id="0" playtime="80.6" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="1153478759" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","1-1","5","　　　　　██"]</text>
+	<attr id="0" playtime="80.9" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="878929761" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["347","348","0.5-1","1.2","　　　　莫回望"]</text>
+	<attr id="0" playtime="80.9" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="468232568" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["39","331","1-0","0.8","夢"]</text>
+	<attr id="0" playtime="81.7" mode="7" fontsize="18" color="51"/>
+</comment>
+<comment id="2071863951" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["60","350","1-0","0.8","鄉"]</text>
+	<attr id="0" playtime="82" mode="7" fontsize="18" color="102"/>
+</comment>
+<comment id="1070838650" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["98","359","1-0","0.8","再"]</text>
+	<attr id="0" playtime="82.4" mode="7" fontsize="18" color="153"/>
+</comment>
+<comment id="1129564763" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["135","352","1-0","0.8","敘"]</text>
+	<attr id="0" playtime="82.4" mode="7" fontsize="18" color="204"/>
+</comment>
+<comment id="1189051290" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["174","348","0-1","2","情"]</text>
+	<attr id="0" playtime="83.3" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="1494422720" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["174","348","0-1","2","　長"]</text>
+	<attr id="0" playtime="83.7" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="419632389" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["20","319","0-1","1","❀","30","0"]</text>
+	<attr id="0" playtime="73.9" mode="7" fontsize="25" color="10066329"/>
+</comment>
+<comment id="674546438" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["30","319","0-1","1","❀","20","0"]</text>
+	<attr id="0" playtime="74.3" mode="7" fontsize="25" color="13421772"/>
+</comment>
+<comment id="1039679641" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["30","319","0-1","0.5","❀","60","0"]</text>
+	<attr id="0" playtime="73.9" mode="7" fontsize="36" color="6710886"/>
+</comment>
+<comment id="110390047" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["30","319","0.7-0.7","3","❀","60","0"]</text>
+	<attr id="0" playtime="74.1" mode="7" fontsize="36" color="6710886"/>
+</comment>
+<comment id="1983079871" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["50","300","0.0-0.7","2","❀","25","0"]</text>
+	<attr id="0" playtime="74.1" mode="7" fontsize="45" color="3355443"/>
+</comment>
+<comment id="401821165" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["31","335","0.0-0.7","0.8","❀","25","0"]</text>
+	<attr id="0" playtime="74.9" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1797867481" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["31","335","0.7-0.7","1.2","❀","25","0"]</text>
+	<attr id="0" playtime="75.5" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1562919017" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["509","78","1.00-1.00","4.50","碎"]</text>
+	<attr id="0" playtime="138.7" mode="7" fontsize="18" color="10027059"/>
+</comment>
+<comment id="133892923" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["509","78","1.00-1.00","4.50","/n月"]</text>
+	<attr id="0" playtime="139" mode="7" fontsize="18" color="10027059"/>
+</comment>
+<comment id="157760023" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["509","78","1.00-1.00","4.50","/n/n消"]</text>
+	<attr id="0" playtime="139.5" mode="7" fontsize="18" color="10027110"/>
+</comment>
+<comment id="871800923" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["509","78","1.00-1.00","4.50","/n/n/n乌"]</text>
+	<attr id="0" playtime="139.4" mode="7" fontsize="18" color="10027161"/>
+</comment>
+<comment id="1675119426" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["509","78","1.00-1.00","4.50","/n/n/n/n啼"]</text>
+	<attr id="0" playtime="140.3" mode="7" fontsize="18" color="10027212"/>
+</comment>
+<comment id="1967506095" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["509","78","1.00-1.00","4.50","/n/n/n/n/n/n霜"]</text>
+	<attr id="0" playtime="140.9" mode="7" fontsize="18" color="10027263"/>
+</comment>
+<comment id="1124756188" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["509","78","1.00-1.00","4.50","/n/n/n/n/n/n/n漸"]</text>
+	<attr id="0" playtime="141.3" mode="7" fontsize="18" color="10040319"/>
+</comment>
+<comment id="1126007824" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["509","78","1.00-1.00","4.50","/n/n/n/n/n/n/n/n晰"]</text>
+	<attr id="0" playtime="141.4" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="1900405538" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["490","159","1.00-1.00","4.50","孤"]</text>
+	<attr id="0" playtime="142.7" mode="7" fontsize="18" color="13421772"/>
+</comment>
+<comment id="702522403" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["490","159","1.00-1.00","4","/n臥"]</text>
+	<attr id="0" playtime="142.7" mode="7" fontsize="18" color="10066329"/>
+</comment>
+<comment id="2129449557" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["490","159","1.00-1.00","3.5","/n/n江"]</text>
+	<attr id="0" playtime="143.1" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="133517207" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["490","159","1.00-1.00","3.5","/n/n/n舟"]</text>
+	<attr id="0" playtime="143.1" mode="7" fontsize="18" color="3355443"/>
+</comment>
+<comment id="962759119" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["490","159","0-1","2","/n/n/n/n夢/n相/n依"]</text>
+	<attr id="0" playtime="143.7" mode="7" fontsize="18" color="16711731"/>
+</comment>
+<comment id="1991747231" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["23","103","0.4-1","0.8","意迷離"]</text>
+	<attr id="0" playtime="146" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="1465140368" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["23","103","1-0.4","0.8","意迷離"]</text>
+	<attr id="0" playtime="146.6" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1595695912" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n                              灯/n                              火/n                              渐/n                              熄</text>
+	<attr id="0" playtime="146.1" mode="6" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1292553650" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["494","159","1-1","5","██/n██/n██/n██/n██"]</text>
+	<attr id="0" playtime="148.3" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="803302162" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["494","161","1-1","5","██/n██/n██/n██/n██"]</text>
+	<attr id="0" playtime="148.3" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1471112141" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>	/n/n/n/n/n/n/n/n                              灯/n                              火/n                              渐/n                              熄</text>
+	<attr id="0" playtime="147.4" mode="1" fontsize="18" color="13421772"/>
+</comment>
+<comment id="119615446" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["502","144","1.00-1","4.50","残/n影/n醉/n拥/n泪/n滴"]</text>
+	<attr id="0" playtime="148.9" mode="7" fontsize="18" color="10053171"/>
+</comment>
+<comment id="1485955029" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["502","144","1.00-1","4.50","残/n影/n醉/n拥/n泪/n滴"]</text>
+	<attr id="0" playtime="149.6" mode="7" fontsize="18" color="10053222"/>
+</comment>
+<comment id="1688414253" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["502","144","1.00-1","4.50","残/n影/n醉/n拥/n泪/n滴"]</text>
+	<attr id="0" playtime="149.9" mode="7" fontsize="18" color="10053273"/>
+</comment>
+<comment id="1931779876" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["502","144","1.00-1","4.50","残/n影/n醉/n拥/n泪/n滴"]</text>
+	<attr id="0" playtime="149.9" mode="7" fontsize="18" color="10040268"/>
+</comment>
+<comment id="1409940425" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["502","144","1.00-1","4.50","残/n影/n醉/n拥/n泪/n滴"]</text>
+	<attr id="0" playtime="149.9" mode="7" fontsize="18" color="10040217"/>
+</comment>
+<comment id="137321810" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["502","144","1.00-1","4.50","残/n影/n醉/n拥/n泪/n滴"]</text>
+	<attr id="0" playtime="150.6" mode="7" fontsize="18" color="10040268"/>
+</comment>
+<comment id="1730419909" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["502","144","1.00-1","4.50","残/n影/n醉/n拥/n泪/n滴"]</text>
+	<attr id="0" playtime="150.6" mode="7" fontsize="18" color="10040319"/>
+</comment>
+<comment id="1089895470" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["502","144","1.00-1","4.50","残/n影/n醉/n拥/n泪/n滴"]</text>
+	<attr id="0" playtime="151" mode="7" fontsize="18" color="10053375"/>
+</comment>
+<comment id="1469135925" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["26","54","0.4-0.4","4.50","心中情/n　淚中憶"]</text>
+	<attr id="0" playtime="151.4" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="39224639" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["26","54","1-1","0.2","心"]</text>
+	<attr id="0" playtime="151.8" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="506505473" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["26","54","1-1","0.2","　中"]</text>
+	<attr id="0" playtime="152.3" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1360395995" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["26","54","1-1","0.2","　　情"]</text>
+	<attr id="0" playtime="152.5" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1227019752" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["26","54","1-1","0.2","/n　淚"]</text>
+	<attr id="0" playtime="153.5" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="319574155" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["26","54","1-1","0.2","/n　　中"]</text>
+	<attr id="0" playtime="153.7" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1920993924" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["26","54","1-1","0.2","/n　　　憶"]</text>
+	<attr id="0" playtime="154.3" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="289747988" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["28","100","1-1","2","夢/n中/n人"]</text>
+	<attr id="0" playtime="154.5" mode="7" fontsize="18" color="16777215"/>
+</comment>
+<comment id="1080374658" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n已消逝遠去/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="156.2" mode="6" fontsize="18" color="10040115"/>
+</comment>
+<comment id="1965512879" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n已消逝遠去/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="156.2" mode="1" fontsize="18" color="10053324"/>
+</comment>
+<comment id="1832762040" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["11","114","0-1","2","難/n尋/n覓"]</text>
+	<attr id="0" playtime="157.8" mode="7" fontsize="18" color="13421772"/>
+</comment>
+<comment id="904912260" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["11","114","1-1","3","難/n尋/n覓"]</text>
+	<attr id="0" playtime="159.1" mode="7" fontsize="18" color="13421772"/>
+</comment>
+<comment id="270166673" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["25","99","1-0","0.9","一"]</text>
+	<attr id="0" playtime="159.5" mode="7" fontsize="18" color="26265"/>
+</comment>
+<comment id="381069382" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["52","88","1-0","0.9","朝"]</text>
+	<attr id="0" playtime="160.1" mode="7" fontsize="18" color="26265"/>
+</comment>
+<comment id="652694848" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["77","101","1-0","0.9","殘"]</text>
+	<attr id="0" playtime="160.3" mode="7" fontsize="18" color="26265"/>
+</comment>
+<comment id="595244262" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["86","126","1-0","0.9","夢"]</text>
+	<attr id="0" playtime="160.7" mode="7" fontsize="18" color="26265"/>
+</comment>
+<comment id="923072256" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["80","148","1-0","0.9","空"]</text>
+	<attr id="0" playtime="161" mode="7" fontsize="18" color="26265"/>
+</comment>
+<comment id="1614186946" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["59","148","1-0","0.9","悲"]</text>
+	<attr id="0" playtime="161.3" mode="7" fontsize="18" color="26265"/>
+</comment>
+<comment id="640331845" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["40","148","1-0","0.9","喜"]</text>
+	<attr id="0" playtime="161.8" mode="7" fontsize="18" color="26265"/>
+</comment>
+<comment id="2139279438" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["20","110","0.7-0.7","4.50","霞/n光/n映/n江/n際"]</text>
+	<attr id="0" playtime="163.3" mode="7" fontsize="18" color="16724736"/>
+</comment>
+<comment id="1742503567" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["20","95","0-1","0.5","▁"]</text>
+	<attr id="0" playtime="163.3" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1891067810" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["20","95","1-1","5","▁"]</text>
+	<attr id="0" playtime="163.3" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1504257842" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","99","0-1","0.5","▁"]</text>
+	<attr id="0" playtime="163.3" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1171452418" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","99","1-1","5","▁"]</text>
+	<attr id="0" playtime="163.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1029546181" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","107","0-1","0.5","▃"]</text>
+	<attr id="0" playtime="163.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="46638987" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","107","1-1","5","▄"]</text>
+	<attr id="0" playtime="164.1" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="470420876" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","116","0-1","0.5","▅"]</text>
+	<attr id="0" playtime="164.1" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="522670986" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","116","1-1","5","▅"]</text>
+	<attr id="0" playtime="164.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1090977614" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","126","0-1","0.5","▅"]</text>
+	<attr id="0" playtime="164.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1752391048" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","126","1-1","5","▅"]</text>
+	<attr id="0" playtime="164.8" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="939810673" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","132","0-1","0.5","▄"]</text>
+	<attr id="0" playtime="164.8" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1546772998" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","132","1-1","5","▅"]</text>
+	<attr id="0" playtime="165.2" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="2081403864" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","211","0.4-0.4","2","葉露滴"]</text>
+	<attr id="0" playtime="165.9" mode="7" fontsize="18" color="13421772"/>
+</comment>
+<comment id="162388374" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","231","0.5-0.5","2","夢醒愁容淚濕衣"]</text>
+	<attr id="0" playtime="167.1" mode="7" fontsize="18" color="10092492"/>
+</comment>
+<comment id="876876249" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","231","0.5-0.5","2","夢醒愁容淚濕衣"]</text>
+	<attr id="0" playtime="167.6" mode="7" fontsize="18" color="10079436"/>
+</comment>
+<comment id="1383438613" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","231","0.5-0.5","2","夢醒愁容淚濕衣"]</text>
+	<attr id="0" playtime="168.3" mode="7" fontsize="18" color="10066380"/>
+</comment>
+<comment id="1257331238" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","231","0.5-0.5","2","夢醒愁容淚濕衣"]</text>
+	<attr id="0" playtime="168.5" mode="7" fontsize="18" color="10053324"/>
+</comment>
+<comment id="1909614451" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","231","0.5-0.5","2","夢醒愁容淚濕衣"]</text>
+	<attr id="0" playtime="169" mode="7" fontsize="18" color="10040268"/>
+</comment>
+<comment id="1602725204" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","231","0.5-0.5","2","夢醒愁容淚濕衣"]</text>
+	<attr id="0" playtime="169.4" mode="7" fontsize="18" color="10027212"/>
+</comment>
+<comment id="660865927" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["21","231","0.5-0.5","2","夢醒愁容淚濕衣"]</text>
+	<attr id="0" playtime="169.7" mode="7" fontsize="18" color="10027161"/>
+</comment>
+<comment id="1034237837" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n止悲泣               /n/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="169.8" mode="6" fontsize="18" color="13421772"/>
+</comment>
+<comment id="2092149030" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["496","281","0.5-0.8","0.5","燈/n火/n吹/n熄"]</text>
+	<attr id="0" playtime="171.8" mode="7" fontsize="18" color="16750950"/>
+</comment>
+<comment id="856779722" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["496","281","0.8-0","0.5","燈/n火/n吹/n熄"]</text>
+	<attr id="0" playtime="172.3" mode="7" fontsize="18" color="16750950"/>
+</comment>
+<comment id="2006512996" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["518","239","0.8-0","0.5","殘/n影/n漸/n行/n遠/n去"]</text>
+	<attr id="0" playtime="173.9" mode="7" fontsize="18" color="16750950"/>
+</comment>
+<comment id="490505492" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["518","239","0.8-0","2","残影渐行逝去"]</text>
+	<attr id="0" playtime="173.9" mode="7" fontsize="18" color="10066329"/>
+</comment>
+<comment id="2017063778" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["518","239","0.8-0","2","残/n影/n渐/n行/n逝/n去"]</text>
+	<attr id="0" playtime="173.8" mode="7" fontsize="18" color="10066329"/>
+</comment>
+<comment id="749932845" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["513","277","0.8-0","1.2","風"]</text>
+	<attr id="0" playtime="176.4" mode="7" fontsize="18" color="13408716"/>
+</comment>
+<comment id="417306939" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["513","277","0.8-0","1.2","水"]</text>
+	<attr id="0" playtime="177.7" mode="7" fontsize="18" color="16764108"/>
+</comment>
+<comment id="1355595726" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["513","277","0.8-0","1.2","花"]</text>
+	<attr id="0" playtime="179.6" mode="7" fontsize="18" color="16764108"/>
+</comment>
+<comment id="568705802" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["513","277","0.8-0","1.6","替/n我/n意/n凋/n零"]</text>
+	<attr id="0" playtime="181.4" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1766925640" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n     不/n     寻/n     觅/n/n/n/n</text>
+	<attr id="0" playtime="182.1" mode="6" fontsize="18" color="16751001"/>
+</comment>
+<comment id="2070408962" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n    不/n    寻/n    觅/n/n/n/n</text>
+	<attr id="0" playtime="182.4" mode="6" fontsize="18" color="16751001"/>
+</comment>
+<comment id="1192890429" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n     不/n     寻/n     觅/n/n/n/n</text>
+	<attr id="0" playtime="182.4" mode="6" fontsize="18" color="16764057"/>
+</comment>
+<comment id="618876535" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n    不/n    寻/n    觅/n/n/n/n</text>
+	<attr id="0" playtime="182.4" mode="6" fontsize="18" color="16777113"/>
+</comment>
+<comment id="617265200" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n     不/n     寻/n     觅/n/n/n/n</text>
+	<attr id="0" playtime="182.4" mode="6" fontsize="18" color="16764108"/>
+</comment>
+<comment id="1255647641" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["23","192","0.8-0","3","悲/n喜/n哀/n愁/n随/n涟/n漪"]</text>
+	<attr id="0" playtime="184.4" mode="7" fontsize="18" color="6710886"/>
+</comment>
+<comment id="1852577145" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["39","168","1-0","0.8","不","355","0"]</text>
+	<attr id="0" playtime="189.1" mode="7" fontsize="25" color="10027008"/>
+</comment>
+<comment id="1259839883" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["88","161","1-0","0.8","尋","5","0"]</text>
+	<attr id="0" playtime="189.6" mode="7" fontsize="25" color="10027008"/>
+</comment>
+<comment id="1984063619" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["127","187","1-0","0.8","覓","10","0"]</text>
+	<attr id="0" playtime="189.9" mode="7" fontsize="25" color="10027008"/>
+</comment>
+<comment id="984379152" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["60","217","0.7-0","2","悲喜哀愁隨漣漪﹏﹏"]</text>
+	<attr id="0" playtime="190.8" mode="7" fontsize="18" color="10066380"/>
+</comment>
+<comment id="136346375" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["260","37","0-0.7","0.8","碎"]</text>
+	<attr id="0" playtime="194.5" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="692710023" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["260","37","0-0.7","0.8","/n月"]</text>
+	<attr id="0" playtime="195" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1743674042" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["260","37","0-0.7","0.8","/n/n照"]</text>
+	<attr id="0" playtime="195.6" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="1279030776" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["260","37","0-0.7","0.6","/n/n伴"]</text>
+	<attr id="0" playtime="195.5" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="348606067" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["260","37","0-0.7","0.6","/n/n/n我"]</text>
+	<attr id="0" playtime="195.9" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="262264773" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["260","37","0-0.7","0.6","/n/n/n/n心"]</text>
+	<attr id="0" playtime="196.2" mode="7" fontsize="18" color="1"/>
+</comment>
+<comment id="504767529" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["218","60","0-0.7","3","一朝思緒/n　　　沉江際"]</text>
+	<attr id="0" playtime="197.1" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="754935893" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>["218","60","0.7-0","3","一朝思緒/n　　　沉江際"]</text>
+	<attr id="0" playtime="199.8" mode="7" fontsize="18" color="10027008"/>
+</comment>
+<comment id="717617332" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n       扶衣/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="176.6" mode="1" fontsize="18" color="16751103"/>
+</comment>
+<comment id="610848066" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n       扶堤/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="178.1" mode="1" fontsize="18" color="16764108"/>
+</comment>
+<comment id="1925732550" poolid="1" userhash="deadbeef" sendtime="1321632699">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n       扶心/n/n/n/n/n/n/n</text>
+	<attr id="0" playtime="179.8" mode="1" fontsize="18" color="16764108"/>
+</comment>
+</comments>

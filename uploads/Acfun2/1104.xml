@@ -1,660 +1,529 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>1.7</playTime>
-    <message fontsize="25" color="16776960" mode="4">でも そんなんじゃ だーめ</message>
-    <times>2010-01-27 12:55:16</times>
-  </data>
-  <data>
-    <playTime>3.8</playTime>
-    <message fontsize="15" color="16776960" mode="4">もう そんなんじゃ ほーら</message>
-    <times>2010-01-27 12:55:33</times>
-  </data>
-  <data>
-    <playTime>5.3</playTime>
-    <message fontsize="15" color="16776960" mode="4">心は進化するよ もーっと もーっと</message>
-    <times>2010-01-27 12:55:46</times>
-  </data>
-  <data>
-    <playTime>25.7</playTime>
-    <message fontsize="15" color="16776960" mode="4">言葉にすれば </message>
-    <times>2010-01-27 12:56:08</times>
-  </data>
-  <data>
-    <playTime>25.7</playTime>
-    <message fontsize="15" color="16776960" mode="4">消えちゃう関係 なら</message>
-    <times>2010-01-27 12:56:18</times>
-  </data>
-  <data>
-    <playTime>27.7</playTime>
-    <message fontsize="15" color="16776960" mode="4">言葉を消せばいいやって</message>
-    <times>2010-01-27 12:56:33</times>
-  </data>
-  <data>
-    <playTime>30</playTime>
-    <message fontsize="15" color="16776960" mode="4">思ってた？ 恐れてた？</message>
-    <times>2010-01-27 12:56:45</times>
-  </data>
-  <data>
-    <playTime>31.6</playTime>
-    <message fontsize="15" color="16776960" mode="4">だけど あれ？ なんか 違うかも</message>
-    <times>2010-01-27 12:58:19</times>
-  </data>
-  <data>
-    <playTime>33.8</playTime>
-    <message fontsize="15" color="16776960" mode="4">千里の道も一歩から</message>
-    <times>2010-01-27 12:58:32</times>
-  </data>
-  <data>
-    <playTime>35.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">石のように固いそんな意志で</message>
-    <times>2010-01-27 12:58:41</times>
-  </data>
-  <data>
-    <playTime>37.6</playTime>
-    <message fontsize="15" color="16776960" mode="4">塵も積もれば やまとなでしこ？</message>
-    <times>2010-01-27 12:58:55</times>
-  </data>
-  <data>
-    <playTime>39.8</playTime>
-    <message fontsize="15" color="16776960" mode="4">じーぬきで いや 死ぬきで</message>
-    <times>2010-01-27 12:59:07</times>
-  </data>
-  <data>
-    <playTime>42.3</playTime>
-    <message fontsize="15" color="16776960" mode="4">ふわふわり ふわふわる</message>
-    <times>2010-01-27 12:59:19</times>
-  </data>
-  <data>
-    <playTime>44.8</playTime>
-    <message fontsize="15" color="16776960" mode="4">あなたが 名前を呼ぶ</message>
-    <times>2010-01-27 12:59:43</times>
-  </data>
-  <data>
-    <playTime>44.8</playTime>
-    <message fontsize="15" color="16776960" mode="4">それだけで宙へ浮かぶ</message>
-    <times>2010-01-27 12:59:50</times>
-  </data>
-  <data>
-    <playTime>49.2</playTime>
-    <message fontsize="15" color="16776960" mode="4">ふわふわる ふわふわり </message>
-    <times>2010-01-27 13:00:03</times>
-  </data>
-  <data>
-    <playTime>52.6</playTime>
-    <message fontsize="15" color="16776960" mode="4">あなたが笑っている それだけで笑顔になる</message>
-    <times>2010-01-27 13:00:17</times>
-  </data>
-  <data>
-    <playTime>57.2</playTime>
-    <message fontsize="15" color="16776960" mode="4">神様 ありがとう </message>
-    <times>2010-01-27 13:00:36</times>
-  </data>
-  <data>
-    <playTime>61.3</playTime>
-    <message fontsize="15" color="16776960" mode="4">運命の悪戯でも</message>
-    <times>2010-01-27 13:00:52</times>
-  </data>
-  <data>
-    <playTime>65.9</playTime>
-    <message fontsize="15" color="16776960" mode="4">めぐり合えたことが</message>
-    <times>2010-01-27 13:01:06</times>
-  </data>
-  <data>
-    <playTime>69.6</playTime>
-    <message fontsize="15" color="16776960" mode="4"> 幸せなの</message>
-    <times>2010-01-27 13:01:15</times>
-  </data>
-  <data>
-    <playTime>73.2</playTime>
-    <message fontsize="15" color="16776960" mode="4">でも そんなんじゃ だーめ</message>
-    <times>2010-01-27 13:01:26</times>
-  </data>
-  <data>
-    <playTime>75.1</playTime>
-    <message fontsize="15" color="16776960" mode="4">もう そんなんじゃ ほーら</message>
-    <times>2010-01-27 13:01:36</times>
-  </data>
-  <data>
-    <playTime>77.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">心は進化するよ もーっと もーっと</message>
-    <times>2010-01-27 13:01:49</times>
-  </data>
-  <data>
-    <playTime>81.7</playTime>
-    <message fontsize="15" color="16776960" mode="4">そう そんなんじゃ いやーだ</message>
-    <times>2010-01-27 13:02:04</times>
-  </data>
-  <data>
-    <playTime>83.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">ねぇ そんなんじゃ まーだ</message>
-    <times>2010-01-27 13:02:12</times>
-  </data>
-  <data>
-    <playTime>85.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">わたしのこと見ていて ずーっと ずーっと</message>
-    <times>2010-01-27 13:02:21</times>
-  </data>
-  <data>
-    <playTime>106</playTime>
-    <message fontsize="15" color="16776960" mode="4">私の中の あなたほど</message>
-    <times>2010-01-27 13:03:02</times>
-  </data>
-  <data>
-    <playTime>107.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">あなたの中の私の存在は まだまだ 大きく</message>
-    <times>2010-01-27 13:04:33</times>
-  </data>
-  <data>
-    <playTime>112</playTime>
-    <message fontsize="15" color="16776960" mode="4">ないこともわかってるけれど</message>
-    <times>2010-01-27 13:04:52</times>
-  </data>
-  <data>
-    <playTime>113.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">今このおなじ瞬間 共有してる実感</message>
-    <times>2010-01-27 13:05:02</times>
-  </data>
-  <data>
-    <playTime>117.6</playTime>
-    <message fontsize="15" color="16776960" mode="4">ちりも積もればやまとなでしこ</message>
-    <times>2010-01-27 13:05:32</times>
-  </data>
-  <data>
-    <playTime>121.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">くらくらり くらくらる </message>
-    <times>2010-01-27 13:05:59</times>
-  </data>
-  <data>
-    <playTime>124.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">あなたを 見上げたら </message>
-    <times>2010-01-27 13:06:10</times>
-  </data>
-  <data>
-    <playTime>126.6</playTime>
-    <message fontsize="15" color="16776960" mode="4">それだけで 眩しすぎて</message>
-    <times>2010-01-27 13:06:22</times>
-  </data>
-  <data>
-    <playTime>129.7</playTime>
-    <message fontsize="15" color="16776960" mode="4">くらくらる くらくらり </message>
-    <times>2010-01-27 13:06:34</times>
-  </data>
-  <data>
-    <playTime>132.7</playTime>
-    <message fontsize="15" color="16776960" mode="4">あなたを 思っている </message>
-    <times>2010-01-27 13:06:45</times>
-  </data>
-  <data>
-    <playTime>134.4</playTime>
-    <message fontsize="15" color="16776960" mode="4">それだけで 溶けてしまう</message>
-    <times>2010-01-27 13:06:58</times>
-  </data>
-  <data>
-    <playTime>137.6</playTime>
-    <message fontsize="15" color="16776960" mode="4">神様 ありがとう 運命の悪戯でも</message>
-    <times>2010-01-27 13:07:09</times>
-  </data>
-  <data>
-    <playTime>145</playTime>
-    <message fontsize="15" color="16776960" mode="4">めぐり合えた </message>
-    <times>2010-01-27 13:07:24</times>
-  </data>
-  <data>
-    <playTime>149.2</playTime>
-    <message fontsize="15" color="16776960" mode="4">事が幸せなの</message>
-    <times>2010-01-27 13:07:37</times>
-  </data>
-  <data>
-    <playTime>154.8</playTime>
-    <message fontsize="15" color="16776960" mode="4">恋する季節は 欲張りサーキュレーション</message>
-    <times>2010-01-27 13:07:52</times>
-  </data>
-  <data>
-    <playTime>162.3</playTime>
-    <message fontsize="15" color="16776960" mode="4">恋する気持ちは 欲張りサーキュレーション</message>
-    <times>2010-01-27 13:08:07</times>
-  </data>
-  <data>
-    <playTime>170.9</playTime>
-    <message fontsize="15" color="16776960" mode="4">恋する瞳は 欲張りサーキュレーション</message>
-    <times>2010-01-27 13:08:15</times>
-  </data>
-  <data>
-    <playTime>178.4</playTime>
-    <message fontsize="15" color="16776960" mode="4">恋する乙女は 欲張りサーキュレーション</message>
-    <times>2010-01-27 13:08:23</times>
-  </data>
-  <data>
-    <playTime>188.1</playTime>
-    <message fontsize="15" color="16776960" mode="4">ふわふわり ふわふわる</message>
-    <times>2010-01-27 13:08:37</times>
-  </data>
-  <data>
-    <playTime>190.4</playTime>
-    <message fontsize="15" color="16776960" mode="4"> あなたが 名前を呼ぶ</message>
-    <times>2010-01-27 13:08:46</times>
-  </data>
-  <data>
-    <playTime>192.4</playTime>
-    <message fontsize="15" color="16776960" mode="4">それだけで宙へ浮かぶ</message>
-    <times>2010-01-27 13:08:55</times>
-  </data>
-  <data>
-    <playTime>195.1</playTime>
-    <message fontsize="15" color="16776960" mode="4">ふわふわる ふわふわり </message>
-    <times>2010-01-27 13:09:07</times>
-  </data>
-  <data>
-    <playTime>198.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">あなたが笑っている </message>
-    <times>2010-01-27 13:09:17</times>
-  </data>
-  <data>
-    <playTime>200.9</playTime>
-    <message fontsize="15" color="16776960" mode="4">それだけで笑顔になる</message>
-    <times>2010-01-27 13:09:28</times>
-  </data>
-  <data>
-    <playTime>203.1</playTime>
-    <message fontsize="15" color="16776960" mode="4">神様 ありがとう </message>
-    <times>2010-01-27 13:09:38</times>
-  </data>
-  <data>
-    <playTime>207.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">運命の悪戯でも</message>
-    <times>2010-01-27 13:09:45</times>
-  </data>
-  <data>
-    <playTime>211.3</playTime>
-    <message fontsize="15" color="16776960" mode="4">めぐり合えたことが</message>
-    <times>2010-01-27 13:09:58</times>
-  </data>
-  <data>
-    <playTime>215.1</playTime>
-    <message fontsize="15" color="16776960" mode="4">幸せなの</message>
-    <times>2010-01-27 13:10:08</times>
-  </data>
-  <data>
-    <playTime>219.3</playTime>
-    <message fontsize="15" color="16776960" mode="4">でも そんなんじゃ だーめ</message>
-    <times>2010-01-27 13:10:24</times>
-  </data>
-  <data>
-    <playTime>235.5</playTime>
-    <message fontsize="15" color="16776960" mode="4">でも そんなんじゃ だーめ！</message>
-    <times>2010-01-27 13:11:05</times>
-  </data>
-  <data>
-    <playTime>237.6</playTime>
-    <message fontsize="15" color="16776960" mode="4">もう そんなんじゃ ほーら</message>
-    <times>2010-01-27 13:11:15</times>
-  </data>
-  <data>
-    <playTime>239.3</playTime>
-    <message fontsize="15" color="16776960" mode="4">心は進化するよ もーっと もーっと</message>
-    <times>2010-01-27 13:11:27</times>
-  </data>
-  <data>
-    <playTime>243.3</playTime>
-    <message fontsize="15" color="16776960" mode="4">そう そんなんじゃ いやーだ</message>
-    <times>2010-01-27 13:11:38</times>
-  </data>
-  <data>
-    <playTime>245.3</playTime>
-    <message fontsize="15" color="16776960" mode="4">ねぇ そんなんじゃ まーだ</message>
-    <times>2010-01-27 13:11:47</times>
-  </data>
-  <data>
-    <playTime>247.2</playTime>
-    <message fontsize="15" color="16776960" mode="4">わたしのこと見ていて ずーっと ずーっと</message>
-    <times>2010-01-27 13:11:55</times>
-  </data>
-  <data>
-    <playTime>1</playTime>
-    <message fontsize="25" color="16777215" mode="4">〖预备..〗.</message>
-    <times>2010-01-27 13:13:39</times>
-  </data>
-  <data>
-    <playTime>1.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">〖但是那样 不--行〗</message>
-    <times>2010-01-27 13:14:08</times>
-  </data>
-  <data>
-    <playTime>3.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">〖那样已经不行 你--瞧〗</message>
-    <times>2010-01-27 13:14:32</times>
-  </data>
-  <data>
-    <playTime>5.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">〖心会进化的 更--加 更--加〗</message>
-    <times>2010-01-27 13:14:50</times>
-  </data>
-  <data>
-    <playTime>25.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">〖对 那样的话 我不要〗</message>
-    <times>2010-01-27 13:15:18</times>
-  </data>
-  <data>
-    <playTime>208</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-27 13:17:32</times>
-  </data>
-  <data>
-    <playTime>217.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-27 13:17:41</times>
-  </data>
-  <data>
-    <playTime>72</playTime>
-    <message fontsize="25" color="16777215" mode="1">能听见这样的声音我就很幸福了</message>
-    <times>2010-01-27 13:43:40</times>
-  </data>
-  <data>
-    <playTime>53.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">只要看著你的笑臉就能讓我開心</message>
-    <times>2010-01-27 14:15:50</times>
-  </data>
-  <data>
-    <playTime>70.2</playTime>
-    <message fontsize="15" color="16764057" mode="4">就是幸福的感覺</message>
-    <times>2010-01-27 14:18:20</times>
-  </data>
-  <data>
-    <playTime>73.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">但是 這樣是不可的喲~</message>
-    <times>2010-01-27 14:18:41</times>
-  </data>
-  <data>
-    <playTime>76.3</playTime>
-    <message fontsize="15" color="16764057" mode="4">真是的 你看是這樣喲~</message>
-    <times>2010-01-27 14:20:00</times>
-  </data>
-  <data>
-    <playTime>190.7</playTime>
-    <message fontsize="15" color="16764057" mode="4">仅仅是说出你的名字</message>
-    <times>2010-01-27 14:29:40</times>
-  </data>
-  <data>
-    <playTime>192.7</playTime>
-    <message fontsize="15" color="16764057" mode="4">心就好像飞上了宇宙</message>
-    <times>2010-01-27 14:29:59</times>
-  </data>
-  <data>
-    <playTime>196.3</playTime>
-    <message fontsize="15" color="16764057" mode="4">软软的~软软的~</message>
-    <times>2010-01-27 14:30:21</times>
-  </data>
-  <data>
-    <playTime>198.9</playTime>
-    <message fontsize="15" color="16764057" mode="4">仅仅是你的笑容</message>
-    <times>2010-01-27 14:30:57</times>
-  </data>
-  <data>
-    <playTime>201.3</playTime>
-    <message fontsize="15" color="16764057" mode="4">就能让我变得开心</message>
-    <times>2010-01-27 14:32:24</times>
-  </data>
-  <data>
-    <playTime>204.7</playTime>
-    <message fontsize="15" color="16764057" mode="4">神啊感谢你</message>
-    <times>2010-01-27 14:32:36</times>
-  </data>
-  <data>
-    <playTime>208</playTime>
-    <message fontsize="15" color="16764057" mode="4">即使是命运的捉弄</message>
-    <times>2010-01-27 14:32:50</times>
-  </data>
-  <data>
-    <playTime>212.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">仅仅是相遇</message>
-    <times>2010-01-27 14:33:07</times>
-  </data>
-  <data>
-    <playTime>215.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">就是幸福的事情</message>
-    <times>2010-01-27 14:33:20</times>
-  </data>
-  <data>
-    <playTime>219.6</playTime>
-    <message fontsize="15" color="16764057" mode="4">但是 这样是不行的哟~</message>
-    <times>2010-01-27 14:33:40</times>
-  </data>
-  <data>
-    <playTime>158.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">老天赐我一只这样的软妹吧</message>
-    <times>2010-01-27 14:23:36</times>
-  </data>
-  <data>
-    <playTime>235.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">但是 这样是不行的哟~</message>
-    <times>2010-01-27 14:35:02</times>
-  </data>
-  <data>
-    <playTime>237.9</playTime>
-    <message fontsize="15" color="16764057" mode="4">真是的 是这样的哟~</message>
-    <times>2010-01-27 14:35:31</times>
-  </data>
-  <data>
-    <playTime>239.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">心在不断地进化 更~多 更~多</message>
-    <times>2010-01-27 14:36:07</times>
-  </data>
-  <data>
-    <playTime>243.7</playTime>
-    <message fontsize="15" color="16764057" mode="4">是哟~ 那样的不要~</message>
-    <times>2010-01-27 14:37:14</times>
-  </data>
-  <data>
-    <playTime>245.6</playTime>
-    <message fontsize="15" color="16764057" mode="4">唔~ 那样还不够~</message>
-    <times>2010-01-27 14:39:08</times>
-  </data>
-  <data>
-    <playTime>248</playTime>
-    <message fontsize="15" color="16764057" mode="4">要看着我 永远~ 永远~</message>
-    <times>2010-01-27 14:39:57</times>
-  </data>
-  <data>
-    <playTime>25.9</playTime>
-    <message fontsize="15" color="16764057" mode="4">如果能用语言能捅破这层关系的话</message>
-    <times>2010-01-27 14:42:40</times>
-  </data>
-  <data>
-    <playTime>28.7</playTime>
-    <message fontsize="15" color="16764057" mode="4">就让言语消失吧</message>
-    <times>2010-01-27 14:43:43</times>
-  </data>
-  <data>
-    <playTime>30.4</playTime>
-    <message fontsize="15" color="16764057" mode="4">是这样想的吗？ 感到害怕吗？</message>
-    <times>2010-01-27 14:44:09</times>
-  </data>
-  <data>
-    <playTime>32.4</playTime>
-    <message fontsize="15" color="16764057" mode="4">但是 奇怪？ 也许还搞错了什么</message>
-    <times>2010-01-27 14:44:45</times>
-  </data>
-  <data>
-    <playTime>33.9</playTime>
-    <message fontsize="15" color="16764057" mode="4">千里长的道路也是从第一步开始的</message>
-    <times>2010-01-27 14:45:40</times>
-  </data>
-  <data>
-    <playTime>35.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">用石头一样的坚硬的意志</message>
-    <times>2010-01-27 14:47:14</times>
-  </data>
-  <data>
-    <playTime>43.7</playTime>
-    <message fontsize="15" color="16764057" mode="4">软软的~ 软软的~</message>
-    <times>2010-01-27 14:51:40</times>
-  </data>
-  <data>
-    <playTime>45.3</playTime>
-    <message fontsize="15" color="16764057" mode="4">仅仅是说出你的名字我就好像飞上了宇宙</message>
-    <times>2010-01-27 14:52:09</times>
-  </data>
-  <data>
-    <playTime>50.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">软软的~ 软软的~</message>
-    <times>2010-01-27 14:52:21</times>
-  </data>
-  <data>
-    <playTime>53.6</playTime>
-    <message fontsize="15" color="16764057" mode="4">仅仅是你的笑容就能让我变得开心</message>
-    <times>2010-01-27 14:52:48</times>
-  </data>
-  <data>
-    <playTime>77.6</playTime>
-    <message fontsize="15" color="16764057" mode="4">心在不断地进化 更~多 更~多</message>
-    <times>2010-01-27 14:55:26</times>
-  </data>
-  <data>
-    <playTime>82.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">是哟~ 那样的不要~</message>
-    <times>2010-01-27 14:56:56</times>
-  </data>
-  <data>
-    <playTime>83.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">唔~ 那样还不够~</message>
-    <times>2010-01-27 14:57:04</times>
-  </data>
-  <data>
-    <playTime>86</playTime>
-    <message fontsize="15" color="16764057" mode="4">要看着我 永远~ 永远~</message>
-    <times>2010-01-27 14:58:06</times>
-  </data>
-  <data>
-    <playTime>106.3</playTime>
-    <message fontsize="15" color="16764057" mode="4">我心中你占得位置很大</message>
-    <times>2010-01-27 15:01:58</times>
-  </data>
-  <data>
-    <playTime>108.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">比起来你心中我的存在 还远远不够大</message>
-    <times>2010-01-27 15:02:47</times>
-  </data>
-  <data>
-    <playTime>112.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">这样的事我是知道的但是</message>
-    <times>2010-01-27 15:03:10</times>
-  </data>
-  <data>
-    <playTime>113.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">现在这同一瞬间 拥有一样的实感</message>
-    <times>2010-01-27 15:04:09</times>
-  </data>
-  <data>
-    <playTime>122.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">转呀转~ 转呀转~</message>
-    <times>2010-01-27 15:07:31</times>
-  </data>
-  <data>
-    <playTime>125.2</playTime>
-    <message fontsize="15" color="16764057" mode="4">仅仅是向上仰视你</message>
-    <times>2010-01-27 15:08:09</times>
-  </data>
-  <data>
-    <playTime>127.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">就会觉得太过耀眼</message>
-    <times>2010-01-27 15:08:32</times>
-  </data>
-  <data>
-    <playTime>129.9</playTime>
-    <message fontsize="15" color="16764057" mode="4">转呀转~ 转呀转~</message>
-    <times>2010-01-27 15:09:20</times>
-  </data>
-  <data>
-    <playTime>133.3</playTime>
-    <message fontsize="15" color="16764057" mode="4">仅仅是想着你</message>
-    <times>2010-01-27 15:09:33</times>
-  </data>
-  <data>
-    <playTime>135.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">感觉就像要溶化掉了</message>
-    <times>2010-01-27 15:09:57</times>
-  </data>
-  <data>
-    <playTime>138.3</playTime>
-    <message fontsize="15" color="16764057" mode="4">神啊感谢你 即使是命运的捉弄</message>
-    <times>2010-01-27 15:10:17</times>
-  </data>
-  <data>
-    <playTime>146.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">仅仅是相遇</message>
-    <times>2010-01-27 15:10:36</times>
-  </data>
-  <data>
-    <playTime>150</playTime>
-    <message fontsize="15" color="16764057" mode="4">就是幸福的事情</message>
-    <times>2010-01-27 15:10:54</times>
-  </data>
-  <data>
-    <playTime>66.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">仅仅是与你相遇</message>
-    <times>2010-01-27 15:55:08</times>
-  </data>
-  <data>
-    <playTime>69.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">就是幸福的事情</message>
-    <times>2010-01-27 15:55:18</times>
-  </data>
-  <data>
-    <playTime>141.8</playTime>
-    <message fontsize="15" color="16776960" mode="4">運命の悪戯でも</message>
-    <times>2010-01-27 15:57:16</times>
-  </data>
-  <data>
-    <playTime>141.8</playTime>
-    <message fontsize="15" color="16776960" mode="4">即使是命运的捉弄</message>
-    <times>2010-01-27 15:57:32</times>
-  </data>
-  <data>
-    <playTime>155.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">恋爱的季节是 贪·得·无·厌·一·直·下·去</message>
-    <times>2010-01-27 15:58:21</times>
-  </data>
-  <data>
-    <playTime>163.3</playTime>
-    <message fontsize="15" color="16764057" mode="4">恋爱的心情贪·得·无·厌·一·直·下·去</message>
-    <times>2010-01-27 15:58:29</times>
-  </data>
-  <data>
-    <playTime>171.4</playTime>
-    <message fontsize="15" color="16764057" mode="4">恋爱的眼睛贪·得·无·厌·一·直·下·去</message>
-    <times>2010-01-27 15:58:50</times>
-  </data>
-  <data>
-    <playTime>179.8</playTime>
-    <message fontsize="15" color="16764057" mode="4">恋爱的少女贪·得·无·厌·一·直·下·去</message>
-    <times>2010-01-27 15:59:09</times>
-  </data>
-  <data>
-    <playTime>38.2</playTime>
-    <message fontsize="15" color="16764057" mode="4">如果起尘灰的话是大和抚子？</message>
-    <times>2010-01-27 16:05:59</times>
-  </data>
-  <data>
-    <playTime>40.1</playTime>
-    <message fontsize="15" color="16764057" mode="4">把し和ぬ去掉 不对 死掉消失好了~</message>
-    <times>2010-01-27 16:07:33</times>
-  </data>
-  <data>
-    <playTime>119.6</playTime>
-    <message fontsize="15" color="16776960" mode="4">略してちにつやまたなてこ</message>
-    <times>2010-01-27 16:11:17</times>
-  </data>
-  <data>
-    <playTime>118.4</playTime>
-    <message fontsize="15" color="16776960" mode="4">如果把ちり加起来的大和抚子</message>
-    <times>2010-01-27 16:12:34</times>
-  </data>
-  <data>
-    <playTime>120.3</playTime>
-    <message fontsize="15" color="16764057" mode="4">略去就是千石抚子~</message>
-    <times>2010-01-27 16:13:00</times>
-  </data>
-</information>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="2042827778" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>でも そんなんじゃ だーめ</text>
+	<attr id="0" playtime="1.7" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="914855338" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>もう そんなんじゃ ほーら</text>
+	<attr id="0" playtime="3.8" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="2019368563" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>心は進化するよ もーっと もーっと</text>
+	<attr id="0" playtime="5.3" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1450108874" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>言葉にすれば </text>
+	<attr id="0" playtime="25.7" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1838053048" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>消えちゃう関係 なら</text>
+	<attr id="0" playtime="25.7" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="2028587889" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>言葉を消せばいいやって</text>
+	<attr id="0" playtime="27.7" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1986303763" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>思ってた？ 恐れてた？</text>
+	<attr id="0" playtime="30" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="827143151" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>だけど あれ？ なんか 違うかも</text>
+	<attr id="0" playtime="31.6" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="52021046" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>千里の道も一歩から</text>
+	<attr id="0" playtime="33.8" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1260941269" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>石のように固いそんな意志で</text>
+	<attr id="0" playtime="35.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="242597745" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>塵も積もれば やまとなでしこ？</text>
+	<attr id="0" playtime="37.6" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="146170951" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>じーぬきで いや 死ぬきで</text>
+	<attr id="0" playtime="39.8" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1774125164" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>ふわふわり ふわふわる</text>
+	<attr id="0" playtime="42.3" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="462615511" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>あなたが 名前を呼ぶ</text>
+	<attr id="0" playtime="44.8" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1398587629" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>それだけで宙へ浮かぶ</text>
+	<attr id="0" playtime="44.8" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1375948993" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>ふわふわる ふわふわり </text>
+	<attr id="0" playtime="49.2" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1716039433" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>あなたが笑っている それだけで笑顔になる</text>
+	<attr id="0" playtime="52.6" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="871944640" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>神様 ありがとう </text>
+	<attr id="0" playtime="57.2" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1796385239" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>運命の悪戯でも</text>
+	<attr id="0" playtime="61.3" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="310565294" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>めぐり合えたことが</text>
+	<attr id="0" playtime="65.9" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1962939272" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text> 幸せなの</text>
+	<attr id="0" playtime="69.6" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="195027478" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>でも そんなんじゃ だーめ</text>
+	<attr id="0" playtime="73.2" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1959707900" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>もう そんなんじゃ ほーら</text>
+	<attr id="0" playtime="75.1" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1792668454" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>心は進化するよ もーっと もーっと</text>
+	<attr id="0" playtime="77.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="2048640722" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>そう そんなんじゃ いやーだ</text>
+	<attr id="0" playtime="81.7" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="455144897" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>ねぇ そんなんじゃ まーだ</text>
+	<attr id="0" playtime="83.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1723415119" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>わたしのこと見ていて ずーっと ずーっと</text>
+	<attr id="0" playtime="85.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="53894902" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>私の中の あなたほど</text>
+	<attr id="0" playtime="106" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1730265162" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>あなたの中の私の存在は まだまだ 大きく</text>
+	<attr id="0" playtime="107.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="912681656" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>ないこともわかってるけれど</text>
+	<attr id="0" playtime="112" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="44637196" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>今このおなじ瞬間 共有してる実感</text>
+	<attr id="0" playtime="113.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="94126474" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>ちりも積もればやまとなでしこ</text>
+	<attr id="0" playtime="117.6" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1550244622" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>くらくらり くらくらる </text>
+	<attr id="0" playtime="121.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1610853639" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>あなたを 見上げたら </text>
+	<attr id="0" playtime="124.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1933998372" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>それだけで 眩しすぎて</text>
+	<attr id="0" playtime="126.6" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1888081461" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>くらくらる くらくらり </text>
+	<attr id="0" playtime="129.7" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1166922283" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>あなたを 思っている </text>
+	<attr id="0" playtime="132.7" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1549146321" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>それだけで 溶けてしまう</text>
+	<attr id="0" playtime="134.4" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="2106759561" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>神様 ありがとう 運命の悪戯でも</text>
+	<attr id="0" playtime="137.6" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1739224104" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>めぐり合えた </text>
+	<attr id="0" playtime="145" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1939378089" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>事が幸せなの</text>
+	<attr id="0" playtime="149.2" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1760660943" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>恋する季節は 欲張りサーキュレーション</text>
+	<attr id="0" playtime="154.8" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="760156858" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>恋する気持ちは 欲張りサーキュレーション</text>
+	<attr id="0" playtime="162.3" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1696260870" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>恋する瞳は 欲張りサーキュレーション</text>
+	<attr id="0" playtime="170.9" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="496201875" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>恋する乙女は 欲張りサーキュレーション</text>
+	<attr id="0" playtime="178.4" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1750218811" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>ふわふわり ふわふわる</text>
+	<attr id="0" playtime="188.1" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1551146526" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text> あなたが 名前を呼ぶ</text>
+	<attr id="0" playtime="190.4" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1152287851" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>それだけで宙へ浮かぶ</text>
+	<attr id="0" playtime="192.4" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="168184025" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>ふわふわる ふわふわり </text>
+	<attr id="0" playtime="195.1" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="2067073472" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>あなたが笑っている </text>
+	<attr id="0" playtime="198.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1124191873" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>それだけで笑顔になる</text>
+	<attr id="0" playtime="200.9" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="728704280" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>神様 ありがとう </text>
+	<attr id="0" playtime="203.1" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1240965388" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>運命の悪戯でも</text>
+	<attr id="0" playtime="207.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="238138542" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>めぐり合えたことが</text>
+	<attr id="0" playtime="211.3" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="367032465" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>幸せなの</text>
+	<attr id="0" playtime="215.1" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="253260626" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>でも そんなんじゃ だーめ</text>
+	<attr id="0" playtime="219.3" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1840864029" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>でも そんなんじゃ だーめ！</text>
+	<attr id="0" playtime="235.5" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1381080822" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>もう そんなんじゃ ほーら</text>
+	<attr id="0" playtime="237.6" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1223482836" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>心は進化するよ もーっと もーっと</text>
+	<attr id="0" playtime="239.3" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="18262004" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>そう そんなんじゃ いやーだ</text>
+	<attr id="0" playtime="243.3" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="622024161" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>ねぇ そんなんじゃ まーだ</text>
+	<attr id="0" playtime="245.3" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1307190228" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>わたしのこと見ていて ずーっと ずーっと</text>
+	<attr id="0" playtime="247.2" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="700357700" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>〖预备..〗.</text>
+	<attr id="0" playtime="1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1541836105" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>〖但是那样 不--行〗</text>
+	<attr id="0" playtime="1.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1146403669" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>〖那样已经不行 你--瞧〗</text>
+	<attr id="0" playtime="3.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2134400658" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>〖心会进化的 更--加 更--加〗</text>
+	<attr id="0" playtime="5.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2016855899" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>〖对 那样的话 我不要〗</text>
+	<attr id="0" playtime="25.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1202184185" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>
+    </text>
+	<attr id="0" playtime="208" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1895697222" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>
+    </text>
+	<attr id="0" playtime="217.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1210252234" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>能听见这样的声音我就很幸福了</text>
+	<attr id="0" playtime="72" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1015864266" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>只要看著你的笑臉就能讓我開心</text>
+	<attr id="0" playtime="53.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="659370963" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>就是幸福的感覺</text>
+	<attr id="0" playtime="70.2" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="29256251" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>但是 這樣是不可的喲~</text>
+	<attr id="0" playtime="73.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="268515179" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>真是的 你看是這樣喲~</text>
+	<attr id="0" playtime="76.3" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1315617253" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>仅仅是说出你的名字</text>
+	<attr id="0" playtime="190.7" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="859186777" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>心就好像飞上了宇宙</text>
+	<attr id="0" playtime="192.7" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1361314009" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>软软的~软软的~</text>
+	<attr id="0" playtime="196.3" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="457139386" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>仅仅是你的笑容</text>
+	<attr id="0" playtime="198.9" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="60771886" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>就能让我变得开心</text>
+	<attr id="0" playtime="201.3" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="2123053077" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>神啊感谢你</text>
+	<attr id="0" playtime="204.7" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="717884354" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>即使是命运的捉弄</text>
+	<attr id="0" playtime="208" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="2094141654" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>仅仅是相遇</text>
+	<attr id="0" playtime="212.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1177096884" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>就是幸福的事情</text>
+	<attr id="0" playtime="215.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="2108310227" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>但是 这样是不行的哟~</text>
+	<attr id="0" playtime="219.6" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="576933336" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>老天赐我一只这样的软妹吧</text>
+	<attr id="0" playtime="158.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="355096102" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>但是 这样是不行的哟~</text>
+	<attr id="0" playtime="235.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1545686802" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>真是的 是这样的哟~</text>
+	<attr id="0" playtime="237.9" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="409548980" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>心在不断地进化 更~多 更~多</text>
+	<attr id="0" playtime="239.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="351664262" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>是哟~ 那样的不要~</text>
+	<attr id="0" playtime="243.7" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="180884061" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>唔~ 那样还不够~</text>
+	<attr id="0" playtime="245.6" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="49683675" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>要看着我 永远~ 永远~</text>
+	<attr id="0" playtime="248" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="416244663" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>如果能用语言能捅破这层关系的话</text>
+	<attr id="0" playtime="25.9" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="42407024" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>就让言语消失吧</text>
+	<attr id="0" playtime="28.7" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="45970750" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>是这样想的吗？ 感到害怕吗？</text>
+	<attr id="0" playtime="30.4" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1977115651" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>但是 奇怪？ 也许还搞错了什么</text>
+	<attr id="0" playtime="32.4" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="642897898" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>千里长的道路也是从第一步开始的</text>
+	<attr id="0" playtime="33.9" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1602995857" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>用石头一样的坚硬的意志</text>
+	<attr id="0" playtime="35.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1078179683" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>软软的~ 软软的~</text>
+	<attr id="0" playtime="43.7" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1093244070" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>仅仅是说出你的名字我就好像飞上了宇宙</text>
+	<attr id="0" playtime="45.3" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="925690470" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>软软的~ 软软的~</text>
+	<attr id="0" playtime="50.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1913822032" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>仅仅是你的笑容就能让我变得开心</text>
+	<attr id="0" playtime="53.6" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="147005223" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>心在不断地进化 更~多 更~多</text>
+	<attr id="0" playtime="77.6" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1767882927" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>是哟~ 那样的不要~</text>
+	<attr id="0" playtime="82.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="839929839" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>唔~ 那样还不够~</text>
+	<attr id="0" playtime="83.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="520423502" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>要看着我 永远~ 永远~</text>
+	<attr id="0" playtime="86" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1419856224" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>我心中你占得位置很大</text>
+	<attr id="0" playtime="106.3" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1909757839" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>比起来你心中我的存在 还远远不够大</text>
+	<attr id="0" playtime="108.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1691463517" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>这样的事我是知道的但是</text>
+	<attr id="0" playtime="112.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="200612576" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>现在这同一瞬间 拥有一样的实感</text>
+	<attr id="0" playtime="113.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="276258877" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>转呀转~ 转呀转~</text>
+	<attr id="0" playtime="122.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="854584249" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>仅仅是向上仰视你</text>
+	<attr id="0" playtime="125.2" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="273860093" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>就会觉得太过耀眼</text>
+	<attr id="0" playtime="127.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1697486559" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>转呀转~ 转呀转~</text>
+	<attr id="0" playtime="129.9" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1850457098" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>仅仅是想着你</text>
+	<attr id="0" playtime="133.3" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="204865194" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>感觉就像要溶化掉了</text>
+	<attr id="0" playtime="135.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="411691978" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>神啊感谢你 即使是命运的捉弄</text>
+	<attr id="0" playtime="138.3" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="963902222" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>仅仅是相遇</text>
+	<attr id="0" playtime="146.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1027261269" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>就是幸福的事情</text>
+	<attr id="0" playtime="150" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1593610746" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>仅仅是与你相遇</text>
+	<attr id="0" playtime="66.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1975194611" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>就是幸福的事情</text>
+	<attr id="0" playtime="69.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="239285794" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>運命の悪戯でも</text>
+	<attr id="0" playtime="141.8" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="72691174" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>即使是命运的捉弄</text>
+	<attr id="0" playtime="141.8" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="560340832" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>恋爱的季节是 贪·得·无·厌·一·直·下·去</text>
+	<attr id="0" playtime="155.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1893188812" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>恋爱的心情贪·得·无·厌·一·直·下·去</text>
+	<attr id="0" playtime="163.3" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="187237448" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>恋爱的眼睛贪·得·无·厌·一·直·下·去</text>
+	<attr id="0" playtime="171.4" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="831518885" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>恋爱的少女贪·得·无·厌·一·直·下·去</text>
+	<attr id="0" playtime="179.8" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="2107701055" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>如果起尘灰的话是大和抚子？</text>
+	<attr id="0" playtime="38.2" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1406286319" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>把し和ぬ去掉 不对 死掉消失好了~</text>
+	<attr id="0" playtime="40.1" mode="4" fontsize="15" color="16764057"/>
+</comment>
+<comment id="1057516823" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>略してちにつやまたなてこ</text>
+	<attr id="0" playtime="119.6" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="81569453" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>如果把ちり加起来的大和抚子</text>
+	<attr id="0" playtime="118.4" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="638213767" poolid="1" userhash="deadbeef" sendtime="1321635690">
+	<text>略去就是千石抚子~</text>
+	<attr id="0" playtime="120.3" mode="4" fontsize="15" color="16764057"/>
+</comment>
+</comments>

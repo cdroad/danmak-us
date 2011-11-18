@@ -1,19 +1,20 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
 DP_P0=acold09
-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+PartPlayer_P1=acold09
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=aUser
 cauthor=aUser
 charset=UTF-8
 csum=
 ctime=1295958661
-host=114.243.86.125
-keywords=音乐,paradise,lost 
+host=127.0.0.1
+keywords=音乐,paradise,lost
 name=Acfun2.1178
-rev=2
+rev=4
 targets=Category.音乐,Category.Paradise,Category.Lost
 text=(:VideoStr:21811037:)%0a(:title %3c食灵 零 paradise lost>中文版翻唱 :)%0a(:keywords 音乐,paradise,lost :)%0a(:sourcelink:http://124.228.254.229/html/music/20090617/34542.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
-time=1295958758
-title=&lt;食灵 零 paradise lost&gt;中文版翻唱 
+time=1321637362
+title=&lt;食灵 零 paradise lost&gt;中文版翻唱
 author:1295958758=aUser
 diff:1295958758:1295958661:=
 host:1295958758=114.243.86.125

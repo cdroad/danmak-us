@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>1.5</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1448592004" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -16,12 +15,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 01:57:23</times>
-  </data>
-  <data>
-    <playTime>1.5</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="1.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1330454420" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -45,17 +43,15 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:00:13</times>
-  </data>
-  <data>
-    <playTime>32</playTime>
-    <message fontsize="25" color="16777215" mode="1">纯白?</message>
-    <times>2010-01-03 02:00:34</times>
-  </data>
-  <data>
-    <playTime>1.5</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="1.5" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2059325965" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>纯白?</text>
+	<attr id="0" playtime="32" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="740078130" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -67,12 +63,11 @@ From Y to Y　　　　　　　　　　
 
 　　　　　　　　呗：天天　奈奈
 
-　</message>
-    <times>2010-01-03 02:02:13</times>
-  </data>
-  <data>
-    <playTime>20.9</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="1.5" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1109713129" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -86,12 +81,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:05:11</times>
-  </data>
-  <data>
-    <playTime>23.4</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="20.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1923614623" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -105,12 +99,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:05:36</times>
-  </data>
-  <data>
-    <playTime>25.7</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="23.4" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="788678592" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -124,12 +117,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:06:11</times>
-  </data>
-  <data>
-    <playTime>27.6</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="25.7" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="780252076" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -143,12 +135,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:06:37</times>
-  </data>
-  <data>
-    <playTime>30.8</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="27.6" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1158050626" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -162,12 +153,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:07:21</times>
-  </data>
-  <data>
-    <playTime>33</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="30.8" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="697625885" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -181,12 +171,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:07:50</times>
-  </data>
-  <data>
-    <playTime>35.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="33" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="874934356" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -200,12 +189,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:09:18</times>
-  </data>
-  <data>
-    <playTime>36.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="35.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="527461459" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -219,12 +207,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:09:39</times>
-  </data>
-  <data>
-    <playTime>37.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="36.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2076305216" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -238,12 +225,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:10:22</times>
-  </data>
-  <data>
-    <playTime>40.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="37.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1138357287" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -257,12 +243,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:13:03</times>
-  </data>
-  <data>
-    <playTime>42.8</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="40.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1015527985" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -276,12 +261,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:13:32</times>
-  </data>
-  <data>
-    <playTime>45.2</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="42.8" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1325450579" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -295,12 +279,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:14:41</times>
-  </data>
-  <data>
-    <playTime>45.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">　
+　</text>
+	<attr id="0" playtime="45.2" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1933173645" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -314,12 +297,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:15:07</times>
-  </data>
-  <data>
-    <playTime>45.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="45.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1156945440" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -333,12 +315,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:15:53</times>
-  </data>
-  <data>
-    <playTime>50.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="45.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1051352195" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -352,12 +333,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:17:52</times>
-  </data>
-  <data>
-    <playTime>50.4</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="50.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1169236124" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -371,12 +351,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:18:17</times>
-  </data>
-  <data>
-    <playTime>52.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">　
+　</text>
+	<attr id="0" playtime="50.4" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1441542080" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -390,12 +369,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:19:30</times>
-  </data>
-  <data>
-    <playTime>52.5</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="52.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="831528509" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -409,12 +387,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:19:54</times>
-  </data>
-  <data>
-    <playTime>55</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="52.5" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="772421721" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -428,12 +405,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:21:26</times>
-  </data>
-  <data>
-    <playTime>55</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="55" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="135631674" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -447,12 +423,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:21:50</times>
-  </data>
-  <data>
-    <playTime>55</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="55" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="431161080" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -466,12 +441,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:22:54</times>
-  </data>
-  <data>
-    <playTime>55</playTime>
-    <message fontsize="25" color="39423" mode="4">　
+　</text>
+	<attr id="0" playtime="55" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="331760402" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -485,12 +459,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:23:31</times>
-  </data>
-  <data>
-    <playTime>57</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="55" mode="4" fontsize="25" color="39423"/>
+</comment>
+<comment id="109500614" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -504,12 +477,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:26:18</times>
-  </data>
-  <data>
-    <playTime>57</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="57" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1874373580" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -523,12 +495,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:26:48</times>
-  </data>
-  <data>
-    <playTime>57</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="57" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1903685795" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -542,12 +513,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:27:24</times>
-  </data>
-  <data>
-    <playTime>57</playTime>
-    <message fontsize="25" color="39423" mode="4">　
+　</text>
+	<attr id="0" playtime="57" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1485011825" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -561,12 +531,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:28:11</times>
-  </data>
-  <data>
-    <playTime>61.4</playTime>
-    <message fontsize="25" color="6737151" mode="4">　
+　</text>
+	<attr id="0" playtime="57" mode="4" fontsize="25" color="39423"/>
+</comment>
+<comment id="1524150385" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -580,12 +549,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:29:21</times>
-  </data>
-  <data>
-    <playTime>62.3</playTime>
-    <message fontsize="25" color="39423" mode="4">　
+　</text>
+	<attr id="0" playtime="61.4" mode="4" fontsize="25" color="6737151"/>
+</comment>
+<comment id="162169899" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -599,12 +567,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:30:02</times>
-  </data>
-  <data>
-    <playTime>63.5</playTime>
-    <message fontsize="25" color="6737151" mode="4">　
+　</text>
+	<attr id="0" playtime="62.3" mode="4" fontsize="25" color="39423"/>
+</comment>
+<comment id="104962650" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -618,12 +585,11 @@ From Y to Y　　　　　　　　　　
 ☆未来☆
 
 
-　　　　　　　</message>
-    <times>2010-01-03 02:30:45</times>
-  </data>
-  <data>
-    <playTime>64.6</playTime>
-    <message fontsize="25" color="39423" mode="4">　
+　　　　　　　</text>
+	<attr id="0" playtime="63.5" mode="4" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1670554016" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -637,12 +603,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:31:18</times>
-  </data>
-  <data>
-    <playTime>65.8</playTime>
-    <message fontsize="25" color="6737151" mode="4">　
+　</text>
+	<attr id="0" playtime="64.6" mode="4" fontsize="25" color="39423"/>
+</comment>
+<comment id="1706755200" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 　　　　　　　　　　　　☆未来☆
@@ -656,12 +621,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:32:15</times>
-  </data>
-  <data>
-    <playTime>67.1</playTime>
-    <message fontsize="25" color="26367" mode="4">　
+　</text>
+	<attr id="0" playtime="65.8" mode="4" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1200108666" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -675,12 +639,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:33:59</times>
-  </data>
-  <data>
-    <playTime>70.5</playTime>
-    <message fontsize="25" color="6737151" mode="4">　
+　</text>
+	<attr id="0" playtime="67.1" mode="4" fontsize="25" color="26367"/>
+</comment>
+<comment id="341234001" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -694,12 +657,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:35:23</times>
-  </data>
-  <data>
-    <playTime>72.1</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="70.5" mode="4" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1120512535" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -713,12 +675,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:43:43</times>
-  </data>
-  <data>
-    <playTime>73.3</playTime>
-    <message fontsize="25" color="6737151" mode="5">　
+　</text>
+	<attr id="0" playtime="72.1" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1184409531" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -732,12 +693,11 @@ From Y to Y　　　　　　　　　　
 愿望　
 
 
-　</message>
-    <times>2010-01-03 02:45:13</times>
-  </data>
-  <data>
-    <playTime>74.4</playTime>
-    <message fontsize="25" color="13311" mode="1">　
+　</text>
+	<attr id="0" playtime="73.3" mode="5" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1085973275" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -751,12 +711,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:45:49</times>
-  </data>
-  <data>
-    <playTime>79.6</playTime>
-    <message fontsize="25" color="52479" mode="1">　
+　</text>
+	<attr id="0" playtime="74.4" mode="1" fontsize="25" color="13311"/>
+</comment>
+<comment id="1921673781" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -770,12 +729,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:46:32</times>
-  </data>
-  <data>
-    <playTime>81.9</playTime>
-    <message fontsize="25" color="52479" mode="1">　
+　</text>
+	<attr id="0" playtime="79.6" mode="1" fontsize="25" color="52479"/>
+</comment>
+<comment id="1258387075" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -789,12 +747,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:47:10</times>
-  </data>
-  <data>
-    <playTime>84.5</playTime>
-    <message fontsize="25" color="52479" mode="1">　
+　</text>
+	<attr id="0" playtime="81.9" mode="1" fontsize="25" color="52479"/>
+</comment>
+<comment id="1947242775" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -808,12 +765,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:48:16</times>
-  </data>
-  <data>
-    <playTime>84.5</playTime>
-    <message fontsize="25" color="52479" mode="1">　
+　</text>
+	<attr id="0" playtime="84.5" mode="1" fontsize="25" color="52479"/>
+</comment>
+<comment id="1979056451" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -827,12 +783,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:48:46</times>
-  </data>
-  <data>
-    <playTime>89.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="84.5" mode="1" fontsize="25" color="52479"/>
+</comment>
+<comment id="84655320" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -846,12 +801,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:49:44</times>
-  </data>
-  <data>
-    <playTime>92</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="89.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1143687047" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -865,12 +819,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:50:39</times>
-  </data>
-  <data>
-    <playTime>94.6</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="92" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="176674586" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -884,12 +837,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:53:15</times>
-  </data>
-  <data>
-    <playTime>96.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="94.6" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="65891612" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -903,12 +855,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:53:47</times>
-  </data>
-  <data>
-    <playTime>98.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="96.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="126675945" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -922,12 +873,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 02:56:40</times>
-  </data>
-  <data>
-    <playTime>99.5</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+　</text>
+	<attr id="0" playtime="98.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="404348518" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -941,12 +891,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　　</message>
-    <times>2010-01-03 03:00:58</times>
-  </data>
-  <data>
-    <playTime>101.2</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+　　</text>
+	<attr id="0" playtime="99.5" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1423645312" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -960,12 +909,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:01:14</times>
-  </data>
-  <data>
-    <playTime>103.7</playTime>
-    <message fontsize="25" color="13434879" mode="5">　
+　</text>
+	<attr id="0" playtime="101.2" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="2000738264" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -979,12 +927,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　　</message>
-    <times>2010-01-03 03:01:41</times>
-  </data>
-  <data>
-    <playTime>105.3</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+　　</text>
+	<attr id="0" playtime="103.7" mode="5" fontsize="25" color="13434879"/>
+</comment>
+<comment id="1153170104" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -998,12 +945,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:01:57</times>
-  </data>
-  <data>
-    <playTime>107.8</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="105.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="543533695" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1017,12 +963,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:02:39</times>
-  </data>
-  <data>
-    <playTime>109.4</playTime>
-    <message fontsize="25" color="26367" mode="5">　
+　</text>
+	<attr id="0" playtime="107.8" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1249577593" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1036,12 +981,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　　</message>
-    <times>2010-01-03 03:03:26</times>
-  </data>
-  <data>
-    <playTime>112.7</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　　</text>
+	<attr id="0" playtime="109.4" mode="5" fontsize="25" color="26367"/>
+</comment>
+<comment id="1738079064" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1055,12 +999,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:03:59</times>
-  </data>
-  <data>
-    <playTime>115.4</playTime>
-    <message fontsize="25" color="6737151" mode="1">　
+　</text>
+	<attr id="0" playtime="112.7" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1938280581" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1074,12 +1017,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:08:43</times>
-  </data>
-  <data>
-    <playTime>115.4</playTime>
-    <message fontsize="25" color="6737151" mode="1">　
+　</text>
+	<attr id="0" playtime="115.4" mode="1" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1367730905" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1093,12 +1035,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:09:17</times>
-  </data>
-  <data>
-    <playTime>115.4</playTime>
-    <message fontsize="25" color="6737151" mode="1">　
+　</text>
+	<attr id="0" playtime="115.4" mode="1" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1468180426" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1112,12 +1053,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:09:31</times>
-  </data>
-  <data>
-    <playTime>117.8</playTime>
-    <message fontsize="25" color="26367" mode="1">　
+　</text>
+	<attr id="0" playtime="115.4" mode="1" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1922724357" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1131,12 +1071,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:11:13</times>
-  </data>
-  <data>
-    <playTime>117.8</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="117.8" mode="1" fontsize="25" color="26367"/>
+</comment>
+<comment id="907290902" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1150,12 +1089,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:11:27</times>
-  </data>
-  <data>
-    <playTime>120</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="117.8" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="608470881" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1169,12 +1107,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:12:21</times>
-  </data>
-  <data>
-    <playTime>121.4</playTime>
-    <message fontsize="25" color="26367" mode="5">　
+　</text>
+	<attr id="0" playtime="120" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="981560456" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1188,12 +1125,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:14:12</times>
-  </data>
-  <data>
-    <playTime>121.9</playTime>
-    <message fontsize="25" color="26367" mode="5">　
+　</text>
+	<attr id="0" playtime="121.4" mode="5" fontsize="25" color="26367"/>
+</comment>
+<comment id="511771852" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1207,12 +1143,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:14:46</times>
-  </data>
-  <data>
-    <playTime>122.5</playTime>
-    <message fontsize="25" color="26367" mode="5">　
+　</text>
+	<attr id="0" playtime="121.9" mode="5" fontsize="25" color="26367"/>
+</comment>
+<comment id="93497450" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1226,12 +1161,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:15:05</times>
-  </data>
-  <data>
-    <playTime>127.7</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="122.5" mode="5" fontsize="25" color="26367"/>
+</comment>
+<comment id="740349165" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1245,12 +1179,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:15:48</times>
-  </data>
-  <data>
-    <playTime>130.9</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="127.7" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1455520965" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1264,12 +1197,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:20:49</times>
-  </data>
-  <data>
-    <playTime>134</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+　</text>
+	<attr id="0" playtime="130.9" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="2020207559" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1283,12 +1215,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:21:55</times>
-  </data>
-  <data>
-    <playTime>137</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+　</text>
+	<attr id="0" playtime="134" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="456926114" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1302,12 +1233,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:22:41</times>
-  </data>
-  <data>
-    <playTime>158</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="137" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="737591864" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1321,12 +1251,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:23:31</times>
-  </data>
-  <data>
-    <playTime>160.6</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="158" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="316477004" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1340,12 +1269,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:24:29</times>
-  </data>
-  <data>
-    <playTime>162.8</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="160.6" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1221527087" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1359,12 +1287,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:24:57</times>
-  </data>
-  <data>
-    <playTime>167.9</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="162.8" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1217008291" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1378,12 +1305,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:25:47</times>
-  </data>
-  <data>
-    <playTime>172.6</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　</text>
+	<attr id="0" playtime="167.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="520677428" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1397,12 +1323,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:26:16</times>
-  </data>
-  <data>
-    <playTime>176.6</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="172.6" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1938648116" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1416,12 +1341,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:29:09</times>
-  </data>
-  <data>
-    <playTime>177.3</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="176.6" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="914130961" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1435,12 +1359,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:29:38</times>
-  </data>
-  <data>
-    <playTime>177.9</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="177.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1350688972" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1454,12 +1377,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:30:06</times>
-  </data>
-  <data>
-    <playTime>197.2</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="177.9" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="133280907" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1473,12 +1395,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:32:34</times>
-  </data>
-  <data>
-    <playTime>201.4</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="197.2" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="1643762694" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1492,12 +1413,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:39:46</times>
-  </data>
-  <data>
-    <playTime>204.4</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="201.4" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1198000224" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1511,12 +1431,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:40:25</times>
-  </data>
-  <data>
-    <playTime>207.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="204.4" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="552826574" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1530,12 +1449,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:40:54</times>
-  </data>
-  <data>
-    <playTime>210.6</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="207.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="2145622322" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1549,12 +1467,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:41:26</times>
-  </data>
-  <data>
-    <playTime>216.1</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="210.6" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1214209444" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1568,12 +1485,11 @@ From Y to Y　　　　　　　　　　
 这里　　　　　　　　　　　　　　
 
 
-　</message>
-    <times>2010-01-03 03:42:59</times>
-  </data>
-  <data>
-    <playTime>218.3</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="216.1" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1865835237" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1587,12 +1503,11 @@ From Y to Y　　　　　　　　　　
 这里　　　　　　　　　　　　　　
 
 
-　　</message>
-    <times>2010-01-03 03:43:47</times>
-  </data>
-  <data>
-    <playTime>220.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　　</text>
+	<attr id="0" playtime="218.3" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="433347833" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1606,12 +1521,11 @@ From Y to Y　　　　　　　　　　
 这里究竟是　　　　　　　　　　　
 
 
-　</message>
-    <times>2010-01-03 03:44:16</times>
-  </data>
-  <data>
-    <playTime>222.6</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="220.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="718753293" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1625,12 +1539,11 @@ From Y to Y　　　　　　　　　　
 这里究竟是开始　　　　　　　　　
 
 
-　</message>
-    <times>2010-01-03 03:44:59</times>
-  </data>
-  <data>
-    <playTime>225.6</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="222.6" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="264206584" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1644,12 +1557,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:45:30</times>
-  </data>
-  <data>
-    <playTime>237.8</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="225.6" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="1199019094" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1663,12 +1575,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 03:49:26</times>
-  </data>
-  <data>
-    <playTime>238.8</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="237.8" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1378667872" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1682,17 +1593,15 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:04:32</times>
-  </data>
-  <data>
-    <playTime>312</playTime>
-    <message fontsize="25" color="16777215" mode="1">好物</message>
-    <times>2010-01-03 03:58:55</times>
-  </data>
-  <data>
-    <playTime>239.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="238.8" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="981076567" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>好物</text>
+	<attr id="0" playtime="312" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="714360475" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1706,12 +1615,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:06:20</times>
-  </data>
-  <data>
-    <playTime>240.7</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="239.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1681418893" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1725,12 +1633,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:06:46</times>
-  </data>
-  <data>
-    <playTime>243.2</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="240.7" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="326550589" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1744,12 +1651,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　　</message>
-    <times>2010-01-03 04:22:56</times>
-  </data>
-  <data>
-    <playTime>247.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　　</text>
+	<attr id="0" playtime="243.2" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1557311750" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1763,12 +1669,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:23:34</times>
-  </data>
-  <data>
-    <playTime>250.4</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="247.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1080495888" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1782,12 +1687,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:24:50</times>
-  </data>
-  <data>
-    <playTime>252.3</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="250.4" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1504095242" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1801,12 +1705,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:25:55</times>
-  </data>
-  <data>
-    <playTime>257.4</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="252.3" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="1225873759" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1820,12 +1723,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:27:12</times>
-  </data>
-  <data>
-    <playTime>258.8</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="257.4" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="1464861938" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1839,12 +1741,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:27:50</times>
-  </data>
-  <data>
-    <playTime>260.4</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="258.8" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="473167786" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1858,12 +1759,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　　</message>
-    <times>2010-01-03 04:28:39</times>
-  </data>
-  <data>
-    <playTime>260.4</playTime>
-    <message fontsize="25" color="6737151" mode="4">　
+　　</text>
+	<attr id="0" playtime="260.4" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1523355448" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1877,12 +1777,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:29:17</times>
-  </data>
-  <data>
-    <playTime>262.5</playTime>
-    <message fontsize="25" color="6737151" mode="4">　
+　</text>
+	<attr id="0" playtime="260.4" mode="4" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1008867133" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1896,12 +1795,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:30:51</times>
-  </data>
-  <data>
-    <playTime>266.9</playTime>
-    <message fontsize="25" color="52479" mode="1">　
+　</text>
+	<attr id="0" playtime="262.5" mode="4" fontsize="25" color="6737151"/>
+</comment>
+<comment id="1381432883" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1915,12 +1813,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:31:26</times>
-  </data>
-  <data>
-    <playTime>270.2</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="266.9" mode="1" fontsize="25" color="52479"/>
+</comment>
+<comment id="1101210922" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1934,12 +1831,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:31:52</times>
-  </data>
-  <data>
-    <playTime>272.1</playTime>
-    <message fontsize="25" color="39423" mode="5">　　
+　</text>
+	<attr id="0" playtime="270.2" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1326335862" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　　
 
 
 
@@ -1953,12 +1849,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:32:18</times>
-  </data>
-  <data>
-    <playTime>274.3</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="272.1" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="81954712" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -1972,12 +1867,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:33:15</times>
-  </data>
-  <data>
-    <playTime>281.7</playTime>
-    <message fontsize="15" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="274.3" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1966882246" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2001,12 +1895,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:35:38</times>
-  </data>
-  <data>
-    <playTime>290.2</playTime>
-    <message fontsize="15" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="281.7" mode="5" fontsize="15" color="39423"/>
+</comment>
+<comment id="412007629" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2030,12 +1923,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:36:40</times>
-  </data>
-  <data>
-    <playTime>307.5</playTime>
-    <message fontsize="15" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="290.2" mode="1" fontsize="15" color="39423"/>
+</comment>
+<comment id="802064079" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2059,12 +1951,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:37:59</times>
-  </data>
-  <data>
-    <playTime>309.1</playTime>
-    <message fontsize="15" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="307.5" mode="1" fontsize="15" color="39423"/>
+</comment>
+<comment id="510237547" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2088,12 +1979,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　　</message>
-    <times>2010-01-03 04:38:47</times>
-  </data>
-  <data>
-    <playTime>312.3</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　　</text>
+	<attr id="0" playtime="309.1" mode="5" fontsize="15" color="39423"/>
+</comment>
+<comment id="1595196117" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2107,12 +1997,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:39:15</times>
-  </data>
-  <data>
-    <playTime>315.1</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="312.3" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="1170071319" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2126,12 +2015,11 @@ From Y to Y　　　　　　　　　　
 
 
 
-　</message>
-    <times>2010-01-03 04:39:36</times>
-  </data>
-  <data>
-    <playTime>316.7</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="315.1" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="1991154097" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2145,12 +2033,11 @@ From Y to Y　　　　　　　　　　
 
 　　　　　　　　　　　　再　　
 
-　</message>
-    <times>2010-01-03 04:40:41</times>
-  </data>
-  <data>
-    <playTime>317.2</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="316.7" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1491650082" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2164,12 +2051,11 @@ From Y to Y　　　　　　　　　　
 
 　　　　　　　　　　　　　见　
 
-　</message>
-    <times>2010-01-03 04:41:10</times>
-  </data>
-  <data>
-    <playTime>317.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="317.2" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="760515415" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2183,12 +2069,11 @@ From Y to Y　　　　　　　　　　
 
 　　　　　　　　　　　　再见呐
 
-　</message>
-    <times>2010-01-03 04:42:14</times>
-  </data>
-  <data>
-    <playTime>317.5</playTime>
-    <message fontsize="25" color="65535" mode="1">　
+　</text>
+	<attr id="0" playtime="317.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="237759868" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2202,12 +2087,11 @@ From Y to Y　　　　　　　　　　
 
 呐
 
-　</message>
-    <times>2010-01-03 04:42:56</times>
-  </data>
-  <data>
-    <playTime>317.5</playTime>
-    <message fontsize="25" color="52479" mode="1">　
+　</text>
+	<attr id="0" playtime="317.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="773649958" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2221,12 +2105,11 @@ From Y to Y　　　　　　　　　　
 
 见　　　
 
-　</message>
-    <times>2010-01-03 04:43:17</times>
-  </data>
-  <data>
-    <playTime>317.5</playTime>
-    <message fontsize="25" color="39423" mode="1">　
+　</text>
+	<attr id="0" playtime="317.5" mode="1" fontsize="25" color="52479"/>
+</comment>
+<comment id="310149885" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2240,12 +2123,11 @@ From Y to Y　　　　　　　　　　
 
 再　　　　　　
 
-　</message>
-    <times>2010-01-03 04:43:36</times>
-  </data>
-  <data>
-    <playTime>321.1</playTime>
-    <message fontsize="15" color="39423" mode="5">　
+　</text>
+	<attr id="0" playtime="317.5" mode="1" fontsize="25" color="39423"/>
+</comment>
+<comment id="374033723" poolid="1" userhash="deadbeef" sendtime="1321635777">
+	<text>　
 
 
 
@@ -2269,7 +2151,7 @@ From Y to Y　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　　　　　　　字幕：初音の消失
-　</message>
-    <times>2010-01-03 04:45:22</times>
-  </data>
-</information>
+　</text>
+	<attr id="0" playtime="321.1" mode="5" fontsize="15" color="39423"/>
+</comment>
+</comments>

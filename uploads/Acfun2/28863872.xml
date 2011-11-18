@@ -1,208 +1,167 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>2.8</playTime>
-    <message fontsize="12" color="255" mode="4">あなたは今(いま)どこで何(なに)をしてますか？ （你现在在哪里在干什么呢? ）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>8.3</playTime>
-    <message fontsize="12" color="255" mode="4">この空(そら)の続(つづ)く場所(ばしよ)にいますか？（在这片天空的延续之处吗?）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>34.6</playTime>
-    <message fontsize="12" color="255" mode="4">今(いま)まで私(わたくし)の心(こころ)を埋(う)めていたモノ（一直填补我心的东西）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>40.2</playTime>
-    <message fontsize="12" color="255" mode="4">失(うしな)って初(はじ)めて気付(きづ)いた（直到失去才第一次发现）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>46</playTime>
-    <message fontsize="12" color="255" mode="4">こんなにも私(わたし)を支(ささ)えてくれていたこと （这么支持着我的事）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>51.8</playTime>
-    <message fontsize="12" color="255" mode="4">こんなにも笑顔(えがお)をくれていたこと （这么经常露出的笑脸）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>57.3</playTime>
-    <message fontsize="12" color="255" mode="4">失(うしな)ってしまった代償(だいしょう)はとてつもなく大(おお)きすぎて（失去的代价实在是太大）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>69.1</playTime>
-    <message fontsize="12" color="255" mode="4">取(と)り戻(もど)そうと必死(ひっし)に手(て)を伸(の)ばしてもがくけれど（拼命伸手挣扎想要找回来）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>80.4</playTime>
-    <message fontsize="12" color="255" mode="4">まるで風(かぜ)のようにすり抜(ぬ)けて届(とど)きそうで届(とど)かない （却如风般穿过 看似可得 但触碰不到）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>92.2</playTime>
-    <message fontsize="12" color="255" mode="4">孤独(こどく)と絶望(ぜつぼう)に胸(むね)を締(し)め付(つ)られ(孤独与绝望压抑着)</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>98.2</playTime>
-    <message fontsize="12" color="255" mode="4">心(こころ)が壊(こわ)れそうになるけれど （胸口的心快要碎掉）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>103.7</playTime>
-    <message fontsize="12" color="255" mode="4">思(おも)い出(だ)に残(のこ)るあなたの笑顔(えがお)が</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>109.6</playTime>
-    <message fontsize="12" color="255" mode="4">私(わたし)をいつも励(はげ)ましてくれる（但记忆里你的笑脸总是在鼓励我）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>138.3</playTime>
-    <message fontsize="12" color="255" mode="4">もう一度(いちど)あの頃(ころ)に戻(もど)ろう　（再一次回到从前吧）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>143.9</playTime>
-    <message fontsize="12" color="255" mode="4">今度(こんど)はきっと大丈夫(だいじょうぶ)（这一次一定没问题）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>149.8</playTime>
-    <message fontsize="12" color="255" mode="4">いつもそばで笑(わら)っていよう(无论何时都在你身边欢笑)　</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>155.6</playTime>
-    <message fontsize="12" color="255" mode="4">あなたのすぐ傍(そば)で…(永远的留在你的身旁...)</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>161.6</playTime>
-    <message fontsize="12" color="255" mode="4">あなたは今(いま)どこで何(なに)をしてますか？（你现在在哪 干什么呢?）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>167.5</playTime>
-    <message fontsize="12" color="255" mode="4">この空(そら)の続(つづ)く場所(ばしよ)にいますか？（在这片天空延续之处吗? ）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>173.1</playTime>
-    <message fontsize="12" color="255" mode="4">いつものように笑顔(えがお)でいてくれますか？（可以像平时那样保持着笑脸吗?）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>179</playTime>
-    <message fontsize="12" color="255" mode="4">今(いま)はただそれを願(ねが)い続(つづ)ける…（现在的我只是能不断地这样祈祷著）</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>2.8</playTime>
-    <message fontsize="16" color="65535" mode="4">你现在在哪里在干什么呢? </message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>8.3</playTime>
-    <message fontsize="16" color="65535" mode="4">在这片天空的延续之处吗?</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>34.6</playTime>
-    <message fontsize="16" color="65535" mode="4">一直填补我心的东西</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>40.2</playTime>
-    <message fontsize="16" color="65535" mode="4">直到失去才第一次发现</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>46</playTime>
-    <message fontsize="16" color="65535" mode="4">这么支持着我的事</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>51.8</playTime>
-    <message fontsize="16" color="65535" mode="4">这么经常露出的笑脸</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>57.3</playTime>
-    <message fontsize="16" color="65535" mode="4">失去的代价实在是太大</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>69.1</playTime>
-    <message fontsize="16" color="65535" mode="4">拼命伸手挣扎想要找回来</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>80.4</playTime>
-    <message fontsize="16" color="65535" mode="4">却如风般穿过 看似可得 但触碰不到</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>92.2</playTime>
-    <message fontsize="16" color="65535" mode="4">孤独与绝望压抑着</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>98.2</playTime>
-    <message fontsize="16" color="65535" mode="4">胸口的心快要碎掉</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>103.7</playTime>
-    <message fontsize="16" color="65535" mode="4">但记忆里你的笑脸总是在鼓励我</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>138.3</playTime>
-    <message fontsize="16" color="65535" mode="4">再一次回到从前吧</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>143.9</playTime>
-    <message fontsize="16" color="65535" mode="4">这一次一定没问题</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>149.8</playTime>
-    <message fontsize="16" color="65535" mode="4">无论何时都在你身边欢笑</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>155.6</playTime>
-    <message fontsize="16" color="65535" mode="4">永远的留在你的身旁...</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>161.6</playTime>
-    <message fontsize="16" color="65535" mode="4">你现在在哪 干什么呢?</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>167.5</playTime>
-    <message fontsize="16" color="65535" mode="4">在这片天空延续之处吗?</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>173.1</playTime>
-    <message fontsize="16" color="65535" mode="4">可以像平时那样保持着笑脸吗?</message>
-    <times>YOU</times>
-  </data>
-  <data>
-    <playTime>179</playTime>
-    <message fontsize="16" color="65535" mode="4">现在的我只是能不断地这样祈祷著</message>
-    <times>YOU</times>
-  </data>
-</information>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="11171531" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>あなたは今(いま)どこで何(なに)をしてますか？ （你现在在哪里在干什么呢? ）</text>
+	<attr id="0" playtime="2.8" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="1121478227" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>この空(そら)の続(つづ)く場所(ばしよ)にいますか？（在这片天空的延续之处吗?）</text>
+	<attr id="0" playtime="8.3" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="626851693" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>今(いま)まで私(わたくし)の心(こころ)を埋(う)めていたモノ（一直填补我心的东西）</text>
+	<attr id="0" playtime="34.6" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="267311159" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>失(うしな)って初(はじ)めて気付(きづ)いた（直到失去才第一次发现）</text>
+	<attr id="0" playtime="40.2" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="2088118972" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>こんなにも私(わたし)を支(ささ)えてくれていたこと （这么支持着我的事）</text>
+	<attr id="0" playtime="46" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="2005061493" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>こんなにも笑顔(えがお)をくれていたこと （这么经常露出的笑脸）</text>
+	<attr id="0" playtime="51.8" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="1494889867" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>失(うしな)ってしまった代償(だいしょう)はとてつもなく大(おお)きすぎて（失去的代价实在是太大）</text>
+	<attr id="0" playtime="57.3" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="653936045" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>取(と)り戻(もど)そうと必死(ひっし)に手(て)を伸(の)ばしてもがくけれど（拼命伸手挣扎想要找回来）</text>
+	<attr id="0" playtime="69.1" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="17994655" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>まるで風(かぜ)のようにすり抜(ぬ)けて届(とど)きそうで届(とど)かない （却如风般穿过 看似可得 但触碰不到）</text>
+	<attr id="0" playtime="80.4" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="838891272" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>孤独(こどく)と絶望(ぜつぼう)に胸(むね)を締(し)め付(つ)られ(孤独与绝望压抑着)</text>
+	<attr id="0" playtime="92.2" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="807485879" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>心(こころ)が壊(こわ)れそうになるけれど （胸口的心快要碎掉）</text>
+	<attr id="0" playtime="98.2" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="2119348264" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>思(おも)い出(だ)に残(のこ)るあなたの笑顔(えがお)が</text>
+	<attr id="0" playtime="103.7" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="243964487" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>私(わたし)をいつも励(はげ)ましてくれる（但记忆里你的笑脸总是在鼓励我）</text>
+	<attr id="0" playtime="109.6" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="25792361" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>もう一度(いちど)あの頃(ころ)に戻(もど)ろう　（再一次回到从前吧）</text>
+	<attr id="0" playtime="138.3" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="1183459381" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>今度(こんど)はきっと大丈夫(だいじょうぶ)（这一次一定没问题）</text>
+	<attr id="0" playtime="143.9" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="1068770403" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>いつもそばで笑(わら)っていよう(无论何时都在你身边欢笑)　</text>
+	<attr id="0" playtime="149.8" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="558553273" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>あなたのすぐ傍(そば)で…(永远的留在你的身旁...)</text>
+	<attr id="0" playtime="155.6" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="744346258" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>あなたは今(いま)どこで何(なに)をしてますか？（你现在在哪 干什么呢?）</text>
+	<attr id="0" playtime="161.6" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="353806793" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>この空(そら)の続(つづ)く場所(ばしよ)にいますか？（在这片天空延续之处吗? ）</text>
+	<attr id="0" playtime="167.5" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="299604347" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>いつものように笑顔(えがお)でいてくれますか？（可以像平时那样保持着笑脸吗?）</text>
+	<attr id="0" playtime="173.1" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="2097988509" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>今(いま)はただそれを願(ねが)い続(つづ)ける…（现在的我只是能不断地这样祈祷著）</text>
+	<attr id="0" playtime="179" mode="4" fontsize="12" color="255"/>
+</comment>
+<comment id="1084501447" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>你现在在哪里在干什么呢? </text>
+	<attr id="0" playtime="2.8" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1312291687" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>在这片天空的延续之处吗?</text>
+	<attr id="0" playtime="8.3" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="569109640" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>一直填补我心的东西</text>
+	<attr id="0" playtime="34.6" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="777713755" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>直到失去才第一次发现</text>
+	<attr id="0" playtime="40.2" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1860282472" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>这么支持着我的事</text>
+	<attr id="0" playtime="46" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="84539166" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>这么经常露出的笑脸</text>
+	<attr id="0" playtime="51.8" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="199240451" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>失去的代价实在是太大</text>
+	<attr id="0" playtime="57.3" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1369137392" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>拼命伸手挣扎想要找回来</text>
+	<attr id="0" playtime="69.1" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1236950959" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>却如风般穿过 看似可得 但触碰不到</text>
+	<attr id="0" playtime="80.4" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="867496782" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>孤独与绝望压抑着</text>
+	<attr id="0" playtime="92.2" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1044905608" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>胸口的心快要碎掉</text>
+	<attr id="0" playtime="98.2" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1609523374" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>但记忆里你的笑脸总是在鼓励我</text>
+	<attr id="0" playtime="103.7" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="294944232" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>再一次回到从前吧</text>
+	<attr id="0" playtime="138.3" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="2044416797" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>这一次一定没问题</text>
+	<attr id="0" playtime="143.9" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1187123838" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>无论何时都在你身边欢笑</text>
+	<attr id="0" playtime="149.8" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="698443958" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>永远的留在你的身旁...</text>
+	<attr id="0" playtime="155.6" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="539376788" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>你现在在哪 干什么呢?</text>
+	<attr id="0" playtime="161.6" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1660120498" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>在这片天空延续之处吗?</text>
+	<attr id="0" playtime="167.5" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1780331770" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>可以像平时那样保持着笑脸吗?</text>
+	<attr id="0" playtime="173.1" mode="4" fontsize="16" color="65535"/>
+</comment>
+<comment id="1373572279" poolid="1" userhash="deadbeef" sendtime="1321635813">
+	<text>现在的我只是能不断地这样祈祷著</text>
+	<attr id="0" playtime="179" mode="4" fontsize="16" color="65535"/>
+</comment>
+</comments>

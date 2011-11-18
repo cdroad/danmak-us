@@ -1,19 +1,20 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
 DP_P0=acold09
-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 ( .NET CLR 3.5.30729; .NET4.0E)
+PartPlayer_P1=acold09
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=aUser
 cauthor=Admin
 charset=UTF-8
 csum=
 ctime=1278987951
-host=180.110.96.39
-keywords=音乐,东方 
+host=127.0.0.1
+keywords=音乐,东方
 name=Acfun2.1049
-rev=2
+rev=4
 targets=Category.音乐,Category.东方
 text=%0a(:VideoStr:26239089:)%0a(:title 東方VocalBGM －Visualize ～深愛的人－ :)%0a(:keywords 音乐,东方 :)%0a(:sourcelink:http://220.170.79.109/html/music/20091122/58855.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
-time=1291964790
-title=東方VocalBGM －Visualize ～深愛的人－ 
+time=1321637362
+title=東方VocalBGM －Visualize ～深愛的人－
 author:1291964790=aUser
 diff:1291964790:1278987951:=
 host:1291964790=180.110.96.39

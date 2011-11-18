@@ -1,323 +1,259 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-   <playTime>41.5</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[以破碎的双翼 支持着你的母亲]]></message>
-   <times>2010-06-17 02:06:02</times>
-  </data>
-  <data>
-   <playTime>47.6</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[将一切托付给你之后 她就此逝去]]></message>
-   <times>2010-06-17 02:06:26</times>
-  </data>
-  <data>
-   <playTime>54.6</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[在那遥远的彼方 等待着你的父亲]]></message>
-   <times>2010-06-17 02:06:59</times>
-  </data>
-  <data>
-   <playTime>61.8</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[赌上性命的旅程 就此起航]]></message>
-   <times>2010-06-17 02:07:26</times>
-  </data>
-  <data>
-   <playTime>70.6</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[即使风吹雨打 雷击烧灼]]></message>
-   <times>2010-06-17 02:08:04</times>
-  </data>
-  <data>
-   <playTime>74.2</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[也不放弃这段旅程]]></message>
-   <times>2010-06-17 02:08:40</times>
-  </data>
-  <data>
-   <playTime>77.7</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[因为这就是生存的意义啊]]></message>
-   <times>2010-06-17 02:09:00</times>
-  </data>
-  <data>
-   <playTime>84.3</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[振翅飞舞吧 隼]]></message>
-   <times>2010-06-17 02:09:25</times>
-  </data>
-  <data>
-   <playTime>87.9</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[即使双翼折断]]></message>
-   <times>2010-06-17 02:09:50</times>
-  </data>
-  <data>
-   <playTime>92.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[也怀抱着无数的梦想]]></message>
-   <times>2010-06-17 02:10:10</times>
-  </data>
-  <data>
-   <playTime>98.1</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[展翅翱翔吧 隼]]></message>
-   <times>2010-06-17 02:10:34</times>
-  </data>
-  <data>
-   <playTime>101.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[即使身躯被狂风割裂]]></message>
-   <times>2010-06-17 02:10:55</times>
-  </data>
-  <data>
-   <playTime>106.3</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[也要划破那广大的宇宙]]></message>
-   <times>2010-06-17 02:11:37</times>
-  </data>
-  <data>
-   <playTime>111.1</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[飞向远方]]></message>
-   <times>2010-06-17 02:11:42</times>
-  </data>
-  <data>
-   <playTime>117.8</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[在那遥远的地方 初次见到父亲的面庞]]></message>
-   <times>2010-06-17 02:12:05</times>
-  </data>
-  <data>
-   <playTime>323.7</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[お帰りなさい ]]></message>
-   <times>2010-06-17 03:02:34</times>
-  </data>
-  <data>
-   <playTime>86.2</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[はやぶさ]]></message>
-   <times>2010-06-17 03:34:06</times>
-  </data>
-  <data>
-   <playTime>117.7</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[在那遥远的地方 初次见到父亲的面庞]]></message>
-   <times>2010-06-17 08:13:18</times>
-  </data>
-  <data>
-   <playTime>325</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[おかえり]]></message>
-   <times>2010-06-17 09:03:14</times>
-  </data>
-  <data>
-   <playTime>338.3</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[おかえり～]]></message>
-   <times>2010-06-17 12:37:57</times>
-  </data>
-  <data>
-   <playTime>102.1</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[隼鸟号，欢迎归来····流浪了七年的你]]></message>
-   <times>2010-06-17 13:58:07</times>
-  </data>
-  <data>
-   <playTime>124.2</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[尚未来得及欢喜 便听到了“回去吧”的言语]]></message>
-   <times>2010-06-17 17:12:38</times>
-  </data>
-  <data>
-   <playTime>131</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[在归途中怀抱的 是再会的希望]]></message>
-   <times>2010-06-17 17:13:10</times>
-  </data>
-  <data>
-   <playTime>137.9</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[以及在返程中紧握的 绝不丢弃的信物]]></message>
-   <times>2010-06-17 17:14:08</times>
-  </data>
-  <data>
-   <playTime>144.2</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[即使被嘲笑 是无谓的旅程 也仍然振翅飞翔]]></message>
-   <times>2010-06-17 17:14:54</times>
-  </data>
-  <data>
-   <playTime>151</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[因为两亲 所托付的东西]]></message>
-   <times>2010-06-17 17:15:24</times>
-  </data>
-  <data>
-   <playTime>154.4</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[就是这旅程的意义啊]]></message>
-   <times>2010-06-17 17:15:36</times>
-  </data>
-  <data>
-   <playTime>157.8</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[振翅飞舞吧 隼]]></message>
-   <times>2010-06-17 17:16:06</times>
-  </data>
-  <data>
-   <playTime>160.8</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[即使双翼折断]]></message>
-   <times>2010-06-17 17:16:16</times>
-  </data>
-  <data>
-   <playTime>165.3</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[也怀抱着无数的梦想]]></message>
-   <times>2010-06-17 17:16:29</times>
-  </data>
-  <data>
-   <playTime>170.4</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[展翅翱翔吧 隼]]></message>
-   <times>2010-06-17 17:16:40</times>
-  </data>
-  <data>
-   <playTime>111.5</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[欢迎回来！]]></message>
-   <times>2010-06-17 17:25:40</times>
-  </data>
-  <data>
-   <playTime>173.9</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[即使身躯被狂风割裂]]></message>
-   <times>2010-06-17 17:16:55</times>
-  </data>
-  <data>
-   <playTime>178.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[也要划破那广大的宇宙]]></message>
-   <times>2010-06-17 17:17:10</times>
-  </data>
-  <data>
-   <playTime>183.6</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[飞向远方]]></message>
-   <times>2010-06-17 17:17:20</times>
-  </data>
-  <data>
-   <playTime>224.3</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[从高空注视着的“大地”]]></message>
-   <times>2010-06-17 17:18:13</times>
-  </data>
-  <data>
-   <playTime>224.3</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[（“大地”だいち、陸域観測技術衛星，ALOS日本对地观测卫星）]]></message>
-   <times>2010-06-17 17:18:27</times>
-  </data>
-  <data>
-   <playTime>228</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[在远方沉睡的“望”]]></message>
-   <times>2010-06-17 17:19:05</times>
-  </data>
-  <data>
-   <playTime>228</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[（“望”号探测器，由于技术原因永远留在了太空中）]]></message>
-   <times>2010-06-17 17:19:51</times>
-  </data>
-  <data>
-   <playTime>231.4</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[如今在天空飞翔的“晓”]]></message>
-   <times>2010-06-17 17:20:15</times>
-  </data>
-  <data>
-   <playTime>231.4</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[(“晓”あかつき、金星探査機，2010年5月21日成功发射）]]></message>
-   <times>2010-06-17 17:20:34</times>
-  </data>
-  <data>
-   <playTime>234.8</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[支持着明天的“希望”]]></message>
-   <times>2010-06-17 17:20:58</times>
-  </data>
-  <data>
-   <playTime>234.8</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[（“希望”号火星探测器于1998年7月3日发射升空，是日本第一个火星探测器）]]></message>
-   <times>2010-06-17 17:21:57</times>
-  </data>
-  <data>
-   <playTime>238.2</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[虽然双翼折断 只足受伤]]></message>
-   <times>2010-06-17 17:22:48</times>
-  </data>
-  <data>
-   <playTime>241</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[仍然继续飞翔]]></message>
-   <times>2010-06-17 17:23:06</times>
-  </data>
-  <data>
-   <playTime>244</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[闪耀着蓝色光辉的 故乡的天空]]></message>
-   <times>2010-06-17 17:24:52</times>
-  </data>
-  <data>
-   <playTime>247.4</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[有着一定要送到那里的东西啊]]></message>
-   <times>2010-06-17 17:25:06</times>
-  </data>
-  <data>
-   <playTime>250.1</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[将大家的梦想]]></message>
-   <times>2010-06-17 17:26:42</times>
-  </data>
-  <data>
-   <playTime>254.7</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[紧紧抱在胸前]]></message>
-   <times>2010-06-17 17:26:54</times>
-  </data>
-  <data>
-   <playTime>264.3</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[振翅飞舞吧 隼]]></message>
-   <times>2010-06-17 17:27:16</times>
-  </data>
-  <data>
-   <playTime>268</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[即使双翼折断]]></message>
-   <times>2010-06-17 17:27:29</times>
-  </data>
-  <data>
-   <playTime>273.1</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[也怀抱着无数的梦想]]></message>
-   <times>2010-06-17 17:27:44</times>
-  </data>
-  <data>
-   <playTime>278.1</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[展翅翱翔吧 隼]]></message>
-   <times>2010-06-17 17:27:57</times>
-  </data>
-  <data>
-   <playTime>281.7</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[即使身体被狂风割裂]]></message>
-   <times>2010-06-17 17:28:12</times>
-  </data>
-  <data>
-   <playTime>286.7</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[也要划破那宽广的宇宙]]></message>
-   <times>2010-06-17 17:28:28</times>
-  </data>
-  <data>
-   <playTime>291.7</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[举翼高飞吧 不死鸟“隼”]]></message>
-   <times>2010-06-17 17:28:46</times>
-  </data>
-  <data>
-   <playTime>294.7</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[直到看见故乡的天空]]></message>
-   <times>2010-06-17 17:29:01</times>
-  </data>
-  <data>
-   <playTime>304.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[挥翼翱翔吧 不死鸟“隼”]]></message>
-   <times>2010-06-17 17:30:19</times>
-  </data>
-  <data>
-   <playTime>308.2</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[直至身躯燃为灰烬]]></message>
-   <times>2010-06-17 17:30:33</times>
-  </data>
-  <data>
-   <playTime>356.7</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[晚安，因为隼鸟进入大气层以后就化为灰烬了，终于回到地球，永别的意味]]></message>
-   <times>2010-06-17 21:51:01</times>
-  </data>
-  <data>
-   <playTime>25.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[はやぶさ]]></message>
-   <times>2010-06-17 23:25:13</times>
-  </data>
-  <data>
-   <playTime>51.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[おかえり]]></message>
-   <times>2010-06-17 23:25:39</times>
-  </data>
-  <data>
-   <playTime>70.9</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[もいいよ]]></message>
-   <times>2010-06-17 23:25:58</times>
-  </data>
-  <data>
-   <playTime>82.9</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[だから]]></message>
-   <times>2010-06-17 23:26:10</times>
-  </data>
-</information>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1789273563" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>以破碎的双翼 支持着你的母亲</text>
+	<attr id="0" playtime="41.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="804508644" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>将一切托付给你之后 她就此逝去</text>
+	<attr id="0" playtime="47.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1446581622" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>在那遥远的彼方 等待着你的父亲</text>
+	<attr id="0" playtime="54.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="407626794" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>赌上性命的旅程 就此起航</text>
+	<attr id="0" playtime="61.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1604768483" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>即使风吹雨打 雷击烧灼</text>
+	<attr id="0" playtime="70.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1501474951" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>也不放弃这段旅程</text>
+	<attr id="0" playtime="74.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1790289293" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>因为这就是生存的意义啊</text>
+	<attr id="0" playtime="77.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2073692120" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>振翅飞舞吧 隼</text>
+	<attr id="0" playtime="84.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="613517152" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>即使双翼折断</text>
+	<attr id="0" playtime="87.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1259298283" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>也怀抱着无数的梦想</text>
+	<attr id="0" playtime="92.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="70015837" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>展翅翱翔吧 隼</text>
+	<attr id="0" playtime="98.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="154342083" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>即使身躯被狂风割裂</text>
+	<attr id="0" playtime="101.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1006973574" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>也要划破那广大的宇宙</text>
+	<attr id="0" playtime="106.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="54741600" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>飞向远方</text>
+	<attr id="0" playtime="111.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1728412639" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>在那遥远的地方 初次见到父亲的面庞</text>
+	<attr id="0" playtime="117.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="812232290" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>お帰りなさい </text>
+	<attr id="0" playtime="323.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1809748113" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>はやぶさ</text>
+	<attr id="0" playtime="86.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1035514388" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>在那遥远的地方 初次见到父亲的面庞</text>
+	<attr id="0" playtime="117.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1509526650" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>おかえり</text>
+	<attr id="0" playtime="325" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="951424071" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>おかえり～</text>
+	<attr id="0" playtime="338.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="371943705" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>隼鸟号，欢迎归来····流浪了七年的你</text>
+	<attr id="0" playtime="102.1" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1927393180" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>尚未来得及欢喜 便听到了“回去吧”的言语</text>
+	<attr id="0" playtime="124.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1300542746" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>在归途中怀抱的 是再会的希望</text>
+	<attr id="0" playtime="131" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="664841972" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>以及在返程中紧握的 绝不丢弃的信物</text>
+	<attr id="0" playtime="137.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1471718236" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>即使被嘲笑 是无谓的旅程 也仍然振翅飞翔</text>
+	<attr id="0" playtime="144.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="378152919" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>因为两亲 所托付的东西</text>
+	<attr id="0" playtime="151" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="725693331" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>就是这旅程的意义啊</text>
+	<attr id="0" playtime="154.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="929112608" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>振翅飞舞吧 隼</text>
+	<attr id="0" playtime="157.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1795426114" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>即使双翼折断</text>
+	<attr id="0" playtime="160.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1795115954" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>也怀抱着无数的梦想</text>
+	<attr id="0" playtime="165.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1341181358" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>展翅翱翔吧 隼</text>
+	<attr id="0" playtime="170.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1541713068" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>欢迎回来！</text>
+	<attr id="0" playtime="111.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1271884409" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>即使身躯被狂风割裂</text>
+	<attr id="0" playtime="173.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="638455112" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>也要划破那广大的宇宙</text>
+	<attr id="0" playtime="178.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1159325719" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>飞向远方</text>
+	<attr id="0" playtime="183.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="970966176" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>从高空注视着的“大地”</text>
+	<attr id="0" playtime="224.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="576117306" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>（“大地”だいち、陸域観測技術衛星，ALOS日本对地观测卫星）</text>
+	<attr id="0" playtime="224.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1318565250" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>在远方沉睡的“望”</text>
+	<attr id="0" playtime="228" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="558272335" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>（“望”号探测器，由于技术原因永远留在了太空中）</text>
+	<attr id="0" playtime="228" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1355405830" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>如今在天空飞翔的“晓”</text>
+	<attr id="0" playtime="231.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1703439961" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>(“晓”あかつき、金星探査機，2010年5月21日成功发射）</text>
+	<attr id="0" playtime="231.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1571597222" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>支持着明天的“希望”</text>
+	<attr id="0" playtime="234.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1980806043" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>（“希望”号火星探测器于1998年7月3日发射升空，是日本第一个火星探测器）</text>
+	<attr id="0" playtime="234.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="905370436" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>虽然双翼折断 只足受伤</text>
+	<attr id="0" playtime="238.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1977225308" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>仍然继续飞翔</text>
+	<attr id="0" playtime="241" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="33031701" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>闪耀着蓝色光辉的 故乡的天空</text>
+	<attr id="0" playtime="244" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="795894702" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>有着一定要送到那里的东西啊</text>
+	<attr id="0" playtime="247.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1036848871" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>将大家的梦想</text>
+	<attr id="0" playtime="250.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="900362997" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>紧紧抱在胸前</text>
+	<attr id="0" playtime="254.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1687654757" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>振翅飞舞吧 隼</text>
+	<attr id="0" playtime="264.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="882582244" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>即使双翼折断</text>
+	<attr id="0" playtime="268" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="743573125" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>也怀抱着无数的梦想</text>
+	<attr id="0" playtime="273.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1928624040" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>展翅翱翔吧 隼</text>
+	<attr id="0" playtime="278.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1049689490" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>即使身体被狂风割裂</text>
+	<attr id="0" playtime="281.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="179680298" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>也要划破那宽广的宇宙</text>
+	<attr id="0" playtime="286.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="220576841" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>举翼高飞吧 不死鸟“隼”</text>
+	<attr id="0" playtime="291.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1803097460" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>直到看见故乡的天空</text>
+	<attr id="0" playtime="294.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="831645871" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>挥翼翱翔吧 不死鸟“隼”</text>
+	<attr id="0" playtime="304.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="763466917" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>直至身躯燃为灰烬</text>
+	<attr id="0" playtime="308.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1580976220" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>晚安，因为隼鸟进入大气层以后就化为灰烬了，终于回到地球，永别的意味</text>
+	<attr id="0" playtime="356.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1247737017" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>はやぶさ</text>
+	<attr id="0" playtime="25.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1483907342" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>おかえり</text>
+	<attr id="0" playtime="51.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1117195743" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>もいいよ</text>
+	<attr id="0" playtime="70.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="905553247" poolid="1" userhash="deadbeef" sendtime="1321635869">
+	<text>だから</text>
+	<attr id="0" playtime="82.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+</comments>

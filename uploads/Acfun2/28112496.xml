@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<information>
-  <data>
-    <playTime>2.7</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
+<comments>
+<comment id="1018845545" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -16,12 +15,11 @@
 
 
 
-　]]></message>
-    <times>2010-01-12 20:45:19</times>
-  </data>
-  <data>
-    <playTime>2.7</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　
+　</text>
+	<attr id="0" playtime="2.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="135979809" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　
 
 
 
@@ -35,12 +33,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 20:45:58</times>
-  </data>
-  <data>
-    <playTime>4.4</playTime>
-    <message fontsize="15" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="2.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="610028309" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -63,12 +60,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 20:54:02</times>
-  </data>
-  <data>
-    <playTime>4.4</playTime>
-    <message fontsize="15" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="4.4" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="229065371" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -91,12 +87,11 @@
 
 
 
-　　</message>
-    <times>2010-01-12 20:56:58</times>
-  </data>
-  <data>
-    <playTime>5.6</playTime>
-    <message fontsize="37" color="0" mode="5">　
+　　</text>
+	<attr id="0" playtime="4.4" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1532417363" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -105,12 +100,11 @@
 
 重复著一个单语　　　　　
 
-　</message>
-    <times>2010-01-12 21:04:15</times>
-  </data>
-  <data>
-    <playTime>5.6</playTime>
-    <message fontsize="37" color="16711680" mode="5">　　
+　</text>
+	<attr id="0" playtime="5.6" mode="5" fontsize="37" color="0"/>
+</comment>
+<comment id="1652411876" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　
 
 
 
@@ -119,12 +113,11 @@
 
 重复著一个单语　　　　　
 
-　　</message>
-    <times>2010-01-12 21:04:53</times>
-  </data>
-  <data>
-    <playTime>8.8</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　　</text>
+	<attr id="0" playtime="5.6" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="176569368" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -133,12 +126,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 21:30:35</times>
-  </data>
-  <data>
-    <playTime>10.2</playTime>
-    <message fontsize="25" color="16711680" mode="1">重複的　　　　　　　　　重複的
+　</text>
+	<attr id="0" playtime="8.8" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="813577070" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>重複的　　　　　　　　　重複的
 
 
 
@@ -152,12 +144,11 @@
 
 
 
-重複的　　　　　　　　　重複的</message>
-    <times>2010-01-12 21:43:05</times>
-  </data>
-  <data>
-    <playTime>10.2</playTime>
-    <message fontsize="25" color="16711680" mode="1">　
+重複的　　　　　　　　　重複的</text>
+	<attr id="0" playtime="10.2" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1739789770" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 重複的　　　　　重複的
 
@@ -171,12 +162,11 @@
 
 重複的　　　　　重複的
 
-　</message>
-    <times>2010-01-12 21:44:06</times>
-  </data>
-  <data>
-    <playTime>10.2</playTime>
-    <message fontsize="25" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="10.2" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1413436290" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -190,12 +180,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 21:44:25</times>
-  </data>
-  <data>
-    <playTime>11.4</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="10.2" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="182730265" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -204,12 +193,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 21:46:07</times>
-  </data>
-  <data>
-    <playTime>14.8</playTime>
-    <message fontsize="37" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="11.4" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1792158307" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -219,12 +207,11 @@
 
 
 　
-</message>
-    <times>2010-01-12 21:48:14</times>
-  </data>
-  <data>
-    <playTime>15.2</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+</text>
+	<attr id="0" playtime="14.8" mode="5" fontsize="37" color="0"/>
+</comment>
+<comment id="1197351068" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 　
 
 
@@ -232,12 +219,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 21:49:57</times>
-  </data>
-  <data>
-    <playTime>15.2</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="15.2" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="814816748" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -246,12 +232,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 21:51:38</times>
-  </data>
-  <data>
-    <playTime>15.2</playTime>
-    <message fontsize="37" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="15.2" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="276081530" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -260,12 +245,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 21:51:59</times>
-  </data>
-  <data>
-    <playTime>15.2</playTime>
-    <message fontsize="37" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="15.2" mode="5" fontsize="37" color="0"/>
+</comment>
+<comment id="1327953943" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -274,12 +258,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 21:53:03</times>
-  </data>
-  <data>
-    <playTime>15.2</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="15.2" mode="5" fontsize="37" color="0"/>
+</comment>
+<comment id="547427590" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -288,12 +271,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 21:53:37</times>
-  </data>
-  <data>
-    <playTime>19.3</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　　　　　　　　　　　　　　　　　　
+　</text>
+	<attr id="0" playtime="15.2" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="491906177" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　　　　　　　　　　　　　　　　　　
 
 
 　緊
@@ -307,12 +289,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 22:15:24</times>
-  </data>
-  <data>
-    <playTime>16.6</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　　　　　　　　　　　　　　　　　　
+　</text>
+	<attr id="0" playtime="19.3" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1141422617" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　　　　　　　　　　　　　　　　　　
 　
 
 　緊
@@ -326,12 +307,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 22:17:57</times>
-  </data>
-  <data>
-    <playTime>21</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　　　　　　　　　　　　　　　　　　
+　</text>
+	<attr id="0" playtime="16.6" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="820966321" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　　　　　　　　　　　　　　　　　　
 
 
 
@@ -343,12 +323,11 @@
 　　　手
 　　　很
 　　　甜
-</message>
-    <times>2010-01-12 22:23:00</times>
-  </data>
-  <data>
-    <playTime>23.2</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　　　　　　　　　　　　　　　　　　　
+</text>
+	<attr id="0" playtime="21" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1422927053" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　　　　　　　　　　　　　　　　　　
 
 
 
@@ -362,50 +341,11 @@
 
 
 
-　　　　　　　　　　　　　笑著的嘴巴裂著</message>
-    <times>2010-01-12 22:30:46</times>
-  </data>
-  <data>
-    <playTime>24.2</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
-
-
-
-
-
-
-快樂到██
-
-
-
-
-
-
-　</message>
-    <times>2010-01-12 22:36:47</times>
-  </data>
-  <data>
-    <playTime>24.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-　　　顫抖
-
-
-
-
-
-
-　</message>
-    <times>2010-01-12 22:37:17</times>
-  </data>
-  <data>
-    <playTime>27.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　　　　　笑著的嘴巴裂著</text>
+	<attr id="0" playtime="23.2" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1048276657" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -419,12 +359,11 @@
 
 
 
-　</message>
-    <times>2010-01-12 22:38:26</times>
-  </data>
-  <data>
-    <playTime>27.1</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="24.2" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="663809112" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -438,66 +377,95 @@
 
 
 
-　</message>
-    <times>2010-01-12 22:38:52</times>
-  </data>
-  <data>
-    <playTime>27.2</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="24.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="623137564" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
-甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</message>
-    <times>2010-01-12 22:45:58</times>
-  </data>
-  <data>
-    <playTime>28.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+
+
+
+快樂到██
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="27.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1134245742" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
+
+
+
+
+
+
+　　　顫抖
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="27.1" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1808820218" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
+
+
+
+甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</text>
+	<attr id="0" playtime="27.2" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2095192468" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的
-</message>
-    <times>2010-01-12 22:46:45</times>
-  </data>
-  <data>
-    <playTime>28.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
-甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</message>
-    <times>2010-01-12 22:46:51</times>
-  </data>
-  <data>
-    <playTime>28.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的
+</text>
+	<attr id="0" playtime="28.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1516156210" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
+甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</text>
+	<attr id="0" playtime="28.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1929050829" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的
 
 
 
 
-　</message>
-    <times>2010-01-12 22:47:21</times>
-  </data>
-  <data>
-    <playTime>28.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="28.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1782644550" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的
 
 
 
 
 
-　</message>
-    <times>2010-01-12 22:47:38</times>
-  </data>
-  <data>
-    <playTime>28.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="28.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1639689312" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 　　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的
-　</message>
-    <times>2010-01-12 22:48:17</times>
-  </data>
-  <data>
-    <playTime>28.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="28.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1760383768" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　赤紅的
 
@@ -505,22 +473,19 @@
 
 
 
-　</message>
-    <times>2010-01-12 22:48:53</times>
-  </data>
-  <data>
-    <playTime>31.7</playTime>
-    <message fontsize="37" color="16711680" mode="3">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</message>
-    <times>2010-01-13 17:47:05</times>
-  </data>
-  <data>
-    <playTime>31.7</playTime>
-    <message fontsize="37" color="16711680" mode="3">　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</message>
-    <times>2010-01-13 17:47:15</times>
-  </data>
-  <data>
-    <playTime>31.3</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="28.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="620125761" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</text>
+	<attr id="0" playtime="31.7" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="428246876" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</text>
+	<attr id="0" playtime="31.7" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="904489757" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
@@ -529,12 +494,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 18:42:07</times>
-  </data>
-  <data>
-    <playTime>31.7</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="31.3" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1417945032" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -543,17 +507,15 @@
 
 
 
-　</message>
-    <times>2010-01-13 18:42:27</times>
-  </data>
-  <data>
-    <playTime>32.1</playTime>
-    <message fontsize="37" color="16711680" mode="3">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 18:48:45</times>
-  </data>
-  <data>
-    <playTime>32.7</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="31.7" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="879454321" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="32.1" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1745153834" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
@@ -561,12 +523,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 18:49:10</times>
-  </data>
-  <data>
-    <playTime>32.1</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="32.7" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1670945779" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -575,12 +536,11 @@
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
-　</message>
-    <times>2010-01-13 18:49:41</times>
-  </data>
-  <data>
-    <playTime>32.4</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="32.1" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="807539509" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -589,12 +549,11 @@
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
-　</message>
-    <times>2010-01-13 18:49:54</times>
-  </data>
-  <data>
-    <playTime>32.9</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="32.4" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="220380084" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -603,12 +562,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 18:50:07</times>
-  </data>
-  <data>
-    <playTime>34.7</playTime>
-    <message fontsize="37" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="32.9" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1334190945" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -617,12 +575,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 18:55:32</times>
-  </data>
-  <data>
-    <playTime>35.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="34.7" mode="4" fontsize="37" color="0"/>
+</comment>
+<comment id="1643094340" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -631,39 +588,34 @@
 
 
 
-甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　</message>
-    <times>2010-01-13 19:01:20</times>
-  </data>
-  <data>
-    <playTime>35.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">　　　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</message>
-    <times>2010-01-13 19:01:49</times>
-  </data>
-  <data>
-    <playTime>32.6</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　</text>
+	<attr id="0" playtime="35.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="888910744" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</text>
+	<attr id="0" playtime="35.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="632186213" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的
 
 
 
 
 
-　</message>
-    <times>2010-01-13 19:02:19</times>
-  </data>
-  <data>
-    <playTime>32.1</playTime>
-    <message fontsize="37" color="16711680" mode="1">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</message>
-    <times>2010-01-13 19:03:48</times>
-  </data>
-  <data>
-    <playTime>32.5</playTime>
-    <message fontsize="37" color="16711680" mode="1">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:03:57</times>
-  </data>
-  <data>
-    <playTime>32.5</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="32.6" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1534687100" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的</text>
+	<attr id="0" playtime="32.1" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="99661780" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="32.5" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="728653970" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -672,24 +624,22 @@
 
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　
-　</message>
-    <times>2010-01-13 19:04:24</times>
-  </data>
-  <data>
-    <playTime>32.7</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="32.5" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1767288068" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的
 
-　</message>
-    <times>2010-01-13 19:05:02</times>
-  </data>
-  <data>
-    <playTime>32.7</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="32.7" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1279748393" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -698,12 +648,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:05:24</times>
-  </data>
-  <data>
-    <playTime>35.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="32.7" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="551253840" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -712,12 +661,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:10:16</times>
-  </data>
-  <data>
-    <playTime>35.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="35.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="862534684" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 　　　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　
@@ -726,52 +674,43 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:10:44</times>
-  </data>
-  <data>
-    <playTime>31.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:11:19</times>
-  </data>
-  <data>
-    <playTime>31.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:11:23</times>
-  </data>
-  <data>
-    <playTime>31.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:11:26</times>
-  </data>
-  <data>
-    <playTime>31.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:11:30</times>
-  </data>
-  <data>
-    <playTime>31.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:11:33</times>
-  </data>
-  <data>
-    <playTime>31.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:11:37</times>
-  </data>
-  <data>
-    <playTime>31.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　</message>
-    <times>2010-01-13 19:11:44</times>
-  </data>
-  <data>
-    <playTime>31.8</playTime>
-    <message fontsize="37" color="16711680" mode="1">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　　　　　　　　　</message>
-    <times>2010-01-13 19:11:48</times>
-  </data>
-  <data>
-    <playTime>35.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
+　</text>
+	<attr id="0" playtime="35.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="843898383" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="31.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="15165681" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="31.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="843768918" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="31.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2146122579" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="31.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1587986148" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="31.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1842939715" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="31.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="995635112" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　</text>
+	<attr id="0" playtime="31.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="837054598" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　　　　　　　　　</text>
+	<attr id="0" playtime="31.8" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1127199984" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
 
@@ -780,12 +719,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:12:06</times>
-  </data>
-  <data>
-    <playTime>35.6</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="35.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1757001273" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -794,12 +732,11 @@
 
 
 
-甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:17:36</times>
-  </data>
-  <data>
-    <playTime>36</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="35.6" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="708623292" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -808,12 +745,11 @@
 
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
-　</message>
-    <times>2010-01-13 19:17:49</times>
-  </data>
-  <data>
-    <playTime>36</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="36" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1655523048" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
@@ -821,12 +757,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:18:00</times>
-  </data>
-  <data>
-    <playTime>36.3</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="36" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1423830159" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
@@ -834,12 +769,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:18:17</times>
-  </data>
-  <data>
-    <playTime>36.3</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="36.3" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1413915645" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
@@ -848,12 +782,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:18:48</times>
-  </data>
-  <data>
-    <playTime>36.6</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="36.3" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2032589925" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -862,12 +795,11 @@
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
-　</message>
-    <times>2010-01-13 19:19:52</times>
-  </data>
-  <data>
-    <playTime>36.7</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="36.6" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="162673159" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -876,12 +808,11 @@
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
-　</message>
-    <times>2010-01-13 19:20:01</times>
-  </data>
-  <data>
-    <playTime>36.9</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="36.7" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2145188603" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -890,12 +821,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:20:12</times>
-  </data>
-  <data>
-    <playTime>39.3</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="36.9" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1658063922" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -904,12 +834,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:21:02</times>
-  </data>
-  <data>
-    <playTime>39.3</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="39.3" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1364186242" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
@@ -918,12 +847,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:21:25</times>
-  </data>
-  <data>
-    <playTime>39.6</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="39.3" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1992005898" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -932,12 +860,11 @@
 
 
 
-甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:21:38</times>
-  </data>
-  <data>
-    <playTime>39.8</playTime>
-    <message fontsize="37" color="16711680" mode="3">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
+甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="39.6" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="860187070" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
 
@@ -945,12 +872,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:21:51</times>
-  </data>
-  <data>
-    <playTime>40</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="39.8" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1638554209" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
@@ -958,12 +884,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:22:02</times>
-  </data>
-  <data>
-    <playTime>40.4</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="40" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="814245523" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -972,12 +897,11 @@
 
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
-　</message>
-    <times>2010-01-13 19:22:34</times>
-  </data>
-  <data>
-    <playTime>40.4</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="40.4" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1232017089" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
@@ -986,12 +910,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:22:44</times>
-  </data>
-  <data>
-    <playTime>40.6</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="40.4" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="975961498" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1000,12 +923,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:23:00</times>
-  </data>
-  <data>
-    <playTime>40.6</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="40.6" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2052656160" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1014,12 +936,11 @@
 　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
-　</message>
-    <times>2010-01-13 19:23:16</times>
-  </data>
-  <data>
-    <playTime>39.9</playTime>
-    <message fontsize="25" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="40.6" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1614221519" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1028,12 +949,11 @@
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
-　</message>
-    <times>2010-01-13 19:28:46</times>
-  </data>
-  <data>
-    <playTime>39.9</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="39.9" mode="3" fontsize="25" color="16711680"/>
+</comment>
+<comment id="170613561" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1042,12 +962,11 @@
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
-　　</message>
-    <times>2010-01-13 19:29:11</times>
-  </data>
-  <data>
-    <playTime>42.8</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　　</text>
+	<attr id="0" playtime="39.9" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="439759512" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1056,12 +975,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:29:45</times>
-  </data>
-  <data>
-    <playTime>42.8</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="42.8" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="230201022" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
@@ -1070,12 +988,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:30:00</times>
-  </data>
-  <data>
-    <playTime>43.3</playTime>
-    <message fontsize="37" color="16711680" mode="3">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
+　</text>
+	<attr id="0" playtime="42.8" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1728510872" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
 
@@ -1083,12 +1000,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:30:26</times>
-  </data>
-  <data>
-    <playTime>43.2</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="43.3" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="15320795" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1097,12 +1013,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:31:17</times>
-  </data>
-  <data>
-    <playTime>42.7</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="43.2" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1590492862" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
@@ -1111,12 +1026,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:31:51</times>
-  </data>
-  <data>
-    <playTime>42.9</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="42.7" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="540787918" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1125,12 +1039,11 @@
 
 
 
-甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 19:32:02</times>
-  </data>
-  <data>
-    <playTime>42.9</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="42.9" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="87920621" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1139,12 +1052,11 @@
 
 　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
-　</message>
-    <times>2010-01-13 19:32:14</times>
-  </data>
-  <data>
-    <playTime>43.2</playTime>
-    <message fontsize="37" color="16711680" mode="3">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
+　</text>
+	<attr id="0" playtime="42.9" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="76070319" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
 
@@ -1153,22 +1065,20 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:32:24</times>
-  </data>
-  <data>
-    <playTime>43.2</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="43.2" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1954715854" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 　　　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
 
-　</message>
-    <times>2010-01-13 19:32:44</times>
-  </data>
-  <data>
-    <playTime>43.6</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="43.2" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1464476450" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
@@ -1177,12 +1087,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:33:05</times>
-  </data>
-  <data>
-    <playTime>43.8</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="43.6" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1557359693" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1191,12 +1100,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 19:33:19</times>
-  </data>
-  <data>
-    <playTime>44.1</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="43.8" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1161133601" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1205,12 +1113,11 @@
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
-　</message>
-    <times>2010-01-13 19:33:31</times>
-  </data>
-  <data>
-    <playTime>44.1</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="44.1" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1439556580" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1219,12 +1126,11 @@
 
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
-　</message>
-    <times>2010-01-13 19:35:13</times>
-  </data>
-  <data>
-    <playTime>46.5</playTime>
-    <message fontsize="37" color="16711680" mode="3">甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
+　</text>
+	<attr id="0" playtime="44.1" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2062792772" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
 
@@ -1232,12 +1138,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 20:37:49</times>
-  </data>
-  <data>
-    <playTime>46.5</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="46.5" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1172360266" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
 
@@ -1245,12 +1150,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 20:38:13</times>
-  </data>
-  <data>
-    <playTime>46.5</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="46.5" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="799715433" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
@@ -1258,12 +1162,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 20:38:26</times>
-  </data>
-  <data>
-    <playTime>46.5</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="46.5" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="703055528" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
@@ -1272,12 +1175,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 20:38:43</times>
-  </data>
-  <data>
-    <playTime>46.5</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="46.5" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2004437505" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1289,12 +1191,11 @@
 　
 
 
-</message>
-    <times>2010-01-13 20:39:22</times>
-  </data>
-  <data>
-    <playTime>46.8</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+</text>
+	<attr id="0" playtime="46.5" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2114914431" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1303,12 +1204,11 @@
 
 甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
 
-　</message>
-    <times>2010-01-13 20:39:52</times>
-  </data>
-  <data>
-    <playTime>46.8</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+　</text>
+	<attr id="0" playtime="46.8" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="370211901" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1317,12 +1217,11 @@
 
 
 
-甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</message>
-    <times>2010-01-13 20:40:17</times>
-  </data>
-  <data>
-    <playTime>46.8</playTime>
-    <message fontsize="37" color="16711680" mode="3">　
+甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的</text>
+	<attr id="0" playtime="46.8" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1108026070" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1331,12 +1230,11 @@
 
 
 　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的
-　</message>
-    <times>2010-01-13 20:40:31</times>
-  </data>
-  <data>
-    <playTime>47</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="46.8" mode="3" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1947493655" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1345,12 +1243,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 20:43:33</times>
-  </data>
-  <data>
-    <playTime>47</playTime>
-    <message fontsize="37" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="47" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="432964361" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1359,12 +1256,11 @@
 　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　赤红的　　　甜美的　　　
 
 
-　</message>
-    <times>2010-01-13 20:44:00</times>
-  </data>
-  <data>
-    <playTime>50.9</playTime>
-    <message fontsize="37" color="16711680" mode="5">██████████████
+　</text>
+	<attr id="0" playtime="47" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2122147463" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>██████████████
 ██████████████
 ██████████████
 
@@ -1373,12 +1269,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 21:04:29</times>
-  </data>
-  <data>
-    <playTime>50.9</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="50.9" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1646740433" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 ██████████████
@@ -1387,12 +1282,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 21:04:51</times>
-  </data>
-  <data>
-    <playTime>50.9</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="50.9" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1403418559" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1401,12 +1295,11 @@
 ██████████████
 ██████████████
 ██████████████
-　</message>
-    <times>2010-01-13 21:05:43</times>
-  </data>
-  <data>
-    <playTime>50.9</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="50.9" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="383140977" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1415,12 +1308,11 @@
 
 
 
-██████████████</message>
-    <times>2010-01-13 21:05:52</times>
-  </data>
-  <data>
-    <playTime>52.1</playTime>
-    <message fontsize="37" color="16777215" mode="5">　
+██████████████</text>
+	<attr id="0" playtime="50.9" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="610074239" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1429,12 +1321,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 21:18:27</times>
-  </data>
-  <data>
-    <playTime>52.3</playTime>
-    <message fontsize="37" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="52.1" mode="5" fontsize="37" color="16777215"/>
+</comment>
+<comment id="861492129" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1442,12 +1333,11 @@
 　　　　讓我殺了你！　　　　
 
 
-　</message>
-    <times>2010-01-13 21:21:08</times>
-  </data>
-  <data>
-    <playTime>57.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="52.3" mode="5" fontsize="37" color="0"/>
+</comment>
+<comment id="486921428" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1461,12 +1351,11 @@
 
 
 　　　　　　　　《绯色月下、狂咲ノ绝》
-　</message>
-    <times>2010-01-13 21:28:08</times>
-  </data>
-  <data>
-    <playTime>57.8</playTime>
-    <message fontsize="15" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="57.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2065340643" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1490,12 +1379,11 @@
 
 
 　　　　　　　　　　　　　1st Anniversary Remix
-　</message>
-    <times>2010-01-13 21:38:38</times>
-  </data>
-  <data>
-    <playTime>79.4</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="57.8" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="276619745" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 　　濕潤的深紅眼眸　　　　　　　　　　　
@@ -1509,12 +1397,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 22:09:30</times>
-  </data>
-  <data>
-    <playTime>79.4</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　
+　</text>
+	<attr id="0" playtime="79.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="687197606" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　
 
 
 　　濕潤的深紅眼眸　　　　　　　　　　　
@@ -1528,12 +1415,11 @@
 
 
 
-　</message>
-    <times>2010-01-13 22:09:54</times>
-  </data>
-  <data>
-    <playTime>79.4</playTime>
-    <message fontsize="15" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="79.4" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="337312564" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1557,12 +1443,11 @@
 
 
 
-殷红浸染眼睛散播灰暗诗意　　　　　　　　　　　　　　　　　</message>
-    <times>2010-01-13 22:56:41</times>
-  </data>
-  <data>
-    <playTime>79.4</playTime>
-    <message fontsize="15" color="16711680" mode="5">　　
+殷红浸染眼睛散播灰暗诗意　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="79.4" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="1958666713" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　
 
 
 
@@ -1586,31 +1471,11 @@
 
 
 
-殷红浸染眼睛散播灰暗诗意　　　　　　　　　　　　　　　　　</message>
-    <times>2010-01-13 22:58:10</times>
-  </data>
-  <data>
-    <playTime>82.7</playTime>
-    <message fontsize="25" color="0" mode="4">　　
-
-
-
-　　　　　　　艷色的裙尾搖擺
-
-
-
-
-
-
-
-
-
-　</message>
-    <times>2010-01-14 18:36:53</times>
-  </data>
-  <data>
-    <playTime>82.7</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+殷红浸染眼睛散播灰暗诗意　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="79.4" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1513750817" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　
 
 
 
@@ -1624,12 +1489,29 @@
 
 
 
-　</message>
-    <times>2010-01-14 18:37:23</times>
-  </data>
-  <data>
-    <playTime>82.7</playTime>
-    <message fontsize="15" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="82.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="521074484" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
+
+
+
+　　　　　　　艷色的裙尾搖擺
+
+
+
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="82.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="378808813" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1653,12 +1535,11 @@
 
 
 
-　　　　　　　　　　　　　　　　寂静裙角沿袭看不清哪个是你</message>
-    <times>2010-01-14 20:03:57</times>
-  </data>
-  <data>
-    <playTime>82.7</playTime>
-    <message fontsize="15" color="16711680" mode="5">　　
+　　　　　　　　　　　　　　　　寂静裙角沿袭看不清哪个是你</text>
+	<attr id="0" playtime="82.7" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="1014802465" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　
 
 
 
@@ -1682,31 +1563,11 @@
 
 
 
-　　　　　　　　　　　　　　　　寂静裙角沿袭看不清哪个是你</message>
-    <times>2010-01-14 20:04:35</times>
-  </data>
-  <data>
-    <playTime>85.9</playTime>
-    <message fontsize="25" color="0" mode="4">　
-
-　幼　　　　　　　　　　　　　　　　　　
-　小
-　的
-　臉
-　頰
-　浸
-　染
-　朱
-　紅
-
-
-
-　　</message>
-    <times>2010-01-14 20:33:43</times>
-  </data>
-  <data>
-    <playTime>85.9</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　　　　　　　　　　　　　　　　寂静裙角沿袭看不清哪个是你</text>
+	<attr id="0" playtime="82.7" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1560995400" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 　幼　　　　　　　　　　　　　　　　　　
 　小
@@ -1720,12 +1581,29 @@
 
 
 
-　</message>
-    <times>2010-01-14 20:34:58</times>
-  </data>
-  <data>
-    <playTime>85.9</playTime>
-    <message fontsize="15" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="85.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="981547458" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
+
+　幼　　　　　　　　　　　　　　　　　　
+　小
+　的
+　臉
+　頰
+　浸
+　染
+　朱
+　紅
+
+
+
+　</text>
+	<attr id="0" playtime="85.9" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="416643763" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1749,12 +1627,11 @@
 
 
 
-臉孔依然稚氣滲出鮮甜氣息　　　　　　　　　　　　</message>
-    <times>2010-01-14 21:23:58</times>
-  </data>
-  <data>
-    <playTime>85.9</playTime>
-    <message fontsize="15" color="16711680" mode="5">　
+臉孔依然稚氣滲出鮮甜氣息　　　　　　　　　　　　</text>
+	<attr id="0" playtime="85.9" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="537130596" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1778,12 +1655,11 @@
 
 
 　
-臉孔依然稚氣滲出鮮甜氣息　　　　　　　　　　　　</message>
-    <times>2010-01-14 21:46:48</times>
-  </data>
-  <data>
-    <playTime>88.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+臉孔依然稚氣滲出鮮甜氣息　　　　　　　　　　　　</text>
+	<attr id="0" playtime="85.9" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1162480046" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1797,12 +1673,11 @@
 
 
 
-　</message>
-    <times>2010-01-14 21:58:08</times>
-  </data>
-  <data>
-    <playTime>88.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="88.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="951294124" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1816,12 +1691,11 @@
 　　　自　　　　　　　　　　　　　　　　
 　　　由
 
-　</message>
-    <times>2010-01-14 22:02:47</times>
-  </data>
-  <data>
-    <playTime>88.8</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="88.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="863977698" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1835,12 +1709,11 @@
 
 
 
-　</message>
-    <times>2010-01-14 22:05:26</times>
-  </data>
-  <data>
-    <playTime>88.8</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="88.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1326498089" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1854,12 +1727,11 @@
 　　　█　　　　　　　　　　　　　　　　
 　　　█
 
-　</message>
-    <times>2010-01-14 22:07:22</times>
-  </data>
-  <data>
-    <playTime>88.8</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="88.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1933385796" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1873,12 +1745,11 @@
 　　　自　　　　　　　　　　　　　　　　
 　　　由
 
-　</message>
-    <times>2010-01-14 22:08:37</times>
-  </data>
-  <data>
-    <playTime>88.8</playTime>
-    <message fontsize="15" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="88.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1931350461" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -1902,12 +1773,11 @@
 
 
 
-　　　　　　　　　　　　痛苦侵袭脚底被割碎的痕迹</message>
-    <times>2010-01-14 22:10:26</times>
-  </data>
-  <data>
-    <playTime>88.8</playTime>
-    <message fontsize="15" color="0" mode="5">　　
+　　　　　　　　　　　　痛苦侵袭脚底被割碎的痕迹</text>
+	<attr id="0" playtime="88.8" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="1014549108" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　
 
 
 
@@ -1931,12 +1801,11 @@
 
 
 
-　　　　　　　　　　　　痛苦侵袭脚底被割碎的痕迹</message>
-    <times>2010-01-14 22:10:57</times>
-  </data>
-  <data>
-    <playTime>88.8</playTime>
-    <message fontsize="15" color="16711680" mode="5">　　　
+　　　　　　　　　　　　痛苦侵袭脚底被割碎的痕迹</text>
+	<attr id="0" playtime="88.8" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="951946840" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　　
 
 
 
@@ -1960,12 +1829,11 @@
 
 
 
-　　　　　　　　　　　　痛苦侵袭脚底被割碎的痕迹</message>
-    <times>2010-01-14 22:14:29</times>
-  </data>
-  <data>
-    <playTime>105.2</playTime>
-    <message fontsize="25" color="16711680" mode="5">　　
+　　　　　　　　　　　　痛苦侵袭脚底被割碎的痕迹</text>
+	<attr id="0" playtime="88.8" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1973563818" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　　
 
 
 
@@ -1979,12 +1847,11 @@
 
 
 
-　</message>
-    <times>2010-01-14 22:22:44</times>
-  </data>
-  <data>
-    <playTime>105.2</playTime>
-    <message fontsize="15" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="105.2" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="200358041" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -2008,12 +1875,11 @@
 
 
 
-「这份思念究竟该如何能传递？」</message>
-    <times>2010-01-14 22:35:01</times>
-  </data>
-  <data>
-    <playTime>111.4</playTime>
-    <message fontsize="15" color="16711680" mode="5">　
+「这份思念究竟该如何能传递？」</text>
+	<attr id="0" playtime="105.2" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1202595934" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -2037,12 +1903,11 @@
 
 
 
-「这双眼眸之中映出的还会是谁人身影？」</message>
-    <times>2010-01-14 22:36:54</times>
-  </data>
-  <data>
-    <playTime>111.4</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+「这双眼眸之中映出的还会是谁人身影？」</text>
+	<attr id="0" playtime="111.4" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1105510225" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -2056,12 +1921,11 @@
 
 
 
-　</message>
-    <times>2010-01-14 22:37:35</times>
-  </data>
-  <data>
-    <playTime>117.8</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="111.4" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1754388006" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -2075,12 +1939,11 @@
 
 
 
-　</message>
-    <times>2010-01-14 22:42:30</times>
-  </data>
-  <data>
-    <playTime>117.8</playTime>
-    <message fontsize="15" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="117.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="344884178" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -2104,12 +1967,11 @@
 
 
 
-「是不是他狠狠捏碎了你的心？」</message>
-    <times>2010-01-14 22:46:37</times>
-  </data>
-  <data>
-    <playTime>120.6</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+「是不是他狠狠捏碎了你的心？」</text>
+	<attr id="0" playtime="117.8" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1271561764" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -2123,12 +1985,11 @@
 
 
 
-　</message>
-    <times>2010-01-14 22:49:51</times>
-  </data>
-  <data>
-    <playTime>120.6</playTime>
-    <message fontsize="15" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="120.6" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1604985440" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -2152,12 +2013,11 @@
 
 
 
-「碎裂之后是否就不能再粘起？」</message>
-    <times>2010-01-14 22:53:31</times>
-  </data>
-  <data>
-    <playTime>123.9</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+「碎裂之后是否就不能再粘起？」</text>
+	<attr id="0" playtime="120.6" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1952431117" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -2171,12 +2031,11 @@
 
 
 
-　</message>
-    <times>2010-01-14 23:07:38</times>
-  </data>
-  <data>
-    <playTime>123.9</playTime>
-    <message fontsize="15" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="123.9" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1238903622" poolid="1" userhash="deadbeef" sendtime="1321635781">
+	<text>　
 
 
 
@@ -2200,7 +2059,7 @@
 
 
 
-「这份伤痛到底应该如何平息？」</message>
-    <times>2010-01-14 23:08:19</times>
-  </data>
-</information>
+「这份伤痛到底应该如何平息？」</text>
+	<attr id="0" playtime="123.9" mode="5" fontsize="15" color="16711680"/>
+</comment>
+</comments>

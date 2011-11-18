@@ -1,19 +1,20 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
 DP_P0=acold
-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+PartPlayer_P1=acold
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=aUser
 cauthor=aUser
 charset=UTF-8
 csum=
 ctime=1296019140
-host=114.243.109.239
-keywords=音乐,niconico,vocaloid,歌ってみた,镜音,96猫 
+host=127.0.0.1
+keywords=音乐,niconico,vocaloid,歌ってみた,镜音,96猫
 name=Acfun2.1180
-rev=2
+rev=4
 targets=Category.音乐,Category.Niconico,Category.Vocaloid,Category.歌ってみた,Category.镜音,Category.96猫
 text=(:VideoStr:45079342:)%0a(:title 【野生弟弟96猫】鏡音「對二氯苯」翻唱 :)%0a(:keywords 音乐,niconico,vocaloid,歌ってみた,镜音,96猫 :)%0a(:sourcelink:http://124.228.254.229/html/music/20110120/167726.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
-time=1296019384
-title=【野生弟弟96猫】鏡音「對二氯苯」翻唱 
+time=1321637362
+title=【野生弟弟96猫】鏡音「對二氯苯」翻唱
 author:1296019384=aUser
 diff:1296019384:1296019140:=
 host:1296019384=114.243.109.239

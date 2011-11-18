@@ -1,125 +1,495 @@
-<?xml version="1.0" encoding="UTF-8"?><i><chatserver>ct.bilibili.us</chatserver><chatid>86510</chatid>
-<d p="16.6,7,18,16711680,1295270195,0,8e70bfa8,11376442">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;4.50&quot;,&quot;夢見た続きはここから&quot;]</d>
-<d p="20.2,7,18,16711680,1295270207,0,8e70bfa8,11376462">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;4.00&quot;,&quot;キラキラした僕の声を&quot;]</d>
-<d p="23.8,7,18,16711680,1295270224,0,8e70bfa8,11376487">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;5&quot;,&quot;あげるよ、あげたらキミから笑って&quot;]</d>
-<d p="31.2,7,18,16711680,1295270233,0,8e70bfa8,11376502">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;気づけばトビラの向こうに &quot;]</d>
-<d p="38.6,7,18,16711680,1295270253,0,8e70bfa8,11376530">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;つながる二人の距離が縮まってく&quot;]</d>
-<d p="34.9,7,18,16711680,1295270255,0,8e70bfa8,11376531">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;動きだしたメロディーライン&quot;]</d>
-<d p="45.5,7,18,16711680,1295270275,0,8e70bfa8,11376555">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;二人今、口ずさむの&quot;]</d>
-<d p="49.2,7,18,16711680,1295270284,0,8e70bfa8,11376566">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;ドラマチックなメロディー &quot;]</d>
-<d p="52.8,7,18,16711680,1295270291,0,8e70bfa8,11376575">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;めくりめく時の中で&quot;]</d>
-<d p="56.5,7,18,16711680,1295270313,0,8e70bfa8,11376608">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;すべてを見つめて&quot;]</d>
-<d p="60.8,7,18,16711680,1295270322,0,8e70bfa8,11376623">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;everything's gonna be allright!! &quot;]</d>
-<d p="64.6,7,18,16711680,1295270329,0,8e70bfa8,11376633">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;色とりどりのメモリー&quot;]</d>
-<d p="67.9,7,18,16711680,1295270338,0,8e70bfa8,11376643">[&quot;16&quot;,&quot;347&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;I wanna sing a song&quot;]</d>
-<d p="69.4,7,18,16711680,1295270349,0,8e70bfa8,11376659">[&quot;215&quot;,&quot;360&quot;,&quot;1.00-1.00&quot;,&quot;3.5&quot;,&quot;今なら時を超えてもっと！！ &quot;]</d>
-<d p="75.4,7,18,16711680,1295270366,0,8e70bfa8,11376687">[&quot;9&quot;,&quot;356&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;everything's gonna be allright!! &quot;]</d>
-<d p="78.9,7,18,16711680,1295270374,0,8e70bfa8,11376703">[&quot;9&quot;,&quot;356&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;諦めたくはないんだ&quot;]</d>
-<d p="82.4,7,18,16711680,1295270383,0,8e70bfa8,11376714">[&quot;9&quot;,&quot;356&quot;,&quot;1.00-1.00&quot;,&quot;2&quot;,&quot;I wanna sing a song &quot;]</d>
-<d p="84.3,7,18,16711680,1295270390,0,8e70bfa8,11376724">[&quot;9&quot;,&quot;356&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;ここから新しい世界へ！！&quot;]</d>
-<d p="104.8,7,18,16711680,1295270411,0,8e70bfa8,11376754">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;瞳を閉じれば思い出&quot;]</d>
-<d p="108,7,18,16711680,1295270424,0,8e70bfa8,11376775">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;歩き出せばキミの笑顔 &quot;]</d>
-<d p="111.7,7,18,16711680,1295270433,0,8e70bfa8,11376793">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;いつしか僕らは未来を描きだす&quot;]</d>
-<d p="118.8,7,18,16711680,1295270444,0,8e70bfa8,11376811">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;二人今、感じてるの&quot;]</d>
-<d p="122.2,7,18,16711680,1295270451,0,8e70bfa8,11376822">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;流れ星のメロディー &quot;]</d>
-<d p="127.3,7,18,16711680,1295270462,0,8e70bfa8,11376848">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;つないだ手は離さないで&quot;]</d>
-<d p="130.1,7,18,16711680,1295270469,0,8e70bfa8,11376863">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;ここから始まる&quot;]</d>
-<d p="133.6,7,18,16711680,1295270476,0,8e70bfa8,11376866">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;everything's gonna be allright!! &quot;]</d>
-<d p="137.4,7,18,16711680,1295270484,0,8e70bfa8,11376883">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;色とりどりのメモリー &quot;]</d>
-<d p="141.1,7,18,16711680,1295270494,0,8e70bfa8,11376904">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;1.5&quot;,&quot;I wanna sing a song &quot;]</d>
-<d p="142.8,7,18,16711680,1295270501,0,8e70bfa8,11376915">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;今なら時を超えてもっと！！ &quot;]</d>
-<d p="148.5,7,18,16711680,1295270512,0,8e70bfa8,11376931">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;everything's gonna be allright!!&quot;]</d>
-<d p="152,7,18,16711680,1295270520,0,8e70bfa8,11376948">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;3&quot;,&quot;眩しいほど輝く &quot;]</d>
-<d p="155.7,7,18,16711680,1295270537,0,8e70bfa8,11376980">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;1.5&quot;,&quot;I wanna sing a song &quot;]</d>
-<d p="157.5,7,18,16711680,1295270538,0,8e70bfa8,11376984">[&quot;9&quot;,&quot;361&quot;,&quot;1.00-1.00&quot;,&quot;5&quot;,&quot;光が溢れる世界へ！！&quot;]</d>
-<d p="3.3,7,36,16711680,1295270624,0,8e70bfa8,11377117">[&quot;52&quot;,&quot;118&quot;,&quot;1.00-1.00&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;]</d>
-<d p="3.4,7,36,16711680,1295270651,0,8e70bfa8,11377166">[&quot;215&quot;,&quot;150&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;]</d>
-<d p="4.2,7,36,16711680,1295270658,0,8e70bfa8,11377180">[&quot;176&quot;,&quot;326&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;]</d>
-<d p="7,7,64,16776960,1295270697,0,8e70bfa8,11377237">[&quot;19&quot;,&quot;62&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;]</d>
-<d p="7.4,7,64,16776960,1295270706,0,8e70bfa8,11377252">[&quot;69&quot;,&quot;220&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;]</d>
-<d p="8,7,64,16776960,1295270716,0,8e70bfa8,11377282">[&quot;198&quot;,&quot;170&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;]</d>
-<d p="10.7,7,25,6750054,1295270744,0,8e70bfa8,11377341">[&quot;198&quot;,&quot;170&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="11.1,7,25,6750054,1295270763,0,8e70bfa8,11377370">[&quot;137&quot;,&quot;96&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;&quot;]</d>
-<d p="11.7,7,25,6750054,1295270770,0,8e70bfa8,11377386">[&quot;376&quot;,&quot;204&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;&quot;]</d>
-<d p="14.3,7,25,16711680,1295270804,0,8e70bfa8,11377458">[&quot;24&quot;,&quot;27&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;BilibiliBilibiliBilibiliBilibiliBilibiliBilibiliBilibiliBilibili&quot;,&quot;30&quot;,&quot;&quot;]</d>
-<d p="14.9,7,25,16711680,1295270828,0,8e70bfa8,11377502">[&quot;96&quot;,&quot;81&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;BilibiliBilibiliBilibiliBilibili&quot;,&quot;30&quot;,&quot;&quot;]</d>
-<d p="15.4,7,64,16711680,1295270854,0,8e70bfa8,11377536">[&quot;50&quot;,&quot;177&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;BILIBILI&quot;,&quot;30&quot;,&quot;&quot;]</d>
-<d p="0.3,7,36,16711680,1295270906,0,8e70bfa8,11377618">[&quot;4&quot;,&quot;10&quot;,&quot;1.00-0.1&quot;,&quot;3&quot;,&quot;　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n　┏━━━━━┓/n　┃弹幕BY:┃/n　┃█吾乃天朝┃/n　┃　　上国人┃/n　┗━━━━━┛/n　　        /n/n/n/n/n/n/n/n/n/n&quot;,&quot;0&quot;,&quot;&quot;]</d>
-<d p="164.6,7,36,16711680,1295271284,0,8e70bfa8,11378250">[&quot;136&quot;,&quot;40&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;]</d>
-<d p="164.8,7,36,16711680,1295271292,0,8e70bfa8,11378259">[&quot;194&quot;,&quot;123&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;]</d>
-<d p="165.4,7,64,16711680,1295271302,0,8e70bfa8,11378275">[&quot;254&quot;,&quot;276&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;]</d>
-<d p="5.7,1,25,16777215,1295271341,0,ecd3ac97,11378326">bilibili</d>
-<d p="14.3,1,25,16777215,1295271349,0,ecd3ac97,11378335">bilibili</d>
-<d p="168.1,7,36,13421772,1295271355,0,8e70bfa8,11378346">[&quot;88&quot;,&quot;82&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="168.1,7,36,13421772,1295271362,0,8e70bfa8,11378350">[&quot;169&quot;,&quot;226&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="168.7,7,36,13421772,1295271370,0,8e70bfa8,11378358">[&quot;257&quot;,&quot;201&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="169.1,7,36,13421772,1295271376,0,8e70bfa8,11378366">[&quot;256&quot;,&quot;53&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="169.7,7,64,13421772,1295271384,0,8e70bfa8,11378381">[&quot;103&quot;,&quot;152&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="171.7,7,16,6749952,1295271419,0,8e70bfa8,11378421">[&quot;103&quot;,&quot;152&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="172.3,7,25,6749952,1295271428,0,8e70bfa8,11378434">[&quot;187&quot;,&quot;188&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="172.8,7,45,6749952,1295271438,0,8e70bfa8,11378445">[&quot;362&quot;,&quot;92&quot;,&quot;1.00-0.1&quot;,&quot;0.3&quot;,&quot;Bilibili&quot;,&quot;30&quot;,&quot;0&quot;]</d>
-<d p="175.5,7,64,16711680,1295271479,0,8e70bfa8,11378510">[&quot;54&quot;,&quot;80&quot;,&quot;0.1-0.5&quot;,&quot;10&quot;,&quot;Bilibili&quot;]</d>
-<d p="162.9,7,36,16711680,1295271520,0,8e70bfa8,11378573">[&quot;5&quot;,&quot;11&quot;,&quot;1.0-0.1&quot;,&quot;3&quot;,&quot;　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n　┏━━━━━┓/n　┃弹幕BY:┃/n　┃█吾乃天朝┃/n　┃　　上国人┃/n　┗━━━━━┛/n　　        /n/n/n/n/n/n/n/n/n/n&quot;]</d>
-<d p="90,7,64,16711680,1295271727,0,8e70bfa8,11378815">[&quot;78&quot;,&quot;93&quot;,&quot;1.00-0.1&quot;,&quot;4.50&quot;,&quot;Bilibili&quot;]</d>
-<d p="90,7,64,16711680,1295271743,0,8e70bfa8,11378830">[&quot;242&quot;,&quot;271&quot;,&quot;0.1-1.00&quot;,&quot;4.50&quot;,&quot;Bilibili&quot;]</d>
-<d p="97.2,7,64,16711680,1295271772,0,8e70bfa8,11378864">[&quot;129&quot;,&quot;75&quot;,&quot;0.1-1.00&quot;,&quot;4.50&quot;,&quot;Bilibili&quot;]</d>
-<d p="97.2,7,64,16711680,1295271819,0,8e70bfa8,11378933">[&quot;395&quot;,&quot;192&quot;,&quot;0.1-1.00&quot;,&quot;4.50&quot;,&quot;ilibiliB&quot;,&quot;180&quot;,&quot;0&quot;]</d>
-<d p="6.4,1,25,16777215,1295272302,0,ecd3ac97,11379507">bilibili  bilibili  </d>
-<d p="13.9,1,25,16777215,1295272309,0,ecd3ac97,11379517">bilibili  </d>
-<d p="92,1,25,16777215,1295272387,0,ecd3ac97,11379649">bilibili  </d>
-<d p="98.3,1,25,16777215,1295272393,0,ecd3ac97,11379658">bilibili  </d>
-<d p="164.7,1,25,16777215,1295272460,0,ecd3ac97,11379766">bilibili  bilibili  bilibili  </d>
-<d p="170.4,1,25,16777215,1295272465,0,ecd3ac97,11379775">bilibili  </d>
-<d p="176.3,1,25,16777215,1295272471,0,ecd3ac97,11379781">bilibili  bilibili  </d>
-<d p="182.9,1,25,16777215,1295272478,0,ecd3ac97,11379790">bilibili  bilibili  bilibili  </d>
-<d p="188.7,1,25,16777215,1295272483,0,ecd3ac97,11379798">bilibili  </d>
-<d p="5.1,1,25,16777215,1295272682,0,ecd3ac97,11380120">bilibili  bilibili  </d>
-<d p="11.1,1,25,16777215,1295272688,0,ecd3ac97,11380135">bilibili  </d>
-<d p="121,1,25,16777215,1295273756,0,2feaf8ea,11381737">911君辛苦了啊，混蛋</d>
-<d p="7.2,1,25,16777215,1295276978,0,e45cbc41,11385735">BILIIBILI</d>
-<d p="17.4,1,25,16777215,1295276988,0,e45cbc41,11385746">bilibili</d>
-<d p="2.5,1,25,16777215,1295278041,0,ecd3ac97,11387167">bilibili</d>
-<d p="7.9,1,25,16777215,1295278046,0,ecd3ac97,11387172">bilibili</d>
-<d p="14,1,25,16777215,1295278052,0,ecd3ac97,11387180">bilibili</d>
-<d p="16.9,1,25,13421568,1295278654,0,1ff3c7a7,11387893">/n/n/n/n/n/n/n/n/n/n/n/n我的梦想，就从这里继续/n/n</d>
-<d p="20.9,1,25,13421568,1295278670,0,1ff3c7a7,11387909">/n/n/n/n/n/n/n/n/n/n/n/n把我闪闪发亮的歌声送给你/n/n</d>
-<d p="23.9,1,25,13421568,1295278681,0,1ff3c7a7,11387924">/n/n/n/n/n/n/n/n/n/n/n/n而你就回应给我一个笑容/n/n</d>
-<d p="32.3,1,25,13421568,1295278699,0,1ff3c7a7,11387949">/n/n/n/n/n/n/n/n/n/n/n/n若你注意到门的另一边/n/n</d>
-<d p="35.3,1,25,13421568,1295278729,0,1ff3c7a7,11387987">/n/n/n/n/n/n/n/n/n/n/n/n传来阵阵跃动的旋律/n/n</d>
-<d p="39,1,25,13421568,1295278742,0,1ff3c7a7,11388008">/n/n/n/n/n/n/n/n/n/n/n/n连接着两人的距离 就越来越近了吧/n/n</d>
-<d p="46.9,1,25,13421568,1295278756,0,1ff3c7a7,11388022">/n/n/n/n/n/n/n/n/n/n/n/n两人现在正哼唱着/n/n</d>
-<d p="10.3,1,25,16777215,1295278777,0,7dbab14a,11388051">bilibili.</d>
-<d p="49.8,1,25,13421568,1295278811,0,1ff3c7a7,11388092">/n/n/n/n/n/n/n/n/n/n/n/n浪漫的旋律/n/n</d>
-<d p="53,1,25,13421568,1295278892,0,1ff3c7a7,11388182">/n/n/n/n/n/n/n/n/n/n/n/n在周而复始的时光中/n/n</d>
-<d p="57.3,1,25,13421568,1295278903,0,1ff3c7a7,11388195">/n/n/n/n/n/n/n/n/n/n/n/n注视着一切/n/n</d>
-<d p="61.4,1,25,13421568,1295278927,0,1ff3c7a7,11388228">/n/n/n/n/n/n/n/n/n/n/n/nEverything gonna be alright!!/n/n</d>
-<d p="65.7,1,25,13421568,1295278942,0,1ff3c7a7,11388241">/n/n/n/n/n/n/n/n/n/n/n/n色彩缤纷的旋律/n/n</d>
-<d p="70,1,25,13421568,1295279010,0,1ff3c7a7,11388334">/n/n/n/n/n/n/n/n/n/n/n/nI wanna sing song 若是现在 能超越时空 更加地/n/n</d>
-<d p="76,1,25,13421568,1295279034,0,1ff3c7a7,11388366">/n/n/n/n/n/n/n/n/n/n/n/nEverything gonna be alright!!/n/n</d>
-<d p="79.5,1,25,13421568,1295279095,0,1ff3c7a7,11388431">/n/n/n/n/n/n/n/n/n/n/n/n令人目眩的光芒/n/n</d>
-<d p="82.9,1,25,13421568,1295279140,0,1ff3c7a7,11388497">/n/n/n/n/n/n/n/n/n/n/n/nI wanna sing song/n/n</d>
-<d p="85,1,25,13421568,1295279153,0,1ff3c7a7,11388515">/n/n/n/n/n/n/n/n/n/n/n/n直到光明 充满世界/n/n</d>
-<d p="105.2,1,25,13421568,1295279836,0,1ff3c7a7,11389425">/n/n/n/n/n/n/n/n/n/n/n/n若闭上双眼 就会想起/n/n</d>
-<d p="109.1,1,25,13421568,1295279857,0,1ff3c7a7,11389465">/n/n/n/n/n/n/n/n/n/n/n/n勇往直前就能见到你的笑容/n/n</d>
-<d p="112.7,1,25,13421568,1295279868,0,1ff3c7a7,11389490">/n/n/n/n/n/n/n/n/n/n/n/n描绘出终会到来的 我们的未来/n/n</d>
-<d p="119.9,1,25,13421568,1295279929,0,1ff3c7a7,11389571">/n/n/n/n/n/n/n/n/n/n/n/n两人现在正感觉到/n/n</d>
-<d p="123.3,1,25,13421568,1295279940,0,1ff3c7a7,11389579">/n/n/n/n/n/n/n/n/n/n/n/n 流星般的旋律/n/n</d>
-<d p="127.9,1,25,13421568,1295279954,0,1ff3c7a7,11389602">/n/n/n/n/n/n/n/n/n/n/n/n紧握着不放的双手/n/n</d>
-<d p="130.5,1,25,13421568,1295279964,0,1ff3c7a7,11389620">/n/n/n/n/n/n/n/n/n/n/n/n就从这里开始/n/n</d>
-<d p="134.8,1,25,13421568,1295279981,0,1ff3c7a7,11389643">/n/n/n/n/n/n/n/n/n/n/n/nEverything gonna be alright/n/n</d>
-<d p="138.1,1,25,13421568,1295280004,0,1ff3c7a7,11389681">/n/n/n/n/n/n/n/n/n/n/n/n七色彩虹般的旋律/n/n</d>
-<d p="142.2,1,25,13421568,1295280049,0,1ff3c7a7,11389722">/n/n/n/n/n/n/n/n/n/n/n/nI wanna sing a song 若是现在/n/n</d>
-<d p="144.3,1,25,13421568,1295280068,0,1ff3c7a7,11389738">/n/n/n/n/n/n/n/n/n/n/n/n能超越时空 更加地/n/n</d>
-<d p="149.3,1,25,13421568,1295280073,0,1ff3c7a7,11389745">/n/n/n/n/n/n/n/n/n/n/n/nEverything gonna be alright/n/n</d>
-<d p="153.1,1,25,13421568,1295280085,0,1ff3c7a7,11389761">/n/n/n/n/n/n/n/n/n/n/n/n令人目眩的光芒/n/n</d>
-<d p="157.2,1,25,13421568,1295280106,0,1ff3c7a7,11389788">/n/n/n/n/n/n/n/n/n/n/n/nI wanna sing song/n/n</d>
-<d p="159.1,1,25,13421568,1295280113,0,1ff3c7a7,11389799">/n/n/n/n/n/n/n/n/n/n/n/n直到光明 充满世界/n/n</d>
-<d p="168.6,1,25,13421568,1295280151,0,1ff3c7a7,11389841">中文字幕来源：http://www.youtube.com/watch?v=SWfn8NkhVw8</d>
-<d p="168.6,1,25,13421568,1295280198,0,1ff3c7a7,11389894">/n/n/n/n/n/n/n/n/n/n/n/n第一次做野生字幕，我还给看串行了，大家多包涵=。=/n/n</d>
-<d p="79.5,1,25,16711680,1295280400,0,1ff3c7a7,11390119">/n/n/n/n/n/n/n/n/n/n/n/n我不想要放弃 （字幕修正，之前的错了，对不起）/n/n</d>
-<d p="85.1,1,25,16711680,1295280453,0,1ff3c7a7,11390181">/n/n/n/n/n/n/n/n/n/n/n直到全新的世界（字幕修正，之前的错了，对不起）/n/n</d>
-<d p="190.6,5,25,10040064,1295280497,0,c0cb4225,11390234">                                                                                                BILIBILI</d>
-<d p="0.6,5,25,10040064,1295280557,0,c0cb4225,11390291">字幕君傲娇娘                                     字幕君傲娇娘                                            字幕君傲娇娘</d>
-<d p="26.7,1,25,16777215,1295297516,0,5213436e,11401961">わかむらP大神我信你呀</d>
-<d p="186.3,7,64,16711680,1295320837,0,8e70bfa8,11410399">[&quot;214&quot;,&quot;287&quot;,&quot;0.5-1.00&quot;,&quot;6&quot;,&quot;Bilibili&quot;]</d>
-</i>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1720840589" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","4.50","夢見た続きはここから"]</text>
+	<attr id="0" playtime="16.6" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="492992056" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","4.00","キラキラした僕の声を"]</text>
+	<attr id="0" playtime="20.2" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="732917669" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","5","あげるよ、あげたらキミから笑って"]</text>
+	<attr id="0" playtime="23.8" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="578981952" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","気づけばトビラの向こうに "]</text>
+	<attr id="0" playtime="31.2" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1483194922" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","つながる二人の距離が縮まってく"]</text>
+	<attr id="0" playtime="38.6" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1379458168" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","動きだしたメロディーライン"]</text>
+	<attr id="0" playtime="34.9" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1221932340" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","二人今、口ずさむの"]</text>
+	<attr id="0" playtime="45.5" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="2025999944" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","ドラマチックなメロディー "]</text>
+	<attr id="0" playtime="49.2" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1783218005" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","めくりめく時の中で"]</text>
+	<attr id="0" playtime="52.8" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="91004111" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","すべてを見つめて"]</text>
+	<attr id="0" playtime="56.5" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1398478157" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","everything's gonna be allright!! "]</text>
+	<attr id="0" playtime="60.8" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="288976789" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","色とりどりのメモリー"]</text>
+	<attr id="0" playtime="64.6" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="812540431" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["16","347","1.00-1.00","3.5","I wanna sing a song"]</text>
+	<attr id="0" playtime="67.9" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="897335627" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["215","360","1.00-1.00","3.5","今なら時を超えてもっと！！ "]</text>
+	<attr id="0" playtime="69.4" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="936854180" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","356","1.00-1.00","3","everything's gonna be allright!! "]</text>
+	<attr id="0" playtime="75.4" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="45345547" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","356","1.00-1.00","3","諦めたくはないんだ"]</text>
+	<attr id="0" playtime="78.9" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1036168810" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","356","1.00-1.00","2","I wanna sing a song "]</text>
+	<attr id="0" playtime="82.4" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="874322709" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","356","1.00-1.00","3","ここから新しい世界へ！！"]</text>
+	<attr id="0" playtime="84.3" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1982605143" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","瞳を閉じれば思い出"]</text>
+	<attr id="0" playtime="104.8" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="513160548" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","歩き出せばキミの笑顔 "]</text>
+	<attr id="0" playtime="108" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1940581302" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","いつしか僕らは未来を描きだす"]</text>
+	<attr id="0" playtime="111.7" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="2125976987" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","二人今、感じてるの"]</text>
+	<attr id="0" playtime="118.8" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1789536766" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","流れ星のメロディー "]</text>
+	<attr id="0" playtime="122.2" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1066085605" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","つないだ手は離さないで"]</text>
+	<attr id="0" playtime="127.3" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="2073673404" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","ここから始まる"]</text>
+	<attr id="0" playtime="130.1" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="2082796469" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","everything's gonna be allright!! "]</text>
+	<attr id="0" playtime="133.6" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1902288975" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","色とりどりのメモリー "]</text>
+	<attr id="0" playtime="137.4" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="2138848529" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","1.5","I wanna sing a song "]</text>
+	<attr id="0" playtime="141.1" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1560201167" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","今なら時を超えてもっと！！ "]</text>
+	<attr id="0" playtime="142.8" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1508282412" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","everything's gonna be allright!!"]</text>
+	<attr id="0" playtime="148.5" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="1703733478" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","3","眩しいほど輝く "]</text>
+	<attr id="0" playtime="152" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="2033229086" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","1.5","I wanna sing a song "]</text>
+	<attr id="0" playtime="155.7" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="817292973" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["9","361","1.00-1.00","5","光が溢れる世界へ！！"]</text>
+	<attr id="0" playtime="157.5" mode="7" fontsize="18" color="16711680"/>
+</comment>
+<comment id="565214836" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["52","118","1.00-1.00","0.3","Bilibili"]</text>
+	<attr id="0" playtime="3.3" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1249034524" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["215","150","1.00-0.1","0.3","Bilibili"]</text>
+	<attr id="0" playtime="3.4" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="683574494" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["176","326","1.00-0.1","0.3","Bilibili"]</text>
+	<attr id="0" playtime="4.2" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1651464815" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["19","62","1.00-0.1","0.3","Bilibili"]</text>
+	<attr id="0" playtime="7" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="1215025819" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["69","220","1.00-0.1","0.3","Bilibili"]</text>
+	<attr id="0" playtime="7.4" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="411545681" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["198","170","1.00-0.1","0.3","Bilibili"]</text>
+	<attr id="0" playtime="8" mode="7" fontsize="64" color="16776960"/>
+</comment>
+<comment id="637112578" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["198","170","1.00-0.1","0.3","Bilibili","30","0"]</text>
+	<attr id="0" playtime="10.7" mode="7" fontsize="25" color="6750054"/>
+</comment>
+<comment id="841790035" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["137","96","1.00-0.1","0.3","Bilibili","30",""]</text>
+	<attr id="0" playtime="11.1" mode="7" fontsize="25" color="6750054"/>
+</comment>
+<comment id="1384624388" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["376","204","1.00-0.1","0.3","Bilibili","30",""]</text>
+	<attr id="0" playtime="11.7" mode="7" fontsize="25" color="6750054"/>
+</comment>
+<comment id="43686427" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["24","27","1.00-0.1","0.3","BilibiliBilibiliBilibiliBilibiliBilibiliBilibiliBilibiliBilibili","30",""]</text>
+	<attr id="0" playtime="14.3" mode="7" fontsize="25" color="16711680"/>
+</comment>
+<comment id="317511594" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["96","81","1.00-0.1","0.3","BilibiliBilibiliBilibiliBilibili","30",""]</text>
+	<attr id="0" playtime="14.9" mode="7" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1455076495" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["50","177","1.00-0.1","0.3","BILIBILI","30",""]</text>
+	<attr id="0" playtime="15.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1733376955" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["4","10","1.00-0.1","3","　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n　┏━━━━━┓/n　┃弹幕BY:┃/n　┃█吾乃天朝┃/n　┃　　上国人┃/n　┗━━━━━┛/n　　        /n/n/n/n/n/n/n/n/n/n","0",""]</text>
+	<attr id="0" playtime="0.3" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="1358192021" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["136","40","1.00-0.1","0.3","Bilibili"]</text>
+	<attr id="0" playtime="164.6" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="423077013" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["194","123","1.00-0.1","0.3","Bilibili"]</text>
+	<attr id="0" playtime="164.8" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="54626520" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["254","276","1.00-0.1","0.3","Bilibili"]</text>
+	<attr id="0" playtime="165.4" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="937844011" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili</text>
+	<attr id="0" playtime="5.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1121591254" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili</text>
+	<attr id="0" playtime="14.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="407723481" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["88","82","1.00-0.1","0.3","Bilibili","30","0"]</text>
+	<attr id="0" playtime="168.1" mode="7" fontsize="36" color="13421772"/>
+</comment>
+<comment id="286987737" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["169","226","1.00-0.1","0.3","Bilibili","30","0"]</text>
+	<attr id="0" playtime="168.1" mode="7" fontsize="36" color="13421772"/>
+</comment>
+<comment id="807651594" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["257","201","1.00-0.1","0.3","Bilibili","30","0"]</text>
+	<attr id="0" playtime="168.7" mode="7" fontsize="36" color="13421772"/>
+</comment>
+<comment id="1117960779" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["256","53","1.00-0.1","0.3","Bilibili","30","0"]</text>
+	<attr id="0" playtime="169.1" mode="7" fontsize="36" color="13421772"/>
+</comment>
+<comment id="525466490" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["103","152","1.00-0.1","0.3","Bilibili","30","0"]</text>
+	<attr id="0" playtime="169.7" mode="7" fontsize="64" color="13421772"/>
+</comment>
+<comment id="1641575328" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["103","152","1.00-0.1","0.3","Bilibili","30","0"]</text>
+	<attr id="0" playtime="171.7" mode="7" fontsize="16" color="6749952"/>
+</comment>
+<comment id="1360542071" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["187","188","1.00-0.1","0.3","Bilibili","30","0"]</text>
+	<attr id="0" playtime="172.3" mode="7" fontsize="25" color="6749952"/>
+</comment>
+<comment id="1609372096" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["362","92","1.00-0.1","0.3","Bilibili","30","0"]</text>
+	<attr id="0" playtime="172.8" mode="7" fontsize="45" color="6749952"/>
+</comment>
+<comment id="1227350292" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["54","80","0.1-0.5","10","Bilibili"]</text>
+	<attr id="0" playtime="175.5" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="1104644397" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["5","11","1.0-0.1","3","　　　　　　　　　　　　　　　　　　　　　　　　　　　　/n/n/n/n　┏━━━━━┓/n　┃弹幕BY:┃/n　┃█吾乃天朝┃/n　┃　　上国人┃/n　┗━━━━━┛/n　　        /n/n/n/n/n/n/n/n/n/n"]</text>
+	<attr id="0" playtime="162.9" mode="7" fontsize="36" color="16711680"/>
+</comment>
+<comment id="285473497" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["78","93","1.00-0.1","4.50","Bilibili"]</text>
+	<attr id="0" playtime="90" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="124595589" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["242","271","0.1-1.00","4.50","Bilibili"]</text>
+	<attr id="0" playtime="90" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="543598382" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["129","75","0.1-1.00","4.50","Bilibili"]</text>
+	<attr id="0" playtime="97.2" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="525489727" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["395","192","0.1-1.00","4.50","ilibiliB","180","0"]</text>
+	<attr id="0" playtime="97.2" mode="7" fontsize="64" color="16711680"/>
+</comment>
+<comment id="990155612" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  bilibili  </text>
+	<attr id="0" playtime="6.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="702188541" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  </text>
+	<attr id="0" playtime="13.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="939728721" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  </text>
+	<attr id="0" playtime="92" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1247420015" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  </text>
+	<attr id="0" playtime="98.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1703058187" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  bilibili  bilibili  </text>
+	<attr id="0" playtime="164.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1979195388" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  </text>
+	<attr id="0" playtime="170.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="608014164" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  bilibili  </text>
+	<attr id="0" playtime="176.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2098859128" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  bilibili  bilibili  </text>
+	<attr id="0" playtime="182.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2120887601" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  </text>
+	<attr id="0" playtime="188.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="526262201" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  bilibili  </text>
+	<attr id="0" playtime="5.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2126500470" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili  </text>
+	<attr id="0" playtime="11.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1171640179" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>911君辛苦了啊，混蛋</text>
+	<attr id="0" playtime="121" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="640357918" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>BILIIBILI</text>
+	<attr id="0" playtime="7.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="251126310" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili</text>
+	<attr id="0" playtime="17.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="531335409" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili</text>
+	<attr id="0" playtime="2.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="392605591" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili</text>
+	<attr id="0" playtime="7.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="325606749" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili</text>
+	<attr id="0" playtime="14" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="834596172" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n我的梦想，就从这里继续/n/n</text>
+	<attr id="0" playtime="16.9" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1813064145" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n把我闪闪发亮的歌声送给你/n/n</text>
+	<attr id="0" playtime="20.9" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1149975747" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n而你就回应给我一个笑容/n/n</text>
+	<attr id="0" playtime="23.9" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1133648132" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n若你注意到门的另一边/n/n</text>
+	<attr id="0" playtime="32.3" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="706420910" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n传来阵阵跃动的旋律/n/n</text>
+	<attr id="0" playtime="35.3" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="258239474" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n连接着两人的距离 就越来越近了吧/n/n</text>
+	<attr id="0" playtime="39" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1373713880" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n两人现在正哼唱着/n/n</text>
+	<attr id="0" playtime="46.9" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="874623570" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>bilibili.</text>
+	<attr id="0" playtime="10.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="230421124" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n浪漫的旋律/n/n</text>
+	<attr id="0" playtime="49.8" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="952653887" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n在周而复始的时光中/n/n</text>
+	<attr id="0" playtime="53" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="205961637" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n注视着一切/n/n</text>
+	<attr id="0" playtime="57.3" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="182727304" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/nEverything gonna be alright!!/n/n</text>
+	<attr id="0" playtime="61.4" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="943783523" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n色彩缤纷的旋律/n/n</text>
+	<attr id="0" playtime="65.7" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="536669257" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/nI wanna sing song 若是现在 能超越时空 更加地/n/n</text>
+	<attr id="0" playtime="70" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="234053883" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/nEverything gonna be alright!!/n/n</text>
+	<attr id="0" playtime="76" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1240580117" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n令人目眩的光芒/n/n</text>
+	<attr id="0" playtime="79.5" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1872862678" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/nI wanna sing song/n/n</text>
+	<attr id="0" playtime="82.9" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1435268879" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n直到光明 充满世界/n/n</text>
+	<attr id="0" playtime="85" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="510357538" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n若闭上双眼 就会想起/n/n</text>
+	<attr id="0" playtime="105.2" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1460676492" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n勇往直前就能见到你的笑容/n/n</text>
+	<attr id="0" playtime="109.1" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1516935026" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n描绘出终会到来的 我们的未来/n/n</text>
+	<attr id="0" playtime="112.7" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1407570360" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n两人现在正感觉到/n/n</text>
+	<attr id="0" playtime="119.9" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="135369548" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n 流星般的旋律/n/n</text>
+	<attr id="0" playtime="123.3" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1699605341" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n紧握着不放的双手/n/n</text>
+	<attr id="0" playtime="127.9" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1034345740" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n就从这里开始/n/n</text>
+	<attr id="0" playtime="130.5" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1750032650" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/nEverything gonna be alright/n/n</text>
+	<attr id="0" playtime="134.8" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1117486760" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n七色彩虹般的旋律/n/n</text>
+	<attr id="0" playtime="138.1" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1694162897" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/nI wanna sing a song 若是现在/n/n</text>
+	<attr id="0" playtime="142.2" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1675554479" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n能超越时空 更加地/n/n</text>
+	<attr id="0" playtime="144.3" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="2030511805" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/nEverything gonna be alright/n/n</text>
+	<attr id="0" playtime="149.3" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1944540374" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n令人目眩的光芒/n/n</text>
+	<attr id="0" playtime="153.1" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="529507714" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/nI wanna sing song/n/n</text>
+	<attr id="0" playtime="157.2" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="1883279537" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n直到光明 充满世界/n/n</text>
+	<attr id="0" playtime="159.1" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="967210277" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>中文字幕来源：http://www.youtube.com/watch?v=SWfn8NkhVw8</text>
+	<attr id="0" playtime="168.6" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="2004794715" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n第一次做野生字幕，我还给看串行了，大家多包涵=。=/n/n</text>
+	<attr id="0" playtime="168.6" mode="1" fontsize="25" color="13421568"/>
+</comment>
+<comment id="855251052" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n/n我不想要放弃 （字幕修正，之前的错了，对不起）/n/n</text>
+	<attr id="0" playtime="79.5" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1905542877" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>/n/n/n/n/n/n/n/n/n/n/n直到全新的世界（字幕修正，之前的错了，对不起）/n/n</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1404333122" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>                                                                                                BILIBILI</text>
+	<attr id="0" playtime="190.6" mode="5" fontsize="25" color="10040064"/>
+</comment>
+<comment id="1256124469" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>字幕君傲娇娘                                     字幕君傲娇娘                                            字幕君傲娇娘</text>
+	<attr id="0" playtime="0.6" mode="5" fontsize="25" color="10040064"/>
+</comment>
+<comment id="163702724" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>わかむらP大神我信你呀</text>
+	<attr id="0" playtime="26.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2015176527" poolid="0" userhash="deadbeef" sendtime="1321632705">
+	<text>["214","287","0.5-1.00","6","Bilibili"]</text>
+	<attr id="0" playtime="186.3" mode="7" fontsize="64" color="16711680"/>
+</comment>
+</comments>

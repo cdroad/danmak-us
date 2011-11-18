@@ -22,7 +22,7 @@ abstract class VideoSourceBase
 			$this->danmakuId = $dataSource->source;
 		}
 		
-		if ($this->MutiAble && $dataSource != 1)
+		if ($this->MutiAble && $dataSource->PartIndex > 1)
 		{
 			$this->warpDanmakuId($dataSource);
 		}

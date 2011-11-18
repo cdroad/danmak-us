@@ -1,1 +1,132 @@
-﻿<?xml version="1.0" encoding="utf-8"?><information><data><playTime>0.1</playTime><message fontsize="72" color="16750848" mode="5">と　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="52" color="16750848" mode="5">　 あ　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="38" color="16737792" mode="5">　る 　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="68" color="16737792" mode="4">　弹　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="68" color="16724736" mode="4">　幕　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="78" color="16724736" mode="5">　の　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="78" color="16737792" mode="5">　■ 　　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="58" color="16777215" mode="4">　超　　　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="48" color="16737792" mode="5">　电　　　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="64" color="16724736" mode="4">　磁 　　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="82" color="16724736" mode="5">　炮 　　</message><times>2000-01-01 00:00:00</times></data><data><playTime>0.1</playTime><message fontsize="16" color="16724736" mode="5">　一　　　　　　　　　　二三四五　</message><times>2000-01-01 00:00:00</times></data></information>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="2068907564" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>と
+
+
+
+　</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="72" color="16750848"/>
+</comment>
+<comment id="76979480" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+ あ
+
+
+
+
+　</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="52" color="16750848"/>
+</comment>
+<comment id="1067248286" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+
+る 
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="38" color="16737792"/>
+</comment>
+<comment id="1877740112" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+
+弹
+
+
+　</text>
+	<attr id="0" playtime="0.1" mode="4" fontsize="68" color="16737792"/>
+</comment>
+<comment id="1021766454" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+
+
+幕
+
+　</text>
+	<attr id="0" playtime="0.1" mode="4" fontsize="68" color="16724736"/>
+</comment>
+<comment id="994648958" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+
+
+の
+　</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="78" color="16724736"/>
+</comment>
+<comment id="507949573" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+■ 　
+
+
+　</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="78" color="16737792"/>
+</comment>
+<comment id="95120706" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+
+超　　
+
+
+
+　</text>
+	<attr id="0" playtime="0.1" mode="4" fontsize="58" color="16777215"/>
+</comment>
+<comment id="273317144" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+
+
+电　　
+
+
+
+　</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="48" color="16737792"/>
+</comment>
+<comment id="106297587" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+
+
+磁 　
+
+　</text>
+	<attr id="0" playtime="0.1" mode="4" fontsize="64" color="16724736"/>
+</comment>
+<comment id="1001631144" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+
+
+炮 　
+　</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="82" color="16724736"/>
+</comment>
+<comment id="711330417" poolid="1" userhash="deadbeef" sendtime="1321635852">
+	<text>　
+
+
+
+
+
+
+
+
+
+一　　　　　　　　　　
+二
+三
+四
+五
+
+
+
+
+
+
+
+　</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="16" color="16724736"/>
+</comment>
+</comments>

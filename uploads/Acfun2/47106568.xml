@@ -1,28 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>1.8</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[作词：ゆよゆっぺ 作曲：ゆよゆっぺ 编曲：ゆよゆっぺ]]></message>
-    <times>2011-02-25 14:18:58</times>
-  </data>
-  <data>
-    <playTime>1.8</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[字幕:kagemi]]></message>
-    <times>2011-02-25 14:19:11</times>
-  </data>
-  <data>
-    <playTime>1.8</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[唄：evalia]]></message>
-    <times>2011-02-25 14:19:32</times>
-  </data>
-  <data>
-    <playTime>1.8</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[Ｌeia ]]></message>
-    <times>2011-02-25 14:19:38</times>
-  </data>
-  <data>
-    <playTime>12.3</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="302975108" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>作词：ゆよゆっぺ 作曲：ゆよゆっぺ 编曲：ゆよゆっぺ</text>
+	<attr id="0" playtime="1.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1102743185" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>字幕:kagemi</text>
+	<attr id="0" playtime="1.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="124460866" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>唄：evalia</text>
+	<attr id="0" playtime="1.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="539204545" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>Ｌeia </text>
+	<attr id="0" playtime="1.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1781378806" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text> 
 　
 　
 　
@@ -41,12 +36,11 @@
 　
 　
 　
-让我听见你的声音]]></message>
-    <times>2011-02-25 14:22:14</times>
-  </data>
-  <data>
-    <playTime>14.3</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[　　
+让我听见你的声音</text>
+	<attr id="0" playtime="12.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="228058129" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　
 　
 　
 　
@@ -65,12 +59,11 @@
 　
 　
 驱逐沉闷心情
-　]]></message>
-    <times>2011-02-25 14:23:06</times>
-  </data>
-  <data>
-    <playTime>16.2</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="14.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2197937" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -89,12 +82,11 @@
 　
 　
 　
-在虚伪的油画布上]]></message>
-    <times>2011-02-25 14:23:56</times>
-  </data>
-  <data>
-    <playTime>16.7</playTime>
-    <message fontsize="15" color="16711680" mode="4"><![CDATA[　
+在虚伪的油画布上</text>
+	<attr id="0" playtime="16.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="751701521" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　　
 　
@@ -113,17 +105,15 @@
 　
 　
 　
-　　　　油画布　]]></message>
-    <times>2011-02-25 14:25:16</times>
-  </data>
-  <data>
-    <playTime>19.3</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[将其涂满色彩]]></message>
-    <times>2011-02-25 14:25:47</times>
-  </data>
-  <data>
-    <playTime>20.2</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　　　油画布　</text>
+	<attr id="0" playtime="16.7" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1981720074" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>将其涂满色彩</text>
+	<attr id="0" playtime="19.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1569403197" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -135,12 +125,11 @@
 　
 　
 　
-██　　　　]]></message>
-    <times>2011-02-25 14:26:46</times>
-  </data>
-  <data>
-    <playTime>20.2</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
+██　　　　</text>
+	<attr id="0" playtime="20.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1491304768" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -152,12 +141,11 @@
 　
 　
 　
-今天　　　　]]></message>
-    <times>2011-02-25 14:27:16</times>
-  </data>
-  <data>
-    <playTime>21</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+今天　　　　</text>
+	<attr id="0" playtime="20.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="630704502" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -169,12 +157,11 @@
 　
 　
 　
-██████]]></message>
-    <times>2011-02-25 14:28:09</times>
-  </data>
-  <data>
-    <playTime>21</playTime>
-    <message fontsize="25" color="16711680" mode="4"><![CDATA[　
+██████</text>
+	<attr id="0" playtime="21" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="329318506" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -186,12 +173,11 @@
 　
 　
 　
-今天亦是如此]]></message>
-    <times>2011-02-25 14:28:32</times>
-  </data>
-  <data>
-    <playTime>21.2</playTime>
-    <message fontsize="25" color="16776960" mode="4"><![CDATA[　
+今天亦是如此</text>
+	<attr id="0" playtime="21" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="403054350" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -203,12 +189,11 @@
 　
 　
 　　
-今天亦是如此]]></message>
-    <times>2011-02-25 14:29:13</times>
-  </data>
-  <data>
-    <playTime>21.4</playTime>
-    <message fontsize="25" color="65535" mode="4"><![CDATA[　
+今天亦是如此</text>
+	<attr id="0" playtime="21.2" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="876663613" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -220,17 +205,15 @@
 　
 　
 　
-今天亦是如此]]></message>
-    <times>2011-02-25 14:29:44</times>
-  </data>
-  <data>
-    <playTime>7.1</playTime>
-    <message fontsize="37" color="16776960" mode="4"><![CDATA[狗眼瞎了！！！！]]></message>
-    <times>2011-02-25 14:37:32</times>
-  </data>
-  <data>
-    <playTime>21.8</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
+今天亦是如此</text>
+	<attr id="0" playtime="21.4" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="552335239" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>狗眼瞎了！！！！</text>
+	<attr id="0" playtime="7.1" mode="4" fontsize="37" color="16776960"/>
+</comment>
+<comment id="34469945" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -242,12 +225,11 @@
 　
 　
 　
-██████]]></message>
-    <times>2011-02-25 14:30:43</times>
-  </data>
-  <data>
-    <playTime>21.8</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+██████</text>
+	<attr id="0" playtime="21.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1201461685" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -259,17 +241,15 @@
 　
 　
 　
-今天亦是如此]]></message>
-    <times>2011-02-25 14:31:03</times>
-  </data>
-  <data>
-    <playTime>23.5</playTime>
-    <message fontsize="15" color="16711680" mode="5"><![CDATA[仿若触碰了]]></message>
-    <times>2011-02-25 14:32:43</times>
-  </data>
-  <data>
-    <playTime>23.7</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[　
+今天亦是如此</text>
+	<attr id="0" playtime="21.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1036078607" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>仿若触碰了</text>
+	<attr id="0" playtime="23.5" mode="5" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1746076004" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　██
 █　　█
@@ -288,12 +268,11 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 14:35:37</times>
-  </data>
-  <data>
-    <playTime>23.7</playTime>
-    <message fontsize="15" color="0" mode="4"><![CDATA[ 
+　</text>
+	<attr id="0" playtime="23.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1893947059" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text> 
 　
 　█没
 想　　有
@@ -310,12 +289,11 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 14:36:31</times>
-  </data>
-  <data>
-    <playTime>24.2</playTime>
-    <message fontsize="15" color="0" mode="4"><![CDATA[　　
+　</text>
+	<attr id="0" playtime="23.7" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="1597209134" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　
 　
 　█没
 想　　有
@@ -332,12 +310,11 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 14:37:51</times>
-  </data>
-  <data>
-    <playTime>24.2</playTime>
-    <message fontsize="15" color="0" mode="4"><![CDATA[ 
+　</text>
+	<attr id="0" playtime="24.2" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="1877682156" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text> 
 　
 　█没
 想　　有
@@ -356,12 +333,11 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 14:39:36</times>
-  </data>
-  <data>
-    <playTime>24.2</playTime>
-    <message fontsize="15" color="0" mode="4"><![CDATA[  
+　</text>
+	<attr id="0" playtime="24.2" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="1459912920" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>  
 　
 　██
 █　　█
@@ -378,12 +354,11 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 14:40:49</times>
-  </data>
-  <data>
-    <playTime>24.2</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[ 
+　</text>
+	<attr id="0" playtime="24.2" mode="4" fontsize="15" color="0"/>
+</comment>
+<comment id="2014932575" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text> 
 　
 　█没
 想　　有
@@ -400,32 +375,27 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 14:41:55</times>
-  </data>
-  <data>
-    <playTime>25.7</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[[唤作什么好呢]]]></message>
-    <times>2011-02-25 14:42:05</times>
-  </data>
-  <data>
-    <playTime>27.7</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[一如往常的温度]]></message>
-    <times>2011-02-25 14:42:12</times>
-  </data>
-  <data>
-    <playTime>31.1</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[在微笑吞噬完内脏之前]]></message>
-    <times>2011-02-25 14:42:18</times>
-  </data>
-  <data>
-    <playTime>36.9</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[将今日封锁起来吧]]></message>
-    <times>2011-02-25 14:42:41</times>
-  </data>
-  <data>
-    <playTime>38.9</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[ 
+　</text>
+	<attr id="0" playtime="24.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="670839993" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>[唤作什么好呢]</text>
+	<attr id="0" playtime="25.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="115581609" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>一如往常的温度</text>
+	<attr id="0" playtime="27.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1438449618" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>在微笑吞噬完内脏之前</text>
+	<attr id="0" playtime="31.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="189503223" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>将今日封锁起来吧</text>
+	<attr id="0" playtime="36.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1351695738" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text> 
  
 █
 █
@@ -437,12 +407,11 @@
 █
 █
 　
-　]]></message>
-    <times>2011-02-25 14:43:46</times>
-  </data>
-  <data>
-    <playTime>38.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[ 
+　</text>
+	<attr id="0" playtime="38.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1983228471" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text> 
 　
 驱
 驰
@@ -454,12 +423,11 @@
 灰
 色
 　
-　]]></message>
-    <times>2011-02-25 14:45:22</times>
-  </data>
-  <data>
-    <playTime>38.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="38.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="342632068" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 █
 █
@@ -471,12 +439,11 @@
 █
 █
 　
-　]]></message>
-    <times>2011-02-25 14:46:38</times>
-  </data>
-  <data>
-    <playTime>38.9</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="38.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="200024333" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 驱
 驰
@@ -488,12 +455,11 @@
 灰
 色
 　
-　]]></message>
-    <times>2011-02-25 14:47:58</times>
-  </data>
-  <data>
-    <playTime>38.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="38.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="789516119" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 驱
 驰
@@ -503,92 +469,75 @@
 一
 片
 灰
-色]]></message>
-    <times>2011-02-25 14:49:14</times>
-  </data>
-  <data>
-    <playTime>43.2</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[期冀以为空想]]></message>
-    <times>2011-02-25 14:50:01</times>
-  </data>
-  <data>
-    <playTime>46.2</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[萧条的谎言]]></message>
-    <times>2011-02-25 14:50:05</times>
-  </data>
-  <data>
-    <playTime>48.7</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[如是能够实现]]></message>
-    <times>2011-02-25 14:50:09</times>
-  </data>
-  <data>
-    <playTime>50.6</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[就去倾听更多吧]]></message>
-    <times>2011-02-25 14:50:12</times>
-  </data>
-  <data>
-    <playTime>51.6</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[从心中满溢出来]]></message>
-    <times>2011-02-25 14:50:16</times>
-  </data>
-  <data>
-    <playTime>54.2</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[镶嵌着爱恋]]></message>
-    <times>2011-02-25 14:50:20</times>
-  </data>
-  <data>
-    <playTime>56.1</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[重叠上你的声音]]></message>
-    <times>2011-02-25 14:50:26</times>
-  </data>
-  <data>
-    <playTime>58.3</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[遥远恍惚]]></message>
-    <times>2011-02-25 14:50:29</times>
-  </data>
-  <data>
-    <playTime>60.3</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[若为有形之物]]></message>
-    <times>2011-02-25 14:50:32</times>
-  </data>
-  <data>
-    <playTime>62.2</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[若渐变成崩坏之物]]></message>
-    <times>2011-02-25 14:50:35</times>
-  </data>
-  <data>
-    <playTime>64.4</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[我不需要这双眼]]></message>
-    <times>2011-02-25 14:50:38</times>
-  </data>
-  <data>
-    <playTime>66.5</playTime>
-    <message fontsize="15" color="16777215" mode="4"><![CDATA[将我包围住吧]]></message>
-    <times>2011-02-25 14:50:42</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="12583167" mode="1"><![CDATA[Ｌ　　Ｌ　　Ｌ　　Ｌ　　Ｌ　　]]></message>
-    <times>2011-02-25 14:52:51</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[Ｅ　　　Ｅ　　　Ｅ　　　Ｅ　　　Ｅ　　　]]></message>
-    <times>2011-02-25 14:53:07</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="65535" mode="1"><![CDATA[Ｉ　　　　Ｉ　　　　Ｉ　　　　Ｉ　　　　Ｉ　　　　]]></message>
-    <times>2011-02-25 14:53:14</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="16776960" mode="1"><![CDATA[Ａ　　　　　Ａ　　　　　Ａ　　　　　Ａ　　　　　Ａ　　　　　]]></message>
-    <times>2011-02-25 14:53:21</times>
-  </data>
-  <data>
-    <playTime>72.1</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+色</text>
+	<attr id="0" playtime="38.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="846861469" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>期冀以为空想</text>
+	<attr id="0" playtime="43.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="564094851" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>萧条的谎言</text>
+	<attr id="0" playtime="46.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1323109165" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>如是能够实现</text>
+	<attr id="0" playtime="48.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="333800588" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>就去倾听更多吧</text>
+	<attr id="0" playtime="50.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1701036678" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>从心中满溢出来</text>
+	<attr id="0" playtime="51.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2084305834" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>镶嵌着爱恋</text>
+	<attr id="0" playtime="54.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="2131260268" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>重叠上你的声音</text>
+	<attr id="0" playtime="56.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="519499751" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>遥远恍惚</text>
+	<attr id="0" playtime="58.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1825130517" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>若为有形之物</text>
+	<attr id="0" playtime="60.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1548882079" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>若渐变成崩坏之物</text>
+	<attr id="0" playtime="62.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="123816910" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>我不需要这双眼</text>
+	<attr id="0" playtime="64.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1113195498" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>将我包围住吧</text>
+	<attr id="0" playtime="66.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1714657859" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>Ｌ　　Ｌ　　Ｌ　　Ｌ　　Ｌ　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="220384154" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>Ｅ　　　Ｅ　　　Ｅ　　　Ｅ　　　Ｅ　　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1415412230" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>Ｉ　　　　Ｉ　　　　Ｉ　　　　Ｉ　　　　Ｉ　　　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="603257332" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>Ａ　　　　　Ａ　　　　　Ａ　　　　　Ａ　　　　　Ａ　　　　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1363731419" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -600,12 +549,11 @@
 　
 　
 　
-███████]]></message>
-    <times>2011-02-25 14:54:16</times>
-  </data>
-  <data>
-    <playTime>72.1</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
+███████</text>
+	<attr id="0" playtime="72.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="177499734" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -617,12 +565,11 @@
 　
 　
 　
-没有终末的幻想]]></message>
-    <times>2011-02-25 14:54:34</times>
-  </data>
-  <data>
-    <playTime>74</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
+没有终末的幻想</text>
+	<attr id="0" playtime="72.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="403574954" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -634,12 +581,11 @@
 　
 　
 　
-███████]]></message>
-    <times>2011-02-25 14:54:54</times>
-  </data>
-  <data>
-    <playTime>74</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+███████</text>
+	<attr id="0" playtime="74" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1682063940" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -651,12 +597,11 @@
 　
 　
 　
-悲伤的笑了出来]]></message>
-    <times>2011-02-25 14:55:12</times>
-  </data>
-  <data>
-    <playTime>76.5</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+悲伤的笑了出来</text>
+	<attr id="0" playtime="74" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="869939433" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -668,12 +613,11 @@
 　
 　
 　
-███████]]></message>
-    <times>2011-02-25 14:55:38</times>
-  </data>
-  <data>
-    <playTime>76.5</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
+███████</text>
+	<attr id="0" playtime="76.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1071173930" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -685,12 +629,11 @@
 　
 　
 　
-[换做什么好呢]]]></message>
-    <times>2011-02-25 14:55:58</times>
-  </data>
-  <data>
-    <playTime>76.5</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
+[换做什么好呢]</text>
+	<attr id="0" playtime="76.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1098909790" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -702,12 +645,11 @@
 　
 　
 　
-████████]]></message>
-    <times>2011-02-25 14:56:34</times>
-  </data>
-  <data>
-    <playTime>76.5</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+████████</text>
+	<attr id="0" playtime="76.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="181453374" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -719,12 +661,11 @@
 　
 　
 　
-［换做什么好呢］]]></message>
-    <times>2011-02-25 14:56:53</times>
-  </data>
-  <data>
-    <playTime>76.5</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+［换做什么好呢］</text>
+	<attr id="0" playtime="76.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1683137732" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -736,12 +677,11 @@
 　
 　
 　
-████████]]></message>
-    <times>2011-02-25 14:57:22</times>
-  </data>
-  <data>
-    <playTime>76.5</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
+████████</text>
+	<attr id="0" playtime="76.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="50537924" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -753,12 +693,11 @@
 　
 　
 　
-［唤做什么好呢］]]></message>
-    <times>2011-02-25 14:57:40</times>
-  </data>
-  <data>
-    <playTime>78.5</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
+［唤做什么好呢］</text>
+	<attr id="0" playtime="76.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="505631168" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -770,12 +709,11 @@
 　
 　
 　
-█████████]]></message>
-    <times>2011-02-25 14:58:09</times>
-  </data>
-  <data>
-    <playTime>78.5</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="78.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="903927987" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -787,12 +725,11 @@
 　
 　
 　
-鸣响的话语一片灰色]]></message>
-    <times>2011-02-25 14:58:29</times>
-  </data>
-  <data>
-    <playTime>82.3</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　　　　　　　　　　　　　　　　　　　
+鸣响的话语一片灰色</text>
+	<attr id="0" playtime="78.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1670095624" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　　　　　　　　　　　　　　　　　
 　
 　
 　
@@ -804,12 +741,11 @@
 　
 　
 
-　　　　　　　　　　　　　　　永远静静]]></message>
-    <times>2011-02-25 14:59:38</times>
-  </data>
-  <data>
-    <playTime>84.6</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　永远静静</text>
+	<attr id="0" playtime="82.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1272261370" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　　　　　　　　　　　　　　　　　
 　
 　
 　
@@ -821,17 +757,15 @@
 　
 　
 　
-停止呼吸]]></message>
-    <times>2011-02-25 15:00:04</times>
-  </data>
-  <data>
-    <playTime>87.7</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[将我留下]]></message>
-    <times>2011-02-25 15:00:13</times>
-  </data>
-  <data>
-    <playTime>89.4</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+停止呼吸</text>
+	<attr id="0" playtime="84.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="13421451" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>将我留下</text>
+	<attr id="0" playtime="87.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="157360140" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -841,135 +775,13 @@
 　
 　
 　
-　
-　
-████]]></message>
-    <times>2011-02-25 15:00:39</times>
-  </data>
-  <data>
-    <playTime>89.4</playTime>
-    <message fontsize="25" color="16711680" mode="4"><![CDATA[　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-　
-朝向绝望]]></message>
-    <times>2011-02-25 15:00:58</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　
-　
-]]></message>
-    <times>2011-02-25 15:01:58</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[时　　]]></message>
-    <times>2011-02-25 15:03:01</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[针　　　　]]></message>
-    <times>2011-02-25 15:03:05</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[的　　　　　　]]></message>
-    <times>2011-02-25 15:03:08</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[声　　　　　　　　]]></message>
-    <times>2011-02-25 15:03:11</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[音　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:03:15</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[若　　　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:03:18</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[是　　　　　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:03:22</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[停　　　　　　　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:03:25</times>
-  </data>
-  <data>
-    <playTime>111.3</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[止　　　　　　　　　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:03:30</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　]]></message>
-    <times>2011-02-25 15:04:28</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[这　　　　　　　　　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:04:42</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[个　　　　　　　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:04:45</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[世　　　　　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:04:50</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[界　　　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:04:53</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[便　　　　　　　　　　]]></message>
-    <times>2011-02-25 15:04:56</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[完　　　　　　　　]]></message>
-    <times>2011-02-25 15:04:59</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[结　　　　　　]]></message>
-    <times>2011-02-25 15:05:01</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[了　　　　]]></message>
-    <times>2011-02-25 15:05:05</times>
-  </data>
-  <data>
-    <playTime>113</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[啊　　]]></message>
-    <times>2011-02-25 15:05:08</times>
-  </data>
-  <data>
-    <playTime>115.1</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
 　
 　
+████</text>
+	<attr id="0" playtime="89.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1530381523" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -979,15 +791,95 @@
 　
 　
 　
-███████]]></message>
-    <times>2011-02-25 15:07:36</times>
-  </data>
-  <data>
-    <playTime>115.1</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　
 　
 　
+朝向绝望</text>
+	<attr id="0" playtime="89.4" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2005887683" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
+</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="374891906" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>时　　</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="740787514" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>针　　　　</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2082354389" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>的　　　　　　</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="773465945" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>声　　　　　　　　</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="349940389" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>音　　　　　　　　　　</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="600804858" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>若　　　　　　　　　　　　</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1793274830" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>是　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1513372188" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>停　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1727728981" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>止　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="111.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1055346387" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1926584564" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>这　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1054303816" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>个　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1085679433" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>世　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="316400130" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>界　　　　　　　　　　　　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="492024151" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>便　　　　　　　　　　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="329759171" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>完　　　　　　　　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="469676835" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>结　　　　　　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="871836849" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>了　　　　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1007237845" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>啊　　</text>
+	<attr id="0" playtime="113" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="848839966" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -996,15 +888,14 @@
 　
 　
 　
-單是祈願的話語]]></message>
-    <times>2011-02-25 15:08:03</times>
-  </data>
-  <data>
-    <playTime>117.4</playTime>
-    <message fontsize="25" color="0" mode="4"><![CDATA[　　
 　
 　
 　
+███████</text>
+	<attr id="0" playtime="115.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1569814747" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1013,15 +904,14 @@
 　
 　
 　
-███████]]></message>
-    <times>2011-02-25 15:08:26</times>
-  </data>
-  <data>
-    <playTime>117.4</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[　
 　
 　
 　
+單是祈願的話語</text>
+	<attr id="0" playtime="115.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1042714070" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　
 　
 　
 　
@@ -1030,12 +920,30 @@
 　
 　
 　
-不存在任何意義]]></message>
-    <times>2011-02-25 15:08:45</times>
-  </data>
-  <data>
-    <playTime>119.6</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+　
+　
+　
+███████</text>
+	<attr id="0" playtime="117.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1594892285" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+　
+不存在任何意義</text>
+	<attr id="0" playtime="117.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1536411751" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　　　再　　　
 　
 　
@@ -1047,12 +955,11 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 15:09:57</times>
-  </data>
-  <data>
-    <playTime>119.6</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="119.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2131308142" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　　　　　　笑　　　　　　
 　
 　
@@ -1064,12 +971,11 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 15:11:20</times>
-  </data>
-  <data>
-    <playTime>119.6</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　　
+　</text>
+	<attr id="0" playtime="119.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1530636047" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　
 　　　　　　　　　一　　　　　　　　　
 　
 　
@@ -1081,12 +987,11 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 15:11:53</times>
-  </data>
-  <data>
-    <playTime>119.6</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　　
+　</text>
+	<attr id="0" playtime="119.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="714431396" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　
 　　　　　　　　　　　　下　　　　　　　　　　　　
 　
 　
@@ -1098,12 +1003,11 @@
 　
 　
 　
-　]]></message>
-    <times>2011-02-25 15:12:23</times>
-  </data>
-  <data>
-    <playTime>121.7</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　　
+　</text>
+	<attr id="0" playtime="119.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1040963921" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　
 　
 　
 　
@@ -1111,47 +1015,39 @@
 祈
 求
 一
-下]]></message>
-    <times>2011-02-25 15:12:57</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　]]></message>
-    <times>2011-02-25 15:16:25</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　　　　　]]></message>
-    <times>2011-02-25 15:16:27</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　　　]]></message>
-    <times>2011-02-25 15:16:30</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="12583167" mode="1"><![CDATA[Ａ　　　　　Ａ　　　　　Ａ　　　　　Ａ　　　　　Ａ　　　　　]]></message>
-    <times>2011-02-25 15:16:50</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[Ｉ　　　　Ｉ　　　　Ｉ　　　　Ｉ　　　　Ｉ　　　　]]></message>
-    <times>2011-02-25 15:17:01</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="65535" mode="1"><![CDATA[Ｅ　　　Ｅ　　　Ｅ　　　Ｅ　　　Ｅ　　　]]></message>
-    <times>2011-02-25 15:17:10</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="16776960" mode="1"><![CDATA[Ｌ　　Ｌ　　Ｌ　　Ｌ　　Ｌ　　]]></message>
-    <times>2011-02-25 15:17:18</times>
-  </data>
-  <data>
-    <playTime>124.1</playTime>
-    <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+下</text>
+	<attr id="0" playtime="121.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1224102831" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1017922371" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="127282548" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="220569680" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>Ａ　　　　　Ａ　　　　　Ａ　　　　　Ａ　　　　　Ａ　　　　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="1193278746" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>Ｉ　　　　Ｉ　　　　Ｉ　　　　Ｉ　　　　Ｉ　　　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="826522551" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>Ｅ　　　Ｅ　　　Ｅ　　　Ｅ　　　Ｅ　　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="284454262" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>Ｌ　　Ｌ　　Ｌ　　Ｌ　　Ｌ　　</text>
+	<attr id="0" playtime="67.9" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2121763768" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1163,12 +1059,11 @@
 　
 　
 　
-██████████████]]></message>
-    <times>2011-02-25 15:18:31</times>
-  </data>
-  <data>
-    <playTime>124.1</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[　
+██████████████</text>
+	<attr id="0" playtime="124.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="665985891" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1180,182 +1075,147 @@
 　
 　
 　
-若是無法聽見不如乾脆將我扼殺]]></message>
-    <times>2011-02-25 15:18:50</times>
-  </data>
-  <data>
-    <playTime>128.1</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[讓我聽見你的聲音]]></message>
-    <times>2011-02-25 15:19:07</times>
-  </data>
-  <data>
-    <playTime>130.6</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[驅逐沉悶心情]]></message>
-    <times>2011-02-25 15:19:11</times>
-  </data>
-  <data>
-    <playTime>132.8</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[將虛偽的油畫布]]></message>
-    <times>2011-02-25 15:19:17</times>
-  </data>
-  <data>
-    <playTime>134.9</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[與你合葬]]></message>
-    <times>2011-02-25 15:19:21</times>
-  </data>
-  <data>
-    <playTime>137</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[若是無法留下你與我的證明]]></message>
-    <times>2011-02-25 15:19:29</times>
-  </data>
-  <data>
-    <playTime>141.1</playTime>
-    <message fontsize="25" color="16777215" mode="4"><![CDATA[留存溫度下將我扼殺]]></message>
-    <times>2011-02-25 15:19:35</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[  ]]></message>
-    <times>2011-02-25 15:27:29</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[    ]]></message>
-    <times>2011-02-25 15:27:31</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█████████████████████████]]></message>
-    <times>2011-02-25 15:27:49</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█████████████████████████ ]]></message>
-    <times>2011-02-25 15:28:00</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█████████████████████████]]></message>
-    <times>2011-02-25 15:28:10</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█████████████████████████ ]]></message>
-    <times>2011-02-25 15:28:17</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█████████████████████████]]></message>
-    <times>2011-02-25 15:28:21</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[    ]]></message>
-    <times>2011-02-25 15:28:24</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[     ]]></message>
-    <times>2011-02-25 15:28:25</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[   ]]></message>
-    <times>2011-02-25 15:28:27</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[        ]]></message>
-    <times>2011-02-25 15:28:29</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[          ]]></message>
-    <times>2011-02-25 15:28:31</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[   ]]></message>
-    <times>2011-02-25 15:28:33</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[██████]]></message>
-    <times>2011-02-25 15:28:43</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[██████　]]></message>
-    <times>2011-02-25 15:28:46</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[██████]]></message>
-    <times>2011-02-25 15:28:53</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[██████  ]]></message>
-    <times>2011-02-25 15:29:01</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[██████ ]]></message>
-    <times>2011-02-25 15:29:07</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[　　]]></message>
-    <times>2011-02-25 15:29:10</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[　　　]]></message>
-    <times>2011-02-25 15:29:12</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[　]]></message>
-    <times>2011-02-25 15:29:14</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[　　　]]></message>
-    <times>2011-02-25 15:29:16</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[　　]]></message>
-    <times>2011-02-25 15:29:18</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="16711680" mode="1"><![CDATA[　　　]]></message>
-    <times>2011-02-25 15:29:21</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█　█████　　　　██　　　███　　████]]></message>
-    <times>2011-02-25 15:29:29</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█　█████　██████　███　██　███]]></message>
-    <times>2011-02-25 15:29:33</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█　█████　　　　███　███　██　███]]></message>
-    <times>2011-02-25 15:29:37</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█　█████　██████　███　　　　███]]></message>
-    <times>2011-02-25 15:29:41</times>
-  </data>
-  <data>
-    <playTime>144.9</playTime>
-    <message fontsize="25" color="0" mode="1"><![CDATA[█　　　　██　　　　██　　　██　██　███]]></message>
-    <times>2011-02-25 15:29:46</times>
-  </data>
-</information>
+若是無法聽見不如乾脆將我扼殺</text>
+	<attr id="0" playtime="124.1" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1938195561" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>讓我聽見你的聲音</text>
+	<attr id="0" playtime="128.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="56700235" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>驅逐沉悶心情</text>
+	<attr id="0" playtime="130.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1836445692" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>將虛偽的油畫布</text>
+	<attr id="0" playtime="132.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="38922131" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>與你合葬</text>
+	<attr id="0" playtime="134.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="278630800" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>若是無法留下你與我的證明</text>
+	<attr id="0" playtime="137" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="287610062" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>留存溫度下將我扼殺</text>
+	<attr id="0" playtime="141.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="548830536" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>  </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="790320857" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>    </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1863211990" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█████████████████████████</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1425826234" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█████████████████████████ </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1346688693" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█████████████████████████</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="548077902" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█████████████████████████ </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1549949082" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█████████████████████████</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="234605531" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>    </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1627219126" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>     </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="135335614" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>   </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="379373913" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>        </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1919064216" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>          </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="498635307" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>   </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="709261259" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>██████</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1005241455" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>██████　</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1152551808" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>██████</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="17010109" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>██████  </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1133228139" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>██████ </text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1007135872" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="861586366" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1348653768" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1132514513" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="202825284" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1102706657" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="209599536" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█　█████　　　　██　　　███　　████</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1183076849" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█　█████　██████　███　██　███</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1318147292" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█　█████　　　　███　███　██　███</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1105782577" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█　█████　██████　███　　　　███</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1426174146" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>█　　　　██　　　　██　　　██　██　███</text>
+	<attr id="0" playtime="144.9" mode="1" fontsize="25" color="0"/>
+</comment>
+</comments>

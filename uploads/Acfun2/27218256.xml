@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>190</playTime>
-    <message fontsize="9" color="16776960" mode="mode">　　　　　　　　　　　　　　　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="387177185" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　　　　　　　　　　　　　　　
 　　　　　　　　　
 　　　　　　　　　　　　　
 
@@ -43,12 +42,11 @@
 
 　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>渣枫</times>
-  </data>
-  <data>
-    <playTime>190</playTime>
-    <message fontsize="9" color="13421823" mode="mode">　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="190" mode="mode" fontsize="9" color="16776960"/>
+</comment>
+<comment id="1373738111" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　　　　　　　　　　　　　
 
 
 
@@ -89,12 +87,11 @@
 
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>渣枫</times>
-  </data>
-  <data>
-    <playTime>190</playTime>
-    <message fontsize="9" color="16750848" mode="mode">　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="190" mode="mode" fontsize="9" color="13421823"/>
+</comment>
+<comment id="810700792" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　　　　　　　　　　　　　　　
 
 
 
@@ -135,12 +132,11 @@
 
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>渣枫</times>
-  </data>
-  <data>
-    <playTime>190</playTime>
-    <message fontsize="9" color="16724736" mode="mode">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="190" mode="mode" fontsize="9" color="16750848"/>
+</comment>
+<comment id="1791221588" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -181,12 +177,11 @@
 
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　　　　◥▇◤</message>
-    <times>渣枫</times>
-  </data>
-  <data>
-    <playTime>190</playTime>
-    <message fontsize="9" color="16711680" mode="mode">　　　　
+　　　　　　　　　　　　　　　　　　　　◥▇◤</text>
+	<attr id="0" playtime="190" mode="mode" fontsize="9" color="16724736"/>
+</comment>
+<comment id="2006725459" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　　　　
 
 
 
@@ -227,12 +222,11 @@
 
 　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>渣枫</times>
-  </data>
-  <data>
-    <playTime>190</playTime>
-    <message fontsize="9" color="10027008" mode="mode">　　　　　　　　　　　　　　　▂▆
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="190" mode="mode" fontsize="9" color="16711680"/>
+</comment>
+<comment id="694290143" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　　　　　　　　　　　　　　　▂▆
 　　　　　　　　　
 　　　　　　　　　　　　　▂█◤　　　　　　　　　　　　　▂▁
 
@@ -273,12 +267,11 @@
 
 　　　　　　　　　　　　　　　　　　　◥▇▇▇▉
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-　　　　　　　　　　　　　　　　　　　　◥▇◤</message>
-    <times>渣枫</times>
-  </data>
-  <data>
-    <playTime>1.2</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　　　　　　　　　　　　　　　　　　　◥▇◤</text>
+	<attr id="0" playtime="190" mode="mode" fontsize="9" color="10027008"/>
+</comment>
+<comment id="536762733" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 本
@@ -292,12 +285,11 @@
 
 
 
-　　　　　　　　　　</message>
-    <times>2009-12-20 08:42:52</times>
-  </data>
-  <data>
-    <playTime>1.6</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　　　　　　　　　</text>
+	<attr id="0" playtime="1.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="690041443" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 本
@@ -311,12 +303,11 @@
 
 
 
-　</message>
-    <times>2009-12-20 08:43:24</times>
-  </data>
-  <data>
-    <playTime>4</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="1.6" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="2078803280" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -330,12 +321,11 @@
 の
 
 
-　</message>
-    <times>2009-12-20 08:44:31</times>
-  </data>
-  <data>
-    <playTime>4</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1197453960" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -349,12 +339,11 @@
 の
 
 　
-　</message>
-    <times>2009-12-20 08:45:08</times>
-  </data>
-  <data>
-    <playTime>6</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="4" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="2055058627" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -368,12 +357,11 @@
 
 
 
-　</message>
-    <times>2009-12-20 08:46:22</times>
-  </data>
-  <data>
-    <playTime>6.5</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="984074910" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -387,12 +375,11 @@
 
 
 
-　　</message>
-    <times>2009-12-20 08:47:24</times>
-  </data>
-  <data>
-    <playTime>9.5</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="6.5" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1324452995" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -406,12 +393,11 @@
 
 
 
-　</message>
-    <times>2009-12-20 08:48:18</times>
-  </data>
-  <data>
-    <playTime>9.5</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="9.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1576458752" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -425,12 +411,11 @@
 
 
 
-　　</message>
-    <times>2009-12-20 08:48:37</times>
-  </data>
-  <data>
-    <playTime>12</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　　</text>
+	<attr id="0" playtime="9.5" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="1046289920" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -444,12 +429,11 @@ This is not a drill!
 
 
 
-　</message>
-    <times>2009-12-20 08:49:08</times>
-  </data>
-  <data>
-    <playTime>16.2</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="12" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="291328793" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 I say again!　　　　　　　　I say again!
@@ -463,12 +447,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 08:51:36</times>
-  </data>
-  <data>
-    <playTime>16.2</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="16.2" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="351830940" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -482,12 +465,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 08:51:57</times>
-  </data>
-  <data>
-    <playTime>16.2</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="16.2" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="260048270" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -501,12 +483,11 @@ I say again!　　　　　　　　I say again!
 
 
 I say again!　　　　　　　　I say again!
-　</message>
-    <times>2009-12-20 08:52:34</times>
-  </data>
-  <data>
-    <playTime>18.3</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="16.2" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="1584774555" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -520,12 +501,11 @@ a true love story!
 
 
 
-　</message>
-    <times>2009-12-20 08:53:48</times>
-  </data>
-  <data>
-    <playTime>22.1</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="18.3" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="1376389717" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 I say again!　　　　　　　　I say again!
@@ -539,12 +519,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 08:54:46</times>
-  </data>
-  <data>
-    <playTime>22.1</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="22.1" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="950233180" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -558,12 +537,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 08:55:06</times>
-  </data>
-  <data>
-    <playTime>22.1</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="22.1" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="807834779" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -577,12 +555,11 @@ I say again!　　　　　　　　I say again!
 
 
 I say again!　　　　　　　　I say again!
-　</message>
-    <times>2009-12-20 08:55:16</times>
-  </data>
-  <data>
-    <playTime>26.4</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="22.1" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="570191141" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 　　　　　　　　　突然告られちゃったぞ！
 
@@ -595,12 +572,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 08:56:04</times>
-  </data>
-  <data>
-    <playTime>28.8</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　</text>
+	<attr id="0" playtime="26.4" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="1660710363" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 　　　　　　　　　　　　　　どーしよ！
@@ -614,12 +590,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 08:56:41</times>
-  </data>
-  <data>
-    <playTime>30.3</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="28.8" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="1877447593" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 　　　　　　　　　　　　　　どーしよ！
@@ -633,12 +608,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 08:57:20</times>
-  </data>
-  <data>
-    <playTime>30.2</playTime>
-    <message fontsize="25" color="65484" mode="5">　
+　　</text>
+	<attr id="0" playtime="30.3" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="301511677" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 　　　　　　　　　　　　　どーしろと？
 
@@ -651,12 +625,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 08:58:27</times>
-  </data>
-  <data>
-    <playTime>31.9</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="30.2" mode="5" fontsize="25" color="65484"/>
+</comment>
+<comment id="392742049" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -670,12 +643,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 08:58:55</times>
-  </data>
-  <data>
-    <playTime>34.7</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="31.9" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="2048163624" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -689,12 +661,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 08:59:28</times>
-  </data>
-  <data>
-    <playTime>35.9</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="34.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1293078769" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -708,12 +679,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:00:29</times>
-  </data>
-  <data>
-    <playTime>37.7</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="35.9" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2075749464" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 　　　　　　　　突然なシチュエーション
 
@@ -727,12 +697,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:01:57</times>
-  </data>
-  <data>
-    <playTime>40.1</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="37.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1928229508" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 　　　　　　　　どーしよ！　　　　　　
@@ -746,12 +715,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:03:07</times>
-  </data>
-  <data>
-    <playTime>41.6</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="40.1" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1573619814" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 　　　　　　　　どーしよ！ドシロウト？
@@ -765,12 +733,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:03:21</times>
-  </data>
-  <data>
-    <playTime>43.3</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="41.6" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="834869779" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -784,12 +751,11 @@ I say again!　　　　　　　　I say again!
 
 あれはみんなが憧れの　　　　　　　　　
 
-　</message>
-    <times>2009-12-20 09:04:08</times>
-  </data>
-  <data>
-    <playTime>46.1</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="43.3" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="156260526" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -803,12 +769,11 @@ I say again!　　　　　　　　I say again!
 
 
 プリンスじゃ～ん！　　　　　　　　　　
-　</message>
-    <times>2009-12-20 09:04:27</times>
-  </data>
-  <data>
-    <playTime>48.7</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="46.1" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="951359266" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -822,12 +787,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:05:49</times>
-  </data>
-  <data>
-    <playTime>48.7</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="48.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1317321456" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -841,12 +805,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:06:07</times>
-  </data>
-  <data>
-    <playTime>51</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="48.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="221484692" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -860,12 +823,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:07:38</times>
-  </data>
-  <data>
-    <playTime>51</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="51" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1105104745" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -879,12 +841,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:08:04</times>
-  </data>
-  <data>
-    <playTime>54.2</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="51" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1317541169" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -898,12 +859,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:09:49</times>
-  </data>
-  <data>
-    <playTime>54.2</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="54.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="155601092" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 ミ
@@ -916,12 +876,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　　　　　　</message>
-    <times>2009-12-20 09:10:15</times>
-  </data>
-  <data>
-    <playTime>57.2</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　　　　　　</text>
+	<attr id="0" playtime="54.2" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1524539222" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 倾向と対策　　　　　　　　　　　　　　
 
@@ -935,12 +894,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:11:25</times>
-  </data>
-  <data>
-    <playTime>59.5</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="57.2" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="824818084" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 友达に闻くべし！　　　　　　　　　　　
@@ -954,12 +912,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:11:55</times>
-  </data>
-  <data>
-    <playTime>62.9</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="59.5" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="53719856" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -973,12 +930,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:12:40</times>
-  </data>
-  <data>
-    <playTime>63.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="62.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1142539148" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -992,12 +948,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:13:09</times>
-  </data>
-  <data>
-    <playTime>64</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="63.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="672422955" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1011,12 +966,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:13:45</times>
-  </data>
-  <data>
-    <playTime>64.2</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="64" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1137951322" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1030,12 +984,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:14:05</times>
-  </data>
-  <data>
-    <playTime>64.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="64.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2052339692" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1049,12 +1002,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:14:18</times>
-  </data>
-  <data>
-    <playTime>64.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="64.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="137320487" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1068,12 +1020,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:14:29</times>
-  </data>
-  <data>
-    <playTime>65.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="64.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1064227257" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1087,12 +1038,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:15:25</times>
-  </data>
-  <data>
-    <playTime>68.6</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="65.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="508291937" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 返
@@ -1106,12 +1056,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　　　　　　　　</message>
-    <times>2009-12-20 09:16:33</times>
-  </data>
-  <data>
-    <playTime>69.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　　　　　　　　　</text>
+	<attr id="0" playtime="68.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1013925829" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1125,12 +1074,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　　　　　</message>
-    <times>2009-12-20 09:17:33</times>
-  </data>
-  <data>
-    <playTime>71.1</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　　　　　　</text>
+	<attr id="0" playtime="69.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="235197617" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 と
@@ -1144,12 +1092,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　　　</message>
-    <times>2009-12-20 09:19:02</times>
-  </data>
-  <data>
-    <playTime>72.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　　　　</text>
+	<attr id="0" playtime="71.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="852478612" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1163,12 +1110,11 @@ I say again!　　　　　　　　I say again!
 ～
 
 
-　</message>
-    <times>2009-12-20 09:19:37</times>
-  </data>
-  <data>
-    <playTime>74.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="72.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2145416577" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1182,12 +1128,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:20:51</times>
-  </data>
-  <data>
-    <playTime>77.6</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="74.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1970018149" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1201,12 +1146,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:21:16</times>
-  </data>
-  <data>
-    <playTime>78.9</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="77.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="219514261" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1220,31 +1164,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-\おぃ/</message>
-    <times>2009-12-20 09:23:13</times>
-  </data>
-  <data>
-    <playTime>79.4</playTime>
-    <message fontsize="25" color="0" mode="4">　
-
-
-シンキングタイム
-
-
-
-
-
-
-
-
-
-
-　</message>
-    <times>2009-12-20 09:23:58</times>
-  </data>
-  <data>
-    <playTime>79.4</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+\おぃ/</text>
+	<attr id="0" playtime="78.9" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1849007579" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 シンキングタイム
@@ -1258,12 +1182,29 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:24:11</times>
-  </data>
-  <data>
-    <playTime>80.8</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="79.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1473157611" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
+
+
+シンキングタイム
+
+
+
+
+
+
+
+
+
+
+　　</text>
+	<attr id="0" playtime="79.4" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1597963210" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1277,12 +1218,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:24:42</times>
-  </data>
-  <data>
-    <playTime>80.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="80.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1041507497" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1296,12 +1236,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:24:58</times>
-  </data>
-  <data>
-    <playTime>80.8</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　</text>
+	<attr id="0" playtime="80.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1926744497" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1315,12 +1254,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　　</message>
-    <times>2009-12-20 09:25:11</times>
-  </data>
-  <data>
-    <playTime>80.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　　</text>
+	<attr id="0" playtime="80.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="126887448" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1334,12 +1272,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:25:23</times>
-  </data>
-  <data>
-    <playTime>80.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="80.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="589665615" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1353,12 +1290,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:25:40</times>
-  </data>
-  <data>
-    <playTime>80.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="80.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1587423299" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1372,12 +1308,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:25:53</times>
-  </data>
-  <data>
-    <playTime>80.8</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　　</text>
+	<attr id="0" playtime="80.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1204490840" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1391,12 +1326,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:26:18</times>
-  </data>
-  <data>
-    <playTime>82.5</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="80.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1513953881" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1410,12 +1344,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:26:49</times>
-  </data>
-  <data>
-    <playTime>82.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="82.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1502002647" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1429,12 +1362,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:27:06</times>
-  </data>
-  <data>
-    <playTime>83.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="82.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1473067816" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1448,12 +1380,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:27:46</times>
-  </data>
-  <data>
-    <playTime>84</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="83.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="512274365" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1467,12 +1398,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:28:04</times>
-  </data>
-  <data>
-    <playTime>85.4</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　</text>
+	<attr id="0" playtime="84" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="203459119" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 \分析/　　　　　　　　　　　　　　　
@@ -1486,12 +1416,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:29:03</times>
-  </data>
-  <data>
-    <playTime>86.3</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="85.4" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="45661847" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1505,12 +1434,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:30:39</times>
-  </data>
-  <data>
-    <playTime>86.4</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="86.3" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="718824353" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1524,12 +1452,11 @@ I say again!　　　　　　　　I say again!
 
 　　　　　　　　　　　　　　　\完了/
 
-　</message>
-    <times>2009-12-20 09:32:03</times>
-  </data>
-  <data>
-    <playTime>87.4</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="86.4" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1412056437" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1543,12 +1470,11 @@ I say again!　　　　　　　　I say again!
 
 さてさて…　　　　　　　　　　　　　　
 
-　</message>
-    <times>2009-12-20 09:32:22</times>
-  </data>
-  <data>
-    <playTime>89.5</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="87.4" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="149963387" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1562,12 +1488,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:33:30</times>
-  </data>
-  <data>
-    <playTime>89.5</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="89.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="584557011" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1581,12 +1506,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:33:41</times>
-  </data>
-  <data>
-    <playTime>93.3</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　</text>
+	<attr id="0" playtime="89.5" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="724197853" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 　　　　　　　　何がダメ何が得意かって
 
@@ -1600,12 +1524,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:34:28</times>
-  </data>
-  <data>
-    <playTime>96.2</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="93.3" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="238272093" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 　　　　本当は自分が一番知ってるんだよね
@@ -1619,12 +1542,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:34:55</times>
-  </data>
-  <data>
-    <playTime>99.3</playTime>
-    <message fontsize="25" color="65484" mode="4">　
+　</text>
+	<attr id="0" playtime="96.2" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1230404948" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1638,12 +1560,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:36:34</times>
-  </data>
-  <data>
-    <playTime>99.3</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="99.3" mode="4" fontsize="25" color="65484"/>
+</comment>
+<comment id="1569637899" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1657,12 +1578,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:36:54</times>
-  </data>
-  <data>
-    <playTime>100.7</playTime>
-    <message fontsize="25" color="65484" mode="4">　
+　</text>
+	<attr id="0" playtime="99.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1903755665" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1676,12 +1596,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:37:19</times>
-  </data>
-  <data>
-    <playTime>100.7</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="100.7" mode="4" fontsize="25" color="65484"/>
+</comment>
+<comment id="1739139244" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1695,12 +1614,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:37:42</times>
-  </data>
-  <data>
-    <playTime>102.2</playTime>
-    <message fontsize="25" color="65484" mode="4">　
+　</text>
+	<attr id="0" playtime="100.7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2100925715" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1714,12 +1632,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　▓▓▓　　　　　　　　　　　　　　　　</message>
-    <times>2009-12-20 09:38:06</times>
-  </data>
-  <data>
-    <playTime>102.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　▓▓▓　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="102.2" mode="4" fontsize="25" color="65484"/>
+</comment>
+<comment id="132405944" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1733,12 +1650,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　水绘Ｑ　　　　　　　　　　　　　　　　</message>
-    <times>2009-12-20 09:38:36</times>
-  </data>
-  <data>
-    <playTime>104.8</playTime>
-    <message fontsize="25" color="65484" mode="4">　
+　水绘Ｑ　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="102.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="48421220" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1752,12 +1668,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:39:07</times>
-  </data>
-  <data>
-    <playTime>104.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="104.8" mode="4" fontsize="25" color="65484"/>
+</comment>
+<comment id="527613532" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1771,12 +1686,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:39:40</times>
-  </data>
-  <data>
-    <playTime>106.2</playTime>
-    <message fontsize="25" color="65484" mode="4">　
+　</text>
+	<attr id="0" playtime="104.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1977164236" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1790,12 +1704,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:40:13</times>
-  </data>
-  <data>
-    <playTime>106.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="106.2" mode="4" fontsize="25" color="65484"/>
+</comment>
+<comment id="651645510" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1809,12 +1722,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:40:34</times>
-  </data>
-  <data>
-    <playTime>107.9</playTime>
-    <message fontsize="25" color="65484" mode="4">　
+　</text>
+	<attr id="0" playtime="106.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="61228439" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1828,12 +1740,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　　　　　　　　　　　　　　▓▓▓▓</message>
-    <times>2009-12-20 09:41:10</times>
-  </data>
-  <data>
-    <playTime>107.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　▓▓▓▓</text>
+	<attr id="0" playtime="107.9" mode="4" fontsize="25" color="65484"/>
+</comment>
+<comment id="1006412879" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1847,31 +1758,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　　　　　　　　　　　　　　新月冰冰</message>
-    <times>2009-12-20 09:41:29</times>
-  </data>
-  <data>
-    <playTime>112.9</playTime>
-    <message fontsize="25" color="0" mode="4">　
-
-
-
-でもこんなチャンス　
-
-
-
-
-
-
-
-
-
-　</message>
-    <times>2009-12-20 09:44:07</times>
-  </data>
-  <data>
-    <playTime>112.9</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　　　　　　　　　　　　　　新月冰冰</text>
+	<attr id="0" playtime="107.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2123051881" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1885,12 +1776,29 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:44:20</times>
-  </data>
-  <data>
-    <playTime>115.5</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="112.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1107496199" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
+
+
+
+でもこんなチャンス　
+
+
+
+
+
+
+
+
+
+　　</text>
+	<attr id="0" playtime="112.9" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="193327410" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1904,12 +1812,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:44:50</times>
-  </data>
-  <data>
-    <playTime>115.5</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="115.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2081274016" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1923,12 +1830,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:45:15</times>
-  </data>
-  <data>
-    <playTime>118.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="115.5" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="2077306320" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1942,12 +1848,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:45:51</times>
-  </data>
-  <data>
-    <playTime>118.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="118.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="881569461" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1961,12 +1866,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:46:03</times>
-  </data>
-  <data>
-    <playTime>121.7</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="118.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="323381427" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1980,12 +1884,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:47:07</times>
-  </data>
-  <data>
-    <playTime>121.7</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="121.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1406499249" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -1999,12 +1902,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:47:17</times>
-  </data>
-  <data>
-    <playTime>123.9</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="121.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="2105321736" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2018,12 +1920,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:48:03</times>
-  </data>
-  <data>
-    <playTime>123.9</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="123.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1353263431" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2037,12 +1938,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 09:48:22</times>
-  </data>
-  <data>
-    <playTime>127.2</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　</text>
+	<attr id="0" playtime="123.9" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1485153402" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2056,12 +1956,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:50:37</times>
-  </data>
-  <data>
-    <playTime>128.4</playTime>
-    <message fontsize="25" color="65280" mode="5">　
+　</text>
+	<attr id="0" playtime="127.2" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1280113402" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2075,12 +1974,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:51:26</times>
-  </data>
-  <data>
-    <playTime>128.5</playTime>
-    <message fontsize="25" color="65280" mode="5">　
+　</text>
+	<attr id="0" playtime="128.4" mode="5" fontsize="25" color="65280"/>
+</comment>
+<comment id="140302814" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2094,12 +1992,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:53:31</times>
-  </data>
-  <data>
-    <playTime>128.5</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="128.5" mode="5" fontsize="25" color="65280"/>
+</comment>
+<comment id="700524552" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2113,12 +2010,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:53:54</times>
-  </data>
-  <data>
-    <playTime>128.7</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="128.5" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1616003293" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2131,12 +2027,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:54:24</times>
-  </data>
-  <data>
-    <playTime>128.7</playTime>
-    <message fontsize="25" color="3394815" mode="5">　
+　</text>
+	<attr id="0" playtime="128.7" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="109550232" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2150,12 +2045,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:54:41</times>
-  </data>
-  <data>
-    <playTime>128.9</playTime>
-    <message fontsize="25" color="3394815" mode="5">　
+　</text>
+	<attr id="0" playtime="128.7" mode="5" fontsize="25" color="3394815"/>
+</comment>
+<comment id="2105615121" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2169,12 +2063,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:55:10</times>
-  </data>
-  <data>
-    <playTime>128.9</playTime>
-    <message fontsize="25" color="3407616" mode="5">　
+　</text>
+	<attr id="0" playtime="128.9" mode="5" fontsize="25" color="3394815"/>
+</comment>
+<comment id="1831236260" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2188,12 +2081,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:55:40</times>
-  </data>
-  <data>
-    <playTime>128.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="128.9" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="884624703" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2207,12 +2099,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:56:36</times>
-  </data>
-  <data>
-    <playTime>129.3</playTime>
-    <message fontsize="25" color="3407616" mode="5">　
+　</text>
+	<attr id="0" playtime="128.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="227580976" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2226,12 +2117,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:57:21</times>
-  </data>
-  <data>
-    <playTime>129.3</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="129.3" mode="5" fontsize="25" color="3407616"/>
+</comment>
+<comment id="1045049006" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2245,12 +2135,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:58:45</times>
-  </data>
-  <data>
-    <playTime>130.2</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="129.3" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1220394908" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 　　　　　　　　デートしてくれますか？
@@ -2264,12 +2153,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 09:59:43</times>
-  </data>
-  <data>
-    <playTime>132.9</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="130.2" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="280575327" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2283,12 +2171,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:00:43</times>
-  </data>
-  <data>
-    <playTime>132.9</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="132.9" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1642339955" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2302,12 +2189,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:01:21</times>
-  </data>
-  <data>
-    <playTime>132.9</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="132.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1169864527" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2321,12 +2207,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:01:35</times>
-  </data>
-  <data>
-    <playTime>135.6</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="132.9" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="786395825" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2340,12 +2225,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:02:23</times>
-  </data>
-  <data>
-    <playTime>135.6</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="135.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1000086290" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2359,12 +2243,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:02:35</times>
-  </data>
-  <data>
-    <playTime>137</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="135.6" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="59212776" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2378,12 +2261,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:03:05</times>
-  </data>
-  <data>
-    <playTime>137</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="137" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1918149523" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2397,12 +2279,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:03:18</times>
-  </data>
-  <data>
-    <playTime>139.1</playTime>
-    <message fontsize="25" color="65535" mode="4">　
+　　</text>
+	<attr id="0" playtime="137" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1004338037" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 　　　　　　　　　　　　グロスを涂って
 
@@ -2416,12 +2297,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:04:58</times>
-  </data>
-  <data>
-    <playTime>141.2</playTime>
-    <message fontsize="25" color="65535" mode="4">　
+　</text>
+	<attr id="0" playtime="139.1" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="1048212830" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 　　　　　　　　　　　　　アヒルの练习
@@ -2435,12 +2315,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:05:20</times>
-  </data>
-  <data>
-    <playTime>143.7</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="141.2" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="1205118020" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2455,12 +2334,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:06:19</times>
-  </data>
-  <data>
-    <playTime>143.7</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="143.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1588299413" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2474,12 +2352,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:06:29</times>
-  </data>
-  <data>
-    <playTime>145.3</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="143.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="889628853" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2493,12 +2370,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:07:01</times>
-  </data>
-  <data>
-    <playTime>145.3</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="145.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="296406426" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2512,12 +2388,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:07:15</times>
-  </data>
-  <data>
-    <playTime>145.3</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　　</text>
+	<attr id="0" playtime="145.3" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="989744527" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2531,12 +2406,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:07:34</times>
-  </data>
-  <data>
-    <playTime>146.7</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="145.3" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2081409502" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2550,12 +2424,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:08:14</times>
-  </data>
-  <data>
-    <playTime>146.7</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="146.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1551984299" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2569,12 +2442,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:08:26</times>
-  </data>
-  <data>
-    <playTime>148</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="146.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1924783151" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2588,12 +2460,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:09:00</times>
-  </data>
-  <data>
-    <playTime>148</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="148" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="640346977" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2607,12 +2478,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:09:11</times>
-  </data>
-  <data>
-    <playTime>149.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　</text>
+	<attr id="0" playtime="148" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1702005429" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2626,12 +2496,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:09:55</times>
-  </data>
-  <data>
-    <playTime>151</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="149.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="765048190" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2645,12 +2514,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:11:02</times>
-  </data>
-  <data>
-    <playTime>152.3</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="151" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="2072711057" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 　　　　　　　　　　　　　　　お休みー
@@ -2664,12 +2532,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:11:33</times>
-  </data>
-  <data>
-    <playTime>154.3</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="152.3" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="263787696" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2683,12 +2550,11 @@ I say again!　　　　　　　　I say again!
 
 
 全然眠れん……（泪　　　　　　　　　　
-　</message>
-    <times>2009-12-20 10:11:59</times>
-  </data>
-  <data>
-    <playTime>157.1</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="154.3" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1986500722" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 本番当日！　　　　　
@@ -2702,12 +2568,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:14:39</times>
-  </data>
-  <data>
-    <playTime>157.1</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="157.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="201746635" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 本番当日！　　　　　
@@ -2721,12 +2586,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:14:51</times>
-  </data>
-  <data>
-    <playTime>158.4</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="157.1" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="845464289" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2740,12 +2604,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:15:22</times>
-  </data>
-  <data>
-    <playTime>158.4</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="158.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="912285779" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2759,12 +2622,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:15:32</times>
-  </data>
-  <data>
-    <playTime>159.5</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="158.4" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="699146837" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2778,12 +2640,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:16:01</times>
-  </data>
-  <data>
-    <playTime>159.5</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="159.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1687562075" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2797,12 +2658,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:16:12</times>
-  </data>
-  <data>
-    <playTime>159.5</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="159.5" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="869356004" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2816,12 +2676,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:16:33</times>
-  </data>
-  <data>
-    <playTime>159.5</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="159.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1987579506" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2835,12 +2694,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:16:45</times>
-  </data>
-  <data>
-    <playTime>162.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　</text>
+	<attr id="0" playtime="159.5" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1763698557" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2854,12 +2712,11 @@ I say again!　　　　　　　　I say again!
 
 　　　　　　　　　　髪はぐしゃぐしゃ…
 
-　</message>
-    <times>2009-12-20 10:17:14</times>
-  </data>
-  <data>
-    <playTime>165.1</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="162.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1248983462" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2873,12 +2730,11 @@ I say again!　　　　　　　　I say again!
 
 
 　　　　　　　　　　　ヒールも折れた…
-　</message>
-    <times>2009-12-20 10:17:41</times>
-  </data>
-  <data>
-    <playTime>167.9</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="165.1" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1298857404" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2892,12 +2748,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:18:11</times>
-  </data>
-  <data>
-    <playTime>167.9</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="167.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="787386498" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2911,12 +2766,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:18:22</times>
-  </data>
-  <data>
-    <playTime>169.6</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="167.9" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="521869611" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2930,12 +2784,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:18:54</times>
-  </data>
-  <data>
-    <playTime>169.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="169.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="283505337" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2949,12 +2802,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:19:11</times>
-  </data>
-  <data>
-    <playTime>169.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　</text>
+	<attr id="0" playtime="169.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="343516712" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2968,12 +2820,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:19:24</times>
-  </data>
-  <data>
-    <playTime>170.7</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="169.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1265285495" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -2987,12 +2838,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:19:51</times>
-  </data>
-  <data>
-    <playTime>170.7</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="170.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1475407488" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3006,12 +2856,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:20:00</times>
-  </data>
-  <data>
-    <playTime>172</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="170.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="976128034" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3025,12 +2874,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:20:39</times>
-  </data>
-  <data>
-    <playTime>172</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="172" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1127920725" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3044,12 +2892,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:20:49</times>
-  </data>
-  <data>
-    <playTime>173.5</playTime>
-    <message fontsize="25" color="65535" mode="4">　
+　　</text>
+	<attr id="0" playtime="172" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="169650127" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 \いつもの/　　　　　　　　　　　　　　
@@ -3063,12 +2910,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:22:01</times>
-  </data>
-  <data>
-    <playTime>174.7</playTime>
-    <message fontsize="25" color="65535" mode="4">　
+　</text>
+	<attr id="0" playtime="173.5" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="1730695337" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3082,12 +2928,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:22:53</times>
-  </data>
-  <data>
-    <playTime>176.2</playTime>
-    <message fontsize="25" color="65535" mode="4">　
+　</text>
+	<attr id="0" playtime="174.7" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="121006014" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 　　　　　　　　　　　　\良かったって/
@@ -3101,12 +2946,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:23:31</times>
-  </data>
-  <data>
-    <playTime>178.1</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　</text>
+	<attr id="0" playtime="176.2" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="1936159250" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3120,12 +2964,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:24:16</times>
-  </data>
-  <data>
-    <playTime>178.1</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="178.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="551420545" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3139,22 +2982,19 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:24:29</times>
-  </data>
-  <data>
-    <playTime>9.5</playTime>
-    <message fontsize="25" color="16777215" mode="4">↓Nice！</message>
-    <times>2009-12-20 10:25:16</times>
-  </data>
-  <data>
-    <playTime>19.3</playTime>
-    <message fontsize="25" color="16777215" mode="4">↓Nice！ </message>
-    <times>2009-12-20 10:25:36</times>
-  </data>
-  <data>
-    <playTime>179.7</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="178.1" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1403567748" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>↓Nice！</text>
+	<attr id="0" playtime="9.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="18731246" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>↓Nice！ </text>
+	<attr id="0" playtime="19.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1316594914" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3168,17 +3008,15 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:25:25</times>
-  </data>
-  <data>
-    <playTime>23.7</playTime>
-    <message fontsize="25" color="16777215" mode="4">↑Nice！</message>
-    <times>2009-12-20 10:25:53</times>
-  </data>
-  <data>
-    <playTime>179.7</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="179.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1369183685" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>↑Nice！</text>
+	<attr id="0" playtime="23.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="895447770" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3192,12 +3030,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:25:36</times>
-  </data>
-  <data>
-    <playTime>182</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　</text>
+	<attr id="0" playtime="179.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="302625155" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3211,17 +3048,15 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:25:56</times>
-  </data>
-  <data>
-    <playTime>71.4</playTime>
-    <message fontsize="25" color="16777215" mode="4">←Nice！</message>
-    <times>2009-12-20 10:26:54</times>
-  </data>
-  <data>
-    <playTime>182</playTime>
-    <message fontsize="25" color="65535" mode="4">　
+　</text>
+	<attr id="0" playtime="182" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="98934606" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>←Nice！</text>
+	<attr id="0" playtime="71.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1882167332" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3235,12 +3070,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:26:38</times>
-  </data>
-  <data>
-    <playTime>184.8</playTime>
-    <message fontsize="25" color="0" mode="4">　
+　　</text>
+	<attr id="0" playtime="182" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="373978577" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3254,12 +3088,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:27:26</times>
-  </data>
-  <data>
-    <playTime>184.8</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="184.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1767527587" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3273,17 +3106,15 @@ I say again!　　　　　　　　I say again!
 
 
 
-　　</message>
-    <times>2009-12-20 10:27:38</times>
-  </data>
-  <data>
-    <playTime>124.5</playTime>
-    <message fontsize="25" color="3976193" mode="5">  ←Nice！</message>
-    <times>2009-12-20 10:28:28</times>
-  </data>
-  <data>
-    <playTime>187</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　　</text>
+	<attr id="0" playtime="184.8" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="889818111" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>  ←Nice！</text>
+	<attr id="0" playtime="124.5" mode="5" fontsize="25" color="3976193"/>
+</comment>
+<comment id="120249739" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 \yeah/　　　　　　　　　　　　　\yeah/
@@ -3297,12 +3128,11 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:28:50</times>
-  </data>
-  <data>
-    <playTime>187</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="187" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1043782480" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3316,17 +3146,15 @@ I say again!　　　　　　　　I say again!
 
 
 
-　</message>
-    <times>2009-12-20 10:28:57</times>
-  </data>
-  <data>
-    <playTime>182.1</playTime>
-    <message fontsize="25" color="3976193" mode="5">←Nice！就是这样</message>
-    <times>2009-12-20 10:29:18</times>
-  </data>
-  <data>
-    <playTime>187</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+　</text>
+	<attr id="0" playtime="187" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="665732869" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>←Nice！就是这样</text>
+	<attr id="0" playtime="182.1" mode="5" fontsize="25" color="3976193"/>
+</comment>
+<comment id="231251491" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3340,12 +3168,11 @@ I say again!　　　　　　　　I say again!
 
 
 \yeah/　　　　　　　　　　　　　\yeah/
-　</message>
-    <times>2009-12-20 10:29:10</times>
-  </data>
-  <data>
-    <playTime>188.8</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="187" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="52688662" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3359,12 +3186,11 @@ Merry Christmas
 
 
 
-　</message>
-    <times>2009-12-20 10:32:43</times>
-  </data>
-  <data>
-    <playTime>188.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="188.8" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="689334513" poolid="1" userhash="deadbeef" sendtime="1321635774">
+	<text>　
 
 
 
@@ -3378,7 +3204,7 @@ Merry Christmas
 
 
 
-　　</message>
-    <times>2009-12-20 10:33:19</times>
-  </data>
-</information>
+　　</text>
+	<attr id="0" playtime="188.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+</comments>

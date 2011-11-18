@@ -1,98 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>11</playTime>
-    <message fontsize="25" color="16777215" mode="5">星(ほし)を廻(まわ)せ世界(せかい)    のまんなかで</message>
-    <times>2010-01-21 13:26:08</times>
-  </data>
-  <data>
-    <playTime>16.9</playTime>
-    <message fontsize="15" color="16777215" mode="4">星(ほし)を廻(まわ)せ世界(せかい)    のまんなかで </message>
-    <times>2010-01-21 13:26:34</times>
-  </data>
-  <data>
-    <playTime>17</playTime>
-    <message fontsize="15" color="16777215" mode="4">くしゃみすればどこかの森(もり)で蝶(ちょう)が乱舞(らんぶ)</message>
-    <times>2010-01-21 13:27:52</times>
-  </data>
-  <data>
-    <playTime>23.3</playTime>
-    <message fontsize="15" color="16777215" mode="4">君(きみ)が守(まも)るドアのかぎデタラメ</message>
-    <times>2010-01-21 13:28:08</times>
-  </data>
-  <data>
-    <playTime>30.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">恥(は)ずかしい物語(ものがたり)</message>
-    <times>2010-01-21 13:28:26</times>
-  </data>
-  <data>
-    <playTime>34.2</playTime>
-    <message fontsize="15" color="16777215" mode="4">舐(な)め合(あ)ってもライオン    は強(つよ)い</message>
-    <times>2010-01-21 13:28:40</times>
-  </data>
-  <data>
-    <playTime>39.4</playTime>
-    <message fontsize="15" color="16777215" mode="4">生(い)き残(のこ)りたい    生(い)き残(のこ)りたい </message>
-    <times>2010-01-21 13:29:05</times>
-  </data>
-  <data>
-    <playTime>43.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">まだ生(い)きていたくなる</message>
-    <times>2010-01-21 13:29:21</times>
-  </data>
-  <data>
-    <playTime>47.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">星座(せんざ)の導(みちび)きでいま、見(み)つめ合(あ)った</message>
-    <times>2010-01-21 13:29:32</times>
-  </data>
-  <data>
-    <playTime>53.8</playTime>
-    <message fontsize="15" color="16777215" mode="4">生(い)き残(のこ)りたい</message>
-    <times>2010-01-21 13:29:46</times>
-  </data>
-  <data>
-    <playTime>55.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">途方(とほう)にくれて    キラリ枯(か)れてゆく</message>
-    <times>2010-01-21 13:29:58</times>
-  </data>
-  <data>
-    <playTime>60.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">本気(ほんき)の身体(からだ)    見(み)せつけるまで  </message>
-    <times>2010-01-21 13:30:12</times>
-  </data>
-  <data>
-    <playTime>64.6</playTime>
-    <message fontsize="15" color="16777215" mode="4">私(わたし)    眠(ねむ)らない</message>
-    <times>2010-01-21 13:30:27</times>
-  </data>
-  <data>
-    <playTime>70.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">生(い)き残(のこ)りたい</message>
-    <times>2010-01-21 13:30:55</times>
-  </data>
-  <data>
-    <playTime>72.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">まだ生(い)きてたい</message>
-    <times>2010-01-21 13:31:18</times>
-  </data>
-  <data>
-    <playTime>74.1</playTime>
-    <message fontsize="15" color="16777215" mode="4">君(きみ)を愛(あい)してる</message>
-    <times>2010-01-21 13:31:27</times>
-  </data>
-  <data>
-    <playTime>78.7</playTime>
-    <message fontsize="15" color="16777215" mode="4">本気(ほんき)のココロ見(み)せつけるまで</message>
-    <times>2010-01-21 13:31:42</times>
-  </data>
-  <data>
-    <playTime>83.5</playTime>
-    <message fontsize="15" color="16777215" mode="4">私(わたし)    眠(ねむ)らない</message>
-    <times>2010-01-21 13:31:58</times>
-  </data>
-  <data>
-    <playTime>0.1</playTime>
-    <message fontsize="16" color="16777215" mode="5">　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="875237911" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>星(ほし)を廻(まわ)せ世界(せかい)    のまんなかで</text>
+	<attr id="0" playtime="11" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="225356014" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>星(ほし)を廻(まわ)せ世界(せかい)    のまんなかで </text>
+	<attr id="0" playtime="16.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="809255552" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>くしゃみすればどこかの森(もり)で蝶(ちょう)が乱舞(らんぶ)</text>
+	<attr id="0" playtime="17" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1855317640" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>君(きみ)が守(まも)るドアのかぎデタラメ</text>
+	<attr id="0" playtime="23.3" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="70768968" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>恥(は)ずかしい物語(ものがたり)</text>
+	<attr id="0" playtime="30.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1908607750" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>舐(な)め合(あ)ってもライオン    は強(つよ)い</text>
+	<attr id="0" playtime="34.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="214624489" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>生(い)き残(のこ)りたい    生(い)き残(のこ)りたい </text>
+	<attr id="0" playtime="39.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="300793477" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>まだ生(い)きていたくなる</text>
+	<attr id="0" playtime="43.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1514018479" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>星座(せんざ)の導(みちび)きでいま、見(み)つめ合(あ)った</text>
+	<attr id="0" playtime="47.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="353594827" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>生(い)き残(のこ)りたい</text>
+	<attr id="0" playtime="53.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1309951965" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>途方(とほう)にくれて    キラリ枯(か)れてゆく</text>
+	<attr id="0" playtime="55.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="477342449" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>本気(ほんき)の身体(からだ)    見(み)せつけるまで  </text>
+	<attr id="0" playtime="60.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="770668726" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>私(わたし)    眠(ねむ)らない</text>
+	<attr id="0" playtime="64.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="655306254" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>生(い)き残(のこ)りたい</text>
+	<attr id="0" playtime="70.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="191641141" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>まだ生(い)きてたい</text>
+	<attr id="0" playtime="72.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="830983329" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>君(きみ)を愛(あい)してる</text>
+	<attr id="0" playtime="74.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1737053565" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>本気(ほんき)のココロ見(み)せつけるまで</text>
+	<attr id="0" playtime="78.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1708861611" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>私(わたし)    眠(ねむ)らない</text>
+	<attr id="0" playtime="83.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="455321502" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>　
 
 
 
@@ -114,12 +95,11 @@
 　歌：天天/奈奈
 　作曲/編曲：菅野よう子　　　　　　　　　　　　　　　　　　　　　
 　作詞：辰音奈奈
-　</message>
-    <times>Znella</times>
-  </data>
-  <data>
-    <playTime>3</playTime>
-    <message fontsize="16" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="0.1" mode="5" fontsize="16" color="16777215"/>
+</comment>
+<comment id="241106451" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>　
 
 
 
@@ -141,12 +121,11 @@
 　歌：天天/奈奈
 　作曲/編曲：菅野よう子　　　　　　　　　　　　　　　　　　　　　
 　作詞：辰音奈奈
-　</message>
-    <times>Znella</times>
-  </data>
-  <data>
-    <playTime>1</playTime>
-    <message fontsize="16" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="3" mode="5" fontsize="16" color="16777215"/>
+</comment>
+<comment id="97962352" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>　
 
 
 
@@ -168,12 +147,11 @@
 　歌：天天/奈奈
 　作曲/編曲：菅野よう子　　　　　　　　　　　　　　　　　　　　　
 　作詞：辰音奈奈
-　</message>
-    <times>Znella</times>
-  </data>
-  <data>
-    <playTime>6.3</playTime>
-    <message fontsize="6" color="16777215" mode="1">　
+　</text>
+	<attr id="0" playtime="1" mode="5" fontsize="16" color="16777215"/>
+</comment>
+<comment id="1191804442" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>　
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
                                                                                                                    BMr,:                              
@@ -235,12 +213,11 @@
                                                                                                                                                       
                                                                                                                                                       
 
-　</message>
-    <times>Znella</times>
-  </data>
-  <data>
-    <playTime>7</playTime>
-    <message fontsize="25" color="16711760" mode="5">　
+　</text>
+	<attr id="0" playtime="6.3" mode="1" fontsize="6" color="16777215"/>
+</comment>
+<comment id="1482417781" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>　
 
 
 
@@ -254,21 +231,19 @@
 
 
 
-　</message>
-    <times>Znella</times>
-  </data>
-  <data>
-    <playTime>7</playTime>
-    <message fontsize="70" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="7" mode="5" fontsize="25" color="16711760"/>
+</comment>
+<comment id="1641093190" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>　
 
  星原战记　　　
 
-　</message>
-    <times>Znella</times>
-  </data>
-  <data>
-    <playTime>7</playTime>
-    <message fontsize="42" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="7" mode="5" fontsize="70" color="16777215"/>
+</comment>
+<comment id="112137853" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>　
 
 
 
@@ -276,12 +251,11 @@
 　　　　　　　　　　　 ▏
 
 
-　</message>
-    <times>Znella</times>
-  </data>
-  <data>
-    <playTime>7</playTime>
-    <message fontsize="16" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="7" mode="5" fontsize="42" color="16777215"/>
+</comment>
+<comment id="639907998" poolid="1" userhash="deadbeef" sendtime="1321635793">
+	<text>　
 
 
 
@@ -303,7 +277,7 @@
 
 
 
-　</message>
-    <times>Znella</times>
-  </data>
-</information>
+　</text>
+	<attr id="0" playtime="7" mode="5" fontsize="16" color="16777215"/>
+</comment>
+</comments>

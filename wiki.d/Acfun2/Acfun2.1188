@@ -1,19 +1,20 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
 DP_P0=acnew
-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+PartPlayer_P1=acnew
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=KPX
 cauthor=矽泽香
 charset=UTF-8
 csum=
 ctime=1297741520
-host=114.249.56.131
-keywords=音乐,三重の人,PV 
+host=127.0.0.1
+keywords=音乐,三重の人,PV
 name=Acfun2.1188
-rev=3
+rev=5
 targets=Category.音乐,Category.三重の人,Category.PV
 text=(:VideoStr:46468043:)%0a(:title 	【初音ミク动画化】 Symphony 【オリジナルPV！】 :)%0a(:keywords 音乐,三重の人,PV :)%0a(:sourcelink:http://124.228.254.229/html/music/20110214/173207.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a(:ifend:)
-time=1297741882
-title=	【初音ミク动画化】 Symphony 【オリジナルPV！】 
+time=1321637362
+title=	【初音ミク动画化】 Symphony 【オリジナルPV！】
 author:1297741882=KPX
 diff:1297741882:1297741709:=
 host:1297741882=114.249.56.131

@@ -1,1198 +1,977 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>7.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">さくら、さくら、会いたいよ</message>
-    <times>2009-11-12 20:56:03</times>
-  </data>
-  <data>
-    <playTime>7</playTime>
-    <message fontsize="25" color="16711680" mode="4">さくら、さくら、会いたいよ </message>
-    <times>2009-11-12 20:56:28</times>
-  </data>
-  <data>
-    <playTime>9.4</playTime>
-    <message fontsize="15" color="16711680" mode="4">いやだ君に今すぐ会いたいよ</message>
-    <times>2009-11-12 20:56:44</times>
-  </data>
-  <data>
-    <playTime>13.1</playTime>
-    <message fontsize="15" color="16711680" mode="4">天に召します神様、お愿い</message>
-    <times>2009-11-12 20:56:54</times>
-  </data>
-  <data>
-    <playTime>15.3</playTime>
-    <message fontsize="15" color="16711680" mode="4">仆の胸つぶれちゃいそうだ</message>
-    <times>2009-11-12 20:57:05</times>
-  </data>
-  <data>
-    <playTime>19</playTime>
-    <message fontsize="15" color="16711680" mode="4">さくら、さくら、会いたいよ</message>
-    <times>2009-11-12 20:57:20</times>
-  </data>
-  <data>
-    <playTime>21.4</playTime>
-    <message fontsize="15" color="16711680" mode="4">いやだ君に今すぐ会いたいよ</message>
-    <times>2009-11-12 20:57:30</times>
-  </data>
-  <data>
-    <playTime>24.3</playTime>
-    <message fontsize="15" color="16711680" mode="4">天に召します神様、お愿い</message>
-    <times>2009-11-12 20:57:38</times>
-  </data>
-  <data>
-    <playTime>27.5</playTime>
-    <message fontsize="15" color="16711680" mode="4">仆の息止まっちゃいそうだ</message>
-    <times>2009-11-12 20:57:47</times>
-  </data>
-  <data>
-    <playTime>30.7</playTime>
-    <message fontsize="15" color="16711680" mode="4">春に生まれた君を</message>
-    <times>2009-11-12 20:58:02</times>
-  </data>
-  <data>
-    <playTime>32.5</playTime>
-    <message fontsize="15" color="16711680" mode="4">「さくら」って名付けた</message>
-    <times>2009-11-12 20:58:22</times>
-  </data>
-  <data>
-    <playTime>36.3</playTime>
-    <message fontsize="15" color="16711680" mode="4">かわいらしくひらがな3文字で「さくら」</message>
-    <times>2009-11-12 20:58:58</times>
-  </data>
-  <data>
-    <playTime>42.1</playTime>
-    <message fontsize="15" color="16711680" mode="4">亲指くらいの</message>
-    <times>2009-11-12 20:59:12</times>
-  </data>
-  <data>
-    <playTime>44.3</playTime>
-    <message fontsize="15" color="16711680" mode="4">小っちゃな手を握ったら</message>
-    <times>2009-11-12 20:59:20</times>
-  </data>
-  <data>
-    <playTime>48.9</playTime>
-    <message fontsize="15" color="16711680" mode="4">まだ开かない目で</message>
-    <times>2009-11-12 20:59:31</times>
-  </data>
-  <data>
-    <playTime>50.5</playTime>
-    <message fontsize="15" color="16711680" mode="4">君はクシャクシャ笑った</message>
-    <times>2009-11-12 20:59:40</times>
-  </data>
-  <data>
-    <playTime>54.6</playTime>
-    <message fontsize="15" color="16711680" mode="4">いつもいつも仆は君と一绪だったなぁ</message>
-    <times>2009-11-12 21:00:00</times>
-  </data>
-  <data>
-    <playTime>60.2</playTime>
-    <message fontsize="15" color="16711680" mode="4">あきれるくらい写真をいっぱい撮ったなぁ</message>
-    <times>2009-11-12 21:00:14</times>
-  </data>
-  <data>
-    <playTime>67</playTime>
-    <message fontsize="15" color="16711680" mode="4">君と仆が似てるって言われて嬉しかったなぁ</message>
-    <times>2009-11-12 21:00:27</times>
-  </data>
-  <data>
-    <playTime>71.2</playTime>
-    <message fontsize="15" color="16711680" mode="4">君と同じふうに仆はいっぱい笑ったんだなぁ</message>
-    <times>2009-11-12 21:00:36</times>
-  </data>
-  <data>
-    <playTime>77.2</playTime>
-    <message fontsize="15" color="16711680" mode="4">さくら、さくら、会いたいよ</message>
-    <times>2009-11-12 21:00:47</times>
-  </data>
-  <data>
-    <playTime>79.4</playTime>
-    <message fontsize="15" color="16711680" mode="4">いやだ君に今すぐ会いたいよ</message>
-    <times>2009-11-12 21:00:55</times>
-  </data>
-  <data>
-    <playTime>83.2</playTime>
-    <message fontsize="15" color="16711680" mode="4">天に召します神様、お愿い</message>
-    <times>2009-11-12 21:01:06</times>
-  </data>
-  <data>
-    <playTime>85.6</playTime>
-    <message fontsize="15" color="16711680" mode="4">仆の胸つぶれちゃいそうだ</message>
-    <times>2009-11-12 21:01:21</times>
-  </data>
-  <data>
-    <playTime>88.9</playTime>
-    <message fontsize="15" color="16711680" mode="4">さくら、さくら、会いたいよ</message>
-    <times>2009-11-12 21:01:33</times>
-  </data>
-  <data>
-    <playTime>91.3</playTime>
-    <message fontsize="15" color="16711680" mode="4">いやだ君に今すぐ会いたいよ</message>
-    <times>2009-11-12 21:01:43</times>
-  </data>
-  <data>
-    <playTime>95.4</playTime>
-    <message fontsize="15" color="16711680" mode="4">天に召します神様、お愿い</message>
-    <times>2009-11-12 21:01:53</times>
-  </data>
-  <data>
-    <playTime>97.8</playTime>
-    <message fontsize="15" color="16711680" mode="4">仆の息止まっちゃいそうだ</message>
-    <times>2009-11-12 21:02:02</times>
-  </data>
-  <data>
-    <playTime>102.2</playTime>
-    <message fontsize="15" color="16711680" mode="4">五月の風追いかけっこした土手の道</message>
-    <times>2009-11-12 21:03:31</times>
-  </data>
-  <data>
-    <playTime>106.7</playTime>
-    <message fontsize="15" color="16711680" mode="4">六月の雨窓超しに見ていた紫陽花</message>
-    <times>2009-11-12 21:03:46</times>
-  </data>
-  <data>
-    <playTime>112.4</playTime>
-    <message fontsize="15" color="16711680" mode="4">八月の庭ホースで描いた小さな虹</message>
-    <times>2009-11-12 21:04:04</times>
-  </data>
-  <data>
-    <playTime>118.3</playTime>
-    <message fontsize="15" color="16711680" mode="4">九月の朝おそろいのミッフィーの食器</message>
-    <times>2009-11-12 21:04:25</times>
-  </data>
-  <data>
-    <playTime>124.1</playTime>
-    <message fontsize="15" color="16711680" mode="4">一月の雪毛布にくるまっていた君</message>
-    <times>2009-11-12 21:04:42</times>
-  </data>
-  <data>
-    <playTime>129.8</playTime>
-    <message fontsize="15" color="16711680" mode="4">二月の星遠くをじっと見ていた君</message>
-    <times>2009-11-12 21:05:00</times>
-  </data>
-  <data>
-    <playTime>135.9</playTime>
-    <message fontsize="15" color="16711680" mode="4">三月の街背中が大きくなった君</message>
-    <times>2009-11-12 21:05:17</times>
-  </data>
-  <data>
-    <playTime>141.7</playTime>
-    <message fontsize="15" color="16711680" mode="4">四月の夢毎年祝った誕生日</message>
-    <times>2009-11-12 21:05:35</times>
-  </data>
-  <data>
-    <playTime>176.9</playTime>
-    <message fontsize="15" color="16711680" mode="4">いつもとは違う声で君は泣いていた</message>
-    <times>2009-11-12 21:06:18</times>
-  </data>
-  <data>
-    <playTime>182.8</playTime>
-    <message fontsize="15" color="16711680" mode="4">僕は泣きながら病院へ連れていった</message>
-    <times>2009-11-12 21:06:29</times>
-  </data>
-  <data>
-    <playTime>188.6</playTime>
-    <message fontsize="15" color="16711680" mode="4">お医者さんはとっても優しい人だった</message>
-    <times>2009-11-12 21:06:39</times>
-  </data>
-  <data>
-    <playTime>194.9</playTime>
-    <message fontsize="15" color="16711680" mode="4">「さよならできる」と</message>
-    <times>2009-11-12 21:06:57</times>
-  </data>
-  <data>
-    <playTime>196.2</playTime>
-    <message fontsize="15" color="16711680" mode="4">僕はちゃんとうなづいた…。</message>
-    <times>2009-11-12 21:07:05</times>
-  </data>
-  <data>
-    <playTime>200.7</playTime>
-    <message fontsize="15" color="16711680" mode="4">さくら、さくら、会いたいよ</message>
-    <times>2009-11-12 21:07:18</times>
-  </data>
-  <data>
-    <playTime>202.6</playTime>
-    <message fontsize="15" color="16711680" mode="4">いやだ君にホントは会いたいよ</message>
-    <times>2009-11-12 21:07:25</times>
-  </data>
-  <data>
-    <playTime>206.1</playTime>
-    <message fontsize="15" color="16711680" mode="4">天に召します神様、お願い</message>
-    <times>2009-11-12 21:07:38</times>
-  </data>
-  <data>
-    <playTime>208.3</playTime>
-    <message fontsize="15" color="16711680" mode="4">僕の瞳濡れちゃいそうだ</message>
-    <times>2009-11-12 21:07:46</times>
-  </data>
-  <data>
-    <playTime>212</playTime>
-    <message fontsize="15" color="16711680" mode="4">さくら、さくら、会いたいよ</message>
-    <times>2009-11-12 21:08:12</times>
-  </data>
-  <data>
-    <playTime>214.3</playTime>
-    <message fontsize="15" color="16711680" mode="4">いやだ他に何にもいらないよ</message>
-    <times>2009-11-12 21:08:19</times>
-  </data>
-  <data>
-    <playTime>215.3</playTime>
-    <message fontsize="25" color="16711680" mode="1">能
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="401681967" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>さくら、さくら、会いたいよ</text>
+	<attr id="0" playtime="7.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="805200870" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>さくら、さくら、会いたいよ </text>
+	<attr id="0" playtime="7" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="201603810" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>いやだ君に今すぐ会いたいよ</text>
+	<attr id="0" playtime="9.4" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1530663790" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>天に召します神様、お愿い</text>
+	<attr id="0" playtime="13.1" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1086971947" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>仆の胸つぶれちゃいそうだ</text>
+	<attr id="0" playtime="15.3" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1448621062" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>さくら、さくら、会いたいよ</text>
+	<attr id="0" playtime="19" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="2036342223" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>いやだ君に今すぐ会いたいよ</text>
+	<attr id="0" playtime="21.4" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="2121129365" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>天に召します神様、お愿い</text>
+	<attr id="0" playtime="24.3" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1700994178" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>仆の息止まっちゃいそうだ</text>
+	<attr id="0" playtime="27.5" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1055331497" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>春に生まれた君を</text>
+	<attr id="0" playtime="30.7" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1553620573" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>「さくら」って名付けた</text>
+	<attr id="0" playtime="32.5" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="169390980" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>かわいらしくひらがな3文字で「さくら」</text>
+	<attr id="0" playtime="36.3" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1637378992" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>亲指くらいの</text>
+	<attr id="0" playtime="42.1" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="650711767" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>小っちゃな手を握ったら</text>
+	<attr id="0" playtime="44.3" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="795951742" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>まだ开かない目で</text>
+	<attr id="0" playtime="48.9" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="199632992" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>君はクシャクシャ笑った</text>
+	<attr id="0" playtime="50.5" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="2039953875" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>いつもいつも仆は君と一绪だったなぁ</text>
+	<attr id="0" playtime="54.6" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1684749214" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>あきれるくらい写真をいっぱい撮ったなぁ</text>
+	<attr id="0" playtime="60.2" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="32573166" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>君と仆が似てるって言われて嬉しかったなぁ</text>
+	<attr id="0" playtime="67" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="585436873" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>君と同じふうに仆はいっぱい笑ったんだなぁ</text>
+	<attr id="0" playtime="71.2" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="2084193725" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>さくら、さくら、会いたいよ</text>
+	<attr id="0" playtime="77.2" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1425914752" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>いやだ君に今すぐ会いたいよ</text>
+	<attr id="0" playtime="79.4" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="442257142" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>天に召します神様、お愿い</text>
+	<attr id="0" playtime="83.2" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="231715428" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>仆の胸つぶれちゃいそうだ</text>
+	<attr id="0" playtime="85.6" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="905496005" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>さくら、さくら、会いたいよ</text>
+	<attr id="0" playtime="88.9" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1086695048" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>いやだ君に今すぐ会いたいよ</text>
+	<attr id="0" playtime="91.3" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="2037488017" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>天に召します神様、お愿い</text>
+	<attr id="0" playtime="95.4" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1535719438" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>仆の息止まっちゃいそうだ</text>
+	<attr id="0" playtime="97.8" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="33254719" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>五月の風追いかけっこした土手の道</text>
+	<attr id="0" playtime="102.2" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1265709368" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>六月の雨窓超しに見ていた紫陽花</text>
+	<attr id="0" playtime="106.7" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1771916439" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>八月の庭ホースで描いた小さな虹</text>
+	<attr id="0" playtime="112.4" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="177679562" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>九月の朝おそろいのミッフィーの食器</text>
+	<attr id="0" playtime="118.3" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1996291217" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>一月の雪毛布にくるまっていた君</text>
+	<attr id="0" playtime="124.1" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1308815682" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>二月の星遠くをじっと見ていた君</text>
+	<attr id="0" playtime="129.8" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1913757093" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>三月の街背中が大きくなった君</text>
+	<attr id="0" playtime="135.9" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="110767888" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>四月の夢毎年祝った誕生日</text>
+	<attr id="0" playtime="141.7" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="872075965" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>いつもとは違う声で君は泣いていた</text>
+	<attr id="0" playtime="176.9" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1768035147" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>僕は泣きながら病院へ連れていった</text>
+	<attr id="0" playtime="182.8" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1025483331" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>お医者さんはとっても優しい人だった</text>
+	<attr id="0" playtime="188.6" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="733344578" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>「さよならできる」と</text>
+	<attr id="0" playtime="194.9" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="622877406" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>僕はちゃんとうなづいた…。</text>
+	<attr id="0" playtime="196.2" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1912698289" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>さくら、さくら、会いたいよ</text>
+	<attr id="0" playtime="200.7" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="150321839" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>いやだ君にホントは会いたいよ</text>
+	<attr id="0" playtime="202.6" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1675497184" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>天に召します神様、お願い</text>
+	<attr id="0" playtime="206.1" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1944811113" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>僕の瞳濡れちゃいそうだ</text>
+	<attr id="0" playtime="208.3" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1143825160" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>さくら、さくら、会いたいよ</text>
+	<attr id="0" playtime="212" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1702507474" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>いやだ他に何にもいらないよ</text>
+	<attr id="0" playtime="214.3" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1844419341" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>能
 遇
 见
-你</message>
-    <times>2009-11-12 21:09:05</times>
-  </data>
-  <data>
-    <playTime>216.2</playTime>
-    <message fontsize="25" color="16711680" mode="1">真
-的</message>
-    <times>2009-11-12 21:09:14</times>
-  </data>
-  <data>
-    <playTime>217</playTime>
-    <message fontsize="25" color="16711680" mode="1">太
+你</text>
+	<attr id="0" playtime="215.3" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1289231748" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>真
+的</text>
+	<attr id="0" playtime="216.2" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1896749974" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>太
 好
-了</message>
-    <times>2009-11-12 21:09:35</times>
-  </data>
-  <data>
-    <playTime>217.6</playTime>
-    <message fontsize="15" color="16711680" mode="4">天に召します神様、お願い</message>
-    <times>2009-11-12 21:10:08</times>
-  </data>
-  <data>
-    <playTime>220.6</playTime>
-    <message fontsize="15" color="16711680" mode="4">僕の心消えちゃいそうだ</message>
-    <times>2009-11-12 21:10:21</times>
-  </data>
-  <data>
-    <playTime>251.7</playTime>
-    <message fontsize="15" color="16711680" mode="4">春に生まれた君を</message>
-    <times>2009-11-12 21:11:02</times>
-  </data>
-  <data>
-    <playTime>257.3</playTime>
-    <message fontsize="15" color="16711680" mode="4">「さくら」って名付けた</message>
-    <times>2009-11-12 21:11:13</times>
-  </data>
-  <data>
-    <playTime>257.4</playTime>
-    <message fontsize="15" color="16711680" mode="4">かわいらしくひらがな３文字で「さくら</message>
-    <times>2009-11-12 21:12:11</times>
-  </data>
-  <data>
-    <playTime>262.8</playTime>
-    <message fontsize="15" color="16711680" mode="4">明日、晴れたら</message>
-    <times>2009-11-12 21:12:27</times>
-  </data>
-  <data>
-    <playTime>265</playTime>
-    <message fontsize="15" color="16711680" mode="4">どこか遊びに行こうよ</message>
-    <times>2009-11-12 21:12:35</times>
-  </data>
-  <data>
-    <playTime>266.6</playTime>
-    <message fontsize="15" color="16711680" mode="4">さくら</message>
-    <times>2009-11-12 21:12:44</times>
-  </data>
-  <data>
-    <playTime>269.1</playTime>
-    <message fontsize="15" color="16711680" mode="4">きっと桜がいっぱい咲いて</message>
-    <times>2009-11-12 21:13:04</times>
-  </data>
-  <data>
-    <playTime>271.6</playTime>
-    <message fontsize="15" color="16711680" mode="4">きれいだよ</message>
-    <times>2009-11-12 21:13:17</times>
-  </data>
-  <data>
-    <playTime>273.8</playTime>
-    <message fontsize="37" color="16711680" mode="4">さくら……</message>
-    <times>2009-11-12 21:13:33</times>
-  </data>
-  <data>
-    <playTime>277.1</playTime>
-    <message fontsize="15" color="16711680" mode="4">字幕补完 没发射器纯手打 对错一行 累死我了
-by 桃花幻梦</message>
-    <times>2009-11-12 21:14:32</times>
-  </data>
-  <data>
-    <playTime>0.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">这是关于一只油库里的故事……</message>
-    <times>2009-11-12 21:19:11</times>
-  </data>
-  <data>
-    <playTime>25.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2003-01-14 14:25:42</times>
-  </data>
-  <data>
-    <playTime>63.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2003-01-14 14:26:20</times>
-  </data>
-  <data>
-    <playTime>65.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2003-01-14 14:26:22</times>
-  </data>
-  <data>
-    <playTime>66.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2003-01-14 14:26:24</times>
-  </data>
-  <data>
-    <playTime>68.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2003-01-14 14:26:25</times>
-  </data>
-  <data>
-    <playTime>71.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2003-01-14 14:26:28</times>
-  </data>
-  <data>
-    <playTime>7.9</playTime>
-    <message fontsize="25" color="16777215" mode="4">樱，樱，我想念</message>
-    <times>2009-11-25 23:43:57</times>
-  </data>
-  <data>
-    <playTime>11.2</playTime>
-    <message fontsize="25" color="52377" mode="4">我想念你，现在我恨你</message>
-    <times>2009-11-25 23:44:59</times>
-  </data>
-  <data>
-    <playTime>13.4</playTime>
-    <message fontsize="15" color="3976193" mode="5">大小姐：魔理纱，有看到梦灵吗</message>
-    <times>2009-11-25 23:50:16</times>
-  </data>
-  <data>
-    <playTime>16.4</playTime>
-    <message fontsize="15" color="3976193" mode="5">魔理纱：没看到</message>
-    <times>2009-11-25 23:50:49</times>
-  </data>
-  <data>
-    <playTime>19.5</playTime>
-    <message fontsize="15" color="3976193" mode="5">魔理纱：这时候她应该在那里吧</message>
-    <times>2009-11-25 23:51:46</times>
-  </data>
-  <data>
-    <playTime>31.1</playTime>
-    <message fontsize="15" color="10027161" mode="5">紫：嗨，梦灵</message>
-    <times>2009-11-25 23:52:31</times>
-  </data>
-  <data>
-    <playTime>36.7</playTime>
-    <message fontsize="15" color="10027161" mode="5">紫：这孩子可爱吧，送给你照顾吧</message>
-    <times>2009-11-25 23:54:35</times>
-  </data>
-  <data>
-    <playTime>40.4</playTime>
-    <message fontsize="15" color="10027161" mode="5">紫：给她取个名字吧</message>
-    <times>2009-11-25 23:55:33</times>
-  </data>
-  <data>
-    <playTime>43.6</playTime>
-    <message fontsize="15" color="10027161" mode="5">梦灵：樱花开了啊，那就叫她樱吧</message>
-    <times>2009-11-25 23:56:08</times>
-  </data>
-  <data>
-    <playTime>50.9</playTime>
-    <message fontsize="15" color="10027161" mode="5">樱：请多多指教</message>
-    <times>2009-11-25 23:56:44</times>
-  </data>
-  <data>
-    <playTime>91.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:42:27</times>
-  </data>
-  <data>
-    <playTime>277.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:33</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:36</times>
-  </data>
-  <data>
-    <playTime>279.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:35</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:38</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:40</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:41</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:43</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:45</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:46</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:48</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:50</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:51</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:53</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:55</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:56</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:45:58</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:00</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:01</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:05</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:06</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:08</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:10</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:12</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:13</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:15</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:17</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:19</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-01-16 18:46:20</times>
-  </data>
-  <data>
-    <playTime>21.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:49:57</times>
-  </data>
-  <data>
-    <playTime>27.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:03</times>
-  </data>
-  <data>
-    <playTime>24.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:00</times>
-  </data>
-  <data>
-    <playTime>32.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:08</times>
-  </data>
-  <data>
-    <playTime>37.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:14</times>
-  </data>
-  <data>
-    <playTime>40.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:16</times>
-  </data>
-  <data>
-    <playTime>43.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:19</times>
-  </data>
-  <data>
-    <playTime>47</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:23</times>
-  </data>
-  <data>
-    <playTime>49.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:26</times>
-  </data>
-  <data>
-    <playTime>53.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:29</times>
-  </data>
-  <data>
-    <playTime>56.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:32</times>
-  </data>
-  <data>
-    <playTime>60.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:36</times>
-  </data>
-  <data>
-    <playTime>62.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:39</times>
-  </data>
-  <data>
-    <playTime>65</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:41</times>
-  </data>
-  <data>
-    <playTime>68.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:44</times>
-  </data>
-  <data>
-    <playTime>70.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:46</times>
-  </data>
-  <data>
-    <playTime>74.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:50</times>
-  </data>
-  <data>
-    <playTime>76.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:50:52</times>
-  </data>
-  <data>
-    <playTime>92.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:08</times>
-  </data>
-  <data>
-    <playTime>94.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:11</times>
-  </data>
-  <data>
-    <playTime>107.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:23</times>
-  </data>
-  <data>
-    <playTime>110.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:26</times>
-  </data>
-  <data>
-    <playTime>112.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:29</times>
-  </data>
-  <data>
-    <playTime>116</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:32</times>
-  </data>
-  <data>
-    <playTime>119</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:35</times>
-  </data>
-  <data>
-    <playTime>121.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:38</times>
-  </data>
-  <data>
-    <playTime>124.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:41</times>
-  </data>
-  <data>
-    <playTime>127.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:43</times>
-  </data>
-  <data>
-    <playTime>133.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:49</times>
-  </data>
-  <data>
-    <playTime>135.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:52</times>
-  </data>
-  <data>
-    <playTime>137.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:54</times>
-  </data>
-  <data>
-    <playTime>141.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:51:58</times>
-  </data>
-  <data>
-    <playTime>144</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:00</times>
-  </data>
-  <data>
-    <playTime>146.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:03</times>
-  </data>
-  <data>
-    <playTime>149.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:05</times>
-  </data>
-  <data>
-    <playTime>151.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:07</times>
-  </data>
-  <data>
-    <playTime>153.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:10</times>
-  </data>
-  <data>
-    <playTime>156.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:12</times>
-  </data>
-  <data>
-    <playTime>165.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:21</times>
-  </data>
-  <data>
-    <playTime>168.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:24</times>
-  </data>
-  <data>
-    <playTime>170.8</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:27</times>
-  </data>
-  <data>
-    <playTime>173.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:29</times>
-  </data>
-  <data>
-    <playTime>187.4</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:43</times>
-  </data>
-  <data>
-    <playTime>189.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:45</times>
-  </data>
-  <data>
-    <playTime>191.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:47</times>
-  </data>
-  <data>
-    <playTime>193.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">
-    </message>
-    <times>2010-02-17 23:52:49</times>
-  </data>
-  <data>
-    <playTime>8.3</playTime>
-    <message fontsize="15" color="16724889" mode="4">櫻。櫻。好想見你。</message>
-    <times>2010-02-27 00:45:10</times>
-  </data>
-  <data>
-    <playTime>11</playTime>
-    <message fontsize="15" color="16724889" mode="4">好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:45:17</times>
-  </data>
-  <data>
-    <playTime>13.8</playTime>
-    <message fontsize="15" color="16724889" mode="4">將你召回天上的神啊。我祈求你。</message>
-    <times>2010-02-27 00:45:24</times>
-  </data>
-  <data>
-    <playTime>17.6</playTime>
-    <message fontsize="15" color="16724889" mode="4">的胸口就像快崩潰了一樣</message>
-    <times>2010-02-27 00:45:28</times>
-  </data>
-  <data>
-    <playTime>19.4</playTime>
-    <message fontsize="15" color="16724889" mode="4">櫻。櫻。好想見你</message>
-    <times>2010-02-27 00:45:36</times>
-  </data>
-  <data>
-    <playTime>21.9</playTime>
-    <message fontsize="15" color="16724889" mode="4">好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:45:43</times>
-  </data>
-  <data>
-    <playTime>24.8</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 將你召回天上的神啊。我祈求你。</message>
-    <times>2010-02-27 00:45:52</times>
-  </data>
-  <data>
-    <playTime>29.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">  我的呼吸就像要停止了一樣</message>
-    <times>2010-02-27 00:45:58</times>
-  </data>
-  <data>
-    <playTime>33.2</playTime>
-    <message fontsize="15" color="16724889" mode="4">出生於春天的你。幫你取了【櫻】當做名字</message>
-    <times>2010-02-27 00:46:07</times>
-  </data>
-  <data>
-    <playTime>36.4</playTime>
-    <message fontsize="15" color="16724889" mode="4">非常可愛的只有三個平假名的【SAKURA】</message>
-    <times>2010-02-27 00:46:15</times>
-  </data>
-  <data>
-    <playTime>42.5</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 握著你那像拇指一樣大的小手的話</message>
-    <times>2010-02-27 00:46:25</times>
-  </data>
-  <data>
-    <playTime>48</playTime>
-    <message fontsize="15" color="16724889" mode="4">  還無法睜開眼睛的你就會哈哈的笑</message>
-    <times>2010-02-27 00:46:31</times>
-  </data>
-  <data>
-    <playTime>53.8</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 一直一直我都跟你在一起呢</message>
-    <times>2010-02-27 00:46:37</times>
-  </data>
-  <data>
-    <playTime>59.7</playTime>
-    <message fontsize="15" color="16724889" mode="4">像呆子一樣拍了一堆的照片呢</message>
-    <times>2010-02-27 00:46:43</times>
-  </data>
-  <data>
-    <playTime>65.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">【她跟你長得很像】被這樣說很開心呢</message>
-    <times>2010-02-27 00:46:48</times>
-  </data>
-  <data>
-    <playTime>71.2</playTime>
-    <message fontsize="15" color="16724889" mode="4">學著你的樣子我也笑得非常開心呢…</message>
-    <times>2010-02-27 00:46:54</times>
-  </data>
-  <data>
-    <playTime>76.8</playTime>
-    <message fontsize="15" color="16724889" mode="4">櫻。櫻。好想見你。</message>
-    <times>2010-02-27 00:46:59</times>
-  </data>
-  <data>
-    <playTime>80.6</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:47:04</times>
-  </data>
-  <data>
-    <playTime>82.9</playTime>
-    <message fontsize="15" color="16724889" mode="4">將你召回天上的神啊。我祈求你。</message>
-    <times>2010-02-27 00:47:15</times>
-  </data>
-  <data>
-    <playTime>86.8</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 我的胸口就像快崩潰了一樣</message>
-    <times>2010-02-27 00:47:18</times>
-  </data>
-  <data>
-    <playTime>89.1</playTime>
-    <message fontsize="15" color="16724889" mode="4">櫻。櫻。好想見你</message>
-    <times>2010-02-27 00:47:24</times>
-  </data>
-  <data>
-    <playTime>91.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:47:30</times>
-  </data>
-  <data>
-    <playTime>94.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">將你召回天上的神啊。我祈求你。</message>
-    <times>2010-02-27 00:47:37</times>
-  </data>
-  <data>
-    <playTime>98.9</playTime>
-    <message fontsize="15" color="16724889" mode="4">我的呼吸就像要停止了一樣</message>
-    <times>2010-02-27 00:47:42</times>
-  </data>
-  <data>
-    <playTime>101.3</playTime>
-    <message fontsize="15" color="16724889" mode="4">五月的風 追趕在提防的道路上</message>
-    <times>2010-02-27 00:47:49</times>
-  </data>
-  <data>
-    <playTime>106.7</playTime>
-    <message fontsize="15" color="16724889" mode="4">六月的雨 透過窗臺看到的紫陽花</message>
-    <times>2010-02-27 00:47:59</times>
-  </data>
-  <data>
-    <playTime>112.7</playTime>
-    <message fontsize="15" color="16724889" mode="4">八月的庭院 狡猾的水倒映出小小的彩虹</message>
-    <times>2010-02-27 00:48:05</times>
-  </data>
-  <data>
-    <playTime>118.7</playTime>
-    <message fontsize="15" color="16724889" mode="4">  九月的清晨 跟你成對的miffy的餐具</message>
-    <times>2010-02-27 00:48:11</times>
-  </data>
-  <data>
-    <playTime>124.1</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 一月的雪 用毛毯裹起來的你</message>
-    <times>2010-02-27 00:48:17</times>
-  </data>
-  <data>
-    <playTime>129.9</playTime>
-    <message fontsize="15" color="16724889" mode="4">二月的星辰 一直靜悄悄望向遠方的你</message>
-    <times>2010-02-27 00:48:23</times>
-  </data>
-  <data>
-    <playTime>135.8</playTime>
-    <message fontsize="15" color="16724889" mode="4">三月的街 變得越來越高的你</message>
-    <times>2010-02-27 00:48:28</times>
-  </data>
-  <data>
-    <playTime>141.8</playTime>
-    <message fontsize="15" color="16724889" mode="4">四月的夢 每年都會慶祝的生日</message>
-    <times>2010-02-27 00:48:35</times>
-  </data>
-  <data>
-    <playTime>147.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">櫻。櫻。好想見你。</message>
-    <times>2010-02-27 00:48:40</times>
-  </data>
-  <data>
-    <playTime>149.7</playTime>
-    <message fontsize="15" color="16724889" mode="4">好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:48:53</times>
-  </data>
-  <data>
-    <playTime>153.1</playTime>
-    <message fontsize="15" color="16724889" mode="4">將你召回天上的神啊。我祈求你。</message>
-    <times>2010-02-27 00:49:01</times>
-  </data>
-  <data>
-    <playTime>157.2</playTime>
-    <message fontsize="15" color="16724889" mode="4">我的胸口就像快崩潰了一樣</message>
-    <times>2010-02-27 00:49:05</times>
-  </data>
-  <data>
-    <playTime>160.8</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 櫻。櫻。好想見你</message>
-    <times>2010-02-27 00:49:09</times>
-  </data>
-  <data>
-    <playTime>162.1</playTime>
-    <message fontsize="15" color="16724889" mode="4">  好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:49:38</times>
-  </data>
-  <data>
-    <playTime>164.7</playTime>
-    <message fontsize="15" color="16724889" mode="4">將你召回天上的神啊。我祈求你。</message>
-    <times>2010-02-27 00:49:45</times>
-  </data>
-  <data>
-    <playTime>168</playTime>
-    <message fontsize="15" color="16724889" mode="4">我的呼吸就像要停止了一樣</message>
-    <times>2010-02-27 00:49:52</times>
-  </data>
-  <data>
-    <playTime>177</playTime>
-    <message fontsize="15" color="16724889" mode="4">你用跟平常不同的聲音哭泣的時候</message>
-    <times>2010-02-27 00:50:05</times>
-  </data>
-  <data>
-    <playTime>182.8</playTime>
-    <message fontsize="15" color="16724889" mode="4">我邊哭邊帶你到醫院去</message>
-    <times>2010-02-27 00:50:11</times>
-  </data>
-  <data>
-    <playTime>188.1</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 醫生是個非常溫柔的人</message>
-    <times>2010-02-27 00:50:17</times>
-  </data>
-  <data>
-    <playTime>194.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">慎重并輕聲跟我說【已經可以說再見了】</message>
-    <times>2010-02-27 00:50:33</times>
-  </data>
-  <data>
-    <playTime>200.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">櫻。櫻。好想見你。</message>
-    <times>2010-02-27 00:50:39</times>
-  </data>
-  <data>
-    <playTime>204</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:50:43</times>
-  </data>
-  <data>
-    <playTime>205.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">將你召回天上的神啊。我祈求你。</message>
-    <times>2010-02-27 00:50:47</times>
-  </data>
-  <data>
-    <playTime>209.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">我的眼眶就像濕潤了一樣</message>
-    <times>2010-02-27 00:50:51</times>
-  </data>
-  <data>
-    <playTime>210.7</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 櫻。櫻。好想見你。</message>
-    <times>2010-02-27 00:50:56</times>
-  </data>
-  <data>
-    <playTime>215.3</playTime>
-    <message fontsize="15" color="16724889" mode="4">好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:51:00</times>
-  </data>
-  <data>
-    <playTime>219</playTime>
-    <message fontsize="15" color="16724889" mode="4">將你召回天上的神啊。我祈求你</message>
-    <times>2010-02-27 00:51:04</times>
-  </data>
-  <data>
-    <playTime>220.7</playTime>
-    <message fontsize="15" color="16724889" mode="4">  我的心就像消失了一樣</message>
-    <times>2010-02-27 00:51:10</times>
-  </data>
-  <data>
-    <playTime>226.2</playTime>
-    <message fontsize="15" color="16724889" mode="4">櫻。櫻。好想見你。</message>
-    <times>2010-02-27 00:51:18</times>
-  </data>
-  <data>
-    <playTime>229.2</playTime>
-    <message fontsize="15" color="16724889" mode="4">好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:51:29</times>
-  </data>
-  <data>
-    <playTime>232.3</playTime>
-    <message fontsize="15" color="16724889" mode="4">將你召回天上的神啊。我祈求你。</message>
-    <times>2010-02-27 00:51:35</times>
-  </data>
-  <data>
-    <playTime>235.5</playTime>
-    <message fontsize="15" color="16724889" mode="4">我的胸口就像快崩潰了一樣</message>
-    <times>2010-02-27 00:51:41</times>
-  </data>
-  <data>
-    <playTime>237.6</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 櫻。櫻。好想見你</message>
-    <times>2010-02-27 00:51:45</times>
-  </data>
-  <data>
-    <playTime>241</playTime>
-    <message fontsize="15" color="16724889" mode="4">好想現在馬上就見到你。</message>
-    <times>2010-02-27 00:51:49</times>
-  </data>
-  <data>
-    <playTime>244.4</playTime>
-    <message fontsize="15" color="16724889" mode="4">將你召回天上的神啊。我祈求你。</message>
-    <times>2010-02-27 00:51:52</times>
-  </data>
-  <data>
-    <playTime>248.1</playTime>
-    <message fontsize="15" color="16724889" mode="4">我的呼吸就像要停止了一樣</message>
-    <times>2010-02-27 00:51:56</times>
-  </data>
-  <data>
-    <playTime>251.7</playTime>
-    <message fontsize="15" color="16724889" mode="4">出生於春天的你。幫你取了【櫻】當做名字</message>
-    <times>2010-02-27 00:52:02</times>
-  </data>
-  <data>
-    <playTime>257.5</playTime>
-    <message fontsize="15" color="16724889" mode="4"> 非常可愛的只有三個平假名的【SAKURA】</message>
-    <times>2010-02-27 00:52:08</times>
-  </data>
-  <data>
-    <playTime>264.6</playTime>
-    <message fontsize="15" color="16724889" mode="4">明天如果是晴天的話要帶你去哪裡玩呢</message>
-    <times>2010-02-27 00:52:18</times>
-  </data>
-  <data>
-    <playTime>269</playTime>
-    <message fontsize="15" color="16724889" mode="4">直像滿開的櫻花一樣漂亮的</message>
-    <times>2010-02-27 00:52:23</times>
-  </data>
-  <data>
-    <playTime>274.7</playTime>
-    <message fontsize="37" color="16724889" mode="4">
-    </message>
-    <times>2010-02-27 00:52:55</times>
-  </data>
-  <data>
-    <playTime>274.7</playTime>
-    <message fontsize="37" color="16724889" mode="4">
-    </message>
-    <times>2010-02-27 00:52:59</times>
-  </data>
-  <data>
-    <playTime>273.7</playTime>
-    <message fontsize="37" color="16724889" mode="4"> 櫻</message>
-    <times>2010-02-27 00:53:19</times>
-  </data>
-</information>
+了</text>
+	<attr id="0" playtime="217" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2083814380" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>天に召します神様、お願い</text>
+	<attr id="0" playtime="217.6" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1151687618" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>僕の心消えちゃいそうだ</text>
+	<attr id="0" playtime="220.6" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="782727211" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>春に生まれた君を</text>
+	<attr id="0" playtime="251.7" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="36200350" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>「さくら」って名付けた</text>
+	<attr id="0" playtime="257.3" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1501819128" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>かわいらしくひらがな３文字で「さくら</text>
+	<attr id="0" playtime="257.4" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1964483549" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>明日、晴れたら</text>
+	<attr id="0" playtime="262.8" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1639844812" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>どこか遊びに行こうよ</text>
+	<attr id="0" playtime="265" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="873916576" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>さくら</text>
+	<attr id="0" playtime="266.6" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1119688387" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>きっと桜がいっぱい咲いて</text>
+	<attr id="0" playtime="269.1" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1164223180" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>きれいだよ</text>
+	<attr id="0" playtime="271.6" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="1381760464" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>さくら……</text>
+	<attr id="0" playtime="273.8" mode="4" fontsize="37" color="16711680"/>
+</comment>
+<comment id="988463872" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>字幕补完 没发射器纯手打 对错一行 累死我了
+by 桃花幻梦</text>
+	<attr id="0" playtime="277.1" mode="4" fontsize="15" color="16711680"/>
+</comment>
+<comment id="589621138" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>这是关于一只油库里的故事……</text>
+	<attr id="0" playtime="0.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1994475750" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="25.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1618609794" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="63.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="748660722" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="65.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1388948585" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="66.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2015884328" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="68.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1251257465" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="71.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1063448614" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>樱，樱，我想念</text>
+	<attr id="0" playtime="7.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1595760837" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>我想念你，现在我恨你</text>
+	<attr id="0" playtime="11.2" mode="4" fontsize="25" color="52377"/>
+</comment>
+<comment id="1550934611" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>大小姐：魔理纱，有看到梦灵吗</text>
+	<attr id="0" playtime="13.4" mode="5" fontsize="15" color="3976193"/>
+</comment>
+<comment id="1117218603" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>魔理纱：没看到</text>
+	<attr id="0" playtime="16.4" mode="5" fontsize="15" color="3976193"/>
+</comment>
+<comment id="1296668154" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>魔理纱：这时候她应该在那里吧</text>
+	<attr id="0" playtime="19.5" mode="5" fontsize="15" color="3976193"/>
+</comment>
+<comment id="1723001234" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>紫：嗨，梦灵</text>
+	<attr id="0" playtime="31.1" mode="5" fontsize="15" color="10027161"/>
+</comment>
+<comment id="1101096150" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>紫：这孩子可爱吧，送给你照顾吧</text>
+	<attr id="0" playtime="36.7" mode="5" fontsize="15" color="10027161"/>
+</comment>
+<comment id="377774530" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>紫：给她取个名字吧</text>
+	<attr id="0" playtime="40.4" mode="5" fontsize="15" color="10027161"/>
+</comment>
+<comment id="2137462638" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>梦灵：樱花开了啊，那就叫她樱吧</text>
+	<attr id="0" playtime="43.6" mode="5" fontsize="15" color="10027161"/>
+</comment>
+<comment id="702071294" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>樱：请多多指教</text>
+	<attr id="0" playtime="50.9" mode="5" fontsize="15" color="10027161"/>
+</comment>
+<comment id="1016192697" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="91.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1135387235" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="277.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1358374184" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1453570052" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="279.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="222540767" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="444386146" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="517076480" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="163161163" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1457143989" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="598959161" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="943520292" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="834778200" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="962586775" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1776998779" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1982010938" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="928119301" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1890484588" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1526459592" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="14459972" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="25058426" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1697938291" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="793244508" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="931638904" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1815243807" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="912522601" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="4166458" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1149201568" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2025700513" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1062778559" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="280" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="865547658" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="21.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="228473198" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="27.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="579801282" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="24.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="413157255" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="32.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1812268657" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="37.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="836408664" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="40.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="12508310" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="43.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="430489871" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="47" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="919371753" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="49.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1272767143" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="53.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1091556511" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="56.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1072851578" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="60.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1779598892" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="62.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="997956005" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="65" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="527205247" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="68.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="649226750" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="70.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1406921641" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="74.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1318194477" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="76.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1092721002" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="92.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1288031664" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="94.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="585537734" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="107.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1501080941" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="110.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="715653225" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="112.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1560705827" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="116" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="264156119" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="119" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="171520890" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="121.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="441550220" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="124.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2058839984" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="127.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="46832619" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="133.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="848736572" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="135.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1472318758" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="137.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1075556901" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="141.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="931186537" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="144" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1042637795" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="146.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="534199956" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="149.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="293826940" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="151.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="794202958" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="153.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1853761265" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="156.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1217899332" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="165.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="948300207" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="168.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1231539764" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="170.8" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="766870205" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="173.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="815744037" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="187.4" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="408839262" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="189.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="156895056" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="191.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1158809044" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="193.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2054864441" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>櫻。櫻。好想見你。</text>
+	<attr id="0" playtime="8.3" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="555497754" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>好想現在馬上就見到你。</text>
+	<attr id="0" playtime="11" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1011443254" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>將你召回天上的神啊。我祈求你。</text>
+	<attr id="0" playtime="13.8" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1855989843" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>的胸口就像快崩潰了一樣</text>
+	<attr id="0" playtime="17.6" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="381944701" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>櫻。櫻。好想見你</text>
+	<attr id="0" playtime="19.4" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1167747988" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>好想現在馬上就見到你。</text>
+	<attr id="0" playtime="21.9" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="539886795" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 將你召回天上的神啊。我祈求你。</text>
+	<attr id="0" playtime="24.8" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="356357768" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>  我的呼吸就像要停止了一樣</text>
+	<attr id="0" playtime="29.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="558546552" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>出生於春天的你。幫你取了【櫻】當做名字</text>
+	<attr id="0" playtime="33.2" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="29399645" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>非常可愛的只有三個平假名的【SAKURA】</text>
+	<attr id="0" playtime="36.4" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="503574737" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 握著你那像拇指一樣大的小手的話</text>
+	<attr id="0" playtime="42.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1938631390" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>  還無法睜開眼睛的你就會哈哈的笑</text>
+	<attr id="0" playtime="48" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1783653454" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 一直一直我都跟你在一起呢</text>
+	<attr id="0" playtime="53.8" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1685521489" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>像呆子一樣拍了一堆的照片呢</text>
+	<attr id="0" playtime="59.7" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1030883764" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>【她跟你長得很像】被這樣說很開心呢</text>
+	<attr id="0" playtime="65.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="2118034361" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>學著你的樣子我也笑得非常開心呢…</text>
+	<attr id="0" playtime="71.2" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="375611609" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>櫻。櫻。好想見你。</text>
+	<attr id="0" playtime="76.8" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1715699214" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 好想現在馬上就見到你。</text>
+	<attr id="0" playtime="80.6" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1134299220" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>將你召回天上的神啊。我祈求你。</text>
+	<attr id="0" playtime="82.9" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="2082427242" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 我的胸口就像快崩潰了一樣</text>
+	<attr id="0" playtime="86.8" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="518699593" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>櫻。櫻。好想見你</text>
+	<attr id="0" playtime="89.1" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1149465889" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>好想現在馬上就見到你。</text>
+	<attr id="0" playtime="91.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1233577441" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>將你召回天上的神啊。我祈求你。</text>
+	<attr id="0" playtime="94.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="430019551" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>我的呼吸就像要停止了一樣</text>
+	<attr id="0" playtime="98.9" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="824179440" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>五月的風 追趕在提防的道路上</text>
+	<attr id="0" playtime="101.3" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1116096804" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>六月的雨 透過窗臺看到的紫陽花</text>
+	<attr id="0" playtime="106.7" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="158004874" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>八月的庭院 狡猾的水倒映出小小的彩虹</text>
+	<attr id="0" playtime="112.7" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1704966583" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>  九月的清晨 跟你成對的miffy的餐具</text>
+	<attr id="0" playtime="118.7" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1613656935" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 一月的雪 用毛毯裹起來的你</text>
+	<attr id="0" playtime="124.1" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="2139777974" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>二月的星辰 一直靜悄悄望向遠方的你</text>
+	<attr id="0" playtime="129.9" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="75541077" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>三月的街 變得越來越高的你</text>
+	<attr id="0" playtime="135.8" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1696226647" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>四月的夢 每年都會慶祝的生日</text>
+	<attr id="0" playtime="141.8" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="95217424" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>櫻。櫻。好想見你。</text>
+	<attr id="0" playtime="147.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="377212503" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>好想現在馬上就見到你。</text>
+	<attr id="0" playtime="149.7" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1042731603" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>將你召回天上的神啊。我祈求你。</text>
+	<attr id="0" playtime="153.1" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1573741532" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>我的胸口就像快崩潰了一樣</text>
+	<attr id="0" playtime="157.2" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="925791119" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 櫻。櫻。好想見你</text>
+	<attr id="0" playtime="160.8" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="101782770" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>  好想現在馬上就見到你。</text>
+	<attr id="0" playtime="162.1" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="111565411" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>將你召回天上的神啊。我祈求你。</text>
+	<attr id="0" playtime="164.7" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="155476475" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>我的呼吸就像要停止了一樣</text>
+	<attr id="0" playtime="168" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="2014027149" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>你用跟平常不同的聲音哭泣的時候</text>
+	<attr id="0" playtime="177" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1336931098" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>我邊哭邊帶你到醫院去</text>
+	<attr id="0" playtime="182.8" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1299773721" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 醫生是個非常溫柔的人</text>
+	<attr id="0" playtime="188.1" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="153650451" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>慎重并輕聲跟我說【已經可以說再見了】</text>
+	<attr id="0" playtime="194.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="790018778" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>櫻。櫻。好想見你。</text>
+	<attr id="0" playtime="200.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1642869294" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 好想現在馬上就見到你。</text>
+	<attr id="0" playtime="204" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="362250293" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>將你召回天上的神啊。我祈求你。</text>
+	<attr id="0" playtime="205.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1527386945" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>我的眼眶就像濕潤了一樣</text>
+	<attr id="0" playtime="209.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="246705813" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 櫻。櫻。好想見你。</text>
+	<attr id="0" playtime="210.7" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="165445554" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>好想現在馬上就見到你。</text>
+	<attr id="0" playtime="215.3" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="442098218" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>將你召回天上的神啊。我祈求你</text>
+	<attr id="0" playtime="219" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="167726026" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>  我的心就像消失了一樣</text>
+	<attr id="0" playtime="220.7" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="683046562" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>櫻。櫻。好想見你。</text>
+	<attr id="0" playtime="226.2" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="111906142" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>好想現在馬上就見到你。</text>
+	<attr id="0" playtime="229.2" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1401869050" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>將你召回天上的神啊。我祈求你。</text>
+	<attr id="0" playtime="232.3" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1053661913" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>我的胸口就像快崩潰了一樣</text>
+	<attr id="0" playtime="235.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="2077212411" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 櫻。櫻。好想見你</text>
+	<attr id="0" playtime="237.6" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1464441292" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>好想現在馬上就見到你。</text>
+	<attr id="0" playtime="241" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1722268798" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>將你召回天上的神啊。我祈求你。</text>
+	<attr id="0" playtime="244.4" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1920291133" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>我的呼吸就像要停止了一樣</text>
+	<attr id="0" playtime="248.1" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="271809484" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>出生於春天的你。幫你取了【櫻】當做名字</text>
+	<attr id="0" playtime="251.7" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1086795114" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 非常可愛的只有三個平假名的【SAKURA】</text>
+	<attr id="0" playtime="257.5" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1259531537" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>明天如果是晴天的話要帶你去哪裡玩呢</text>
+	<attr id="0" playtime="264.6" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1560030155" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>直像滿開的櫻花一樣漂亮的</text>
+	<attr id="0" playtime="269" mode="4" fontsize="15" color="16724889"/>
+</comment>
+<comment id="1484041266" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="274.7" mode="4" fontsize="37" color="16724889"/>
+</comment>
+<comment id="1541675042" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text>
+    </text>
+	<attr id="0" playtime="274.7" mode="4" fontsize="37" color="16724889"/>
+</comment>
+<comment id="1763861568" poolid="1" userhash="deadbeef" sendtime="1321635709">
+	<text> 櫻</text>
+	<attr id="0" playtime="273.7" mode="4" fontsize="37" color="16724889"/>
+</comment>
+</comments>

@@ -1,28 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-   <playTime>2.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[作詞：wowaka作曲：wowaka编曲：wowaka]]></message>
-   <times>2011-03-02 23:52:44</times>
-  </data>
-  <data>
-   <playTime>2.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[翻译:.端木葵 字幕:kagemi]]></message>
-   <times>2011-03-02 23:53:14</times>
-  </data>
-  <data>
-   <playTime>2.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[唄：Evalia]]></message>
-   <times>2011-03-02 23:53:33</times>
-  </data>
-  <data>
-   <playTime>2.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[ロンリーガール]]></message>
-   <times>2011-03-02 23:53:38</times>
-  </data>
-  <data>
-   <playTime>9.1</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="2114602168" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>作詞：wowaka作曲：wowaka编曲：wowaka</text>
+	<attr id="0" playtime="2.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1002355637" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>翻译:.端木葵 字幕:kagemi</text>
+	<attr id="0" playtime="2.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1712032621" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>唄：Evalia</text>
+	<attr id="0" playtime="2.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="491619719" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>ロンリーガール</text>
+	<attr id="0" playtime="2.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="211436579" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -34,12 +29,11 @@
 　
 █　　　　　　█
 　　█　　█
-　]]></message>
-   <times>2011-03-03 00:20:19</times>
-  </data>
-  <data>
-   <playTime>9.1</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1367413046" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -51,12 +45,11 @@
 　
 Ｇ　　　　　　Ｌ
 　　Ｎ　　Ｉ
-　]]></message>
-   <times>2011-03-03 00:21:45</times>
-  </data>
-  <data>
-   <playTime>9.1</playTime>
-   <message fontsize="25" color="16711680" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="341061016" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -68,12 +61,11 @@
 　　ＧＩＲＬ
 　
 　
-　]]></message>
-   <times>2011-03-03 00:22:19</times>
-  </data>
-  <data>
-   <playTime>9.2</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="696031435" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -85,12 +77,11 @@
 　
 █　　　　　　█
 　　█　　█
-　]]></message>
-   <times>2011-03-03 00:26:06</times>
-  </data>
-  <data>
-   <playTime>9.2</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="196752663" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -102,12 +93,11 @@
 　
 Ｎ　　　　　　Ｌ
 　　Ｉ　　Ｌ
-　]]></message>
-   <times>2011-03-03 00:27:45</times>
-  </data>
-  <data>
-   <playTime>9.2</playTime>
-   <message fontsize="25" color="16776960" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1234648202" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -119,12 +109,11 @@
 　ＧＩＲＬ
 　
 　
-　]]></message>
-   <times>2011-03-03 00:28:12</times>
-  </data>
-  <data>
-   <playTime>9.4</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.2" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1910300977" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -136,12 +125,11 @@
 　
 █　　　　　　█
 　　█　　█
-　]]></message>
-   <times>2011-03-03 00:28:43</times>
-  </data>
-  <data>
-   <playTime>9.4</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2000576924" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -153,12 +141,11 @@
 　
 Ｉ　　　　　　Ｏ
 　　Ｌ　　Ｌ
-　]]></message>
-   <times>2011-03-03 00:29:59</times>
-  </data>
-  <data>
-   <playTime>9.4</playTime>
-   <message fontsize="25" color="65535" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1925717751" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -170,12 +157,11 @@
 ＧＩＲＬ
 　
 　
-　]]></message>
-   <times>2011-03-03 00:30:29</times>
-  </data>
-  <data>
-   <playTime>9.5</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.4" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="1479647625" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -187,12 +173,11 @@
 　
 █　　　　　　█
 　　█　　█
-　]]></message>
-   <times>2011-03-03 00:31:20</times>
-  </data>
-  <data>
-   <playTime>9.5</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1676060128" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -204,12 +189,11 @@
 　
 Ｌ　　　　　　Ｒ
 　　Ｌ　　Ｏ
-　]]></message>
-   <times>2011-03-03 00:32:34</times>
-  </data>
-  <data>
-   <playTime>9.5</playTime>
-   <message fontsize="25" color="65280" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1993050969" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -221,12 +205,11 @@
 ＧＩＲＬ　
 　
 　
-　]]></message>
-   <times>2011-03-03 00:33:01</times>
-  </data>
-  <data>
-   <playTime>9.9</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.5" mode="4" fontsize="25" color="65280"/>
+</comment>
+<comment id="202807290" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -238,12 +221,11 @@
 　
 █　　　　　　█
 　　█　　█
-　]]></message>
-   <times>2011-03-03 00:34:26</times>
-  </data>
-  <data>
-   <playTime>9.9</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="694350557" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -255,12 +237,11 @@
 　
 Ｌ　　　　　　↙
 　　Ｏ　　Ｒ
-　]]></message>
-   <times>2011-03-03 00:35:23</times>
-  </data>
-  <data>
-   <playTime>10.2</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="9.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1794205504" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -272,12 +253,11 @@
 　
 █　　　　　　█
 　　█　　█
-　]]></message>
-   <times>2011-03-03 00:36:03</times>
-  </data>
-  <data>
-   <playTime>10.2</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="10.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1309849813" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -289,12 +269,11 @@
 　
 Ｏ　　　　　　Ｇ
 　　Ｒ　　←
-　]]></message>
-   <times>2011-03-03 00:37:30</times>
-  </data>
-  <data>
-   <playTime>10.4</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="10.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1654680818" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -306,12 +285,11 @@
 　
 █　　　　　　█
 　　█　　█
-　]]></message>
-   <times>2011-03-03 00:38:58</times>
-  </data>
-  <data>
-   <playTime>10.4</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="10.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="34589368" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -323,12 +301,11 @@
 　
 Ｒ　　　　　　Ｎ
 　　↖　　Ｇ
-　]]></message>
-   <times>2011-03-03 00:40:11</times>
-  </data>
-  <data>
-   <playTime>10.6</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="10.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1456774116" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -340,12 +317,11 @@
 　
 █　　　　　　█
 　　█　　█
-　]]></message>
-   <times>2011-03-03 00:40:44</times>
-  </data>
-  <data>
-   <playTime>10.6</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="10.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1557387547" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -357,12 +333,11 @@
 　
 ↑　　　　　　Ｉ
 　　Ｇ　　Ｎ
-　]]></message>
-   <times>2011-03-03 00:41:41</times>
-  </data>
-  <data>
-   <playTime>10.9</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="10.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1363717138" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -374,12 +349,11 @@
 　
 █　　　　　　█
 　　█　　█
-　]]></message>
-   <times>2011-03-03 00:43:06</times>
-  </data>
-  <data>
-   <playTime>10.9</playTime>
-   <message fontsize="25" color="16711680" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="10.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2039079638" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -391,12 +365,11 @@
 　
 Ｇ　　　　　　Ｌ
 　　Ｎ　　Ｉ
-　]]></message>
-   <times>2011-03-03 00:44:06</times>
-  </data>
-  <data>
-   <playTime>11.2</playTime>
-   <message fontsize="25" color="12583167" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="10.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="318724313" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -408,12 +381,11 @@
 　
 Ｇ　　　　　　Ｌ
 　　Ｎ　　Ｉ
-　]]></message>
-   <times>2011-03-03 00:44:46</times>
-  </data>
-  <data>
-   <playTime>11.5</playTime>
-   <message fontsize="25" color="16776960" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="11.2" mode="4" fontsize="25" color="12583167"/>
+</comment>
+<comment id="817383163" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -424,12 +396,11 @@
 █　　　　　　Ｌ
 　
 Ｇ　　　　　　Ｌ
-　　Ｎ　　Ｉ]]></message>
-   <times>2011-03-03 00:45:29</times>
-  </data>
-  <data>
-   <playTime>11.5</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　　Ｎ　　Ｉ</text>
+	<attr id="0" playtime="11.5" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2083323608" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -440,12 +411,11 @@
 █　　　　　　█
 　
 █　　　　　　█
-　　█　　█]]></message>
-   <times>2011-03-03 00:46:18</times>
-  </data>
-  <data>
-   <playTime>11.5</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　█　　█</text>
+	<attr id="0" playtime="11.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1981918424" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -456,12 +426,11 @@
 █　　　　　　Ｌ
 　
 Ｇ　　　　　　Ｌ
-　　Ｎ　　Ｉ]]></message>
-   <times>2011-03-03 00:47:23</times>
-  </data>
-  <data>
-   <playTime>11.5</playTime>
-   <message fontsize="25" color="16711680" mode="4"><![CDATA[　
+　　Ｎ　　Ｉ</text>
+	<attr id="0" playtime="11.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="160495480" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -472,12 +441,11 @@
 　
 ＧＩＲＬ　　
 　
-　]]></message>
-   <times>2011-03-03 00:49:27</times>
-  </data>
-  <data>
-   <playTime>11.8</playTime>
-   <message fontsize="25" color="65535" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="11.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2008890992" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -488,12 +456,11 @@
 　
 ＧＩＲＬ　
 　
-　]]></message>
-   <times>2011-03-03 00:50:05</times>
-  </data>
-  <data>
-   <playTime>12.1</playTime>
-   <message fontsize="25" color="65280" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="11.8" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="413308155" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -504,12 +471,11 @@
 　
 ＧＩＲＬ
 　
-　]]></message>
-   <times>2011-03-03 00:50:35</times>
-  </data>
-  <data>
-   <playTime>22.2</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="12.1" mode="4" fontsize="25" color="65280"/>
+</comment>
+<comment id="1908742319" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -521,12 +487,11 @@
 　
 　
 　
-Rolling girl　　　　　　　]]></message>
-   <times>2011-03-03 00:54:17</times>
-  </data>
-  <data>
-   <playTime>23.6</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+Rolling girl　　　　　　　</text>
+	<attr id="0" playtime="22.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1489239383" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -538,12 +503,11 @@ Rolling girl　　　　　　　]]></message>
 　
 　
 　
-Rolling girl不　　　　　　]]></message>
-   <times>2011-03-03 00:54:40</times>
-  </data>
-  <data>
-   <playTime>24.1</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+Rolling girl不　　　　　　</text>
+	<attr id="0" playtime="23.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1120440906" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -555,12 +519,11 @@ Rolling girl不　　　　　　]]></message>
 　
 　
 　
-Rolling girl不管　　　　　]]></message>
-   <times>2011-03-03 00:55:12</times>
-  </data>
-  <data>
-   <playTime>24.3</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+Rolling girl不管　　　　　</text>
+	<attr id="0" playtime="24.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2050117676" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -572,12 +535,11 @@ Rolling girl不管　　　　　]]></message>
 　
 　
 　
-Rolling girl不管是　　　　]]></message>
-   <times>2011-03-03 00:55:32</times>
-  </data>
-  <data>
-   <playTime>24.6</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+Rolling girl不管是　　　　</text>
+	<attr id="0" playtime="24.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="45361774" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -589,12 +551,11 @@ Rolling girl不管是　　　　]]></message>
 　
 　
 　
-Rolling girl不管是什么　　]]></message>
-   <times>2011-03-03 00:55:56</times>
-  </data>
-  <data>
-   <playTime>24.7</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+Rolling girl不管是什么　　</text>
+	<attr id="0" playtime="24.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1184159086" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -606,67 +567,55 @@ Rolling girl不管是什么　　]]></message>
 　
 　
 　
-Rolling girl不管是什么时候]]></message>
-   <times>2011-03-03 00:56:14</times>
-  </data>
-  <data>
-   <playTime>25.4</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　]]></message>
-   <times>2011-03-03 00:57:47</times>
-  </data>
-  <data>
-   <playTime>25.4</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[都　　　　　　　　　　]]></message>
-   <times>2011-03-03 00:58:45</times>
-  </data>
-  <data>
-   <playTime>25.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[在　　　　　　　　]]></message>
-   <times>2011-03-03 00:58:50</times>
-  </data>
-  <data>
-   <playTime>25.6</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[做　　　　　　　]]></message>
-   <times>2011-03-03 00:59:14</times>
-  </data>
-  <data>
-   <playTime>25.8</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[着　　　　　　]]></message>
-   <times>2011-03-03 00:59:26</times>
-  </data>
-  <data>
-   <playTime>25.9</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[无　　　　　]]></message>
-   <times>2011-03-03 00:59:41</times>
-  </data>
-  <data>
-   <playTime>26.1</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[法　　　　]]></message>
-   <times>2011-03-03 00:59:46</times>
-  </data>
-  <data>
-   <playTime>26.2</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[企　　　]]></message>
-   <times>2011-03-03 00:59:50</times>
-  </data>
-  <data>
-   <playTime>26.4</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[及　　]]></message>
-   <times>2011-03-03 00:59:55</times>
-  </data>
-  <data>
-   <playTime>26.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[的　]]></message>
-   <times>2011-03-03 01:00:00</times>
-  </data>
-  <data>
-   <playTime>26.6</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[梦]]></message>
-   <times>2011-03-03 01:00:04</times>
-  </data>
-  <data>
-   <playTime>28.7</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+Rolling girl不管是什么时候</text>
+	<attr id="0" playtime="24.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="138270408" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　</text>
+	<attr id="0" playtime="25.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1313591029" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>都　　　　　　　　　　</text>
+	<attr id="0" playtime="25.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1914568316" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>在　　　　　　　　</text>
+	<attr id="0" playtime="25.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1605398019" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>做　　　　　　　</text>
+	<attr id="0" playtime="25.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="362056806" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>着　　　　　　</text>
+	<attr id="0" playtime="25.8" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="847164583" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>无　　　　　</text>
+	<attr id="0" playtime="25.9" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1197413497" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>法　　　　</text>
+	<attr id="0" playtime="26.1" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1500798755" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>企　　　</text>
+	<attr id="0" playtime="26.2" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="919662576" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>及　　</text>
+	<attr id="0" playtime="26.4" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1588736851" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>的　</text>
+	<attr id="0" playtime="26.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1616697953" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>梦</text>
+	<attr id="0" playtime="26.6" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="303804664" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -678,12 +627,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-████████████]]></message>
-   <times>2011-03-03 01:07:17</times>
-  </data>
-  <data>
-   <playTime>28.7</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+████████████</text>
+	<attr id="0" playtime="28.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1393832874" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -695,12 +643,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-那些梦在混乱嘈杂的头脑中]]></message>
-   <times>2011-03-03 01:07:35</times>
-  </data>
-  <data>
-   <playTime>31.7</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+那些梦在混乱嘈杂的头脑中</text>
+	<attr id="0" playtime="28.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1476170916" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -712,12 +659,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-████████████]]></message>
-   <times>2011-03-03 01:10:02</times>
-  </data>
-  <data>
-   <playTime>31.7</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+████████████</text>
+	<attr id="0" playtime="31.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="620246198" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -729,12 +675,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-不停地翻转　混杂　搅拌　]]></message>
-   <times>2011-03-03 01:10:40</times>
-  </data>
-  <data>
-   <playTime>42</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+不停地翻转　混杂　搅拌　</text>
+	<attr id="0" playtime="31.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1892438698" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -746,12 +691,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:15:24</times>
-  </data>
-  <data>
-   <playTime>42</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="42" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="199479409" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -763,12 +707,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-“没有问题。”　　]]></message>
-   <times>2011-03-03 01:15:45</times>
-  </data>
-  <data>
-   <playTime>43.7</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+“没有问题。”　　</text>
+	<attr id="0" playtime="42" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1557141408" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -780,12 +723,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:16:10</times>
-  </data>
-  <data>
-   <playTime>43.7</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="43.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1754388165" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -797,12 +739,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　　　　　　这]]></message>
-   <times>2011-03-03 01:16:49</times>
-  </data>
-  <data>
-   <playTime>43.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　　　　　　　这</text>
+	<attr id="0" playtime="43.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="308055575" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -814,12 +755,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:17:05</times>
-  </data>
-  <data>
-   <playTime>43.8</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="43.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1686417248" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -831,12 +771,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　　　　　这样]]></message>
-   <times>2011-03-03 01:17:29</times>
-  </data>
-  <data>
-   <playTime>43.9</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　　　　　　这样</text>
+	<attr id="0" playtime="43.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="783687368" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -848,12 +787,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:17:48</times>
-  </data>
-  <data>
-   <playTime>43.9</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="43.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2109397877" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -865,12 +803,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　　　　这样地]]></message>
-   <times>2011-03-03 01:18:10</times>
-  </data>
-  <data>
-   <playTime>43.9</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　　　　　这样地</text>
+	<attr id="0" playtime="43.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1813896722" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -882,12 +819,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:18:33</times>
-  </data>
-  <data>
-   <playTime>43.9</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="43.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1384633664" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -899,12 +835,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　　　这样地脱]]></message>
-   <times>2011-03-03 01:18:50</times>
-  </data>
-  <data>
-   <playTime>43.9</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　　　　这样地脱</text>
+	<attr id="0" playtime="43.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="740601289" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -916,12 +851,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:19:18</times>
-  </data>
-  <data>
-   <playTime>43.9</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="43.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1695372962" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -933,12 +867,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　　这样地脱口]]></message>
-   <times>2011-03-03 01:26:01</times>
-  </data>
-  <data>
-   <playTime>44.2</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　　　这样地脱口</text>
+	<attr id="0" playtime="43.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="559369415" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -951,12 +884,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:26:27</times>
-  </data>
-  <data>
-   <playTime>44.2</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="44.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="456744760" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -968,12 +900,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　这样地脱口而]]></message>
-   <times>2011-03-03 01:26:50</times>
-  </data>
-  <data>
-   <playTime>44.2</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　　这样地脱口而</text>
+	<attr id="0" playtime="44.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1330282898" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -985,12 +916,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:27:55</times>
-  </data>
-  <data>
-   <playTime>44.2</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="44.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="595024737" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1002,12 +932,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　这样地脱口而出]]></message>
-   <times>2011-03-03 01:28:18</times>
-  </data>
-  <data>
-   <playTime>44.5</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　这样地脱口而出</text>
+	<attr id="0" playtime="44.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1620780222" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1019,12 +948,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:28:36</times>
-  </data>
-  <data>
-   <playTime>44.5</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="44.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="163588536" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1036,12 +964,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　这样地脱口而出说]]></message>
-   <times>2011-03-03 01:29:10</times>
-  </data>
-  <data>
-   <playTime>44.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　这样地脱口而出说</text>
+	<attr id="0" playtime="44.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1872450913" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1053,12 +980,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 01:29:29</times>
-  </data>
-  <data>
-   <playTime>44.8</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="44.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1291435568" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1070,12 +996,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-这样地脱口而出说道]]></message>
-   <times>2011-03-03 01:29:53</times>
-  </data>
-  <data>
-   <playTime>45.2</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+这样地脱口而出说道</text>
+	<attr id="0" playtime="44.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1807458528" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1088,12 +1013,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:32:35</times>
-  </data>
-  <data>
-   <playTime>45.2</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="45.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1827263804" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1105,12 +1029,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 是　　　　　　　　　
-　]]></message>
-   <times>2011-03-03 01:33:05</times>
-  </data>
-  <data>
-   <playTime>45.3</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="45.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1390640535" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1122,12 +1045,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:34:11</times>
-  </data>
-  <data>
-   <playTime>45.3</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="45.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="2017186738" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1139,12 +1061,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 又是　　　　　　　
-　]]></message>
-   <times>2011-03-03 01:34:34</times>
-  </data>
-  <data>
-   <playTime>45.5</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="45.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="233807616" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1156,12 +1077,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:34:54</times>
-  </data>
-  <data>
-   <playTime>45.5</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="45.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1144614057" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1173,12 +1093,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 一又是　　　　　　
-　]]></message>
-   <times>2011-03-03 01:35:22</times>
-  </data>
-  <data>
-   <playTime>45.8</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="45.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1513257909" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1190,12 +1109,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:35:57</times>
-  </data>
-  <data>
-   <playTime>45.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="45.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1108513714" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1207,12 +1125,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 次一又是　　　　　
-　]]></message>
-   <times>2011-03-03 01:36:22</times>
-  </data>
-  <data>
-   <playTime>46.1</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="45.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1903515446" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1224,12 +1141,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:36:41</times>
-  </data>
-  <data>
-   <playTime>46.1</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1410502899" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1241,12 +1157,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 要次一又是　　　　
-　]]></message>
-   <times>2011-03-03 01:37:09</times>
-  </data>
-  <data>
-   <playTime>46.3</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.1" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="345703386" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1258,12 +1173,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:37:34</times>
-  </data>
-  <data>
-   <playTime>46.3</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1932174982" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1275,12 +1189,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 食要次一又是
-　]]></message>
-   <times>2011-03-03 01:37:58</times>
-  </data>
-  <data>
-   <playTime>46.3</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="470003887" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1292,12 +1205,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:38:26</times>
-  </data>
-  <data>
-   <playTime>46.3</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="701472941" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1309,12 +1221,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 食要次一又是　　　
-　]]></message>
-   <times>2011-03-03 01:38:49</times>
-  </data>
-  <data>
-   <playTime>46.4</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1073971183" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1326,12 +1237,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:39:11</times>
-  </data>
-  <data>
-   <playTime>46.4</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="480331477" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1343,12 +1253,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 言食要次一又是　　
-　]]></message>
-   <times>2011-03-03 01:39:33</times>
-  </data>
-  <data>
-   <playTime>46.7</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="386053487" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1360,12 +1269,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:39:53</times>
-  </data>
-  <data>
-   <playTime>46.7</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="988382495" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1377,12 +1285,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 了言食要次一又是　
-　]]></message>
-   <times>2011-03-03 01:40:15</times>
-  </data>
-  <data>
-   <playTime>46.8</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="181010717" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1394,12 +1301,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 █████████
-　]]></message>
-   <times>2011-03-03 01:40:37</times>
-  </data>
-  <data>
-   <playTime>46.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="660972214" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1411,12 +1317,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 吗了言食要次一又是
-　]]></message>
-   <times>2011-03-03 01:41:04</times>
-  </data>
-  <data>
-   <playTime>48.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="46.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="467599683" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1428,12 +1333,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　　　　还　　　　
 　
-　]]></message>
-   <times>2011-03-03 01:44:17</times>
-  </data>
-  <data>
-   <playTime>48.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="48.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1172695888" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1445,12 +1349,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　　　　　　　　是　　　　　　　　
 　
-　]]></message>
-   <times>2011-03-03 01:44:37</times>
-  </data>
-  <data>
-   <playTime>48.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="48.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1913599605" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1462,12 +1365,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　　　　　　　　　　　　失　　　　　　　　　　　　
 　
-　]]></message>
-   <times>2011-03-03 01:44:56</times>
-  </data>
-  <data>
-   <playTime>48.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="48.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1466199854" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1479,12 +1381,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　　　　　　　　　　　　　　　　败　　　　　　　　　　　　　　　　
 　
-　]]></message>
-   <times>2011-03-03 01:45:21</times>
-  </data>
-  <data>
-   <playTime>49.3</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="48.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1133423443" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1496,12 +1397,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　　败　　　　]]></message>
-   <times>2011-03-03 01:46:41</times>
-  </data>
-  <data>
-   <playTime>49.3</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　　　　败　　　　</text>
+	<attr id="0" playtime="49.3" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1760751978" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1513,12 +1413,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　　　　　　失　　　　　　　　]]></message>
-   <times>2011-03-03 01:46:57</times>
-  </data>
-  <data>
-   <playTime>49.3</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　　　　　　　　失　　　　　　　　</text>
+	<attr id="0" playtime="49.3" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="833864066" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1530,12 +1429,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　　　　　　　　　　是　　　　　　　　　　　　]]></message>
-   <times>2011-03-03 01:47:15</times>
-  </data>
-  <data>
-   <playTime>49.3</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　　　　　　　　　　　　是　　　　　　　　　　　　</text>
+	<attr id="0" playtime="49.3" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1636749445" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1547,62 +1445,51 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　　　　　　　　　　　　　　　　总　　　　　　　　　　　　　　　　]]></message>
-   <times>2011-03-03 01:47:31</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[   ]]></message>
-   <times>2011-03-03 10:44:19</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[     　]]></message>
-   <times>2011-03-03 10:44:28</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[找　　　　]]></message>
-   <times>2011-03-03 10:44:32</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[茬　　　　　　　　]]></message>
-   <times>2011-03-03 10:44:37</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[游　　　　　　　　　　　　]]></message>
-   <times>2011-03-03 10:44:42</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[戏　　　　　　　　　　　　　　　　]]></message>
-   <times>2011-03-03 10:44:46</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[结　　　　　　　　　　　　　　　　　　　　]]></message>
-   <times>2011-03-03 10:44:52</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[束　　　　　　　　　　　　　　　　　　　　　　　　]]></message>
-   <times>2011-03-03 10:44:56</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[之　　　　　　　　　　　　　　　　　　　　　　　　　　　　]]></message>
-   <times>2011-03-03 10:45:02</times>
-  </data>
-  <data>
-   <playTime>50</playTime>
-   <message fontsize="25" color="12583167" mode="1"><![CDATA[后　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　]]></message>
-   <times>2011-03-03 10:45:07</times>
-  </data>
-  <data>
-   <playTime>51.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　　　　　　　　　　　　　　　　总　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="49.3" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1930992411" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>   </text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="715422192" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>     　</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="1741875172" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>找　　　　</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="692987466" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>茬　　　　　　　　</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="1462538145" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>游　　　　　　　　　　　　</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="811497653" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>戏　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="61985807" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>结　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="830187675" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>束　　　　　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="972134594" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>之　　　　　　　　　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="369895561" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>后　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="50" mode="1" fontsize="25" color="12583167"/>
+</comment>
+<comment id="1846245702" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1614,12 +1501,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-██████████████]]></message>
-   <times>2011-03-03 10:50:18</times>
-  </data>
-  <data>
-   <playTime>51.8</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+██████████████</text>
+	<attr id="0" playtime="51.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1573428038" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1631,12 +1517,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-又是，新的　一个轮回的开始！]]></message>
-   <times>2011-03-03 10:50:35</times>
-  </data>
-  <data>
-   <playTime>54.6</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[再　　　一　　　次　　　
+又是，新的　一个轮回的开始！</text>
+	<attr id="0" playtime="51.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1409982705" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>再　　　一　　　次　　　
 　
 　
 　
@@ -1648,12 +1533,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-再　　　一　　　次　　　]]></message>
-   <times>2011-03-03 10:53:03</times>
-  </data>
-  <data>
-   <playTime>54.6</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+再　　　一　　　次　　　</text>
+	<attr id="0" playtime="54.6" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="320488083" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 再　　一　　次　　
 　
 　
@@ -1665,12 +1549,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 再　　一　　次　　
-　]]></message>
-   <times>2011-03-03 10:53:28</times>
-  </data>
-  <data>
-   <playTime>54.6</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="54.6" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="57080375" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 再　一　次　
 　
@@ -1682,12 +1565,11 @@ Rolling girl不管是什么时候]]></message>
 　
 再　一　次　
 　
-　]]></message>
-   <times>2011-03-03 10:54:08</times>
-  </data>
-  <data>
-   <playTime>54.6</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="54.6" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="999137333" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1699,12 +1581,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 10:54:38</times>
-  </data>
-  <data>
-   <playTime>55.5</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[又　　　一　　　次　　　
+　</text>
+	<attr id="0" playtime="54.6" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="189586130" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>又　　　一　　　次　　　
 　
 　
 　
@@ -1716,12 +1597,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-又　　　一　　　次　　　]]></message>
-   <times>2011-03-03 10:56:39</times>
-  </data>
-  <data>
-   <playTime>55.5</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+又　　　一　　　次　　　</text>
+	<attr id="0" playtime="55.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="1072133303" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 又　　一　　次　　
 　
 　
@@ -1733,12 +1613,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 又　　一　　次　　
-　]]></message>
-   <times>2011-03-03 10:57:09</times>
-  </data>
-  <data>
-   <playTime>55.5</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="55.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="756126151" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 又　一　次　
 　
@@ -1750,12 +1629,11 @@ Rolling girl不管是什么时候]]></message>
 　
 又　一　次　
 　
-　]]></message>
-   <times>2011-03-03 10:57:39</times>
-  </data>
-  <data>
-   <playTime>55.5</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="55.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="1423089665" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1767,62 +1645,51 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 10:58:01</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　　　]]></message>
-   <times>2011-03-03 11:02:58</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　　　　　]]></message>
-   <times>2011-03-03 11:03:00</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　　　　]]></message>
-   <times>2011-03-03 11:03:02</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　　　　　　　　　我　　　　　　　　　]]></message>
-   <times>2011-03-03 11:03:10</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　　　　　　今　　　　　　]]></message>
-   <times>2011-03-03 11:03:19</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　　　天　　　]]></message>
-   <times>2011-03-03 11:03:28</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[也]]></message>
-   <times>2011-03-03 11:03:34</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　　　失　　　]]></message>
-   <times>2011-03-03 11:03:39</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　　　　　　败　　　　　　]]></message>
-   <times>2011-03-03 11:03:43</times>
-  </data>
-  <data>
-   <playTime>56.5</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　　　　　　　　　了　　　　　　　　　]]></message>
-   <times>2011-03-03 11:03:53</times>
-  </data>
-  <data>
-   <playTime>58.4</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="55.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="1627672759" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="874039057" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　　　</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="40699770" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　　</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="46201036" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　　　　　　　我　　　　　　　　　</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="967322515" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　　　　今　　　　　　</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1208895713" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　天　　　</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="411726329" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>也</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1511835618" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　失　　　</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1763789578" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　　　　败　　　　　　</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1149629396" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　　　　　　　　　了　　　　　　　　　</text>
+	<attr id="0" playtime="56.5" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1909963921" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1834,12 +1701,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-██████]]></message>
-   <times>2011-03-03 11:08:14</times>
-  </data>
-  <data>
-   <playTime>58.4</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+██████</text>
+	<attr id="0" playtime="58.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="77812188" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1851,12 +1717,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-少女喃喃说道]]></message>
-   <times>2011-03-03 11:08:31</times>
-  </data>
-  <data>
-   <playTime>59.1</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+少女喃喃说道</text>
+	<attr id="0" playtime="58.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1615885709" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1868,12 +1733,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-████████]]></message>
-   <times>2011-03-03 11:08:50</times>
-  </data>
-  <data>
-   <playTime>59.1</playTime>
-   <message fontsize="25" color="16711680" mode="4"><![CDATA[　
+████████</text>
+	<attr id="0" playtime="59.1" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="239103450" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1885,12 +1749,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-少女喃喃自言自语]]></message>
-   <times>2011-03-03 11:09:07</times>
-  </data>
-  <data>
-   <playTime>59.7</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+少女喃喃自言自语</text>
+	<attr id="0" playtime="59.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="562556459" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1902,12 +1765,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████████████]]></message>
-   <times>2011-03-03 11:14:11</times>
-  </data>
-  <data>
-   <playTime>59.7</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████████████</text>
+	<attr id="0" playtime="59.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1459252789" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1919,12 +1781,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-包含的意义就在言语字词之中奏响了！]]></message>
-   <times>2011-03-03 11:14:32</times>
-  </data>
-  <data>
-   <playTime>60</playTime>
-   <message fontsize="25" color="16776960" mode="4"><![CDATA[　
+包含的意义就在言语字词之中奏响了！</text>
+	<attr id="0" playtime="59.7" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="112049016" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1936,12 +1797,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　　
-包含的意义就在言语字词之中奏响了！]]></message>
-   <times>2011-03-03 11:15:43</times>
-  </data>
-  <data>
-   <playTime>60.3</playTime>
-   <message fontsize="25" color="65535" mode="4"><![CDATA[　
+包含的意义就在言语字词之中奏响了！</text>
+	<attr id="0" playtime="60" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="478661632" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1953,12 +1813,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-包含的意义就在言语字词之中奏响了！]]></message>
-   <times>2011-03-03 11:16:04</times>
-  </data>
-  <data>
-   <playTime>60.6</playTime>
-   <message fontsize="25" color="65280" mode="4"><![CDATA[　
+包含的意义就在言语字词之中奏响了！</text>
+	<attr id="0" playtime="60.3" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="1221006041" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1970,12 +1829,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　　
-包含的意义就在言语字词之中奏响了！]]></message>
-   <times>2011-03-03 11:16:30</times>
-  </data>
-  <data>
-   <playTime>60.8</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+包含的意义就在言语字词之中奏响了！</text>
+	<attr id="0" playtime="60.6" mode="4" fontsize="25" color="65280"/>
+</comment>
+<comment id="1366806339" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -1987,12 +1845,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-█████████████████]]></message>
-   <times>2011-03-03 11:16:53</times>
-  </data>
-  <data>
-   <playTime>60.8</playTime>
-   <message fontsize="25" color="16711680" mode="4"><![CDATA[　
+█████████████████</text>
+	<attr id="0" playtime="60.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1283306952" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2004,12 +1861,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-包含的意义就在言语字词之中奏响了！]]></message>
-   <times>2011-03-03 11:17:11</times>
-  </data>
-  <data>
-   <playTime>61.6</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+包含的意义就在言语字词之中奏响了！</text>
+	<attr id="0" playtime="60.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1194427489" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 █
@@ -2021,12 +1877,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 11:20:24</times>
-  </data>
-  <data>
-   <playTime>61.6</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1703329767" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 可
@@ -2038,12 +1893,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 11:21:12</times>
-  </data>
-  <data>
-   <playTime>61.6</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.6" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="813717692" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 █　　
@@ -2055,12 +1909,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 11:21:54</times>
-  </data>
-  <data>
-   <playTime>61.6</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="262230022" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 可
@@ -2072,12 +1925,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 11:22:25</times>
-  </data>
-  <data>
-   <playTime>61.6</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.6" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1471051429" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 █　　　　
@@ -2089,12 +1941,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 11:22:56</times>
-  </data>
-  <data>
-   <playTime>61.6</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1163469652" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 可　　　　
@@ -2106,12 +1957,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 11:23:26</times>
-  </data>
-  <data>
-   <playTime>62.3</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="61.6" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="868435354" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2123,12 +1973,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-████████████████████████████████]]></message>
-   <times>2011-03-03 11:24:55</times>
-  </data>
-  <data>
-   <playTime>62.3</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+████████████████████████████████</text>
+	<attr id="0" playtime="62.3" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="282507396" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2140,12 +1989,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-“还没呢，完全不能遇见以后的发展。紧张得气息都要停止了啊现在。”]]></message>
-   <times>2011-03-03 11:25:14</times>
-  </data>
-  <data>
-   <playTime>64.9</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+“还没呢，完全不能遇见以后的发展。紧张得气息都要停止了啊现在。”</text>
+	<attr id="0" playtime="62.3" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="767633677" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2157,12 +2005,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-███████████]]></message>
-   <times>2011-03-03 11:27:03</times>
-  </data>
-  <data>
-   <playTime>64.9</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[
+███████████</text>
+	<attr id="0" playtime="64.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="67429040" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>
 　
 　
 　
@@ -2175,12 +2022,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-紧张得气息都要停止了啊]]></message>
-   <times>2011-03-03 11:27:22</times>
-  </data>
-  <data>
-   <playTime>67.2</playTime>
-   <message fontsize="15" color="16776960" mode="4"><![CDATA[　
+紧张得气息都要停止了啊</text>
+	<attr id="0" playtime="64.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1571522004" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2199,12 +2045,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-现在　　　　　]]></message>
-   <times>2011-03-03 11:28:40</times>
-  </data>
-  <data>
-   <playTime>67.4</playTime>
-   <message fontsize="25" color="65535" mode="4"><![CDATA[　
+现在　　　　　</text>
+	<attr id="0" playtime="67.2" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="784620286" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2216,12 +2061,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-现在　　　　　]]></message>
-   <times>2011-03-03 11:29:32</times>
-  </data>
-  <data>
-   <playTime>67.7</playTime>
-   <message fontsize="37" color="16711680" mode="4"><![CDATA[　
+现在　　　　　</text>
+	<attr id="0" playtime="67.4" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="822298625" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2229,12 +2073,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-现在　　　　　]]></message>
-   <times>2011-03-03 11:29:54</times>
-  </data>
-  <data>
-   <playTime>74.8</playTime>
-   <message fontsize="37" color="16777215" mode="4"><![CDATA[　
+现在　　　　　</text>
+	<attr id="0" playtime="67.7" mode="4" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1243971843" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2246,12 +2089,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-██████████████]]></message>
-   <times>2011-03-03 11:32:53</times>
-  </data>
-  <data>
-   <playTime>74.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+██████████████</text>
+	<attr id="0" playtime="74.8" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="1079720524" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2263,12 +2105,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　　
-██████████████]]></message>
-   <times>2011-03-03 11:33:32</times>
-  </data>
-  <data>
-   <playTime>74.8</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+██████████████</text>
+	<attr id="0" playtime="74.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1759829463" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2280,12 +2121,11 @@ Rolling girl不管是什么时候]]></message>
 　
 　
 　
-Rolling girl悲惨的下场只能是]]></message>
-   <times>2011-03-03 11:34:14</times>
-  </data>
-  <data>
-   <playTime>74.8</playTime>
-   <message fontsize="37" color="16777215" mode="4"><![CDATA[　
+Rolling girl悲惨的下场只能是</text>
+	<attr id="0" playtime="74.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1619856529" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2293,12 +2133,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-██████████████]]></message>
-   <times>2011-03-03 11:35:31</times>
-  </data>
-  <data>
-   <playTime>74.8</playTime>
-   <message fontsize="37" color="0" mode="4"><![CDATA[　
+██████████████</text>
+	<attr id="0" playtime="74.8" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="1330658806" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2306,12 +2145,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　ＲＯＬＬＩＮＧ　ＧＩＲＬ　]]></message>
-   <times>2011-03-03 11:36:58</times>
-  </data>
-  <data>
-   <playTime>76.1</playTime>
-   <message fontsize="37" color="16777215" mode="4"><![CDATA[　
+　ＲＯＬＬＩＮＧ　ＧＩＲＬ　</text>
+	<attr id="0" playtime="74.8" mode="4" fontsize="37" color="0"/>
+</comment>
+<comment id="328181206" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2319,12 +2157,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-██████████████]]></message>
-   <times>2011-03-03 11:37:18</times>
-  </data>
-  <data>
-   <playTime>76.1</playTime>
-   <message fontsize="37" color="0" mode="4"><![CDATA[　
+██████████████</text>
+	<attr id="0" playtime="76.1" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="355871757" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2332,12 +2169,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　　　悲惨的下场只能是　　　]]></message>
-   <times>2011-03-03 11:37:40</times>
-  </data>
-  <data>
-   <playTime>77.7</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+　　　悲惨的下场只能是　　　</text>
+	<attr id="0" playtime="76.1" mode="4" fontsize="37" color="0"/>
+</comment>
+<comment id="1811949294" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2349,12 +2185,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 ████████████
 　
-　]]></message>
-   <times>2011-03-03 11:38:38</times>
-  </data>
-  <data>
-   <playTime>77.7</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="77.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="81117181" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2366,12 +2201,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 怎么也够不到的彼岸的缤纷
 　
-　]]></message>
-   <times>2011-03-03 11:39:02</times>
-  </data>
-  <data>
-   <playTime>81.3</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="77.7" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1954369929" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2383,12 +2217,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-███████████████]]></message>
-   <times>2011-03-03 11:40:04</times>
-  </data>
-  <data>
-   <playTime>81.3</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+███████████████</text>
+	<attr id="0" playtime="81.3" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="92704894" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2400,12 +2233,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-重叠复加的声响和声响混杂在一起]]></message>
-   <times>2011-03-03 11:40:22</times>
-  </data>
-  <data>
-   <playTime>83.9</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+重叠复加的声响和声响混杂在一起</text>
+	<attr id="0" playtime="81.3" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1416503202" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2417,12 +2249,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 11:40:41</times>
-  </data>
-  <data>
-   <playTime>83.9</playTime>
-   <message fontsize="25" color="16711680" mode="4"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="83.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="984562681" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2434,12 +2265,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-引起的是无比的混乱]]></message>
-   <times>2011-03-03 11:40:57</times>
-  </data>
-  <data>
-   <playTime>87.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+引起的是无比的混乱</text>
+	<attr id="0" playtime="83.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1864793966" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2451,12 +2281,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-████████████████]]></message>
-   <times>2011-03-03 11:43:45</times>
-  </data>
-  <data>
-   <playTime>87.8</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+████████████████</text>
+	<attr id="0" playtime="87.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1885616470" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2468,12 +2297,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-“没有问题。”这样地脱口而出说道]]></message>
-   <times>2011-03-03 11:44:02</times>
-  </data>
-  <data>
-   <playTime>90.8</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+“没有问题。”这样地脱口而出说道</text>
+	<attr id="0" playtime="87.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="628118147" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2485,12 +2313,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-██████████████]]></message>
-   <times>2011-03-03 11:44:26</times>
-  </data>
-  <data>
-   <playTime>90.8</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+██████████████</text>
+	<attr id="0" playtime="90.8" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="383081882" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2502,12 +2329,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-已经失去了使用其他词语的能力]]></message>
-   <times>2011-03-03 11:44:46</times>
-  </data>
-  <data>
-   <playTime>94.2</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+已经失去了使用其他词语的能力</text>
+	<attr id="0" playtime="90.8" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2053420038" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2519,12 +2345,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-█████████]]></message>
-   <times>2011-03-03 11:45:16</times>
-  </data>
-  <data>
-   <playTime>94.2</playTime>
-   <message fontsize="25" color="0" mode="1"><![CDATA[　
+█████████</text>
+	<attr id="0" playtime="94.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1209765433" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2536,27 +2361,23 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-不管怎样都无所谓了]]></message>
-   <times>2011-03-03 11:45:35</times>
-  </data>
-  <data>
-   <playTime>95.7</playTime>
-   <message fontsize="15" color="16777215" mode="1"><![CDATA[就算是不小心弄错引起的也没有关系]]></message>
-   <times>2011-03-03 11:46:23</times>
-  </data>
-  <data>
-   <playTime>97.5</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[这样被蛊惑地引诱]]></message>
-   <times>2011-03-03 11:46:38</times>
-  </data>
-  <data>
-   <playTime>99.7</playTime>
-   <message fontsize="15" color="16777215" mode="4"><![CDATA[这样的不见底端的下坡路]]></message>
-   <times>2011-03-03 11:46:42</times>
-  </data>
-  <data>
-   <playTime>100.9</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[再　　　一　　　次　　　　
+不管怎样都无所谓了</text>
+	<attr id="0" playtime="94.2" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="850693572" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>就算是不小心弄错引起的也没有关系</text>
+	<attr id="0" playtime="95.7" mode="1" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1842115007" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>这样被蛊惑地引诱</text>
+	<attr id="0" playtime="97.5" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1604351570" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>这样的不见底端的下坡路</text>
+	<attr id="0" playtime="99.7" mode="4" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1993340793" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>再　　　一　　　次　　　　
 　
 　
 　
@@ -2568,12 +2389,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-再　　　一　　　次　　　　]]></message>
-   <times>2011-03-03 11:47:40</times>
-  </data>
-  <data>
-   <playTime>100.9</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+再　　　一　　　次　　　　</text>
+	<attr id="0" playtime="100.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1677418834" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 再　　一　　次　　
 　
 　
@@ -2585,12 +2405,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 再　　一　　次　　
-　]]></message>
-   <times>2011-03-03 11:48:00</times>
-  </data>
-  <data>
-   <playTime>100.9</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="100.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2000227423" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 再　一　次　
 　
@@ -2602,12 +2421,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 再　一　次　
 　
-　]]></message>
-   <times>2011-03-03 11:48:59</times>
-  </data>
-  <data>
-   <playTime>100.9</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="100.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="353741432" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2619,12 +2437,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 11:49:16</times>
-  </data>
-  <data>
-   <playTime>101.8</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[又　　　一　　　次　　　　
+　</text>
+	<attr id="0" playtime="100.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1090801616" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>又　　　一　　　次　　　　
 　
 　
 　
@@ -2636,12 +2453,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-又　　　一　　　次　　　　]]></message>
-   <times>2011-03-03 11:49:56</times>
-  </data>
-  <data>
-   <playTime>101.8</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+又　　　一　　　次　　　　</text>
+	<attr id="0" playtime="101.8" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="905858599" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 又　　一　　次　　　
 　
 　
@@ -2654,12 +2470,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 又　　一　　次　　　
-　]]></message>
-   <times>2011-03-03 11:50:25</times>
-  </data>
-  <data>
-   <playTime>101.8</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="101.8" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="516571784" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2671,12 +2486,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 又　　一　　次　　　
-　]]></message>
-   <times>2011-03-03 11:50:59</times>
-  </data>
-  <data>
-   <playTime>101.8</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="101.8" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="2080005442" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 又　一　次　
 　
@@ -2688,12 +2502,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 又　一　次　
 　
-　]]></message>
-   <times>2011-03-03 11:51:22</times>
-  </data>
-  <data>
-   <playTime>101.8</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="101.8" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="688107748" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2705,12 +2518,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 11:51:37</times>
-  </data>
-  <data>
-   <playTime>102.5</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[请　　　让　　　我　　　再　　　次　　　跌　　　倒　　　失　　　败　　　吧　　　
+　</text>
+	<attr id="0" playtime="101.8" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="423779812" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>请　　　让　　　我　　　再　　　次　　　跌　　　倒　　　失　　　败　　　吧　　　
 　
 
 
@@ -2722,12 +2534,11 @@ Rolling girl悲惨的下场只能是]]></message>
 
 
 
-　]]></message>
-   <times>2011-03-03 11:56:01</times>
-  </data>
-  <data>
-   <playTime>102.5</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="102.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="399872947" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 
 
 
@@ -2739,12 +2550,11 @@ Rolling girl悲惨的下场只能是]]></message>
 
 
 
-请　　　让　　　我　　　再　　　次　　　跌　　　倒　　　失　　　败　　　吧　　　]]></message>
-   <times>2011-03-03 11:56:30</times>
-  </data>
-  <data>
-   <playTime>102.5</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+请　　　让　　　我　　　再　　　次　　　跌　　　倒　　　失　　　败　　　吧　　　</text>
+	<attr id="0" playtime="102.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="1633557708" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 请　　让　　我　　再　　次　　跌　　倒　　失　　败　　吧　　
 
 
@@ -2756,12 +2566,11 @@ Rolling girl悲惨的下场只能是]]></message>
 
 
 　
-　]]></message>
-   <times>2011-03-03 11:57:10</times>
-  </data>
-  <data>
-   <playTime>102.5</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="102.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="2136226490" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2773,12 +2582,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 请　　让　　我　　再　　次　　跌　　倒　　失　　败　　吧　　
-　]]></message>
-   <times>2011-03-03 11:57:42</times>
-  </data>
-  <data>
-   <playTime>102.5</playTime>
-   <message fontsize="25" color="65535" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="102.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="757612782" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 
 请　让　我　再　次　跌　倒　失　败　吧　
 
@@ -2790,23 +2598,21 @@ Rolling girl悲惨的下场只能是]]></message>
 
 请　让　我　再　次　跌　倒　失　败　吧　
 　
-　]]></message>
-   <times>2011-03-03 11:58:27</times>
-  </data>
-  <data>
-   <playTime>102.5</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="102.5" mode="1" fontsize="25" color="65535"/>
+</comment>
+<comment id="1383793766" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
 　
 　
-让我再次跌倒失败吧]]></message>
-   <times>2011-03-03 11:58:40</times>
-  </data>
-  <data>
-   <playTime>104.5</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+让我再次跌倒失败吧</text>
+	<attr id="0" playtime="102.5" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2001970283" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 █
@@ -2818,12 +2624,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 13:56:56</times>
-  </data>
-  <data>
-   <playTime>104.5</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="104.5" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1884934913" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 少
@@ -2835,12 +2640,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 13:57:48</times>
-  </data>
-  <data>
-   <playTime>105</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="104.5" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="893797491" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 █
 █
@@ -2852,12 +2656,11 @@ Rolling girl悲惨的下场只能是]]></message>
 █
 　
 　
-　]]></message>
-   <times>2011-03-03 13:59:47</times>
-  </data>
-  <data>
-   <playTime>105</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="105" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1580645462" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 少
 女
@@ -2869,12 +2672,11 @@ Rolling girl悲惨的下场只能是]]></message>
 语
 　
 　
-　]]></message>
-   <times>2011-03-03 14:00:20</times>
-  </data>
-  <data>
-   <playTime>105.9</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="105" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="480164408" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2886,12 +2688,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-███████████████]]></message>
-   <times>2011-03-03 14:00:53</times>
-  </data>
-  <data>
-   <playTime>105.9</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+███████████████</text>
+	<attr id="0" playtime="105.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="738057867" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -2903,12 +2704,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-沉默寡言中语言的意味叠加不停！]]></message>
-   <times>2011-03-03 14:01:12</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+沉默寡言中语言的意味叠加不停！</text>
+	<attr id="0" playtime="105.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="292063540" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　も　　　
@@ -2920,12 +2720,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:04:55</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="366730231" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　う　　　　　　
@@ -2937,12 +2736,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:05:14</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1187511647" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　良　　　　　　　　　
@@ -2954,12 +2752,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:06:11</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="287791342" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　　　　い　　　　　　　　　　　　
@@ -2971,12 +2768,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:06:30</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="928727190" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　　　　　　　か　　　　　　　　　　　　　　　
@@ -2988,12 +2784,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:07:00</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1352091256" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　　　　　　　　　　い　　　　　　　　　　　　　　　　　　
@@ -3005,12 +2800,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-]]></message>
-   <times>2011-03-03 14:07:25</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2094034799" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　可　　　　　　
@@ -3022,12 +2816,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:08:04</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1419901" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　以　　　　　　　　　
@@ -3039,12 +2832,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:08:29</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2081098042" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　　　　了　　　　　　　　　　　　
@@ -3056,21 +2848,19 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:09:20</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="461427051" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　　　　　　　吗　　　　　　　　　　　　　　　
-　]]></message>
-   <times>2011-03-03 14:09:38</times>
-  </data>
-  <data>
-   <playTime>107.4</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2015751917" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　　　　　　　　　　？　　　　　　　　　　　　　　　　　　
@@ -3082,12 +2872,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-]]></message>
-   <times>2011-03-03 14:10:00</times>
-  </data>
-  <data>
-   <playTime>109.6</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+</text>
+	<attr id="0" playtime="107.4" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1129788432" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3099,12 +2888,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-██████████████████]]></message>
-   <times>2011-03-03 14:11:12</times>
-  </data>
-  <data>
-   <playTime>109.6</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+██████████████████</text>
+	<attr id="0" playtime="109.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1038734161" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3116,12 +2904,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-还差一点，似乎马上就可以看见什么了呢]]></message>
-   <times>2011-03-03 14:11:30</times>
-  </data>
-  <data>
-   <playTime>110.9</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+还差一点，似乎马上就可以看见什么了呢</text>
+	<attr id="0" playtime="109.6" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="562634765" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3133,12 +2920,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 ███████████
-　]]></message>
-   <times>2011-03-03 14:12:16</times>
-  </data>
-  <data>
-   <playTime>110.9</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="110.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="735488592" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3150,12 +2936,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 紧张得气息都要停止了啊
-　]]></message>
-   <times>2011-03-03 14:12:33</times>
-  </data>
-  <data>
-   <playTime>113.2</playTime>
-   <message fontsize="15" color="65535" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="110.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="640065977" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3174,12 +2959,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 现在
 　
-　]]></message>
-   <times>2011-03-03 14:13:12</times>
-  </data>
-  <data>
-   <playTime>113.3</playTime>
-   <message fontsize="25" color="16776960" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="113.2" mode="4" fontsize="15" color="65535"/>
+</comment>
+<comment id="216014104" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3191,12 +2975,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 现在
 　
-　]]></message>
-   <times>2011-03-03 14:13:32</times>
-  </data>
-  <data>
-   <playTime>113.4</playTime>
-   <message fontsize="37" color="16711680" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="113.3" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="513851568" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3204,12 +2987,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 现在
 　
-　]]></message>
-   <times>2011-03-03 14:13:51</times>
-  </data>
-  <data>
-   <playTime>114.9</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="113.4" mode="4" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1683281832" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　も　　　
@@ -3221,12 +3003,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:15:42</times>
-  </data>
-  <data>
-   <playTime>114.9</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="114.9" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="955789878" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　う　　　　　　
@@ -3238,12 +3019,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:15:56</times>
-  </data>
-  <data>
-   <playTime>114.9</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="114.9" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1142710519" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　一　　　　　　　　　
@@ -3255,12 +3035,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:16:13</times>
-  </data>
-  <data>
-   <playTime>114.9</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="114.9" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="810294995" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　　　　　　　　　　回　　　　　　　　　　　　
@@ -3272,12 +3051,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:16:31</times>
-  </data>
-  <data>
-   <playTime>114.9</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="114.9" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="698826523" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3289,12 +3067,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:16:51</times>
-  </data>
-  <data>
-   <playTime>114.9</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="114.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1301839321" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3306,12 +3083,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:17:07</times>
-  </data>
-  <data>
-   <playTime>114.9</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="114.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="589316662" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3323,12 +3099,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:17:24</times>
-  </data>
-  <data>
-   <playTime>115.9</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="114.9" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="248075702" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3340,12 +3115,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-██████████]]></message>
-   <times>2011-03-03 14:18:15</times>
-  </data>
-  <data>
-   <playTime>115.9</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+██████████</text>
+	<attr id="0" playtime="115.9" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1119096319" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3357,12 +3131,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-“我今天也跌倒了呢”]]></message>
-   <times>2011-03-03 14:18:32</times>
-  </data>
-  <data>
-   <playTime>117.4</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[██████
+“我今天也跌倒了呢”</text>
+	<attr id="0" playtime="115.9" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="71783798" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>██████
 　
 　
 　
@@ -3374,12 +3147,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:19:08</times>
-  </data>
-  <data>
-   <playTime>117.4</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[少女喃喃说道
+　</text>
+	<attr id="0" playtime="117.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="287363704" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>少女喃喃说道
 　
 　
 　
@@ -3391,12 +3163,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:19:28</times>
-  </data>
-  <data>
-   <playTime>118.1</playTime>
-   <message fontsize="25" color="16711680" mode="4"><![CDATA[少女喃喃说道
+　</text>
+	<attr id="0" playtime="117.4" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="1566156785" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>少女喃喃说道
 　
 　
 　
@@ -3408,12 +3179,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　　
-　]]></message>
-   <times>2011-03-03 14:20:11</times>
-  </data>
-  <data>
-   <playTime>119.2</playTime>
-   <message fontsize="25" color="16777215" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="118.1" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1268579225" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3425,12 +3195,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-█████████████]]></message>
-   <times>2011-03-03 14:20:47</times>
-  </data>
-  <data>
-   <playTime>119.2</playTime>
-   <message fontsize="25" color="0" mode="4"><![CDATA[　
+█████████████</text>
+	<attr id="0" playtime="119.2" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="768179853" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3442,12 +3211,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-用笑声奏响那种语言的曲调！]]></message>
-   <times>2011-03-03 14:21:06</times>
-  </data>
-  <data>
-   <playTime>120.7</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[可　　　以　　　了　　　吗　　　？　　　
+用笑声奏响那种语言的曲调！</text>
+	<attr id="0" playtime="119.2" mode="4" fontsize="25" color="0"/>
+</comment>
+<comment id="410049233" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>可　　　以　　　了　　　吗　　　？　　　
 　
 　
 　
@@ -3459,12 +3227,11 @@ Rolling girl悲惨的下场只能是]]></message>
 
 
 
-可　　　以　　　了　　　吗　　　？　　　]]></message>
-   <times>2011-03-03 14:23:02</times>
-  </data>
-  <data>
-   <playTime>120.7</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+可　　　以　　　了　　　吗　　　？　　　</text>
+	<attr id="0" playtime="120.7" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="596673799" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 可　　以　　了　　吗　　？　　
 　
 　
@@ -3476,12 +3243,11 @@ Rolling girl悲惨的下场只能是]]></message>
 
 
 可　　以　　了　　吗　　？　　
-　]]></message>
-   <times>2011-03-03 14:23:26</times>
-  </data>
-  <data>
-   <playTime>120.7</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="120.7" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1672335347" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 可　以　了　吗　？　
 　
@@ -3493,12 +3259,11 @@ Rolling girl悲惨的下场只能是]]></message>
 
 可　以　了　吗　？　
 　
-　]]></message>
-   <times>2011-03-03 14:23:55</times>
-  </data>
-  <data>
-   <playTime>120.7</playTime>
-   <message fontsize="25" color="16776960" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="120.7" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1885382177" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　
@@ -3510,12 +3275,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:24:25</times>
-  </data>
-  <data>
-   <playTime>121.5</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="120.7" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="211132391" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 已
@@ -3529,12 +3293,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:25:45</times>
-  </data>
-  <data>
-   <playTime>122.3</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="121.5" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1051626591" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 差
 不
@@ -3545,17 +3308,15 @@ Rolling girl悲惨的下场只能是]]></message>
 累
 了
 吧
-　]]></message>
-   <times>2011-03-03 14:26:26</times>
-  </data>
-  <data>
-   <playTime>124</playTime>
-   <message fontsize="25" color="16777215" mode="5"><![CDATA[对吗？]]></message>
-   <times>2011-03-03 14:26:43</times>
-  </data>
-  <data>
-   <playTime>124.6</playTime>
-   <message fontsize="25" color="16711680" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="122.3" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="2113455771" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>对吗？</text>
+	<attr id="0" playtime="124" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="331542176" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
 　　　请
@@ -3567,12 +3328,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-　]]></message>
-   <times>2011-03-03 14:28:28</times>
-  </data>
-  <data>
-   <playTime>124.6</playTime>
-   <message fontsize="25" color="16777215" mode="1"><![CDATA[　
+　</text>
+	<attr id="0" playtime="124.6" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="400389603" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 　
       请
@@ -3584,12 +3344,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 　
 　
-]]></message>
-   <times>2011-03-03 14:29:44</times>
-  </data>
-  <data>
-   <playTime>126.7</playTime>
-   <message fontsize="15" color="65535" mode="1"><![CDATA[　
+</text>
+	<attr id="0" playtime="124.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="825322828" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 现在
 　
@@ -3608,12 +3367,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 现在
 　
-　]]></message>
-   <times>2011-03-03 14:30:34</times>
-  </data>
-  <data>
-   <playTime>126.7</playTime>
-   <message fontsize="25" color="65535" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="126.7" mode="1" fontsize="15" color="65535"/>
+</comment>
+<comment id="551316538" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 现在
 　
@@ -3625,12 +3383,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 现在
 　
-　]]></message>
-   <times>2011-03-03 14:31:43</times>
-  </data>
-  <data>
-   <playTime>126.7</playTime>
-   <message fontsize="15" color="16776960" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="126.7" mode="4" fontsize="25" color="65535"/>
+</comment>
+<comment id="674889427" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 现在
 　
@@ -3649,12 +3406,11 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 现在
 　
-　]]></message>
-   <times>2011-03-03 14:32:24</times>
-  </data>
-  <data>
-   <playTime>127</playTime>
-   <message fontsize="37" color="16711680" mode="4"><![CDATA[　
+　</text>
+	<attr id="0" playtime="126.7" mode="4" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1084710452" poolid="1" userhash="deadbeef" sendtime="1321635862">
+	<text>　
 　
 现在
 　
@@ -3662,7 +3418,7 @@ Rolling girl悲惨的下场只能是]]></message>
 　
 现在
 　
-　]]></message>
-   <times>2011-03-03 14:32:51</times>
-  </data>
-</information>
+　</text>
+	<attr id="0" playtime="127" mode="4" fontsize="37" color="16711680"/>
+</comment>
+</comments>

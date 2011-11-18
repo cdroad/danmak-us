@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-<data>
-<playTime>1</playTime>
-<message fontsize="25" color="0" mode="1">
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1167893155" poolid="1" userhash="deadbeef" sendtime="1321635755">
+	<text>
 　
 
 　　　　▃
@@ -18,12 +17,11 @@
 
 
 　
-</message>
-<times>　</times>
-</data>
-<data>
-<playTime>1</playTime>
-<message fontsize="25" color="0" mode="1">
+</text>
+	<attr id="0" playtime="1" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="1494190365" poolid="1" userhash="deadbeef" sendtime="1321635755">
+	<text>
 　
 
 　　　　　　▄ 　　　
@@ -39,12 +37,11 @@
 
 
 　
-</message>
-<times>　</times>
-</data>
-<data>
-<playTime>1</playTime>
-<message fontsize="25" color="0" mode="1">
+</text>
+	<attr id="0" playtime="1" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="507102581" poolid="1" userhash="deadbeef" sendtime="1321635755">
+	<text>
 　
 
 　　　　　　　　▅　　　　　　　
@@ -60,12 +57,11 @@
 
 
 　
-</message>
-<times>　</times>
-</data>
-<data>
-<playTime>1</playTime>
-<message fontsize="25" color="0" mode="1">
+</text>
+	<attr id="0" playtime="1" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="602585145" poolid="1" userhash="deadbeef" sendtime="1321635755">
+	<text>
 　
 
  　　　　　 　　　　▇ 　　　　 　　　　　 
@@ -81,12 +77,11 @@
 
 
 　
-</message>
-<times>　</times>
-</data>
-<data>
-<playTime>1</playTime>
-<message fontsize="25" color="0" mode="1">
+</text>
+	<attr id="0" playtime="1" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="546464680" poolid="1" userhash="deadbeef" sendtime="1321635755">
+	<text>
 　
 
 　　　　　　　　　　　　▅　　　　　　　　　　　　　　
@@ -102,12 +97,11 @@
 
 
 　
-</message>
-<times>　</times>
-</data>
-<data>
-<playTime>1</playTime>
-<message fontsize="25" color="0" mode="1">
+</text>
+	<attr id="0" playtime="1" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="859545901" poolid="1" userhash="deadbeef" sendtime="1321635755">
+	<text>
 　
 
  　　　　　　　　　 　　　　▄ 　　　　　　　 　　　　　　　　　 
@@ -123,12 +117,11 @@
 
 
 　
-</message>
-<times>　</times>
-</data>
-<data>
-<playTime>1</playTime>
-<message fontsize="25" color="0" mode="1">
+</text>
+	<attr id="0" playtime="1" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="2065636868" poolid="1" userhash="deadbeef" sendtime="1321635755">
+	<text>
 　
 
 　　　　　　　　　　　　　　　　▃　　　　　　　　　　　　　　　　　　　　　
@@ -144,8 +137,7 @@
 
 
 　
-</message>
-<times>　</times>
-</data>
-
-</information>
+</text>
+	<attr id="0" playtime="1" mode="1" fontsize="25" color="0"/>
+</comment>
+</comments>

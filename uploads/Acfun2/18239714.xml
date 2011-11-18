@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>21.6</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1973540791" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　　
 
 
 
@@ -16,12 +15,11 @@
 
 
 
-ゴッスンゴッスン五寸釘～</message>
-    <times>2009-01-10 00:01:01</times>
-  </data>
-  <data>
-    <playTime>21.6</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+ゴッスンゴッスン五寸釘～</text>
+	<attr id="0" playtime="21.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="873342264" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -45,12 +43,11 @@
 
 
 壱弐参　　　　　　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:04:31</times>
-  </data>
-  <data>
-    <playTime>22.2</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="21.6" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1758674080" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -74,12 +71,11 @@
 
 
 壱弐参　壱弐参　　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:04:58</times>
-  </data>
-  <data>
-    <playTime>22.7</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="22.2" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="681224421" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -103,12 +99,11 @@
 
 
 壱弐参　壱弐参　ワン　ツー　スリー　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:05:24</times>
-  </data>
-  <data>
-    <playTime>23.3</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="22.7" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="71664537" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -132,12 +127,11 @@
 
 
 壱弐参　壱弐参　ワン　ツー　スリー　ワン　ツー　スリー
-　</message>
-    <times>2009-01-10 00:05:52</times>
-  </data>
-  <data>
-    <playTime>23.7</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="23.3" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1033930596" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -161,12 +155,11 @@
 
 　
 壱弐参　壱弐参　ワン　ツー　スリー　ワン　ツー　スリー
-　</message>
-    <times>2009-01-10 00:06:22</times>
-  </data>
-  <data>
-    <playTime>23.7</playTime>
-    <message fontsize="25" color="6749952" mode="5">　
+　</text>
+	<attr id="0" playtime="23.7" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1020494582" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -180,12 +173,11 @@
 
 
 
-１　　　　</message>
-    <times>2009-01-10 00:07:17</times>
-  </data>
-  <data>
-    <playTime>24</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+１　　　　</text>
+	<attr id="0" playtime="23.7" mode="5" fontsize="25" color="6749952"/>
+</comment>
+<comment id="1662674304" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -199,12 +191,11 @@
 
 
 
-　　２　　</message>
-    <times>2009-01-10 00:08:23</times>
-  </data>
-  <data>
-    <playTime>24.2</playTime>
-    <message fontsize="25" color="13369599" mode="5">　
+　　２　　</text>
+	<attr id="0" playtime="24" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1413584104" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -218,12 +209,11 @@
 
 
 
-　　　　３</message>
-    <times>2009-01-10 00:08:50</times>
-  </data>
-  <data>
-    <playTime>24.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　３</text>
+	<attr id="0" playtime="24.2" mode="5" fontsize="25" color="13369599"/>
+</comment>
+<comment id="990641804" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -237,12 +227,11 @@
 
 
 
-１　２　３</message>
-    <times>2009-01-10 00:09:59</times>
-  </data>
-  <data>
-    <playTime>24.5</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+１　２　３</text>
+	<attr id="0" playtime="24.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="813169008" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -266,12 +255,11 @@
 
 
 壱弐参　　　　　　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:11:15</times>
-  </data>
-  <data>
-    <playTime>25.1</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="24.5" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="601055167" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -295,12 +283,11 @@
 
 
 
-　　　　壱弐参　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 00:12:09</times>
-  </data>
-  <data>
-    <playTime>25.5</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　　　　壱弐参　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="25.1" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="359301587" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -324,12 +311,11 @@
 
 
 壱弐参　　　　　ワン　ツー　スリー　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:12:39</times>
-  </data>
-  <data>
-    <playTime>26.1</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="25.5" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="733229635" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -353,12 +339,11 @@
 
 
 
-　　　　壱弐参　　　　　　　　　　　ワン　ツー　スリー</message>
-    <times>2009-01-10 00:13:37</times>
-  </data>
-  <data>
-    <playTime>26.7</playTime>
-    <message fontsize="15" color="6749952" mode="5">　
+　　　　壱弐参　　　　　　　　　　　ワン　ツー　スリー</text>
+	<attr id="0" playtime="26.1" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1508745063" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -382,12 +367,11 @@
 
 
 　　　　　１　　　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:17:20</times>
-  </data>
-  <data>
-    <playTime>26.8</playTime>
-    <message fontsize="15" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="26.7" mode="5" fontsize="15" color="6749952"/>
+</comment>
+<comment id="1318250402" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -411,12 +395,11 @@
 
 
 
-　　　　　　　　　　　２２　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 00:18:13</times>
-  </data>
-  <data>
-    <playTime>27</playTime>
-    <message fontsize="15" color="16711935" mode="5">　
+　　　　　　　　　　　２２　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="26.8" mode="5" fontsize="15" color="16750848"/>
+</comment>
+<comment id="1514377832" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -440,17 +423,15 @@
 
 
 　　　　　　　　　　　　　　　　　　　　　３３３　　　
-　</message>
-    <times>2009-01-10 00:18:55</times>
-  </data>
-  <data>
-    <playTime>134.9</playTime>
-    <message fontsize="25" color="16777215" mode="1">东方众辈泪目了</message>
-    <times>2009-01-10 00:19:01</times>
-  </data>
-  <data>
-    <playTime>26.5</playTime>
-    <message fontsize="15" color="6749952" mode="5">　
+　</text>
+	<attr id="0" playtime="27" mode="5" fontsize="15" color="16711935"/>
+</comment>
+<comment id="882922489" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>东方众辈泪目了</text>
+	<attr id="0" playtime="134.9" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="255015193" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -474,12 +455,11 @@
 
 
 　　　　　１　　　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:20:38</times>
-  </data>
-  <data>
-    <playTime>27.2</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="26.5" mode="5" fontsize="15" color="6749952"/>
+</comment>
+<comment id="1293154647" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -503,12 +483,11 @@
 
 
 壱弐参　　１　　ワン　ツー　スリー　　　　３３３　　　
-　</message>
-    <times>2009-01-10 00:22:15</times>
-  </data>
-  <data>
-    <playTime>27.2</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="27.2" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1330154308" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -532,22 +511,19 @@
 
 
 
-　　　　壱弐参　　　　２２　　　　　ワン　ツー　スリー</message>
-    <times>2009-01-10 00:22:34</times>
-  </data>
-  <data>
-    <playTime>35.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">楼座大萌</message>
-    <times>2009-01-11 00:24:54</times>
-  </data>
-  <data>
-    <playTime>40</playTime>
-    <message fontsize="25" color="16777215" mode="1">夏妃  大妈LOLI。，。</message>
-    <times>2009-01-11 00:25:10</times>
-  </data>
-  <data>
-    <playTime>27.2</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　　　　壱弐参　　　　２２　　　　　ワン　ツー　スリー</text>
+	<attr id="0" playtime="27.2" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1603324857" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>楼座大萌</text>
+	<attr id="0" playtime="35.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1222650199" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>夏妃  大妈LOLI。，。</text>
+	<attr id="0" playtime="40" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1817439916" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -571,12 +547,11 @@
 
 
 　　壱　弐　参　　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:27:10</times>
-  </data>
-  <data>
-    <playTime>27.9</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="27.2" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="5215630" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -600,12 +575,11 @@
 
 
 　　壱　弐　参　　　　　　　　　　　　　壱　弐　参　　
-　</message>
-    <times>2009-01-10 00:27:43</times>
-  </data>
-  <data>
-    <playTime>28.3</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="27.9" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="2121802865" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -629,12 +603,11 @@
 
 
 
-ワン　ツー　スリー　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 00:28:16</times>
-  </data>
-  <data>
-    <playTime>28.9</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+ワン　ツー　スリー　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="28.3" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="918380500" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -658,12 +631,11 @@
 
 
 
-ワン　ツー　スリー　　　　　　　　　ワン　ツー　スリー</message>
-    <times>2009-01-10 00:28:47</times>
-  </data>
-  <data>
-    <playTime>29.4</playTime>
-    <message fontsize="25" color="6749952" mode="5">　
+ワン　ツー　スリー　　　　　　　　　ワン　ツー　スリー</text>
+	<attr id="0" playtime="28.9" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1813129775" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -677,12 +649,11 @@
 
 
 
-①　　</message>
-    <times>2009-01-10 00:30:05</times>
-  </data>
-  <data>
-    <playTime>29.7</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+①　　</text>
+	<attr id="0" playtime="29.4" mode="5" fontsize="25" color="6749952"/>
+</comment>
+<comment id="508522871" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -696,12 +667,11 @@
 
 
 
-　②　</message>
-    <times>2009-01-10 00:30:47</times>
-  </data>
-  <data>
-    <playTime>29.7</playTime>
-    <message fontsize="25" color="16711935" mode="5">　
+　②　</text>
+	<attr id="0" playtime="29.7" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1554850825" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -715,12 +685,11 @@
 
 
 
-　　③</message>
-    <times>2009-01-10 00:31:20</times>
-  </data>
-  <data>
-    <playTime>29.4</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　　③</text>
+	<attr id="0" playtime="29.7" mode="5" fontsize="25" color="16711935"/>
+</comment>
+<comment id="390157045" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -734,12 +703,11 @@
 
 
 
-　②　</message>
-    <times>2009-01-10 00:33:25</times>
-  </data>
-  <data>
-    <playTime>29.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　②　</text>
+	<attr id="0" playtime="29.4" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1879344357" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -753,12 +721,11 @@
 
 
 　
-　②　</message>
-    <times>2009-01-10 00:34:47</times>
-  </data>
-  <data>
-    <playTime>29.6</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　②　</text>
+	<attr id="0" playtime="29.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="380789788" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -772,12 +739,11 @@
 
 
 
-　②　</message>
-    <times>2009-01-10 00:37:52</times>
-  </data>
-  <data>
-    <playTime>30.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　②　</text>
+	<attr id="0" playtime="29.6" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="207053416" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -791,12 +757,11 @@
 
 
 
-①②③</message>
-    <times>2009-01-10 00:39:00</times>
-  </data>
-  <data>
-    <playTime>30.1</playTime>
-    <message fontsize="15" color="0" mode="5">　
+①②③</text>
+	<attr id="0" playtime="30.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1077980478" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -820,12 +785,11 @@
 
 
 　　壱　弐　参　　　　　　　　　　　　　壱　弐　参　　
-　</message>
-    <times>2009-01-10 00:39:19</times>
-  </data>
-  <data>
-    <playTime>30.1</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="30.1" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1692541592" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -849,12 +813,11 @@
 
 
 
-ワン　ツー　スリー　　　　　　　　　ワン　ツー　スリー</message>
-    <times>2009-01-10 00:39:34</times>
-  </data>
-  <data>
-    <playTime>30.1</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+ワン　ツー　スリー　　　　　　　　　ワン　ツー　スリー</text>
+	<attr id="0" playtime="30.1" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1344772044" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -868,12 +831,11 @@
 
 
 
-Eins Zwei Guten Morgen</message>
-    <times>2009-01-10 00:42:27</times>
-  </data>
-  <data>
-    <playTime>31.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Eins Zwei Guten Morgen</text>
+	<attr id="0" playtime="30.1" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1630932618" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -887,12 +849,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-Eins Zwei Guten Morgen</message>
-    <times>2009-01-10 00:44:05</times>
-  </data>
-  <data>
-    <playTime>31.4</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+Eins Zwei Guten Morgen</text>
+	<attr id="0" playtime="31.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="366013433" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -906,12 +867,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　 　　壱弐 　　　　 　</message>
-    <times>2009-01-10 00:46:36</times>
-  </data>
-  <data>
-    <playTime>31.9</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+　 　　壱弐 　　　　 　</text>
+	<attr id="0" playtime="31.4" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="2065728995" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -925,12 +885,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　 　　壱弐 壱弐　　 　</message>
-    <times>2009-01-10 00:47:12</times>
-  </data>
-  <data>
-    <playTime>32.3</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+　 　　壱弐 壱弐　　 　</text>
+	<attr id="0" playtime="31.9" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1671173725" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -944,12 +903,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-① ①　　　 　　　① ①</message>
-    <times>2009-01-10 00:48:23</times>
-  </data>
-  <data>
-    <playTime>32.6</playTime>
-    <message fontsize="25" color="6749952" mode="5">　
+① ①　　　 　　　① ①</text>
+	<attr id="0" playtime="32.3" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="843179831" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -963,12 +921,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-① ①　　　 　　　① ①</message>
-    <times>2009-01-10 00:48:50</times>
-  </data>
-  <data>
-    <playTime>32.8</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+① ①　　　 　　　① ①</text>
+	<attr id="0" playtime="32.6" mode="5" fontsize="25" color="6749952"/>
+</comment>
+<comment id="888165966" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -982,12 +939,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-① ①　　　 　　　① ①</message>
-    <times>2009-01-10 00:49:10</times>
-  </data>
-  <data>
-    <playTime>32.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+① ①　　　 　　　① ①</text>
+	<attr id="0" playtime="32.8" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1039157210" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1001,12 +957,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-① ①　壱弐 壱弐　① ①</message>
-    <times>2009-01-10 00:49:42</times>
-  </data>
-  <data>
-    <playTime>32.9</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+① ①　壱弐 壱弐　① ①</text>
+	<attr id="0" playtime="32.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1327227809" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1030,12 +985,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひふみ　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:51:29</times>
-  </data>
-  <data>
-    <playTime>33.6</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="32.9" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1694103703" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1059,12 +1013,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひふみ　ひふみ　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:52:03</times>
-  </data>
-  <data>
-    <playTime>34.2</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="33.6" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="25457018" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1088,12 +1041,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひふみ　ひふみ　ひふみ　　　　　　　　
-　</message>
-    <times>2009-01-10 00:52:34</times>
-  </data>
-  <data>
-    <playTime>34.7</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="34.2" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="657346639" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1117,12 +1069,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひふみ　ひふみ　ひふみ　ひふみ　　　　
-　</message>
-    <times>2009-01-10 00:53:06</times>
-  </data>
-  <data>
-    <playTime>35.1</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="34.7" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1819583930" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1146,12 +1097,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひふみ　ひふみ　ひふみ　ひふみ　ひひふ
-　</message>
-    <times>2009-01-10 00:53:26</times>
-  </data>
-  <data>
-    <playTime>35.9</playTime>
-    <message fontsize="15" color="10053375" mode="5">　
+　</text>
+	<attr id="0" playtime="35.1" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="960439965" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1175,12 +1125,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひ　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:55:58</times>
-  </data>
-  <data>
-    <playTime>36.3</playTime>
-    <message fontsize="15" color="10053375" mode="5">　
+　</text>
+	<attr id="0" playtime="35.9" mode="5" fontsize="15" color="10053375"/>
+</comment>
+<comment id="371968064" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1204,12 +1153,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひ　　　ひ　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:56:35</times>
-  </data>
-  <data>
-    <playTime>36.9</playTime>
-    <message fontsize="15" color="10053375" mode="5">　
+　</text>
+	<attr id="0" playtime="36.3" mode="5" fontsize="15" color="10053375"/>
+</comment>
+<comment id="1872147579" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1233,12 +1181,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひ　　　ひ　　　ひ　　　　　　　　　　
-　</message>
-    <times>2009-01-10 00:56:56</times>
-  </data>
-  <data>
-    <playTime>37.5</playTime>
-    <message fontsize="15" color="10053375" mode="5">　
+　</text>
+	<attr id="0" playtime="36.9" mode="5" fontsize="15" color="10053375"/>
+</comment>
+<comment id="2061114421" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1262,12 +1209,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひ　　　ひ　　　ひ　　　ひ　　　　　　
-　</message>
-    <times>2009-01-10 00:57:29</times>
-  </data>
-  <data>
-    <playTime>38</playTime>
-    <message fontsize="15" color="10053375" mode="5">　
+　</text>
+	<attr id="0" playtime="37.5" mode="5" fontsize="15" color="10053375"/>
+</comment>
+<comment id="2135072841" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1291,12 +1237,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひ　　　ひ　　　ひ　　　ひ　　　ひひ　
-　</message>
-    <times>2009-01-10 00:57:56</times>
-  </data>
-  <data>
-    <playTime>37.7</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="38" mode="5" fontsize="15" color="10053375"/>
+</comment>
+<comment id="2009737201" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1320,12 +1265,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ふみ　　ふみ　　ふみ　　ふみ　　　ふ
-　</message>
-    <times>2009-01-10 00:58:41</times>
-  </data>
-  <data>
-    <playTime>38.7</playTime>
-    <message fontsize="15" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="37.7" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1702345668" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1349,12 +1293,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ふみ　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 01:00:02</times>
-  </data>
-  <data>
-    <playTime>39.2</playTime>
-    <message fontsize="15" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="38.7" mode="5" fontsize="15" color="16750848"/>
+</comment>
+<comment id="1770013896" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1378,12 +1321,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ふみ　　ふみ　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 01:00:27</times>
-  </data>
-  <data>
-    <playTime>39.6</playTime>
-    <message fontsize="15" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="39.2" mode="5" fontsize="15" color="16750848"/>
+</comment>
+<comment id="2091660933" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1407,12 +1349,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ふみ　　ふみ　　ふみ　　　　　　　　
-　</message>
-    <times>2009-01-10 01:00:55</times>
-  </data>
-  <data>
-    <playTime>40.4</playTime>
-    <message fontsize="15" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="39.6" mode="5" fontsize="15" color="16750848"/>
+</comment>
+<comment id="2099455166" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1436,12 +1377,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ふみ　　ふみ　　ふみ　　ふみ　　　　
-　</message>
-    <times>2009-01-10 01:01:37</times>
-  </data>
-  <data>
-    <playTime>40.8</playTime>
-    <message fontsize="15" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="40.4" mode="5" fontsize="15" color="16750848"/>
+</comment>
+<comment id="2099997863" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1465,12 +1405,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ふみ　　ふみ　　ふみ　　ふみ　　　ふ
-　</message>
-    <times>2009-01-10 01:02:04</times>
-  </data>
-  <data>
-    <playTime>41.4</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="40.8" mode="5" fontsize="15" color="16750848"/>
+</comment>
+<comment id="495645520" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1494,12 +1433,11 @@ Eins Zwei Guten Morgen</message>
 
 
 ひふみ　ひふみ　ひふみ　ひふみ　ひひふ
-　</message>
-    <times>2009-01-10 01:02:37</times>
-  </data>
-  <data>
-    <playTime>41.4</playTime>
-    <message fontsize="37" color="16764159" mode="1">　
+　</text>
+	<attr id="0" playtime="41.4" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="318969061" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1508,12 +1446,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-①①①①①①①①①①①①①①①①①①①①①①①①①①①</message>
-    <times>2009-01-10 01:04:54</times>
-  </data>
-  <data>
-    <playTime>43.7</playTime>
-    <message fontsize="15" color="6749952" mode="5">　
+①①①①①①①①①①①①①①①①①①①①①①①①①①①</text>
+	<attr id="0" playtime="41.4" mode="1" fontsize="37" color="16764159"/>
+</comment>
+<comment id="910099234" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1537,12 +1474,11 @@ Eins Zwei Guten Morgen</message>
 　\ ひふみよん /　　　　　　　　　　　  　　　　　  　
 
 
-　</message>
-    <times>2009-01-10 01:10:23</times>
-  </data>
-  <data>
-    <playTime>44</playTime>
-    <message fontsize="15" color="6749952" mode="5">　
+　</text>
+	<attr id="0" playtime="43.7" mode="5" fontsize="15" color="6749952"/>
+</comment>
+<comment id="1578536150" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1566,12 +1502,11 @@ Eins Zwei Guten Morgen</message>
 　\ ひふみよん /　　　　　　　　　　　\ ひふみよん /　
 
 
-　</message>
-    <times>2009-01-10 01:10:55</times>
-  </data>
-  <data>
-    <playTime>55.6</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+　</text>
+	<attr id="0" playtime="44" mode="5" fontsize="15" color="6749952"/>
+</comment>
+<comment id="1564322710" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1595,12 +1530,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:12:33</times>
-  </data>
-  <data>
-    <playTime>55.8</playTime>
-    <message fontsize="15" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="55.6" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="478287142" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1624,12 +1558,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:13:59</times>
-  </data>
-  <data>
-    <playTime>55.8</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="55.8" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="155406303" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1643,12 +1576,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:14:11</times>
-  </data>
-  <data>
-    <playTime>55.8</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="55.8" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="160915714" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1662,12 +1594,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:14:43</times>
-  </data>
-  <data>
-    <playTime>55.7</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="55.8" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="116739965" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1676,17 +1607,15 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　</message>
-    <times>2009-01-10 01:15:27</times>
-  </data>
-  <data>
-    <playTime>32.7</playTime>
-    <message fontsize="25" color="16777215" mode="1">字幕神了[[~Ｄ]]</message>
-    <times>2009-01-10 01:16:28</times>
-  </data>
-  <data>
-    <playTime>55.8</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="55.7" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="1579777046" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>字幕神了[[~Ｄ]]</text>
+	<attr id="0" playtime="32.7" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1500269256" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1710,12 +1639,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　</message>
-    <times>2009-01-10 01:16:38</times>
-  </data>
-  <data>
-    <playTime>55.8</playTime>
-    <message fontsize="15" color="16764159" mode="5">　
+　</text>
+	<attr id="0" playtime="55.8" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1853771327" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1739,12 +1667,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　</message>
-    <times>2009-01-10 01:17:11</times>
-  </data>
-  <data>
-    <playTime>56.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="55.8" mode="5" fontsize="15" color="16764159"/>
+</comment>
+<comment id="2019279317" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1758,21 +1685,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:18:23</times>
-  </data>
-  <data>
-    <playTime>56.3</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
-
-
-
-
-
-
-
-
-
+ドンツー</text>
+	<attr id="0" playtime="56.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="555838812" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1787,12 +1704,20 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:18:39</times>
-  </data>
-  <data>
-    <playTime>56.7</playTime>
-    <message fontsize="15" color="0" mode="5">　
+
+
+
+
+
+
+
+
+
+ドンツー</text>
+	<attr id="0" playtime="56.3" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="326989895" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1816,12 +1741,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:18:58</times>
-  </data>
-  <data>
-    <playTime>56.7</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="56.7" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1743770264" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1835,12 +1759,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:19:08</times>
-  </data>
-  <data>
-    <playTime>56.7</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="56.7" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="1686397376" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1864,12 +1787,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　</message>
-    <times>2009-01-10 01:19:40</times>
-  </data>
-  <data>
-    <playTime>56.7</playTime>
-    <message fontsize="15" color="16777215" mode="5">　
+　</text>
+	<attr id="0" playtime="56.7" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1400174799" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1893,12 +1815,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　</message>
-    <times>2009-01-10 01:20:10</times>
-  </data>
-  <data>
-    <playTime>56.7</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+　</text>
+	<attr id="0" playtime="56.7" mode="5" fontsize="15" color="16777215"/>
+</comment>
+<comment id="1450394411" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1912,12 +1833,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:20:31</times>
-  </data>
-  <data>
-    <playTime>57</playTime>
-    <message fontsize="25" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="56.7" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="393347006" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1931,12 +1851,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:21:28</times>
-  </data>
-  <data>
-    <playTime>57</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="57" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="918107650" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1960,12 +1879,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:21:45</times>
-  </data>
-  <data>
-    <playTime>57.3</playTime>
-    <message fontsize="15" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="57" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="35832308" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -1989,12 +1907,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:22:04</times>
-  </data>
-  <data>
-    <playTime>57.3</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="57.3" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="2004156387" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2008,12 +1925,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:22:16</times>
-  </data>
-  <data>
-    <playTime>57.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="57.3" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1379085986" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2027,12 +1943,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:23:31</times>
-  </data>
-  <data>
-    <playTime>57.4</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="57.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="805392510" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2056,12 +1971,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:23:45</times>
-  </data>
-  <data>
-    <playTime>58.1</playTime>
-    <message fontsize="15" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="57.4" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="2002838606" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2085,12 +1999,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:24:05</times>
-  </data>
-  <data>
-    <playTime>58.1</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="58.1" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1129752017" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2104,12 +2017,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:24:23</times>
-  </data>
-  <data>
-    <playTime>58.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="58.1" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1133583025" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2123,12 +2035,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:24:37</times>
-  </data>
-  <data>
-    <playTime>58.4</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="58.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1823032862" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2152,12 +2063,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:24:51</times>
-  </data>
-  <data>
-    <playTime>58.6</playTime>
-    <message fontsize="15" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="58.4" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="21632720" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2181,12 +2091,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:25:17</times>
-  </data>
-  <data>
-    <playTime>58.6</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="58.6" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="305383740" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2200,22 +2109,19 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:25:28</times>
-  </data>
-  <data>
-    <playTime>74.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">共求真相……只知道海猫用过东方的音乐</message>
-    <times>2009-01-10 01:28:10</times>
-  </data>
-  <data>
-    <playTime>117.5</playTime>
-    <message fontsize="25" color="16777215" mode="1">有误？34不是想和梨花百合吗？</message>
-    <times>2009-01-10 01:29:20</times>
-  </data>
-  <data>
-    <playTime>59.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="58.6" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="834101742" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>共求真相……只知道海猫用过东方的音乐</text>
+	<attr id="0" playtime="74.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1694013373" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>有误？34不是想和梨花百合吗？</text>
+	<attr id="0" playtime="117.5" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="42743483" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2237,12 +2143,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:30:33</times>
-  </data>
-  <data>
-    <playTime>59.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="59.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="531410633" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2256,21 +2161,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:32:00</times>
-  </data>
-  <data>
-    <playTime>59.2</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
-
-
-
-
-
-
-
-
-
+ドンツー</text>
+	<attr id="0" playtime="59.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="413537215" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2285,12 +2180,20 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:32:18</times>
-  </data>
-  <data>
-    <playTime>59.9</playTime>
-    <message fontsize="15" color="0" mode="5">　
+
+
+
+
+
+
+
+
+
+ドンツー</text>
+	<attr id="0" playtime="59.2" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="466300687" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2314,12 +2217,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:33:18</times>
-  </data>
-  <data>
-    <playTime>59.9</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="59.9" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1079452027" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2333,12 +2235,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:33:29</times>
-  </data>
-  <data>
-    <playTime>60.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="59.9" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1709553141" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2352,12 +2253,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:33:47</times>
-  </data>
-  <data>
-    <playTime>60.1</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="60.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="672866022" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2381,12 +2281,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー</message>
-    <times>2009-01-10 01:34:01</times>
-  </data>
-  <data>
-    <playTime>60.5</playTime>
-    <message fontsize="15" color="0" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="60.1" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="1048442184" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2410,12 +2309,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ドンツー</message>
-    <times>2009-01-10 01:35:42</times>
-  </data>
-  <data>
-    <playTime>60.5</playTime>
-    <message fontsize="25" color="16764159" mode="5">　
+ドンツー</text>
+	<attr id="0" playtime="60.5" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="858128864" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2429,12 +2327,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-感じないわ</message>
-    <times>2009-01-10 01:35:58</times>
-  </data>
-  <data>
-    <playTime>61.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+感じないわ</text>
+	<attr id="0" playtime="60.5" mode="5" fontsize="25" color="16764159"/>
+</comment>
+<comment id="513045546" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2448,12 +2345,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-感じないわ</message>
-    <times>2009-01-10 01:36:33</times>
-  </data>
-  <data>
-    <playTime>61.3</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+感じないわ</text>
+	<attr id="0" playtime="61.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2123617342" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2467,12 +2363,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 01:38:40</times>
-  </data>
-  <data>
-    <playTime>61.6</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+ドンツー　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="61.3" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1631878206" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2486,12 +2381,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　　　　　　　ドンツー</message>
-    <times>2009-01-10 01:39:13</times>
-  </data>
-  <data>
-    <playTime>62.1</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+　　　　　　　　　　　　　　ドンツー</text>
+	<attr id="0" playtime="61.6" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1958552968" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2505,12 +2399,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　 ドンツー　　　　　　　　　　　　　 　</message>
-    <times>2009-01-10 01:40:32</times>
-  </data>
-  <data>
-    <playTime>62.4</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+　 ドンツー　　　　　　　　　　　　　 　</text>
+	<attr id="0" playtime="62.1" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="528388565" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2524,12 +2417,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　 　　　　　　　　　　　　　ドンツー 　</message>
-    <times>2009-01-10 01:41:16</times>
-  </data>
-  <data>
-    <playTime>62.9</playTime>
-    <message fontsize="25" color="16724838" mode="5">　
+　 　　　　　　　　　　　　　ドンツー 　</text>
+	<attr id="0" playtime="62.4" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="181707024" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2543,12 +2435,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　ドンツー　</message>
-    <times>2009-01-10 01:43:02</times>
-  </data>
-  <data>
-    <playTime>63.1</playTime>
-    <message fontsize="25" color="10053273" mode="5">　
+　　　　　　　　ドンツー　</text>
+	<attr id="0" playtime="62.9" mode="5" fontsize="25" color="16724838"/>
+</comment>
+<comment id="2030431302" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2562,12 +2453,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　ドンツー　　　　　　</message>
-    <times>2009-01-10 01:43:50</times>
-  </data>
-  <data>
-    <playTime>62.1</playTime>
-    <message fontsize="25" color="10053273" mode="5">　
+　ドンツー　　　　　　</text>
+	<attr id="0" playtime="63.1" mode="5" fontsize="25" color="10053273"/>
+</comment>
+<comment id="1136522181" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2581,12 +2471,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　 ドンツー　　　　　　　　　　　　　 　</message>
-    <times>2009-01-10 01:44:48</times>
-  </data>
-  <data>
-    <playTime>62.4</playTime>
-    <message fontsize="25" color="16777215" mode="5">　
+　 ドンツー　　　　　　　　　　　　　 　</text>
+	<attr id="0" playtime="62.1" mode="5" fontsize="25" color="10053273"/>
+</comment>
+<comment id="2006872371" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2600,12 +2489,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　 　　　　　　　　　　　　　ドンツー 　</message>
-    <times>2009-01-10 01:45:16</times>
-  </data>
-  <data>
-    <playTime>63.5</playTime>
-    <message fontsize="25" color="3368703" mode="5">　
+　 　　　　　　　　　　　　　ドンツー 　</text>
+	<attr id="0" playtime="62.4" mode="5" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2082836969" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2619,12 +2507,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー　　　　　　　</message>
-    <times>2009-01-10 01:46:17</times>
-  </data>
-  <data>
-    <playTime>63.9</playTime>
-    <message fontsize="25" color="16738047" mode="5">　
+ドンツー　　　　　　　</text>
+	<attr id="0" playtime="63.5" mode="5" fontsize="25" color="3368703"/>
+</comment>
+<comment id="556361112" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2638,12 +2525,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー　　　　　　　　　　　</message>
-    <times>2009-01-10 01:47:00</times>
-  </data>
-  <data>
-    <playTime>63.9</playTime>
-    <message fontsize="25" color="10079487" mode="5">　
+ドンツー　　　　　　　　　　　</text>
+	<attr id="0" playtime="63.9" mode="5" fontsize="25" color="16738047"/>
+</comment>
+<comment id="695184143" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2657,12 +2543,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　　ドンツー　</message>
-    <times>2009-01-10 01:47:41</times>
-  </data>
-  <data>
-    <playTime>64.3</playTime>
-    <message fontsize="25" color="0" mode="1">　
+　　　　　　　　　ドンツー　</text>
+	<attr id="0" playtime="63.9" mode="5" fontsize="25" color="10079487"/>
+</comment>
+<comment id="721822029" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2676,12 +2561,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-████████████████████████</message>
-    <times>2009-01-10 01:50:21</times>
-  </data>
-  <data>
-    <playTime>64.3</playTime>
-    <message fontsize="25" color="16711935" mode="1">　
+████████████████████████</text>
+	<attr id="0" playtime="64.3" mode="1" fontsize="25" color="0"/>
+</comment>
+<comment id="789226630" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2695,12 +2579,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ドンツー　ドンツー　ドンツー　ドンツー　ドンツー</message>
-    <times>2009-01-10 01:50:36</times>
-  </data>
-  <data>
-    <playTime>66.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+ドンツー　ドンツー　ドンツー　ドンツー　ドンツー</text>
+	<attr id="0" playtime="64.3" mode="1" fontsize="25" color="16711935"/>
+</comment>
+<comment id="1398399942" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2714,12 +2597,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-████████████████████████</message>
-    <times>2009-01-10 01:51:30</times>
-  </data>
-  <data>
-    <playTime>66.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+████████████████████████</text>
+	<attr id="0" playtime="66.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="311629202" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2733,12 +2615,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-█████████████████████████</message>
-    <times>2009-01-10 01:51:47</times>
-  </data>
-  <data>
-    <playTime>66.1</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+█████████████████████████</text>
+	<attr id="0" playtime="66.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2110518548" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2752,12 +2633,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　　　　　　　　　　\ 痛くないわ /</message>
-    <times>2009-01-10 01:53:12</times>
-  </data>
-  <data>
-    <playTime>66.3</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　　　　　　　　　　　　　　　　　\ 痛くないわ /</text>
+	<attr id="0" playtime="66.1" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="122027783" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2771,12 +2651,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　　　　　　　　　　\ 痛くないわ /
-　</message>
-    <times>2009-01-10 01:54:41</times>
-  </data>
-  <data>
-    <playTime>66.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="66.3" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="790949094" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2790,12 +2669,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　　　　　　　　　　\ 痛くないわ /</message>
-    <times>2009-01-10 01:55:49</times>
-  </data>
-  <data>
-    <playTime>66.9</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+　　　　　　　　　　　　　　　　　\ 痛くないわ /</text>
+	<attr id="0" playtime="66.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2030055650" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2819,12 +2697,11 @@ Eins Zwei Guten Morgen</message>
 
 
 チェクギー　　　　　　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:04:14</times>
-  </data>
-  <data>
-    <playTime>67.3</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+　</text>
+	<attr id="0" playtime="66.9" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="271619570" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2848,12 +2725,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　チェクギー　　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 02:04:56</times>
-  </data>
-  <data>
-    <playTime>67.6</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+　　　チェクギー　　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="67.3" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="1940529535" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2877,12 +2753,11 @@ Eins Zwei Guten Morgen</message>
 
 
 チェクギー　　チェクギー　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:05:16</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+　</text>
+	<attr id="0" playtime="67.6" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="255307164" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2906,12 +2781,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　チェクギー　　チェクギー　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 02:05:35</times>
-  </data>
-  <data>
-    <playTime>68.4</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+　　　チェクギー　　チェクギー　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="67.9" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="61521586" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2935,12 +2809,11 @@ Eins Zwei Guten Morgen</message>
 
 
 チェクギー　　チェクギー　　チェクギー　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:06:09</times>
-  </data>
-  <data>
-    <playTime>68.9</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+　</text>
+	<attr id="0" playtime="68.4" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="1527011935" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2964,12 +2837,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　チェクギー　　チェクギー　　チェクギー　　　　　　　</message>
-    <times>2009-01-10 02:06:34</times>
-  </data>
-  <data>
-    <playTime>69.3</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+　　　チェクギー　　チェクギー　　チェクギー　　　　　　　</text>
+	<attr id="0" playtime="68.9" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="1321110762" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -2993,12 +2865,11 @@ Eins Zwei Guten Morgen</message>
 
 
 チェクギー　　チェクギー　　チェクギー　　チェクギー　　　
-　</message>
-    <times>2009-01-10 02:06:57</times>
-  </data>
-  <data>
-    <playTime>69.6</playTime>
-    <message fontsize="15" color="6750207" mode="5">　
+　</text>
+	<attr id="0" playtime="69.3" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="1955026986" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3022,12 +2893,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　チェクギー　　チェクギー　　チェクギー　　チェクギー</message>
-    <times>2009-01-10 02:07:30</times>
-  </data>
-  <data>
-    <playTime>66.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　チェクギー　　チェクギー　　チェクギー　　チェクギー</text>
+	<attr id="0" playtime="69.6" mode="5" fontsize="15" color="6750207"/>
+</comment>
+<comment id="1927943480" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3041,12 +2911,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　　　　　　　　　　\ 痛くないわ /</message>
-    <times>2009-01-10 02:08:54</times>
-  </data>
-  <data>
-    <playTime>69.7</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　　　　　　　　　　　　　　　　　\ 痛くないわ /</text>
+	<attr id="0" playtime="66.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="934097688" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3070,12 +2939,11 @@ Eins Zwei Guten Morgen</message>
 
 
 █████　　　　　　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:10:48</times>
-  </data>
-  <data>
-    <playTime>69.7</playTime>
-    <message fontsize="15" color="16751103" mode="5">　
+　</text>
+	<attr id="0" playtime="69.7" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1982276156" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3099,12 +2967,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ウグニー　　　　　　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:11:19</times>
-  </data>
-  <data>
-    <playTime>70.1</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="69.7" mode="5" fontsize="15" color="16751103"/>
+</comment>
+<comment id="1527159966" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3128,12 +2995,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　█████　　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 02:12:34</times>
-  </data>
-  <data>
-    <playTime>70.1</playTime>
-    <message fontsize="15" color="16751103" mode="5">　
+　　　█████　　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="70.1" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="47824723" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3157,12 +3023,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　ウグニー　　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 02:12:57</times>
-  </data>
-  <data>
-    <playTime>70.3</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　　　ウグニー　　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="70.1" mode="5" fontsize="15" color="16751103"/>
+</comment>
+<comment id="671017616" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3186,12 +3051,11 @@ Eins Zwei Guten Morgen</message>
 
 
 █████　　█████　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:15:44</times>
-  </data>
-  <data>
-    <playTime>70.3</playTime>
-    <message fontsize="15" color="16751103" mode="5">　
+　</text>
+	<attr id="0" playtime="70.3" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1435958944" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3215,12 +3079,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ウグニー　　　ウグニー　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:16:10</times>
-  </data>
-  <data>
-    <playTime>70.9</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="70.3" mode="5" fontsize="15" color="16751103"/>
+</comment>
+<comment id="1492393860" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3244,12 +3107,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　█████　　█████　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 02:17:47</times>
-  </data>
-  <data>
-    <playTime>70.9</playTime>
-    <message fontsize="15" color="16751103" mode="5">　
+　　　█████　　█████　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="70.9" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="151619652" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3273,12 +3135,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　ウグニー　　　ウグニー　　　　　　　　　　　　　　</message>
-    <times>2009-01-10 02:18:58</times>
-  </data>
-  <data>
-    <playTime>71.2</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　　　ウグニー　　　ウグニー　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="70.9" mode="5" fontsize="15" color="16751103"/>
+</comment>
+<comment id="1057897956" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3302,12 +3163,11 @@ Eins Zwei Guten Morgen</message>
 
 
 █████　　█████　　█████　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:19:52</times>
-  </data>
-  <data>
-    <playTime>71.2</playTime>
-    <message fontsize="15" color="16751103" mode="5">　
+　</text>
+	<attr id="0" playtime="71.2" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="905264675" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3331,12 +3191,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ウグニー　　　ウグニー　　　ウグニー　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:20:25</times>
-  </data>
-  <data>
-    <playTime>71.7</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="71.2" mode="5" fontsize="15" color="16751103"/>
+</comment>
+<comment id="1324865756" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3360,12 +3219,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　█████　　█████　　█████　　　　　　　</message>
-    <times>2009-01-10 02:21:09</times>
-  </data>
-  <data>
-    <playTime>71.7</playTime>
-    <message fontsize="15" color="16751103" mode="5">　
+　　　█████　　█████　　█████　　　　　　　</text>
+	<attr id="0" playtime="71.7" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1044004096" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3389,12 +3247,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　ウグニー　　　ウグニー　　　ウグニー　　　　　　　</message>
-    <times>2009-01-10 02:21:48</times>
-  </data>
-  <data>
-    <playTime>72.1</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　　　ウグニー　　　ウグニー　　　ウグニー　　　　　　　</text>
+	<attr id="0" playtime="71.7" mode="5" fontsize="15" color="16751103"/>
+</comment>
+<comment id="667155013" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3418,12 +3275,11 @@ Eins Zwei Guten Morgen</message>
 
 
 █████　　█████　　█████　　█████　　　
-　</message>
-    <times>2009-01-10 02:22:32</times>
-  </data>
-  <data>
-    <playTime>72.1</playTime>
-    <message fontsize="15" color="16751103" mode="5">　
+　</text>
+	<attr id="0" playtime="72.1" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="599020261" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3447,12 +3303,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　ウグニー　　　ウグニー　　　ウグニー　　　ウグニー　　　
-　</message>
-    <times>2009-01-10 02:22:59</times>
-  </data>
-  <data>
-    <playTime>72.4</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="72.1" mode="5" fontsize="15" color="16751103"/>
+</comment>
+<comment id="1848185702" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3476,12 +3331,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　█████　　█████　　█████　　█████</message>
-    <times>2009-01-10 02:23:56</times>
-  </data>
-  <data>
-    <playTime>72.4</playTime>
-    <message fontsize="15" color="16751103" mode="5">　
+　　　█████　　█████　　█████　　█████</text>
+	<attr id="0" playtime="72.4" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1255813838" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3505,12 +3359,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　ウグニー　　　ウグニー　　　ウグニー　　　ウグニー</message>
-    <times>2009-01-10 02:24:19</times>
-  </data>
-  <data>
-    <playTime>72.7</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　　　ウグニー　　　ウグニー　　　ウグニー　　　ウグニー</text>
+	<attr id="0" playtime="72.4" mode="5" fontsize="15" color="16751103"/>
+</comment>
+<comment id="1451824128" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3534,12 +3387,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　█████　　█████　　█████　　████</message>
-    <times>2009-01-10 02:25:31</times>
-  </data>
-  <data>
-    <playTime>72.7</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　　　█████　　█████　　█████　　████</text>
+	<attr id="0" playtime="72.7" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1150736631" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3562,12 +3414,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　████　　　████　　　████　　　████　　　　████　　</message>
-    <times>2009-01-10 02:26:18</times>
-  </data>
-  <data>
-    <playTime>72.7</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　████　　　████　　　████　　　████　　　　████　　</text>
+	<attr id="0" playtime="72.7" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1646982577" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3591,12 +3442,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　████　　　████　　　████　　　████　　　
-　</message>
-    <times>2009-01-10 02:26:40</times>
-  </data>
-  <data>
-    <playTime>72.7</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="72.7" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1555238649" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3610,12 +3460,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-シャンハイ　　　　　　　　　　　　</message>
-    <times>2009-01-10 02:29:20</times>
-  </data>
-  <data>
-    <playTime>73.1</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+シャンハイ　　　　　　　　　　　　</text>
+	<attr id="0" playtime="72.7" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1991760023" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3629,12 +3478,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-シャンハイ　上海　　　　　　　　　</message>
-    <times>2009-01-10 02:29:43</times>
-  </data>
-  <data>
-    <playTime>73.2</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+シャンハイ　上海　　　　　　　　　</text>
+	<attr id="0" playtime="73.1" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="358844108" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3648,12 +3496,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-シャンハイ　上海　シャンハイ　　　</message>
-    <times>2009-01-10 02:30:06</times>
-  </data>
-  <data>
-    <playTime>73.9</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+シャンハイ　上海　シャンハイ　　　</text>
+	<attr id="0" playtime="73.2" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1759808719" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3667,12 +3514,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-シャンハイ　上海　シャンハイ　上海</message>
-    <times>2009-01-10 02:30:35</times>
-  </data>
-  <data>
-    <playTime>73.4</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+シャンハイ　上海　シャンハイ　上海</text>
+	<attr id="0" playtime="73.9" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1956181250" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3686,12 +3532,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-シャンハイ　上海　シャンハイ　上海</message>
-    <times>2009-01-10 02:30:55</times>
-  </data>
-  <data>
-    <playTime>72.9</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+シャンハイ　上海　シャンハイ　上海</text>
+	<attr id="0" playtime="73.4" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2001833464" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3705,12 +3550,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-シャンハイ　上海　　　　　　　　　</message>
-    <times>2009-01-10 02:31:33</times>
-  </data>
-  <data>
-    <playTime>74</playTime>
-    <message fontsize="25" color="0" mode="5">　
+シャンハイ　上海　　　　　　　　　</text>
+	<attr id="0" playtime="72.9" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1284632244" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3724,12 +3568,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-シャンハイ　上海　シャンハイ　上海</message>
-    <times>2009-01-10 02:32:29</times>
-  </data>
-  <data>
-    <playTime>74</playTime>
-    <message fontsize="25" color="10066431" mode="5">　
+シャンハイ　上海　シャンハイ　上海</text>
+	<attr id="0" playtime="74" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1258403436" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3743,12 +3586,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　　　　　　蓬莱</message>
-    <times>2009-01-10 02:32:49</times>
-  </data>
-  <data>
-    <playTime>74.3</playTime>
-    <message fontsize="25" color="10066431" mode="5">　
+　　　　　　　　　　　　　蓬莱</text>
+	<attr id="0" playtime="74" mode="5" fontsize="25" color="10066431"/>
+</comment>
+<comment id="903980384" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3762,12 +3604,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　ホウライ　蓬莱</message>
-    <times>2009-01-10 02:33:11</times>
-  </data>
-  <data>
-    <playTime>74.7</playTime>
-    <message fontsize="25" color="10066431" mode="5">　
+　　　　　　　　ホウライ　蓬莱</text>
+	<attr id="0" playtime="74.3" mode="5" fontsize="25" color="10066431"/>
+</comment>
+<comment id="1106100077" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3781,12 +3622,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　蓬莱　ホウライ　蓬莱</message>
-    <times>2009-01-10 02:33:37</times>
-  </data>
-  <data>
-    <playTime>75.1</playTime>
-    <message fontsize="25" color="10066431" mode="5">　
+　　　　　蓬莱　ホウライ　蓬莱</text>
+	<attr id="0" playtime="74.7" mode="5" fontsize="25" color="10066431"/>
+</comment>
+<comment id="1944631689" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3800,12 +3640,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-ホウライ　蓬莱　ホウライ　蓬莱</message>
-    <times>2009-01-10 02:34:02</times>
-  </data>
-  <data>
-    <playTime>75.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+ホウライ　蓬莱　ホウライ　蓬莱</text>
+	<attr id="0" playtime="75.1" mode="5" fontsize="25" color="10066431"/>
+</comment>
+<comment id="730330756" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3819,22 +3658,19 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-ホウライ　蓬莱　ホウライ　蓬莱</message>
-    <times>2009-01-10 02:34:37</times>
-  </data>
-  <data>
-    <playTime>22.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">- -</message>
-    <times>2009-01-10 02:37:17</times>
-  </data>
-  <data>
-    <playTime>34.6</playTime>
-    <message fontsize="25" color="16777215" mode="1">我那么恨魔女 但是看了却依然被萌到</message>
-    <times>2009-01-10 02:37:33</times>
-  </data>
-  <data>
-    <playTime>75.5</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+ホウライ　蓬莱　ホウライ　蓬莱</text>
+	<attr id="0" playtime="75.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1185464116" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>- -</text>
+	<attr id="0" playtime="22.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1307691449" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>我那么恨魔女 但是看了却依然被萌到</text>
+	<attr id="0" playtime="34.6" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="2015083558" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3858,12 +3694,11 @@ Eins Zwei Guten Morgen</message>
 
 
 フランス　オランダ　ティベット　京都　　　　　　　　
-　</message>
-    <times>2009-01-10 02:38:54</times>
-  </data>
-  <data>
-    <playTime>75.5</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="75.5" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="465646303" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3887,12 +3722,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　　　ロンドン　ロシア　オルレアンズ!</message>
-    <times>2009-01-10 02:39:10</times>
-  </data>
-  <data>
-    <playTime>78.2</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　　　　　　　　　　ロンドン　ロシア　オルレアンズ!</text>
+	<attr id="0" playtime="75.5" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="930457209" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3916,12 +3750,11 @@ Eins Zwei Guten Morgen</message>
 
 
 フランス　オランダ　ティベット　京都　　　　　　　　
-　</message>
-    <times>2009-01-10 02:39:46</times>
-  </data>
-  <data>
-    <playTime>78.2</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="78.2" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="682147896" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3945,12 +3778,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　　　　　ロンドン　ロシア　オルレアンズ!</message>
-    <times>2009-01-10 02:39:59</times>
-  </data>
-  <data>
-    <playTime>78.2</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　　　　　　　　　　ロンドン　ロシア　オルレアンズ!</text>
+	<attr id="0" playtime="78.2" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="763682879" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3964,12 +3796,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-嫌い　　　　　　　</message>
-    <times>2009-01-10 02:41:25</times>
-  </data>
-  <data>
-    <playTime>79.4</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+嫌い　　　　　　　</text>
+	<attr id="0" playtime="78.2" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1827396536" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -3983,12 +3814,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-嫌いキライ　　　　</message>
-    <times>2009-01-10 02:41:40</times>
-  </data>
-  <data>
-    <playTime>80.1</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+嫌いキライ　　　　</text>
+	<attr id="0" playtime="79.4" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="357290363" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4002,12 +3832,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　　　　　　Loving</message>
-    <times>2009-01-10 02:42:10</times>
-  </data>
-  <data>
-    <playTime>82.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　Loving</text>
+	<attr id="0" playtime="80.1" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="65064830" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4021,12 +3850,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-嫌いキライ　Loving</message>
-    <times>2009-01-10 02:43:00</times>
-  </data>
-  <data>
-    <playTime>82.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+嫌いキライ　Loving</text>
+	<attr id="0" playtime="82.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="914586396" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4040,12 +3868,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-██████████</message>
-    <times>2009-01-10 02:43:31</times>
-  </data>
-  <data>
-    <playTime>82.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+██████████</text>
+	<attr id="0" playtime="82.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="554609277" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4059,12 +3886,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-嫌いキライ　　　　</message>
-    <times>2009-01-10 02:43:59</times>
-  </data>
-  <data>
-    <playTime>83.3</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+嫌いキライ　　　　</text>
+	<attr id="0" playtime="82.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1192842783" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4078,12 +3904,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-誰が　　　　　　　</message>
-    <times>2009-01-10 02:45:34</times>
-  </data>
-  <data>
-    <playTime>84.3</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+誰が　　　　　　　</text>
+	<attr id="0" playtime="83.3" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1736729806" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4097,12 +3922,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-誰がダレガ　　　　</message>
-    <times>2009-01-10 02:45:51</times>
-  </data>
-  <data>
-    <playTime>85.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+誰がダレガ　　　　</text>
+	<attr id="0" playtime="84.3" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1937354913" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4116,12 +3940,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-誰がダレガ　　　　</message>
-    <times>2009-01-10 02:46:06</times>
-  </data>
-  <data>
-    <playTime>85.7</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+誰がダレガ　　　　</text>
+	<attr id="0" playtime="85.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="884799887" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4135,12 +3958,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　Can't                     　</message>
-    <times>2009-01-10 02:47:21</times>
-  </data>
-  <data>
-    <playTime>86.3</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　Can't                     　</text>
+	<attr id="0" playtime="85.7" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="476471460" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4154,12 +3976,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　Can't be                  　</message>
-    <times>2009-01-10 02:47:39</times>
-  </data>
-  <data>
-    <playTime>86.8</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　Can't be                  　</text>
+	<attr id="0" playtime="86.3" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="79230393" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4173,12 +3994,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　Can't be alive            　</message>
-    <times>2009-01-10 02:48:03</times>
-  </data>
-  <data>
-    <playTime>87.6</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　Can't be alive            　</text>
+	<attr id="0" playtime="86.8" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1431891183" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4192,12 +4012,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　Can't be alive without    　</message>
-    <times>2009-01-10 02:48:45</times>
-  </data>
-  <data>
-    <playTime>88</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　Can't be alive without    　</text>
+	<attr id="0" playtime="87.6" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1047589578" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4211,12 +4030,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-　Can't be alive without you　</message>
-    <times>2009-01-10 02:49:04</times>
-  </data>
-  <data>
-    <playTime>88.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　Can't be alive without you　</text>
+	<attr id="0" playtime="88" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="236335345" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4230,12 +4048,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-　Can't be alive without you　</message>
-    <times>2009-01-10 02:49:26</times>
-  </data>
-  <data>
-    <playTime>88.7</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　Can't be alive without you　</text>
+	<attr id="0" playtime="88.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1602923775" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4249,12 +4066,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-どうして　　　　　</message>
-    <times>2009-01-10 02:50:07</times>
-  </data>
-  <data>
-    <playTime>90.6</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+どうして　　　　　</text>
+	<attr id="0" playtime="88.7" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="237372849" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4268,12 +4084,11 @@ Eins Zwei Guten Morgen</message>
 
 
 
-どうしてなぜかしら</message>
-    <times>2009-01-10 02:50:20</times>
-  </data>
-  <data>
-    <playTime>93.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+どうしてなぜかしら</text>
+	<attr id="0" playtime="90.6" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1523132307" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4287,12 +4102,11 @@ Eins Zwei Guten Morgen</message>
 
 
 　
-どうしてなぜかしら</message>
-    <times>2009-01-10 02:50:48</times>
-  </data>
-  <data>
-    <playTime>93.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+どうしてなぜかしら</text>
+	<attr id="0" playtime="93.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="58469905" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4316,12 +4130,11 @@ Eins Zwei Guten Morgen</message>
 
 
 Why why why why　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:55:18</times>
-  </data>
-  <data>
-    <playTime>93.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="93.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1875884467" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4345,12 +4158,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　don't I miss 　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:58:23</times>
-  </data>
-  <data>
-    <playTime>93.8</playTime>
-    <message fontsize="15" color="0" mode="5">　　
+　</text>
+	<attr id="0" playtime="93.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="500451402" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　　
 
 
 
@@ -4374,12 +4186,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　don't I miss 　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:58:49</times>
-  </data>
-  <data>
-    <playTime>93.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="93.8" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="2012518336" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4403,12 +4214,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　don't I miss 　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 02:59:21</times>
-  </data>
-  <data>
-    <playTime>93.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="93.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1240249737" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4432,12 +4242,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　you a lot,　　　　　 　
-　</message>
-    <times>2009-01-10 03:00:17</times>
-  </data>
-  <data>
-    <playTime>93.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="93.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="565456987" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4461,12 +4270,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　　　　　　forever?　 　
-　</message>
-    <times>2009-01-10 03:00:39</times>
-  </data>
-  <data>
-    <playTime>93.8</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="93.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1875790604" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4490,12 +4298,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　　　　　　forever?　 　
-　　</message>
-    <times>2009-01-10 03:01:22</times>
-  </data>
-  <data>
-    <playTime>93.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　　</text>
+	<attr id="0" playtime="93.8" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1593382540" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4519,12 +4326,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　　　　　　　forever? 　
-　</message>
-    <times>2009-01-10 03:01:50</times>
-  </data>
-  <data>
-    <playTime>97.3</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="93.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1334094115" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4548,12 +4354,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 Why why why why　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 03:03:22</times>
-  </data>
-  <data>
-    <playTime>97.3</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="97.3" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="73426925" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4577,12 +4382,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　don't I miss 　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 03:03:40</times>
-  </data>
-  <data>
-    <playTime>97.3</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="97.3" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1166226335" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4606,12 +4410,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　you a lot,　　　　　 　
-　</message>
-    <times>2009-01-10 03:03:57</times>
-  </data>
-  <data>
-    <playTime>97.3</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="97.3" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="719297273" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4635,12 +4438,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　　　　　　　forever?　　
-　</message>
-    <times>2009-01-10 03:04:14</times>
-  </data>
-  <data>
-    <playTime>97.3</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="97.3" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1444335179" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4664,12 +4466,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　　　　　　　forever?　　
-　　</message>
-    <times>2009-01-10 03:04:41</times>
-  </data>
-  <data>
-    <playTime>97.3</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　　</text>
+	<attr id="0" playtime="97.3" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1848692748" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4693,12 +4494,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　　　　　　　forever? 　
-　</message>
-    <times>2009-01-10 03:08:47</times>
-  </data>
-  <data>
-    <playTime>100.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="97.3" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="154997930" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4722,12 +4522,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 ██████████████████████████████████
-　</message>
-    <times>2009-01-10 03:11:36</times>
-  </data>
-  <data>
-    <playTime>100.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="100.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="980021116" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4751,12 +4550,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 █████████████████████████████████1
-　</message>
-    <times>2009-01-10 03:12:26</times>
-  </data>
-  <data>
-    <playTime>100</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="100.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="959591499" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4780,12 +4578,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 ██████████████████████████████████
-　</message>
-    <times>2009-01-10 03:13:54</times>
-  </data>
-  <data>
-    <playTime>100</playTime>
-    <message fontsize="15" color="0" mode="5">　
+　</text>
+	<attr id="0" playtime="100" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="833480520" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4809,12 +4606,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 █████████████████████████████████
-　</message>
-    <times>2009-01-10 03:14:33</times>
-  </data>
-  <data>
-    <playTime>100.8</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="100" mode="5" fontsize="15" color="0"/>
+</comment>
+<comment id="1953006122" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4828,12 +4624,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 
-知らないわ　　　　　　</message>
-    <times>2009-01-10 03:15:07</times>
-  </data>
-  <data>
-    <playTime>103.6</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+知らないわ　　　　　　</text>
+	<attr id="0" playtime="100.8" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="357871235" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4847,50 +4642,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 
-知らないわ　そんな魔法</message>
-    <times>2009-01-10 03:15:28</times>
-  </data>
-  <data>
-    <playTime>105.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-　
-知らないわ　そんな魔法</message>
-    <times>2009-01-10 03:16:02</times>
-  </data>
-  <data>
-    <playTime>106.4</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-想いは伝えたらこわれちゃう</message>
-    <times>2009-01-10 03:16:29</times>
-  </data>
-  <data>
-    <playTime>107.6</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+知らないわ　そんな魔法</text>
+	<attr id="0" playtime="103.6" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="968458103" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4904,12 +4660,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　
-想いは伝えたらこわれちゃう</message>
-    <times>2009-01-10 03:17:03</times>
-  </data>
-  <data>
-    <playTime>112.1</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+知らないわ　そんな魔法</text>
+	<attr id="0" playtime="105.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="442598181" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4923,31 +4678,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 
-あなたとは　　　　　</message>
-    <times>2009-01-10 03:17:40</times>
-  </data>
-  <data>
-    <playTime>114.9</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-あなたとは　違うから</message>
-    <times>2009-01-10 03:17:55</times>
-  </data>
-  <data>
-    <playTime>116.8</playTime>
-    <message fontsize="25" color="0" mode="5">　
+想いは伝えたらこわれちゃう</text>
+	<attr id="0" playtime="106.4" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1981387512" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4961,12 +4696,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　
-あなたとは　違うから</message>
-    <times>2009-01-10 03:18:07</times>
-  </data>
-  <data>
-    <playTime>118</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+想いは伝えたらこわれちゃう</text>
+	<attr id="0" playtime="107.6" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1389245381" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4980,12 +4714,29 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 
-ひとの心まで簡単に盗まないで</message>
-    <times>2009-01-10 03:18:23</times>
-  </data>
-  <data>
-    <playTime>117.6</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+あなたとは　　　　　</text>
+	<attr id="0" playtime="112.1" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1784888089" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+あなたとは　違うから</text>
+	<attr id="0" playtime="114.9" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="662980695" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -4999,12 +4750,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　
-ひとの心まで簡単に盗まないで</message>
-    <times>2009-01-10 03:18:44</times>
-  </data>
-  <data>
-    <playTime>120.3</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+あなたとは　違うから</text>
+	<attr id="0" playtime="116.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="372135118" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -5018,12 +4768,29 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 
-ひとの心まで簡単に盗まないで</message>
-    <times>2009-01-10 03:19:06</times>
-  </data>
-  <data>
-    <playTime>126.1</playTime>
-    <message fontsize="25" color="6750207" mode="1">　
+ひとの心まで簡単に盗まないで</text>
+	<attr id="0" playtime="118" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1752049039" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+　
+ひとの心まで簡単に盗まないで</text>
+	<attr id="0" playtime="117.6" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2091385749" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -5037,67 +4804,73 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 
-チェクギー・・・・・・・・・・・・・・・・・・・・・・</message>
-    <times>2009-01-10 03:20:37</times>
-  </data>
-  <data>
-    <playTime>4.9</playTime>
-    <message fontsize="25" color="16776960" mode="4">2分来钟的视频 做字幕我用了3个半钟 - -!</message>
-    <times>2009-01-10 03:22:40</times>
-  </data>
-  <data>
-    <playTime>45.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">字幕大好</message>
-    <times>2009-01-10 04:06:01</times>
-  </data>
-  <data>
-    <playTime>98.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">完了  充满了LOLI组曲</message>
-    <times>2009-01-10 04:06:55</times>
-  </data>
-  <data>
-    <playTime>99.9</playTime>
-    <message fontsize="25" color="14774276" mode="3">si ra nai ka</message>
-    <times>2009-01-10 04:10:49</times>
-  </data>
-  <data>
-    <playTime>103.5</playTime>
-    <message fontsize="25" color="14774276" mode="3">loli 出来吧</message>
-    <times>2009-01-10 04:11:43</times>
-  </data>
-  <data>
-    <playTime>107</playTime>
-    <message fontsize="25" color="14774276" mode="3">只要来到叔叔这里啊 幸福不想家</message>
-    <times>2009-01-10 04:12:06</times>
-  </data>
-  <data>
-    <playTime>111.7</playTime>
-    <message fontsize="25" color="14774276" mode="3">o ma ruru la</message>
-    <times>2009-01-10 04:12:54</times>
-  </data>
-  <data>
-    <playTime>113.8</playTime>
-    <message fontsize="25" color="14774276" mode="3">loli 快来吧</message>
-    <times>2009-01-10 04:13:13</times>
-  </data>
-  <data>
-    <playTime>119.2</playTime>
-    <message fontsize="25" color="14774276" mode="3">叔叔陪你一起玩游戏</message>
-    <times>2009-01-10 04:13:36</times>
-  </data>
-  <data>
-    <playTime>123.1</playTime>
-    <message fontsize="25" color="14774276" mode="3">从现在直到那地球大爆炸</message>
-    <times>2009-01-10 04:14:11</times>
-  </data>
-  <data>
-    <playTime>87.3</playTime>
-    <message fontsize="25" color="16777215" mode="1">字幕你是神</message>
-    <times>2009-01-10 08:00:36</times>
-  </data>
-  <data>
-    <playTime>93.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+ひとの心まで簡単に盗まないで</text>
+	<attr id="0" playtime="120.3" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1616833274" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+チェクギー・・・・・・・・・・・・・・・・・・・・・・</text>
+	<attr id="0" playtime="126.1" mode="1" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1564377713" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>2分来钟的视频 做字幕我用了3个半钟 - -!</text>
+	<attr id="0" playtime="4.9" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="405814021" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>字幕大好</text>
+	<attr id="0" playtime="45.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1249583223" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>完了  充满了LOLI组曲</text>
+	<attr id="0" playtime="98.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="755628257" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>si ra nai ka</text>
+	<attr id="0" playtime="99.9" mode="3" fontsize="25" color="14774276"/>
+</comment>
+<comment id="1838031074" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>loli 出来吧</text>
+	<attr id="0" playtime="103.5" mode="3" fontsize="25" color="14774276"/>
+</comment>
+<comment id="400989011" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>只要来到叔叔这里啊 幸福不想家</text>
+	<attr id="0" playtime="107" mode="3" fontsize="25" color="14774276"/>
+</comment>
+<comment id="1614437284" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>o ma ruru la</text>
+	<attr id="0" playtime="111.7" mode="3" fontsize="25" color="14774276"/>
+</comment>
+<comment id="548849278" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>loli 快来吧</text>
+	<attr id="0" playtime="113.8" mode="3" fontsize="25" color="14774276"/>
+</comment>
+<comment id="2053838847" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>叔叔陪你一起玩游戏</text>
+	<attr id="0" playtime="119.2" mode="3" fontsize="25" color="14774276"/>
+</comment>
+<comment id="632038712" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>从现在直到那地球大爆炸</text>
+	<attr id="0" playtime="123.1" mode="3" fontsize="25" color="14774276"/>
+</comment>
+<comment id="855383592" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>字幕你是神</text>
+	<attr id="0" playtime="87.3" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1069107861" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -5121,12 +4894,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 Why why why why　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 09:17:22</times>
-  </data>
-  <data>
-    <playTime>95.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="93.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1165631705" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -5150,12 +4922,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　　　　　　　forever? 　
-　</message>
-    <times>2009-01-10 09:18:08</times>
-  </data>
-  <data>
-    <playTime>95.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="95.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1396116654" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -5179,12 +4950,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 Why why why why　　　　　　　　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 09:18:26</times>
-  </data>
-  <data>
-    <playTime>95.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="95.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1298063960" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -5208,12 +4978,11 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　don't I miss 　　　　　　　　　　　　
-　</message>
-    <times>2009-01-10 09:18:45</times>
-  </data>
-  <data>
-    <playTime>95.8</playTime>
-    <message fontsize="15" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="95.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+<comment id="1701905802" poolid="1" userhash="deadbeef" sendtime="1321635702">
+	<text>　
 
 
 
@@ -5237,7 +5006,7 @@ Why why why why　　　　　　　　　　　　　　　　　　　
 
 
 　　　　　　　　　　　　　　　　you a lot,　　　　　 　
-　</message>
-    <times>2009-01-10 09:19:03</times>
-  </data>
-</information>
+　</text>
+	<attr id="0" playtime="95.8" mode="5" fontsize="15" color="16776960"/>
+</comment>
+</comments>

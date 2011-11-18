@@ -1,19 +1,20 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
 DP_P0=acnew
-agent=Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 ( .NET CLR 3.5.30729; .NET4.0E)
+PartPlayer_P1=acnew
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 author=KPX
 cauthor=KPX
 charset=UTF-8
 csum=
 ctime=1298006739
-host=222.95.38.213
-keywords=娱乐, 
+host=127.0.0.1
+keywords=娱乐,
 name=Acfun2.1191
-rev=3
+rev=5
 targets=Category.娱乐
 text=(:VideoStr:45575022:)%0a(:title 【AKB】女子高生はやめられない :)%0a(:keywords 娱乐, :)%0a(:sourcelink:http://124.228.254.229/html/music/20110210/172431_4.html:)%0a(:VideoType:Nor:)%0a(:if false:)%0a[[#comment]]%0a原帖此类标题再见到的话弹幕被刷活该。%0a[[#commentend]]%0a(:ifend:)
-time=1298007265
-title=【AKB】女子高生はやめられない 
+time=1321637362
+title=【AKB】女子高生はやめられない
 author:1298007265=KPX
 diff:1298007265:1298006834:=
 host:1298007265=222.95.38.213

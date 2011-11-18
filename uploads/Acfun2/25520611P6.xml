@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-<data>
-  <playTime>2.5</playTime>
-  <message fontsize="16" color="16777215" mode="4">　　　　　　　　　　　　　　　　　　　　　　　　　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="393736771" poolid="1" userhash="deadbeef" sendtime="1321635746">
+	<text>　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -26,12 +25,11 @@
 
 　
 
-　</message>
-  <times>ＭＢ</times>
-</data>
-<data>
-  <playTime>19.1</playTime>
-  <message fontsize="16" color="16777215" mode="4">　　　　　　　　　　　　　　　　　　　　　　　　　
+　</text>
+	<attr id="0" playtime="2.5" mode="4" fontsize="16" color="16777215"/>
+</comment>
+<comment id="949047954" poolid="1" userhash="deadbeef" sendtime="1321635746">
+	<text>　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -56,12 +54,11 @@
 　　
 
 　
-　</message>
-  <times>ＭＢ</times>
-</data>
-<data>
-  <playTime>29.7</playTime>
-  <message fontsize="25" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="19.1" mode="4" fontsize="16" color="16777215"/>
+</comment>
+<comment id="468208452" poolid="1" userhash="deadbeef" sendtime="1321635746">
+	<text>　
 　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　
@@ -75,12 +72,11 @@
 
 
 
-　　　　　就算时间不断流逝</message>
-  <times>ＭＢ</times>
-</data>
-<data>
-  <playTime>31.4</playTime>
-  <message fontsize="25" color="16777215" mode="4">　
+　　　　　就算时间不断流逝</text>
+	<attr id="0" playtime="29.7" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="490815507" poolid="1" userhash="deadbeef" sendtime="1321635746">
+	<text>　
 　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　
@@ -94,12 +90,11 @@
 
 
 
-　　　　　</message>
-  <times>ＭＢ</times>
-</data>
-<data>
-  <playTime>55.6</playTime>
-  <message fontsize="25" color="16777215" mode="4">┏━┓
+　　　　　</text>
+	<attr id="0" playtime="31.4" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="1024333995" poolid="1" userhash="deadbeef" sendtime="1321635746">
+	<text>┏━┓
 ┃█┃　　　　　　　　　　　　　　　　
 ┗━┛　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　
@@ -113,12 +108,11 @@
 
 
 
-　　　　　</message>
-  <times>ＭＢ</times>
-</data>
-<data>
-  <playTime>55.6</playTime>
-  <message fontsize="25" color="0" mode="4"> 　　　
+　　　　　</text>
+	<attr id="0" playtime="55.6" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="744136374" poolid="1" userhash="deadbeef" sendtime="1321635746">
+	<text> 　　　
 　就　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　
 　　　　　　　　　　　　　　　　　　　　
@@ -132,7 +126,7 @@
 
 
 
-　　　　　</message>
-  <times>ＭＢ</times>
-</data>
-</information>
+　　　　　</text>
+	<attr id="0" playtime="55.6" mode="4" fontsize="25" color="0"/>
+</comment>
+</comments>

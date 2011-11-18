@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>1.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="387302864" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -16,12 +15,11 @@
 
 
 
-Smiling together　　　　　　　　　　</message>
-    <times>字幕：初音の消失</times>
-  </data>
-  <data>
-    <playTime>4.3</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="1.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="2095574693" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -35,12 +33,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-Smiling together　　　　　　　　　　</message>
-    <times>以下非空格</times>
-  </data>
-  <data>
-    <playTime>4.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="4.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2075028830" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -54,13 +51,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-　　　　　　　　　　Will be together</message>
-    <times>
-    </times>
-  </data>
-  <data>
-    <playTime>6.8</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+　　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="4.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1892915991" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -74,13 +69,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-　　　　　　　　　　Will be together</message>
-    <times>
-    </times>
-  </data>
-  <data>
-    <playTime>6.8</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="6.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="649133567" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -94,12 +87,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-正因世道如此才更需微笑前行　　　　　</message>
-    <times>刷子自重</times>
-  </data>
-  <data>
-    <playTime>7.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+正因世道如此才更需微笑前行　　　　　</text>
+	<attr id="0" playtime="6.8" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="409659126" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -113,12 +105,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 　
-正因世道如此才更需微笑前行　　　　　</message>
-    <times>ID回复谢谢</times>
-  </data>
-  <data>
-    <playTime>7.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+正因世道如此才更需微笑前行　　　　　</text>
+	<attr id="0" playtime="7.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1521263286" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -132,12 +123,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-正因世道如此才更需微笑前行　　　</message>
-    <times>2010-03-06 02:30:19</times>
-  </data>
-  <data>
-    <playTime>7.8</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+正因世道如此才更需微笑前行　　　</text>
+	<attr id="0" playtime="7.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1335801791" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -151,12 +141,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-正因世道如此才更需微笑前行　　　</message>
-    <times>2010-03-06 02:30:37</times>
-  </data>
-  <data>
-    <playTime>7.8</playTime>
-    <message fontsize="25" color="255" mode="5">　
+正因世道如此才更需微笑前行　　　</text>
+	<attr id="0" playtime="7.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="164603432" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -170,12 +159,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-正因世道如此才更需微笑前行　</message>
-    <times>2010-03-06 02:30:52</times>
-  </data>
-  <data>
-    <playTime>8.3</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+正因世道如此才更需微笑前行　</text>
+	<attr id="0" playtime="7.8" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="830081022" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -189,12 +177,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-正因世道如此才更需微笑前行　</message>
-    <times>2010-03-06 02:31:16</times>
-  </data>
-  <data>
-    <playTime>8.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+正因世道如此才更需微笑前行　</text>
+	<attr id="0" playtime="8.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="749665295" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -208,12 +195,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-　正因世道如此才更需微笑前行</message>
-    <times>2010-03-06 02:31:36</times>
-  </data>
-  <data>
-    <playTime>8.6</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+　正因世道如此才更需微笑前行</text>
+	<attr id="0" playtime="8.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1131441229" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -227,12 +213,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-　正因世道如此才更需微笑前行</message>
-    <times>2010-03-06 02:31:54</times>
-  </data>
-  <data>
-    <playTime>8.6</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　正因世道如此才更需微笑前行</text>
+	<attr id="0" playtime="8.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1646418968" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -246,12 +231,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-　　　正因世道如此才更需微笑前行</message>
-    <times>2010-03-06 02:32:12</times>
-  </data>
-  <data>
-    <playTime>9.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　正因世道如此才更需微笑前行</text>
+	<attr id="0" playtime="8.6" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1972274591" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -265,12 +249,11 @@ Smiling together　　　　　　　　　　</message>
 
 　
 
-　　　正因世道如此才更需微笑前行</message>
-    <times>2010-03-06 02:32:32</times>
-  </data>
-  <data>
-    <playTime>9.4</playTime>
-    <message fontsize="25" color="255" mode="5">　　
+　　　正因世道如此才更需微笑前行</text>
+	<attr id="0" playtime="9.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="678885576" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -284,12 +267,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-　　　　　正因世道如此才更需微笑前行</message>
-    <times>2010-03-06 02:32:48</times>
-  </data>
-  <data>
-    <playTime>12</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　正因世道如此才更需微笑前行</text>
+	<attr id="0" playtime="9.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1673174904" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -303,12 +285,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-　　　　　正因世道如此才更需微笑前行</message>
-    <times>2010-03-06 02:33:50</times>
-  </data>
-  <data>
-    <playTime>12</playTime>
-    <message fontsize="25" color="153" mode="5">　
+　　　　　正因世道如此才更需微笑前行</text>
+	<attr id="0" playtime="12" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="807294814" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -322,12 +303,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-S　m　i　l　i　n　g　　t　o　g　e　t　h　e　r</message>
-    <times>2010-03-06 02:34:53</times>
-  </data>
-  <data>
-    <playTime>12.5</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+S　m　i　l　i　n　g　　t　o　g　e　t　h　e　r</text>
+	<attr id="0" playtime="12" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1350674649" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -341,12 +321,11 @@ S　m　i　l　i　n　g　　t　o　g　e　t　h　e　r</message>
 
 
 
-S　m　i　l　i　n　g　　t　o　g　e　t　h　e　r</message>
-    <times>2010-03-06 02:35:12</times>
-  </data>
-  <data>
-    <playTime>12.5</playTime>
-    <message fontsize="25" color="204" mode="5">　
+S　m　i　l　i　n　g　　t　o　g　e　t　h　e　r</text>
+	<attr id="0" playtime="12.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="713969533" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -360,12 +339,11 @@ S　m　i　l　i　n　g　　t　o　g　e　t　h　e　r</message>
 
 
 
-S m i l i n g　 t o g e t h e r</message>
-    <times>2010-03-06 02:36:05</times>
-  </data>
-  <data>
-    <playTime>12.8</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+S m i l i n g　 t o g e t h e r</text>
+	<attr id="0" playtime="12.5" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1635191966" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -379,12 +357,11 @@ S m i l i n g　 t o g e t h e r</message>
 
 
 
-S m i l i n g　 t o g e t h e r</message>
-    <times>2010-03-06 02:36:25</times>
-  </data>
-  <data>
-    <playTime>12.8</playTime>
-    <message fontsize="25" color="255" mode="5">　
+S m i l i n g　 t o g e t h e r</text>
+	<attr id="0" playtime="12.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1955184373" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -398,12 +375,11 @@ S m i l i n g　 t o g e t h e r</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-06 02:36:55</times>
-  </data>
-  <data>
-    <playTime>14.7</playTime>
-    <message fontsize="25" color="204" mode="5">　　
+Smiling together</text>
+	<attr id="0" playtime="12.8" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1122207087" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -417,12 +393,11 @@ Smiling together</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-06 02:37:35</times>
-  </data>
-  <data>
-    <playTime>15.5</playTime>
-    <message fontsize="25" color="153" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="14.7" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="223343415" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -436,12 +411,11 @@ Smiling together</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-06 02:37:48</times>
-  </data>
-  <data>
-    <playTime>15.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="15.5" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1887150202" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -455,12 +429,11 @@ Smiling together</message>
 
 
 　
-Smiling together</message>
-    <times>2010-03-06 02:38:06</times>
-  </data>
-  <data>
-    <playTime>15.6</playTime>
-    <message fontsize="25" color="13369599" mode="1">　
+Smiling together</text>
+	<attr id="0" playtime="15.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="106096621" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -474,12 +447,11 @@ Smiling together</message>
 
 
 
-Ｇ</message>
-    <times>2010-03-06 02:42:44</times>
-  </data>
-  <data>
-    <playTime>15.6</playTime>
-    <message fontsize="25" color="6684927" mode="1">　
+Ｇ</text>
+	<attr id="0" playtime="15.6" mode="1" fontsize="25" color="13369599"/>
+</comment>
+<comment id="362955157" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -493,12 +465,11 @@ Smiling together</message>
 
 
 
-Ｎ　　</message>
-    <times>2010-03-06 02:43:07</times>
-  </data>
-  <data>
-    <playTime>15.6</playTime>
-    <message fontsize="25" color="6750207" mode="1">　
+Ｎ　　</text>
+	<attr id="0" playtime="15.6" mode="1" fontsize="25" color="6684927"/>
+</comment>
+<comment id="605980747" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -512,12 +483,11 @@ Smiling together</message>
 
 
 
-Ｉ　　　　</message>
-    <times>2010-03-06 02:43:34</times>
-  </data>
-  <data>
-    <playTime>15.6</playTime>
-    <message fontsize="25" color="6749952" mode="1">　
+Ｉ　　　　</text>
+	<attr id="0" playtime="15.6" mode="1" fontsize="25" color="6750207"/>
+</comment>
+<comment id="834039864" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -531,12 +501,11 @@ Smiling together</message>
 
 
 
-Ｌ　　　　　　</message>
-    <times>2010-03-06 02:44:10</times>
-  </data>
-  <data>
-    <playTime>15.6</playTime>
-    <message fontsize="25" color="16776960" mode="1">　
+Ｌ　　　　　　</text>
+	<attr id="0" playtime="15.6" mode="1" fontsize="25" color="6749952"/>
+</comment>
+<comment id="204204660" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -550,12 +519,11 @@ Smiling together</message>
 
 
 
-Ｉ　　　　　　　　</message>
-    <times>2010-03-06 02:44:43</times>
-  </data>
-  <data>
-    <playTime>15.6</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+Ｉ　　　　　　　　</text>
+	<attr id="0" playtime="15.6" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1083090543" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -569,12 +537,11 @@ Smiling together</message>
 
 
 
-Ｍ　　　　　　　　　　</message>
-    <times>2010-03-06 02:45:29</times>
-  </data>
-  <data>
-    <playTime>15.6</playTime>
-    <message fontsize="25" color="16711680" mode="1">　
+Ｍ　　　　　　　　　　</text>
+	<attr id="0" playtime="15.6" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="28809844" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -588,12 +555,11 @@ Smiling together</message>
 
 
 
-Ｓ　　　　　　　　　　　　</message>
-    <times>2010-03-06 02:45:51</times>
-  </data>
-  <data>
-    <playTime>17.8</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+Ｓ　　　　　　　　　　　　</text>
+	<attr id="0" playtime="15.6" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1444962295" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -607,12 +573,11 @@ Smiling together</message>
 
 
 
-Ｓ　　　　　　　　　　　　　　　　　　　</message>
-    <times>2010-03-06 02:49:16</times>
-  </data>
-  <data>
-    <playTime>17.8</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+Ｓ　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="17.8" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1112573472" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -626,12 +591,11 @@ Smiling together</message>
 
 
 
-Ｍ　　　　　　　　　　　　　　　　　</message>
-    <times>2010-03-06 02:49:43</times>
-  </data>
-  <data>
-    <playTime>17.8</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+Ｍ　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="17.8" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1445068188" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -645,12 +609,11 @@ Smiling together</message>
 
 
 
-Ｉ　　　　　　　　　　　　　　　</message>
-    <times>2010-03-06 02:50:55</times>
-  </data>
-  <data>
-    <playTime>17.8</playTime>
-    <message fontsize="25" color="6749952" mode="5">　
+Ｉ　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="17.8" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="934953261" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -664,12 +627,11 @@ Smiling together</message>
 
 
 
-Ｌ　　　　　　　　　　　　　</message>
-    <times>2010-03-06 02:51:55</times>
-  </data>
-  <data>
-    <playTime>17.8</playTime>
-    <message fontsize="25" color="6750207" mode="5">　
+Ｌ　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="17.8" mode="5" fontsize="25" color="6749952"/>
+</comment>
+<comment id="1379680934" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -683,12 +645,11 @@ Smiling together</message>
 
 
 
-Ｉ　　　　　　　　　　　</message>
-    <times>2010-03-06 02:52:37</times>
-  </data>
-  <data>
-    <playTime>17.8</playTime>
-    <message fontsize="25" color="6684927" mode="5">　
+Ｉ　　　　　　　　　　　</text>
+	<attr id="0" playtime="17.8" mode="5" fontsize="25" color="6750207"/>
+</comment>
+<comment id="1764823936" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -702,12 +663,11 @@ Smiling together</message>
 
 
 
-Ｎ　　　　　　　　　</message>
-    <times>2010-03-06 02:53:21</times>
-  </data>
-  <data>
-    <playTime>17.8</playTime>
-    <message fontsize="25" color="13369599" mode="5">　
+Ｎ　　　　　　　　　</text>
+	<attr id="0" playtime="17.8" mode="5" fontsize="25" color="6684927"/>
+</comment>
+<comment id="466997534" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -721,12 +681,11 @@ Smiling together</message>
 
 
 
-Ｇ　　　　　　　</message>
-    <times>2010-03-06 02:53:48</times>
-  </data>
-  <data>
-    <playTime>22.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+Ｇ　　　　　　　</text>
+	<attr id="0" playtime="17.8" mode="5" fontsize="25" color="13369599"/>
+</comment>
+<comment id="2103273719" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -740,12 +699,11 @@ Smiling together</message>
 
 
 
-在世界上每一秒钟都会　　　　　　　　　</message>
-    <times>2010-03-06 02:56:46</times>
-  </data>
-  <data>
-    <playTime>24.1</playTime>
-    <message fontsize="25" color="255" mode="5">　　
+在世界上每一秒钟都会　　　　　　　　　</text>
+	<attr id="0" playtime="22.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="782125936" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -759,12 +717,11 @@ Smiling together</message>
 
 
 
-在世界上每一秒钟都会　　　　　　　　　</message>
-    <times>2010-03-06 02:57:24</times>
-  </data>
-  <data>
-    <playTime>27.8</playTime>
-    <message fontsize="25" color="255" mode="5">　
+在世界上每一秒钟都会　　　　　　　　　</text>
+	<attr id="0" playtime="24.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="878716263" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -778,12 +735,11 @@ Smiling together</message>
 
 
 
-有人离去　有人　　　　　　　　　　　</message>
-    <times>2010-03-06 03:00:54</times>
-  </data>
-  <data>
-    <playTime>28.6</playTime>
-    <message fontsize="25" color="153" mode="5">　
+有人离去　有人　　　　　　　　　　　</text>
+	<attr id="0" playtime="27.8" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1962852517" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -797,12 +753,11 @@ Smiling together</message>
 
 
 
-　　　　　　　降生　　　　　　　　　</message>
-    <times>2010-03-06 03:03:26</times>
-  </data>
-  <data>
-    <playTime>28.6</playTime>
-    <message fontsize="25" color="204" mode="5">　
+　　　　　　　降生　　　　　　　　　</text>
+	<attr id="0" playtime="28.6" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="393784389" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -816,12 +771,11 @@ Smiling together</message>
 
 
 
-　　离去　　　　　　　　　　　　　　</message>
-    <times>2010-03-06 03:03:54</times>
-  </data>
-  <data>
-    <playTime>29</playTime>
-    <message fontsize="25" color="204" mode="5">　
+　　离去　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="28.6" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="564492818" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -835,12 +789,11 @@ Smiling together</message>
 
 
 
-　　　　　　　降生　　　　　　　　　</message>
-    <times>2010-03-06 03:04:38</times>
-  </data>
-  <data>
-    <playTime>29</playTime>
-    <message fontsize="25" color="153" mode="5">　
+　　　　　　　降生　　　　　　　　　</text>
+	<attr id="0" playtime="29" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="330926552" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -854,12 +807,11 @@ Smiling together</message>
 
 
 
-离去　　　　　　　　　　　　</message>
-    <times>2010-03-06 03:05:18</times>
-  </data>
-  <data>
-    <playTime>29.6</playTime>
-    <message fontsize="25" color="6684927" mode="5">　
+离去　　　　　　　　　　　　</text>
+	<attr id="0" playtime="29" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1626393163" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -873,12 +825,11 @@ Smiling together</message>
 
 
 
-有人　　　有人降生　　　　　　　　　</message>
-    <times>2010-03-06 03:06:18</times>
-  </data>
-  <data>
-    <playTime>30.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
+有人　　　有人降生　　　　　　　　　</text>
+	<attr id="0" playtime="29.6" mode="5" fontsize="25" color="6684927"/>
+</comment>
+<comment id="625820663" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -892,12 +843,11 @@ Smiling together</message>
 
 
 
-降生　　</message>
-    <times>2010-03-06 03:07:36</times>
-  </data>
-  <data>
-    <playTime>32.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+降生　　</text>
+	<attr id="0" playtime="30.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="2074706069" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -911,12 +861,11 @@ Smiling together</message>
 
 
 
-有人　　　有人降生　　　　　　　　　</message>
-    <times>2010-03-06 03:08:45</times>
-  </data>
-  <data>
-    <playTime>32.3</playTime>
-    <message fontsize="25" color="153" mode="5">　
+有人　　　有人降生　　　　　　　　　</text>
+	<attr id="0" playtime="32.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1749220408" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -930,12 +879,11 @@ Smiling together</message>
 
 
 
-　　　　　　　　　比花朵枯萎更为迅速</message>
-    <times>2010-03-06 03:09:57</times>
-  </data>
-  <data>
-    <playTime>32.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　比花朵枯萎更为迅速</text>
+	<attr id="0" playtime="32.3" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1613058079" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -949,12 +897,11 @@ Smiling together</message>
 　
 
 
-　　　　　　　　　比花朵枯萎更为迅速</message>
-    <times>2010-03-06 03:10:21</times>
-  </data>
-  <data>
-    <playTime>32.5</playTime>
-    <message fontsize="25" color="204" mode="5">　　
+　　　　　　　　　比花朵枯萎更为迅速</text>
+	<attr id="0" playtime="32.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1862980889" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -968,12 +915,11 @@ Smiling together</message>
 
 
 
-比花朵枯萎更为迅速</message>
-    <times>2010-03-06 03:10:36</times>
-  </data>
-  <data>
-    <playTime>32.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+比花朵枯萎更为迅速</text>
+	<attr id="0" playtime="32.5" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1323450343" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -987,12 +933,11 @@ Smiling together</message>
 
 
 
-比花朵枯萎更为迅速</message>
-    <times>2010-03-06 03:10:49</times>
-  </data>
-  <data>
-    <playTime>32.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+比花朵枯萎更为迅速</text>
+	<attr id="0" playtime="32.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="78007120" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1006,12 +951,11 @@ Smiling together</message>
 
 
 
-比花朵枯萎更为迅速　　　　　　　　　</message>
-    <times>2010-03-06 03:11:03</times>
-  </data>
-  <data>
-    <playTime>34.4</playTime>
-    <message fontsize="25" color="255" mode="5">　　
+比花朵枯萎更为迅速　　　　　　　　　</text>
+	<attr id="0" playtime="32.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="211314763" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -1025,12 +969,11 @@ Smiling together</message>
 
 
 
-比花朵枯萎更为迅速　　　　　　　　　</message>
-    <times>2010-03-06 03:11:56</times>
-  </data>
-  <data>
-    <playTime>36.3</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+比花朵枯萎更为迅速　　　　　　　　　</text>
+	<attr id="0" playtime="34.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="210781722" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -1044,12 +987,11 @@ Smiling together</message>
 
 　
 
-比花朵枯萎更为迅速　　　　　　　　　</message>
-    <times>2010-03-06 03:12:22</times>
-  </data>
-  <data>
-    <playTime>36.3</playTime>
-    <message fontsize="25" color="204" mode="5">　
+比花朵枯萎更为迅速　　　　　　　　　</text>
+	<attr id="0" playtime="36.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1147958879" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1063,12 +1005,11 @@ Smiling together</message>
 
 
 
-比花朵枯萎更为迅速</message>
-    <times>2010-03-06 03:12:36</times>
-  </data>
-  <data>
-    <playTime>36.5</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+比花朵枯萎更为迅速</text>
+	<attr id="0" playtime="36.3" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="735947846" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -1082,12 +1023,11 @@ Smiling together</message>
 
 
 
-比花朵枯萎更为迅速</message>
-    <times>2010-03-06 03:12:52</times>
-  </data>
-  <data>
-    <playTime>36.5</playTime>
-    <message fontsize="25" color="153" mode="5">　
+比花朵枯萎更为迅速</text>
+	<attr id="0" playtime="36.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1925526928" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1101,12 +1041,11 @@ Smiling together</message>
 
 
 
-　　　　　　　　　比花朵枯萎更为迅速</message>
-    <times>2010-03-06 03:13:09</times>
-  </data>
-  <data>
-    <playTime>37</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+　　　　　　　　　比花朵枯萎更为迅速</text>
+	<attr id="0" playtime="36.5" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="644061090" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -1120,12 +1059,11 @@ Smiling together</message>
 
 
 
-　　　　　　　　　比花朵枯萎更为迅速</message>
-    <times>2010-03-06 03:13:27</times>
-  </data>
-  <data>
-    <playTime>37.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　　比花朵枯萎更为迅速</text>
+	<attr id="0" playtime="37" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2048027836" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1139,12 +1077,11 @@ Smiling together</message>
 
 
 
-人　　</message>
-    <times>2010-03-06 03:14:26</times>
-  </data>
-  <data>
-    <playTime>38</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+人　　</text>
+	<attr id="0" playtime="37.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="348695127" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -1158,12 +1095,11 @@ Smiling together</message>
 
 
 
-人　　</message>
-    <times>2010-03-06 03:14:45</times>
-  </data>
-  <data>
-    <playTime>38</playTime>
-    <message fontsize="25" color="255" mode="5">　
+人　　</text>
+	<attr id="0" playtime="38" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1408526735" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1177,12 +1113,11 @@ Smiling together</message>
 
 
 
-人们渴　　　　</message>
-    <times>2010-03-06 03:15:03</times>
-  </data>
-  <data>
-    <playTime>38.3</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+人们渴　　　　</text>
+	<attr id="0" playtime="38" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="547883452" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -1196,12 +1131,11 @@ Smiling together</message>
 
 
 
-人们渴　　　　</message>
-    <times>2010-03-06 03:15:22</times>
-  </data>
-  <data>
-    <playTime>38.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+人们渴　　　　</text>
+	<attr id="0" playtime="38.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="284844675" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1215,12 +1149,11 @@ Smiling together</message>
 
 
 
-人们渴望　　　　　</message>
-    <times>2010-03-06 03:15:36</times>
-  </data>
-  <data>
-    <playTime>39.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
+人们渴望　　　　　</text>
+	<attr id="0" playtime="38.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1265736262" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1234,12 +1167,11 @@ Smiling together</message>
 
 
 
-人们渴望　温暖　　</message>
-    <times>2010-03-06 03:16:51</times>
-  </data>
-  <data>
-    <playTime>40.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
+人们渴望　温暖　　</text>
+	<attr id="0" playtime="39.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1555828529" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1253,12 +1185,11 @@ Smiling together</message>
 
 
 
-　　　温暖</message>
-    <times>2010-03-06 03:17:08</times>
-  </data>
-  <data>
-    <playTime>40.1</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　温暖</text>
+	<attr id="0" playtime="40.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1316834900" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1272,12 +1203,11 @@ Smiling together</message>
 
 
 
-人们渴望　他人温暖</message>
-    <times>2010-03-06 03:17:26</times>
-  </data>
-  <data>
-    <playTime>43.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+人们渴望　他人温暖</text>
+	<attr id="0" playtime="40.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1614338522" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1291,12 +1221,11 @@ Smiling together</message>
 
 
 
-越是　　　　　　　　　　　　　　　　</message>
-    <times>2010-03-06 03:20:47</times>
-  </data>
-  <data>
-    <playTime>43.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
+越是　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="43.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1889917820" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1310,12 +1239,11 @@ Smiling together</message>
 
 
 
-越是有形　　　　　　　　　　　　　　</message>
-    <times>2010-03-06 03:21:10</times>
-  </data>
-  <data>
-    <playTime>44.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+越是有形　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="43.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="493276394" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1329,12 +1257,11 @@ Smiling together</message>
 
 
 
-越是有形的　　　　　　　　　　　　　</message>
-    <times>2010-03-06 03:21:33</times>
-  </data>
-  <data>
-    <playTime>45.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+越是有形的　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="44.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1811560400" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1348,12 +1275,11 @@ Smiling together</message>
 
 
 
-越是有形的东西　　　　　　　　　　　</message>
-    <times>2010-03-06 03:21:54</times>
-  </data>
-  <data>
-    <playTime>47.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+越是有形的东西　　　　　　　　　　　</text>
+	<attr id="0" playtime="45.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1472775047" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1367,12 +1293,11 @@ Smiling together</message>
 
 
 
-越是有形的东西越是　　　　　　　　　</message>
-    <times>2010-03-06 03:22:31</times>
-  </data>
-  <data>
-    <playTime>48.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+越是有形的东西越是　　　　　　　　　</text>
+	<attr id="0" playtime="47.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="235848169" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1386,12 +1311,11 @@ Smiling together</message>
 
 
 
-越是有形的东西越是容易　　　　　　　</message>
-    <times>2010-03-06 03:22:50</times>
-  </data>
-  <data>
-    <playTime>49.2</playTime>
-    <message fontsize="25" color="255" mode="5">　
+越是有形的东西越是容易　　　　　　　</text>
+	<attr id="0" playtime="48.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="648231891" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1405,12 +1329,11 @@ Smiling together</message>
 
 
 
-越是有形的东西越是容易损坏　　　　　</message>
-    <times>2010-03-06 03:23:04</times>
-  </data>
-  <data>
-    <playTime>52.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+越是有形的东西越是容易损坏　　　　　</text>
+	<attr id="0" playtime="49.2" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1288964176" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1424,12 +1347,11 @@ Smiling together</message>
 
 
 
-　　　　　　　　Oh… How to Love?</message>
-    <times>2010-03-06 03:23:46</times>
-  </data>
-  <data>
-    <playTime>54.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　Oh… How to Love?</text>
+	<attr id="0" playtime="52.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1827684687" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1443,12 +1365,11 @@ Smiling together</message>
 
 　
 
-　　　　　　　　Oh… How to Love?</message>
-    <times>2010-03-06 03:24:08</times>
-  </data>
-  <data>
-    <playTime>54.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　Oh… How to Love?</text>
+	<attr id="0" playtime="54.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1048171194" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1462,12 +1383,11 @@ Smiling together</message>
 
 
 
-现在还不知道答案？　　　　　　　　　</message>
-    <times>2010-03-06 03:24:40</times>
-  </data>
-  <data>
-    <playTime>56.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+现在还不知道答案？　　　　　　　　　</text>
+	<attr id="0" playtime="54.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1547949419" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1481,12 +1401,11 @@ Smiling together</message>
 
 
 
-现在还不知道答案？　　　　　　　　　</message>
-    <times>2010-03-06 03:39:05</times>
-  </data>
-  <data>
-    <playTime>59.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+现在还不知道答案？　　　　　　　　　</text>
+	<attr id="0" playtime="56.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="2095794494" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1500,12 +1419,11 @@ Smiling together</message>
 
 
 
-以</message>
-    <times>2010-03-06 03:40:02</times>
-  </data>
-  <data>
-    <playTime>59.7</playTime>
-    <message fontsize="25" color="204" mode="5">　
+以</text>
+	<attr id="0" playtime="59.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="852108430" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1519,12 +1437,11 @@ Smiling together</message>
 
 
 
-可　立</message>
-    <times>2010-03-06 03:40:18</times>
-  </data>
-  <data>
-    <playTime>59.7</playTime>
-    <message fontsize="25" color="153" mode="5">　
+可　立</text>
+	<attr id="0" playtime="59.7" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1719895217" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1538,12 +1455,11 @@ Smiling together</message>
 
 
 
-都　　　即</message>
-    <times>2010-03-06 03:40:40</times>
-  </data>
-  <data>
-    <playTime>59.8</playTime>
-    <message fontsize="25" color="255" mode="5">　
+都　　　即</text>
+	<attr id="0" playtime="59.7" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="2099644689" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1557,12 +1473,11 @@ Smiling together</message>
 
 
 
-可以立</message>
-    <times>2010-03-06 03:41:00</times>
-  </data>
-  <data>
-    <playTime>59.8</playTime>
-    <message fontsize="25" color="204" mode="5">　
+可以立</text>
+	<attr id="0" playtime="59.8" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="654899800" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1576,12 +1491,11 @@ Smiling together</message>
 
 
 
-谁都　　　即做</message>
-    <times>2010-03-06 03:41:24</times>
-  </data>
-  <data>
-    <playTime>59.8</playTime>
-    <message fontsize="25" color="153" mode="5">　
+谁都　　　即做</text>
+	<attr id="0" playtime="59.8" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1678507251" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1595,12 +1509,11 @@ Smiling together</message>
 
 
 
-现在　　　　　　　到哦</message>
-    <times>2010-03-06 03:41:45</times>
-  </data>
-  <data>
-    <playTime>60.1</playTime>
-    <message fontsize="25" color="255" mode="5">　
+现在　　　　　　　到哦</text>
+	<attr id="0" playtime="59.8" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1790926106" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1614,12 +1527,11 @@ Smiling together</message>
 
 
 
-　　谁都可以立即做　　</message>
-    <times>2010-03-06 03:42:33</times>
-  </data>
-  <data>
-    <playTime>60.1</playTime>
-    <message fontsize="25" color="204" mode="5">　
+　　谁都可以立即做　　</text>
+	<attr id="0" playtime="60.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="541436682" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1633,12 +1545,11 @@ Smiling together</message>
 
 
 
-现在　　　　　　　到哦</message>
-    <times>2010-03-06 03:42:53</times>
-  </data>
-  <data>
-    <playTime>60.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+现在　　　　　　　到哦</text>
+	<attr id="0" playtime="60.1" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1331560661" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1652,12 +1563,11 @@ Smiling together</message>
 
 
 
-现在谁都可以立即做到哦</message>
-    <times>2010-03-06 03:43:05</times>
-  </data>
-  <data>
-    <playTime>62.5</playTime>
-    <message fontsize="25" color="255" mode="5">　　
+现在谁都可以立即做到哦</text>
+	<attr id="0" playtime="60.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1368852251" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -1671,12 +1581,11 @@ Smiling together</message>
 
 
 
-现在谁都可以立即做到哦</message>
-    <times>2010-03-06 03:43:20</times>
-  </data>
-  <data>
-    <playTime>64.3</playTime>
-    <message fontsize="25" color="204" mode="5">　
+现在谁都可以立即做到哦</text>
+	<attr id="0" playtime="62.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1597584302" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1690,12 +1599,11 @@ Smiling together</message>
 
 
 
-可以立</message>
-    <times>2010-03-06 03:44:06</times>
-  </data>
-  <data>
-    <playTime>64.4</playTime>
-    <message fontsize="25" color="153" mode="5">　
+可以立</text>
+	<attr id="0" playtime="64.3" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1181934953" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1709,12 +1617,11 @@ Smiling together</message>
 
 
 
-　　谁都可以立即做　　</message>
-    <times>2010-03-06 03:44:55</times>
-  </data>
-  <data>
-    <playTime>64.4</playTime>
-    <message fontsize="25" color="204" mode="5">　
+　　谁都可以立即做　　</text>
+	<attr id="0" playtime="64.4" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1848032551" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1728,12 +1635,11 @@ Smiling together</message>
 
 
 
-　　谁都　　　即做　　</message>
-    <times>2010-03-06 03:45:51</times>
-  </data>
-  <data>
-    <playTime>64.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　谁都　　　即做　　</text>
+	<attr id="0" playtime="64.4" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="351199443" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1747,12 +1653,11 @@ Smiling together</message>
 
 
 
-以</message>
-    <times>2010-03-06 03:46:24</times>
-  </data>
-  <data>
-    <playTime>64.9</playTime>
-    <message fontsize="25" color="204" mode="5">　
+以</text>
+	<attr id="0" playtime="64.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1811817090" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1766,12 +1671,11 @@ Smiling together</message>
 
 
 
-现在谁都可以立即做到哦</message>
-    <times>2010-03-06 03:47:06</times>
-  </data>
-  <data>
-    <playTime>64.9</playTime>
-    <message fontsize="25" color="153" mode="5">　
+现在谁都可以立即做到哦</text>
+	<attr id="0" playtime="64.9" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="333043269" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1785,12 +1689,11 @@ Smiling together</message>
 
 
 
-　　谁都　　　即做　　</message>
-    <times>2010-03-06 03:47:36</times>
-  </data>
-  <data>
-    <playTime>64.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　谁都　　　即做　　</text>
+	<attr id="0" playtime="64.9" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1546030682" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1804,12 +1707,11 @@ Smiling together</message>
 
 
 
-可以立</message>
-    <times>2010-03-06 03:47:56</times>
-  </data>
-  <data>
-    <playTime>65</playTime>
-    <message fontsize="25" color="0" mode="5">　
+可以立</text>
+	<attr id="0" playtime="64.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1889178358" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1823,12 +1725,11 @@ Smiling together</message>
 
 
 
-现在　　　　　　　到哦</message>
-    <times>2010-03-06 03:48:36</times>
-  </data>
-  <data>
-    <playTime>65</playTime>
-    <message fontsize="25" color="0" mode="5">　
+现在　　　　　　　到哦</text>
+	<attr id="0" playtime="65" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1000952539" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1842,12 +1743,11 @@ Smiling together</message>
 
 
 
-现在谁都可以立即做到哦</message>
-    <times>2010-03-06 03:48:47</times>
-  </data>
-  <data>
-    <playTime>65</playTime>
-    <message fontsize="25" color="153" mode="5">　
+现在谁都可以立即做到哦</text>
+	<attr id="0" playtime="65" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1197931004" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1861,12 +1761,11 @@ Smiling together</message>
 
 
 
-现在　　　　　　　到哦</message>
-    <times>2010-03-06 03:49:06</times>
-  </data>
-  <data>
-    <playTime>65</playTime>
-    <message fontsize="25" color="153" mode="5">　
+现在　　　　　　　到哦</text>
+	<attr id="0" playtime="65" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="478300848" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1880,12 +1779,11 @@ Smiling together</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-06 03:49:46</times>
-  </data>
-  <data>
-    <playTime>65.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="65" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1445440462" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1899,12 +1797,11 @@ Smiling together</message>
 
 
 
-现在　　　　　　　到哦</message>
-    <times>2010-03-06 03:50:36</times>
-  </data>
-  <data>
-    <playTime>65.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+现在　　　　　　　到哦</text>
+	<attr id="0" playtime="65.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="225665784" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1918,12 +1815,11 @@ Smiling together</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-06 03:50:50</times>
-  </data>
-  <data>
-    <playTime>65.2</playTime>
-    <message fontsize="25" color="204" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="65.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1203874335" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1937,12 +1833,11 @@ Smiling together</message>
 
 
 　
-Smiling together</message>
-    <times>2010-03-06 03:51:07</times>
-  </data>
-  <data>
-    <playTime>65.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="65.2" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="2089327661" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1956,12 +1851,11 @@ Smiling together</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-06 03:51:20</times>
-  </data>
-  <data>
-    <playTime>67.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="65.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="912688249" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1975,12 +1869,11 @@ Smiling together</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-06 03:53:53</times>
-  </data>
-  <data>
-    <playTime>67.5</playTime>
-    <message fontsize="25" color="204" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="67.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="796974668" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -1994,12 +1887,11 @@ Smiling together</message>
 
 
 
-　　　　　　　　　Will be together</message>
-    <times>2010-03-06 03:54:32</times>
-  </data>
-  <data>
-    <playTime>67.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="67.5" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="244151228" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2013,12 +1905,11 @@ Smiling together</message>
 
 　
 
-　　　　　　　　　Will be together</message>
-    <times>2010-03-06 03:54:57</times>
-  </data>
-  <data>
-    <playTime>67.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="67.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="563496675" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2032,12 +1923,11 @@ Smiling together</message>
 
 
 
-Will be together</message>
-    <times>2010-03-06 03:55:07</times>
-  </data>
-  <data>
-    <playTime>70.1</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+Will be together</text>
+	<attr id="0" playtime="67.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="773900381" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2051,12 +1941,11 @@ Will be together</message>
 
 
 
-Will be together</message>
-    <times>2010-03-06 03:55:22</times>
-  </data>
-  <data>
-    <playTime>70.1</playTime>
-    <message fontsize="25" color="255" mode="5">　
+Will be together</text>
+	<attr id="0" playtime="70.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1551524394" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2070,12 +1959,11 @@ Will be together</message>
 
 
 
-正因世道如此才更需微笑前行　　　　　</message>
-    <times>2010-03-06 03:56:07</times>
-  </data>
-  <data>
-    <playTime>57.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+正因世道如此才更需微笑前行　　　　　</text>
+	<attr id="0" playtime="70.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="927979114" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2089,12 +1977,11 @@ Will be together</message>
 
 
 
-现在还不知道答案？　　　　　　　　　</message>
-    <times>2010-03-06 03:58:25</times>
-  </data>
-  <data>
-    <playTime>57.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+现在还不知道答案？　　　　　　　　　</text>
+	<attr id="0" playtime="57.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2005226566" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2108,12 +1995,11 @@ Will be together</message>
 
 
 
-　　　　　　　　　　　那这样做如何？</message>
-    <times>2010-03-06 03:59:01</times>
-  </data>
-  <data>
-    <playTime>59.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　　　那这样做如何？</text>
+	<attr id="0" playtime="57.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1679928428" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2127,12 +2013,11 @@ Will be together</message>
 
 
 　
-　　　　　　　　　　　那这样做如何？</message>
-    <times>2010-03-06 03:59:35</times>
-  </data>
-  <data>
-    <playTime>72.1</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　　　　那这样做如何？</text>
+	<attr id="0" playtime="59.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2009497600" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2146,12 +2031,11 @@ Will be together</message>
 
 
 
-正因世道如此才更需微笑前行　　　　　</message>
-    <times>2010-03-06 04:00:16</times>
-  </data>
-  <data>
-    <playTime>75.1</playTime>
-    <message fontsize="25" color="204" mode="5">　
+正因世道如此才更需微笑前行　　　　　</text>
+	<attr id="0" playtime="72.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1266453956" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2165,12 +2049,11 @@ Will be together</message>
 
 
 
-Smiling together　　　　　　　　　</message>
-    <times>2010-03-06 04:01:25</times>
-  </data>
-  <data>
-    <playTime>75.4</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+Smiling together　　　　　　　　　</text>
+	<attr id="0" playtime="75.1" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1149354872" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2184,12 +2067,11 @@ Smiling together　　　　　　　　　</message>
 
 
 
-Smiling together　　　　　　　　　</message>
-    <times>2010-03-06 04:01:43</times>
-  </data>
-  <data>
-    <playTime>75.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+Smiling together　　　　　　　　　</text>
+	<attr id="0" playtime="75.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2064331635" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2203,12 +2085,11 @@ Smiling together　　　　　　　　　</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-06 04:01:53</times>
-  </data>
-  <data>
-    <playTime>77.4</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+Smiling together</text>
+	<attr id="0" playtime="75.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="2122775371" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2222,12 +2103,11 @@ Smiling together</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-06 04:04:15</times>
-  </data>
-  <data>
-    <playTime>77.4</playTime>
-    <message fontsize="25" color="204" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="77.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1518039342" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2241,12 +2121,11 @@ Smiling together</message>
 
 
 
-Smiling together　　　　　Will be together</message>
-    <times>2010-03-06 04:05:17</times>
-  </data>
-  <data>
-    <playTime>77.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Smiling together　　　　　Will be together</text>
+	<attr id="0" playtime="77.4" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="2078595163" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2260,12 +2139,11 @@ Smiling together　　　　　Will be together</message>
 
 
 
-Smiling together　　　　　Will be together</message>
-    <times>2010-03-06 04:05:44</times>
-  </data>
-  <data>
-    <playTime>77.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+Smiling together　　　　　Will be together</text>
+	<attr id="0" playtime="77.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="442091523" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2279,12 +2157,11 @@ Smiling together　　　　　Will be together</message>
 
 
 
-Will be together</message>
-    <times>2010-03-06 04:06:13</times>
-  </data>
-  <data>
-    <playTime>80.2</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+Will be together</text>
+	<attr id="0" playtime="77.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="749546328" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2298,12 +2175,11 @@ Will be together</message>
 
 
 
-Will be together</message>
-    <times>2010-03-06 04:06:34</times>
-  </data>
-  <data>
-    <playTime>80.2</playTime>
-    <message fontsize="25" color="204" mode="5">　
+Will be together</text>
+	<attr id="0" playtime="80.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="651714971" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2317,12 +2193,11 @@ Will be together</message>
 
 
 
-无论发生怎样的争斗　　　　　　　　　</message>
-    <times>2010-03-06 04:07:04</times>
-  </data>
-  <data>
-    <playTime>80.6</playTime>
-    <message fontsize="25" color="255" mode="5">　　
+无论发生怎样的争斗　　　　　　　　　</text>
+	<attr id="0" playtime="80.2" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="71494724" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2336,12 +2211,11 @@ Will be together</message>
 
 
 
-无论发生怎样的争斗　　　　　　　　　</message>
-    <times>2010-03-06 04:07:59</times>
-  </data>
-  <data>
-    <playTime>82.3</playTime>
-    <message fontsize="25" color="153" mode="5">　
+无论发生怎样的争斗　　　　　　　　　</text>
+	<attr id="0" playtime="80.6" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="366377662" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2355,12 +2229,11 @@ Will be together</message>
 
 
 
-无论发生怎样的争斗　　　　　　　　　</message>
-    <times>2010-03-06 04:08:37</times>
-  </data>
-  <data>
-    <playTime>82.3</playTime>
-    <message fontsize="25" color="153" mode="5">　
+无论发生怎样的争斗　　　　　　　　　</text>
+	<attr id="0" playtime="82.3" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="120306822" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2374,12 +2247,11 @@ Will be together</message>
 
 
 
-　　　　　　用心灵而非语言去感受的话</message>
-    <times>2010-03-06 04:09:08</times>
-  </data>
-  <data>
-    <playTime>82.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　用心灵而非语言去感受的话</text>
+	<attr id="0" playtime="82.3" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="683964257" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2393,12 +2265,11 @@ Will be together</message>
 
 
 
-无论发生怎样的争斗　　　　　　　　　</message>
-    <times>2010-03-06 04:09:50</times>
-  </data>
-  <data>
-    <playTime>82.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+无论发生怎样的争斗　　　　　　　　　</text>
+	<attr id="0" playtime="82.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1808616972" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2412,12 +2283,11 @@ Will be together</message>
 
 
 
-　　　　　　用心灵而非语言去感受的话</message>
-    <times>2010-03-06 04:10:19</times>
-  </data>
-  <data>
-    <playTime>84.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　用心灵而非语言去感受的话</text>
+	<attr id="0" playtime="82.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="2067936403" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2431,12 +2301,11 @@ Will be together</message>
 
 　
 
-　　　　　　用心灵而非语言去感受的话</message>
-    <times>2010-03-06 04:11:16</times>
-  </data>
-  <data>
-    <playTime>84.9</playTime>
-    <message fontsize="25" color="255" mode="1">　
+　　　　　　用心灵而非语言去感受的话</text>
+	<attr id="0" playtime="84.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="710424115" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2450,12 +2319,11 @@ Will be together</message>
 
 
 
-Smiling together　　　　　　　　　　　　　　　　　　　</message>
-    <times>2010-03-06 04:11:47</times>
-  </data>
-  <data>
-    <playTime>86</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+Smiling together　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="84.9" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="1287900461" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2469,12 +2337,11 @@ Smiling together　　　　　　　　　　　　　　　　　　　</messa
 
 
 
-视角不同也会觉得很漂亮？　　　　　　</message>
-    <times>2010-03-06 04:14:12</times>
-  </data>
-  <data>
-    <playTime>88.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+视角不同也会觉得很漂亮？　　　　　　</text>
+	<attr id="0" playtime="86" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="819224789" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2488,12 +2355,11 @@ Smiling together　　　　　　　　　　　　　　　　　　　</messa
 
 　
 
-视角不同也会觉得很漂亮？　　　　　　</message>
-    <times>2010-03-06 04:15:32</times>
-  </data>
-  <data>
-    <playTime>88.3</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+视角不同也会觉得很漂亮？　　　　　　</text>
+	<attr id="0" playtime="88.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="770372026" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2507,12 +2373,11 @@ Smiling together　　　　　　　　　　　　　　　　　　　</messa
 
 
 
-不用勉强自己去统一见解的差异　　　　</message>
-    <times>2010-03-06 04:15:56</times>
-  </data>
-  <data>
-    <playTime>91.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
+不用勉强自己去统一见解的差异　　　　</text>
+	<attr id="0" playtime="88.3" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1707834157" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2526,12 +2391,11 @@ Smiling together　　　　　　　　　　　　　　　　　　　</messa
 
 
 　
-不用勉强自己去统一见解的差异　　　　</message>
-    <times>2010-03-06 04:16:35</times>
-  </data>
-  <data>
-    <playTime>91.1</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+不用勉强自己去统一见解的差异　　　　</text>
+	<attr id="0" playtime="91.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="198745456" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2545,12 +2409,11 @@ Smiling together　　　　　　　　　　　　　　　　　　　</messa
 
 
 
-Nobody needs to the same</message>
-    <times>2010-03-06 04:16:56</times>
-  </data>
-  <data>
-    <playTime>92.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Nobody needs to the same</text>
+	<attr id="0" playtime="91.1" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="382988843" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2564,12 +2427,11 @@ Nobody needs to the same</message>
 
 
 　
-Nobody needs to the same</message>
-    <times>2010-03-06 04:17:44</times>
-  </data>
-  <data>
-    <playTime>92.5</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+Nobody needs to the same</text>
+	<attr id="0" playtime="92.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1467431409" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2583,12 +2445,11 @@ Nobody needs to the same</message>
 
 
 
-　　　　　　　　　　　跳出牢笼束缚吧</message>
-    <times>2010-03-06 04:18:16</times>
-  </data>
-  <data>
-    <playTime>93.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　　　跳出牢笼束缚吧</text>
+	<attr id="0" playtime="92.5" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1136164007" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2602,12 +2463,11 @@ Nobody needs to the same</message>
 
 
 
-　　　　　　　　　　　跳出牢笼束缚吧</message>
-    <times>2010-03-06 04:20:25</times>
-  </data>
-  <data>
-    <playTime>93.9</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+　　　　　　　　　　　跳出牢笼束缚吧</text>
+	<attr id="0" playtime="93.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="422618108" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2621,12 +2481,11 @@ Nobody needs to the same</message>
 
 
 
-Let's open our gate　　　　　　　　</message>
-    <times>2010-03-06 04:20:59</times>
-  </data>
-  <data>
-    <playTime>94.8</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+Let's open our gate　　　　　　　　</text>
+	<attr id="0" playtime="93.9" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1562018071" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2640,12 +2499,11 @@ Let's open our gate　　　　　　　　</message>
 
 
 
-Let's open our gate　　　　　　　　</message>
-    <times>2010-03-06 04:21:23</times>
-  </data>
-  <data>
-    <playTime>94.8</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+Let's open our gate　　　　　　　　</text>
+	<attr id="0" playtime="94.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="95116556" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2659,12 +2517,11 @@ Let's open our gate　　　　　　　　</message>
 
 
 
-No time to HATE!!</message>
-    <times>2010-03-06 04:21:41</times>
-  </data>
-  <data>
-    <playTime>95.8</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+No time to HATE!!</text>
+	<attr id="0" playtime="94.8" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1443015011" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2678,12 +2535,11 @@ No time to HATE!!</message>
 
 
 
-No time to HATE!!</message>
-    <times>2010-03-06 04:22:07</times>
-  </data>
-  <data>
-    <playTime>95.8</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+No time to HATE!!</text>
+	<attr id="0" playtime="95.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1991108668" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2697,12 +2553,11 @@ No time to HATE!!</message>
 
 
 
-放眼世界绽放大朵鲜花　　　　　　　　</message>
-    <times>2010-03-06 04:22:30</times>
-  </data>
-  <data>
-    <playTime>98.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+放眼世界绽放大朵鲜花　　　　　　　　</text>
+	<attr id="0" playtime="95.8" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="948098610" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2716,12 +2571,11 @@ No time to HATE!!</message>
 　
 
 
-放眼世界绽放大朵鲜花　　　　　　　　</message>
-    <times>2010-03-06 04:23:18</times>
-  </data>
-  <data>
-    <playTime>98.4</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+放眼世界绽放大朵鲜花　　　　　　　　</text>
+	<attr id="0" playtime="98.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="702909626" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2735,12 +2589,11 @@ No time to HATE!!</message>
 
 
 
-包括反对的声音也在内　　　　　　　　</message>
-    <times>2010-03-06 04:23:51</times>
-  </data>
-  <data>
-    <playTime>99.5</playTime>
-    <message fontsize="25" color="65535" mode="5">　
+包括反对的声音也在内　　　　　　　　</text>
+	<attr id="0" playtime="98.4" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="897846122" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2754,12 +2607,11 @@ No time to HATE!!</message>
 
 
 
-　　　　　　　　　　　一同盛开　　　</message>
-    <times>2010-03-06 04:24:52</times>
-  </data>
-  <data>
-    <playTime>101.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　　　一同盛开　　　</text>
+	<attr id="0" playtime="99.5" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="1823103533" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2773,12 +2625,11 @@ No time to HATE!!</message>
 
 
 
-包括反对的声音也在内　一同盛开　　　</message>
-    <times>2010-03-06 04:25:19</times>
-  </data>
-  <data>
-    <playTime>101.1</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+包括反对的声音也在内　一同盛开　　　</text>
+	<attr id="0" playtime="101.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="758339500" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2792,12 +2643,11 @@ No time to HATE!!</message>
 
 
 
-I've never seen a SMILING　　　　　</message>
-    <times>2010-03-06 04:25:49</times>
-  </data>
-  <data>
-    <playTime>102</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+I've never seen a SMILING　　　　　</text>
+	<attr id="0" playtime="101.1" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1108340179" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2811,12 +2661,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-I've never seen a SMILING　　　　　</message>
-    <times>2010-03-06 04:26:30</times>
-  </data>
-  <data>
-    <playTime>102</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+I've never seen a SMILING　　　　　</text>
+	<attr id="0" playtime="102" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="467512270" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2830,12 +2679,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　face whitch ain't beautiful</message>
-    <times>2010-03-06 04:27:11</times>
-  </data>
-  <data>
-    <playTime>103.9</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+　　　　　face whitch ain't beautiful</text>
+	<attr id="0" playtime="102" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="868498217" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2849,12 +2697,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　face whitch ain't beautiful</message>
-    <times>2010-03-06 04:27:33</times>
-  </data>
-  <data>
-    <playTime>103.9</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+　　　　　face whitch ain't beautiful</text>
+	<attr id="0" playtime="103.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="350441795" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2868,12 +2715,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-还在这里磨蹭的话太阳都要落山了　　　</message>
-    <times>2010-03-06 04:27:57</times>
-  </data>
-  <data>
-    <playTime>106.4</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+还在这里磨蹭的话太阳都要落山了　　　</text>
+	<attr id="0" playtime="103.9" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="622658876" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -2887,12 +2733,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-还在这里磨蹭的话太阳都要落山了　　　</message>
-    <times>2010-03-06 04:28:27</times>
-  </data>
-  <data>
-    <playTime>106.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+还在这里磨蹭的话太阳都要落山了　　　</text>
+	<attr id="0" playtime="106.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1525139494" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2906,12 +2751,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-只向著夜晚第一颗星许愿　　　　　　　</message>
-    <times>2010-03-06 04:29:13</times>
-  </data>
-  <data>
-    <playTime>106.4</playTime>
-    <message fontsize="25" color="16777113" mode="1">　
+只向著夜晚第一颗星许愿　　　　　　　</text>
+	<attr id="0" playtime="106.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="459692019" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2925,12 +2769,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-★━─　　　　　　　　　　　　　　　　　　　　　　　　　</message>
-    <times>2010-03-06 04:30:46</times>
-  </data>
-  <data>
-    <playTime>110.6</playTime>
-    <message fontsize="25" color="255" mode="5">　
+★━─　　　　　　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="106.4" mode="1" fontsize="25" color="16777113"/>
+</comment>
+<comment id="1230524685" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2944,12 +2787,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-人是无法前行　　　　　　　　　　　　　</message>
-    <times>2010-03-07 01:25:10</times>
-  </data>
-  <data>
-    <playTime>110.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
+人是无法前行　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="110.6" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="222806371" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2963,12 +2805,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-▌▌▌▌▌▌　　　　　　　　　　　　　</message>
-    <times>2010-03-07 01:26:01</times>
-  </data>
-  <data>
-    <playTime>111</playTime>
-    <message fontsize="25" color="0" mode="5">　
+▌▌▌▌▌▌　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="110.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1611362704" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -2982,12 +2823,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-人是无法前行　　　　　　　　　　　　　</message>
-    <times>2010-03-07 01:27:01</times>
-  </data>
-  <data>
-    <playTime>111</playTime>
-    <message fontsize="25" color="255" mode="5">　
+人是无法前行　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="111" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1405263026" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3001,12 +2841,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-人是无法前行　　　　　　　　　　　　</message>
-    <times>2010-03-07 01:27:21</times>
-  </data>
-  <data>
-    <playTime>113.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+人是无法前行　　　　　　　　　　　　</text>
+	<attr id="0" playtime="111" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="624564132" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3020,12 +2859,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-人是无法前行　无　法　回　　去　　的</message>
-    <times>2010-03-07 01:30:57</times>
-  </data>
-  <data>
-    <playTime>113.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+人是无法前行　无　法　回　　去　　的</text>
+	<attr id="0" playtime="113.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="261974762" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3039,12 +2877,11 @@ I've never seen a SMILING　　　　　</message>
 
 　
 
-人是无法前行　无　法　回　　去　　的</message>
-    <times>2010-03-07 01:36:35</times>
-  </data>
-  <data>
-    <playTime>113.4</playTime>
-    <message fontsize="25" color="6684927" mode="5">　
+人是无法前行　无　法　回　　去　　的</text>
+	<attr id="0" playtime="113.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1732845991" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3058,12 +2895,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-人是无法前行　无法回　去　的　　　　</message>
-    <times>2010-03-07 01:36:57</times>
-  </data>
-  <data>
-    <playTime>113.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+人是无法前行　无法回　去　的　　　　</text>
+	<attr id="0" playtime="113.4" mode="5" fontsize="25" color="6684927"/>
+</comment>
+<comment id="1282714620" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3077,12 +2913,11 @@ I've never seen a SMILING　　　　　</message>
 　
 
 
-人是无法前行　无法回　去　的　　　　</message>
-    <times>2010-03-07 01:42:21</times>
-  </data>
-  <data>
-    <playTime>113.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
+人是无法前行　无法回　去　的　　　　</text>
+	<attr id="0" playtime="113.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="66798167" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3096,12 +2931,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-人是无法前行　无法回去的　　　　　　</message>
-    <times>2010-03-07 01:42:45</times>
-  </data>
-  <data>
-    <playTime>116.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+人是无法前行　无法回去的　　　　　　</text>
+	<attr id="0" playtime="113.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1242731869" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3115,12 +2949,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 　
-人是无法前行　无法回去的　　　　　　</message>
-    <times>2010-03-07 02:08:10</times>
-  </data>
-  <data>
-    <playTime>116.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+人是无法前行　无法回去的　　　　　　</text>
+	<attr id="0" playtime="116.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="698466226" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3134,12 +2967,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-从　　宇　　宙　　望　　向　　地　　球</message>
-    <times>2010-03-07 02:13:04</times>
-  </data>
-  <data>
-    <playTime>116.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+从　　宇　　宙　　望　　向　　地　　球</text>
+	<attr id="0" playtime="116.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1193985814" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3153,12 +2985,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 　
-从　　宇　　宙　　望　　向　　地　　球</message>
-    <times>2010-03-07 02:18:12</times>
-  </data>
-  <data>
-    <playTime>116.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
+从　　宇　　宙　　望　　向　　地　　球</text>
+	<attr id="0" playtime="116.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="34596415" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3172,12 +3003,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-从　宇　宙　望　向　地　球</message>
-    <times>2010-03-07 02:18:30</times>
-  </data>
-  <data>
-    <playTime>117.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+从　宇　宙　望　向　地　球</text>
+	<attr id="0" playtime="116.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1751967887" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3191,12 +3021,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-从　宇　宙　望　向　地　球</message>
-    <times>2010-03-07 02:19:30</times>
-  </data>
-  <data>
-    <playTime>117.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+从　宇　宙　望　向　地　球</text>
+	<attr id="0" playtime="117.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="6627670" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3210,12 +3039,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-从宇宙望向地球</message>
-    <times>2010-03-07 02:19:45</times>
-  </data>
-  <data>
-    <playTime>119.2</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+从宇宙望向地球</text>
+	<attr id="0" playtime="117.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="19758901" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -3229,12 +3057,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-从宇宙望向地球</message>
-    <times>2010-03-07 02:25:50</times>
-  </data>
-  <data>
-    <playTime>119.2</playTime>
-    <message fontsize="25" color="255" mode="5">　
+从宇宙望向地球</text>
+	<attr id="0" playtime="119.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1396001149" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3248,12 +3075,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-也只是一颗没有国境的行星而已　　　　</message>
-    <times>2010-03-07 02:26:17</times>
-  </data>
-  <data>
-    <playTime>119.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+也只是一颗没有国境的行星而已　　　　</text>
+	<attr id="0" playtime="119.2" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1684324030" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3267,12 +3093,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</message>
-    <times>2010-03-07 02:29:43</times>
-  </data>
-  <data>
-    <playTime>119.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</text>
+	<attr id="0" playtime="119.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1372456940" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3286,12 +3111,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-也只是一颗没有国境的行星而已　　　　</message>
-    <times>2010-03-07 02:30:47</times>
-  </data>
-  <data>
-    <playTime>121.7</playTime>
-    <message fontsize="25" color="255" mode="5">　　
+也只是一颗没有国境的行星而已　　　　</text>
+	<attr id="0" playtime="119.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="5902762" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -3305,12 +3129,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-也只是一颗没有国境的行星而已　　　　</message>
-    <times>2010-03-07 02:43:10</times>
-  </data>
-  <data>
-    <playTime>123</playTime>
-    <message fontsize="25" color="0" mode="5">　
+也只是一颗没有国境的行星而已　　　　</text>
+	<attr id="0" playtime="121.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="388572932" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3324,12 +3147,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-也只是一颗没有国境的行星而已　　　　</message>
-    <times>2010-03-07 02:51:52</times>
-  </data>
-  <data>
-    <playTime>123</playTime>
-    <message fontsize="25" color="255" mode="5">　
+也只是一颗没有国境的行星而已　　　　</text>
+	<attr id="0" playtime="123" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1192172275" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3343,12 +3165,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-一颗没有国境的行星而已　　　　　　　　　</message>
-    <times>2010-03-07 02:52:24</times>
-  </data>
-  <data>
-    <playTime>123.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+一颗没有国境的行星而已　　　　　　　　　</text>
+	<attr id="0" playtime="123" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="130811315" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3362,12 +3183,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 　
-一颗没有国境的行星而已　　　　　　　　　</message>
-    <times>2010-03-07 02:52:53</times>
-  </data>
-  <data>
-    <playTime>123.2</playTime>
-    <message fontsize="25" color="255" mode="5">　
+一颗没有国境的行星而已　　　　　　　　　</text>
+	<attr id="0" playtime="123.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1743720495" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3381,12 +3201,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-的行星而已　　　　　　　　　　　　　　　</message>
-    <times>2010-03-07 02:53:21</times>
-  </data>
-  <data>
-    <playTime>123.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+的行星而已　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="123.2" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="685869762" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3400,12 +3219,11 @@ I've never seen a SMILING　　　　　</message>
 
 　
 
-的行星而已　　　　　　　　　　　　　　　</message>
-    <times>2010-03-07 02:54:02</times>
-  </data>
-  <data>
-    <playTime>125.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
+的行星而已　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="123.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="749472532" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3419,12 +3237,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　　　　Oh…Stop the war now!</message>
-    <times>2010-03-07 02:59:15</times>
-  </data>
-  <data>
-    <playTime>128.2</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+　　　　　　　　Oh…Stop the war now!</text>
+	<attr id="0" playtime="125.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="570480527" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -3438,12 +3255,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　　　　Oh…Stop the war now!</message>
-    <times>2010-03-07 02:59:33</times>
-  </data>
-  <data>
-    <playTime>128.2</playTime>
-    <message fontsize="25" color="204" mode="5">　
+　　　　　　　　Oh…Stop the war now!</text>
+	<attr id="0" playtime="128.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1079980899" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3457,12 +3273,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-但要怎麼做呢…　　　　　　　　　　　</message>
-    <times>2010-03-07 03:00:58</times>
-  </data>
-  <data>
-    <playTime>128.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
+但要怎麼做呢…　　　　　　　　　　　</text>
+	<attr id="0" playtime="128.2" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1811274154" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3476,12 +3291,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-但要怎麼做呢…　　　　　　　　　　　</message>
-    <times>2010-03-07 03:01:19</times>
-  </data>
-  <data>
-    <playTime>130.6</playTime>
-    <message fontsize="25" color="153" mode="5">　
+但要怎麼做呢…　　　　　　　　　　　</text>
+	<attr id="0" playtime="128.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="330085038" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3495,12 +3309,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-但要怎麼做呢…　　　　　　　　　　　</message>
-    <times>2010-03-07 03:01:45</times>
-  </data>
-  <data>
-    <playTime>130.6</playTime>
-    <message fontsize="25" color="204" mode="5">　
+但要怎麼做呢…　　　　　　　　　　　</text>
+	<attr id="0" playtime="130.6" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="271742555" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3514,12 +3327,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　　　　　　　那这样做如何？</message>
-    <times>2010-03-07 03:02:17</times>
-  </data>
-  <data>
-    <playTime>131</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　　　　那这样做如何？</text>
+	<attr id="0" playtime="130.6" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="342671870" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3533,12 +3345,11 @@ I've never seen a SMILING　　　　　</message>
 　
 
 
-　　　　　　　　　　　那这样做如何？</message>
-    <times>2010-03-07 03:02:45</times>
-  </data>
-  <data>
-    <playTime>131</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　　　那这样做如何？</text>
+	<attr id="0" playtime="131" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1270451667" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3552,12 +3363,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-但要怎麽做呢…　　　　　　　　　　　</message>
-    <times>2010-03-07 03:03:22</times>
-  </data>
-  <data>
-    <playTime>133.2</playTime>
-    <message fontsize="25" color="153" mode="5">　
+但要怎麽做呢…　　　　　　　　　　　</text>
+	<attr id="0" playtime="131" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2118626618" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3571,12 +3381,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　　　　　　　现在谁都可以立即做到哦</message>
-    <times>2010-03-07 03:05:30</times>
-  </data>
-  <data>
-    <playTime>133.2</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　　　　现在谁都可以立即做到哦</text>
+	<attr id="0" playtime="133.2" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="294040302" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3590,12 +3399,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　　　　　　　那这样做如何？</message>
-    <times>2010-03-07 03:06:08</times>
-  </data>
-  <data>
-    <playTime>133.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　　　那这样做如何？</text>
+	<attr id="0" playtime="133.2" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="21663610" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3609,12 +3417,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　　　　　　　现在谁都可以立即做到哦</message>
-    <times>2010-03-07 03:06:47</times>
-  </data>
-  <data>
-    <playTime>133.4</playTime>
-    <message fontsize="25" color="204" mode="5">　
+　　　　　　　　　　　现在谁都可以立即做到哦</text>
+	<attr id="0" playtime="133.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1641168888" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3628,12 +3435,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-现在谁都可以立即做到哦</message>
-    <times>2010-03-07 03:07:06</times>
-  </data>
-  <data>
-    <playTime>133.4</playTime>
-    <message fontsize="25" color="204" mode="5">　
+现在谁都可以立即做到哦</text>
+	<attr id="0" playtime="133.4" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1439273700" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3647,12 +3453,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　　　　　　　那这样做如何？</message>
-    <times>2010-03-07 03:07:38</times>
-  </data>
-  <data>
-    <playTime>133.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　　　那这样做如何？</text>
+	<attr id="0" playtime="133.4" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1113713236" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3666,12 +3471,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-现在谁都可以立即做到哦</message>
-    <times>2010-03-07 03:08:07</times>
-  </data>
-  <data>
-    <playTime>133.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+现在谁都可以立即做到哦</text>
+	<attr id="0" playtime="133.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="279434199" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3685,12 +3489,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-现在谁都可以立即做到哦　　　　　　　</message>
-    <times>2010-03-07 03:08:32</times>
-  </data>
-  <data>
-    <playTime>133.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+现在谁都可以立即做到哦　　　　　　　</text>
+	<attr id="0" playtime="133.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1641638473" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3704,12 +3507,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-　　　　　　　　　　　那这样做如何？</message>
-    <times>2010-03-07 03:09:29</times>
-  </data>
-  <data>
-    <playTime>136</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　　　　那这样做如何？</text>
+	<attr id="0" playtime="133.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="807222970" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3723,12 +3525,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-现在谁都可以立即做到哦　　　　　　　</message>
-    <times>2010-03-07 03:10:06</times>
-  </data>
-  <data>
-    <playTime>138.4</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+现在谁都可以立即做到哦　　　　　　　</text>
+	<attr id="0" playtime="136" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="205581985" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -3742,12 +3543,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-现在谁都可以立即做到哦　　　　　　　</message>
-    <times>2010-03-07 03:10:40</times>
-  </data>
-  <data>
-    <playTime>138.4</playTime>
-    <message fontsize="25" color="6750207" mode="1">　
+现在谁都可以立即做到哦　　　　　　　</text>
+	<attr id="0" playtime="138.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1481997178" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3761,12 +3561,11 @@ I've never seen a SMILING　　　　　</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-07 03:11:07</times>
-  </data>
-  <data>
-    <playTime>138.4</playTime>
-    <message fontsize="25" color="255" mode="1">　
+Smiling together</text>
+	<attr id="0" playtime="138.4" mode="1" fontsize="25" color="6750207"/>
+</comment>
+<comment id="163906780" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3780,12 +3579,11 @@ Smiling together</message>
 
 
 
-Smiling together </message>
-    <times>2010-03-07 03:11:24</times>
-  </data>
-  <data>
-    <playTime>140.6</playTime>
-    <message fontsize="25" color="6750207" mode="1">　
+Smiling together </text>
+	<attr id="0" playtime="138.4" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="1696847593" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3799,12 +3597,11 @@ Smiling together </message>
 
 
 
-Will　be　together</message>
-    <times>2010-03-07 03:12:35</times>
-  </data>
-  <data>
-    <playTime>140.6</playTime>
-    <message fontsize="25" color="255" mode="1">　
+Will　be　together</text>
+	<attr id="0" playtime="140.6" mode="1" fontsize="25" color="6750207"/>
+</comment>
+<comment id="898592582" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3818,12 +3615,11 @@ Will　be　together</message>
 
 
 
- Will be together　　</message>
-    <times>2010-03-07 03:13:03</times>
-  </data>
-  <data>
-    <playTime>143.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+ Will be together　　</text>
+	<attr id="0" playtime="140.6" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="874136914" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3837,12 +3633,11 @@ Will　be　together</message>
 
 
 
-　　　　　　　　　　大家微笑福便临门</message>
-    <times>2010-03-07 03:13:40</times>
-  </data>
-  <data>
-    <playTime>146.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　　大家微笑福便临门</text>
+	<attr id="0" playtime="143.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1556746163" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 　
 
 
@@ -3856,12 +3651,11 @@ Will　be　together</message>
 
 
 
-　　　　　　　　　　大家微笑福便临门</message>
-    <times>2010-03-07 03:14:38</times>
-  </data>
-  <data>
-    <playTime>146.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　　　大家微笑福便临门</text>
+	<attr id="0" playtime="146.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2091292361" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3875,12 +3669,11 @@ Will　be　together</message>
 
 
 
-　　　　　　大家微笑福便临门　将小小</message>
-    <times>2010-03-07 03:15:22</times>
-  </data>
-  <data>
-    <playTime>146.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　大家微笑福便临门　将小小</text>
+	<attr id="0" playtime="146.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1190137658" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3894,12 +3687,11 @@ Will　be　together</message>
 
 　
 
-　　　　　　大家微笑福便临门　将小小</message>
-    <times>2010-03-07 03:15:42</times>
-  </data>
-  <data>
-    <playTime>146.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　大家微笑福便临门　将小小</text>
+	<attr id="0" playtime="146.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="494847243" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3913,12 +3705,11 @@ Will　be　together</message>
 
 
 
-　　　大家微笑福便临门　将小小的现在</message>
-    <times>2010-03-07 03:16:36</times>
-  </data>
-  <data>
-    <playTime>144.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　大家微笑福便临门　将小小的现在</text>
+	<attr id="0" playtime="146.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1309195748" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3932,12 +3723,11 @@ Will　be　together</message>
 
 
 
-　　　　　　　　　　大家微笑福便临门</message>
-    <times>2010-03-07 03:17:59</times>
-  </data>
-  <data>
-    <playTime>148.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　　　大家微笑福便临门</text>
+	<attr id="0" playtime="144.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1182828858" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3951,22 +3741,19 @@ Will　be　together</message>
 
 
 
-　　　大家微笑福便临门　将小小的现在</message>
-    <times>2010-03-07 03:18:32</times>
-  </data>
-  <data>
-    <playTime>7.1</playTime>
-    <message fontsize="25" color="16777215" mode="1">期待～～</message>
-    <times>2010-03-07 03:18:52</times>
-  </data>
-  <data>
-    <playTime>33</playTime>
-    <message fontsize="25" color="16777215" mode="1">很棒喔～～支持︿︿</message>
-    <times>2010-03-07 03:19:18</times>
-  </data>
-  <data>
-    <playTime>148.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　大家微笑福便临门　将小小的现在</text>
+	<attr id="0" playtime="148.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1413340247" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>期待～～</text>
+	<attr id="0" playtime="7.1" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="922009704" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>很棒喔～～支持︿︿</text>
+	<attr id="0" playtime="33" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="220405014" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -3980,17 +3767,15 @@ Will　be　together</message>
 
 
 
-Smiling together　　　　　　　　　　</message>
-    <times>2010-03-07 03:19:53</times>
-  </data>
-  <data>
-    <playTime>83.2</playTime>
-    <message fontsize="25" color="16777215" mode="1">來自台灣的支持～～～</message>
-    <times>2010-03-07 03:20:08</times>
-  </data>
-  <data>
-    <playTime>150.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="148.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="57667054" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>來自台灣的支持～～～</text>
+	<attr id="0" playtime="83.2" mode="1" fontsize="25" color="16777215"/>
+</comment>
+<comment id="941798117" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4004,12 +3789,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 　
-Smiling together　　　　　　　　　　</message>
-    <times>2010-03-07 03:21:13</times>
-  </data>
-  <data>
-    <playTime>150.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="150.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2038971417" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4023,12 +3807,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-Will be together　　　　　　　　　　</message>
-    <times>2010-03-07 03:21:54</times>
-  </data>
-  <data>
-    <playTime>153.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Will be together　　　　　　　　　　</text>
+	<attr id="0" playtime="150.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="449318385" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4042,12 +3825,11 @@ Will be together　　　　　　　　　　</message>
 
 
 　
-Will be together　　　　　　　　　　</message>
-    <times>2010-03-07 03:22:23</times>
-  </data>
-  <data>
-    <playTime>153.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+Will be together　　　　　　　　　　</text>
+	<attr id="0" playtime="153.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1480908876" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4061,12 +3843,11 @@ Will be together　　　　　　　　　　</message>
 
 
 
-悲伤的表情不适合你</message>
-    <times>2010-03-07 03:22:49</times>
-  </data>
-  <data>
-    <playTime>155.5</playTime>
-    <message fontsize="25" color="255" mode="5">　　
+悲伤的表情不适合你</text>
+	<attr id="0" playtime="153.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1674754067" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -4080,12 +3861,11 @@ Will be together　　　　　　　　　　</message>
 
 
 
-悲伤的表情不适合你</message>
-    <times>2010-03-07 03:23:26</times>
-  </data>
-  <data>
-    <playTime>156.8</playTime>
-    <message fontsize="25" color="204" mode="5">　
+悲伤的表情不适合你</text>
+	<attr id="0" playtime="155.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="422561684" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4099,12 +3879,11 @@ Will be together　　　　　　　　　　</message>
 
 
 
-悲伤的表情不适合你</message>
-    <times>2010-03-07 03:23:52</times>
-  </data>
-  <data>
-    <playTime>156.8</playTime>
-    <message fontsize="25" color="153" mode="5">　
+悲伤的表情不适合你</text>
+	<attr id="0" playtime="156.8" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1757983001" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4118,12 +3897,11 @@ Will be together　　　　　　　　　　</message>
 
 
 
-一起唱歌吧</message>
-    <times>2010-03-07 03:24:18</times>
-  </data>
-  <data>
-    <playTime>157</playTime>
-    <message fontsize="25" color="153" mode="5">　
+一起唱歌吧</text>
+	<attr id="0" playtime="156.8" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="981228018" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4137,12 +3915,11 @@ Will be together　　　　　　　　　　</message>
 
 
 　
-悲伤的表情不适合你</message>
-    <times>2010-03-07 03:24:34</times>
-  </data>
-  <data>
-    <playTime>157</playTime>
-    <message fontsize="25" color="204" mode="5">　
+悲伤的表情不适合你</text>
+	<attr id="0" playtime="157" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="273267907" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4156,12 +3933,11 @@ Will be together　　　　　　　　　　</message>
 
 
 
-一起唱歌吧</message>
-    <times>2010-03-07 03:24:49</times>
-  </data>
-  <data>
-    <playTime>157.2</playTime>
-    <message fontsize="25" color="0" mode="5">　　　
+一起唱歌吧</text>
+	<attr id="0" playtime="157" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="108485761" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　　
 
 
 
@@ -4175,12 +3951,11 @@ Will be together　　　　　　　　　　</message>
 
 
 
-悲伤的表情不适合你</message>
-    <times>2010-03-07 03:25:02</times>
-  </data>
-  <data>
-    <playTime>157.2</playTime>
-    <message fontsize="25" color="255" mode="5">　
+悲伤的表情不适合你</text>
+	<attr id="0" playtime="157.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="400826576" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4194,12 +3969,11 @@ Will be together　　　　　　　　　　</message>
 
 
 
-一起唱歌吧</message>
-    <times>2010-03-07 03:25:20</times>
-  </data>
-  <data>
-    <playTime>158.7</playTime>
-    <message fontsize="25" color="153" mode="5">　
+一起唱歌吧</text>
+	<attr id="0" playtime="157.2" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="841889263" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4213,12 +3987,11 @@ Will be together　　　　　　　　　　</message>
 
 
 
-Smiling　　　　　　　　　together</message>
-    <times>2010-03-07 03:26:03</times>
-  </data>
-  <data>
-    <playTime>159</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Smiling　　　　　　　　　together</text>
+	<attr id="0" playtime="158.7" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1683036272" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4232,12 +4005,11 @@ Smiling　　　　　　　　　together</message>
 
 
 
-Smiling　　　　　　　　　together</message>
-    <times>2010-03-07 03:26:25</times>
-  </data>
-  <data>
-    <playTime>159</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Smiling　　　　　　　　　together</text>
+	<attr id="0" playtime="159" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1319475678" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4251,12 +4023,11 @@ Smiling　　　　　　　　　together</message>
 
 
 
-一　　　吧</message>
-    <times>2010-03-07 03:26:44</times>
-  </data>
-  <data>
-    <playTime>159</playTime>
-    <message fontsize="25" color="204" mode="5">　
+一　　　吧</text>
+	<attr id="0" playtime="159" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1836101785" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4270,12 +4041,11 @@ Smiling　　　　　　　　　together</message>
 
 
 
-Smiling　　　together</message>
-    <times>2010-03-07 03:27:05</times>
-  </data>
-  <data>
-    <playTime>159.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Smiling　　　together</text>
+	<attr id="0" playtime="159" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1231659648" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4289,12 +4059,11 @@ Smiling　　　together</message>
 
 
 
-起唱歌</message>
-    <times>2010-03-07 03:27:28</times>
-  </data>
-  <data>
-    <playTime>159.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+起唱歌</text>
+	<attr id="0" playtime="159.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1285767394" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4308,12 +4077,11 @@ Smiling　　　together</message>
 
 
 
-Smiling　　　together</message>
-    <times>2010-03-07 03:27:44</times>
-  </data>
-  <data>
-    <playTime>159.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
+Smiling　　　together</text>
+	<attr id="0" playtime="159.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="112708319" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4327,12 +4095,11 @@ Smiling　　　together</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-07 03:28:00</times>
-  </data>
-  <data>
-    <playTime>159.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="159.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1816176954" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4346,12 +4113,11 @@ Smiling together</message>
 
 
 　
-Smiling together</message>
-    <times>2010-03-07 03:30:48</times>
-  </data>
-  <data>
-    <playTime>159.9</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+Smiling together</text>
+	<attr id="0" playtime="159.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="993174781" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4365,12 +4131,11 @@ Smiling together</message>
 
 
 
-等一下　　　　　　　　　　　　　　　</message>
-    <times>2010-03-07 03:31:49</times>
-  </data>
-  <data>
-    <playTime>161.6</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+等一下　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="159.9" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1438282845" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4384,50 +4149,11 @@ Smiling together</message>
 
 
 
-等一下　融化的冰是文明的代价　　　　</message>
-    <times>2010-03-07 03:32:22</times>
-  </data>
-  <data>
-    <playTime>164.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-　
-等一下　融化的冰是文明的代价　　　　</message>
-    <times>2010-03-07 03:32:48</times>
-  </data>
-  <data>
-    <playTime>164.3</playTime>
-    <message fontsize="25" color="52479" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　It's what's inside</message>
-    <times>2010-03-07 03:33:22</times>
-  </data>
-  <data>
-    <playTime>166.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
+等一下　融化的冰是文明的代价　　　　</text>
+	<attr id="0" playtime="161.6" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1010246833" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4441,12 +4167,11 @@ Smiling together</message>
 
 
 　
-　　　　　　　　It's what's inside</message>
-    <times>2010-03-07 03:33:49</times>
-  </data>
-  <data>
-    <playTime>166.6</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+等一下　融化的冰是文明的代价　　　　</text>
+	<attr id="0" playtime="164.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="892700124" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4460,50 +4185,11 @@ Smiling together</message>
 
 
 
-剥开獠牙天动地变　　　　　　　　　　</message>
-    <times>2010-03-07 03:34:21</times>
-  </data>
-  <data>
-    <playTime>169.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-　
-剥开獠牙天动地变　　　　　　　　　　</message>
-    <times>2010-03-07 03:34:58</times>
-  </data>
-  <data>
-    <playTime>169.2</playTime>
-    <message fontsize="25" color="52479" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　respectable 太浪费了</message>
-    <times>2010-03-07 03:35:26</times>
-  </data>
-  <data>
-    <playTime>171.8</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　It's what's inside</text>
+	<attr id="0" playtime="164.3" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="630777822" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4517,12 +4203,11 @@ Smiling together</message>
 
 
 　
-　　　　　　　　respectable 太浪费了</message>
-    <times>2010-03-07 03:35:48</times>
-  </data>
-  <data>
-    <playTime>171.8</playTime>
-    <message fontsize="25" color="52479" mode="5">　
+　　　　　　　　It's what's inside</text>
+	<attr id="0" playtime="166.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="493987004" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4536,278 +4221,11 @@ Smiling together</message>
 
 
 
-ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
-    <times>2010-03-07 03:36:10</times>
-  </data>
-  <data>
-    <playTime>174.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
-    <times>2010-03-07 03:51:04</times>
-  </data>
-  <data>
-    <playTime>174.6</playTime>
-    <message fontsize="25" color="52479" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　要在意的不是其他的事情</message>
-    <times>2010-03-07 03:51:33</times>
-  </data>
-  <data>
-    <playTime>176.8</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-　
-
-
-
-
-
-　　　　　　　要在意的不是其他的事情</message>
-    <times>2010-03-07 03:51:54</times>
-  </data>
-  <data>
-    <playTime>176.8</playTime>
-    <message fontsize="25" color="52479" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-而是要自己看清一切　　　　　　　　　</message>
-    <times>2010-03-07 03:52:19</times>
-  </data>
-  <data>
-    <playTime>179.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-　
-
-
-
-
-
-
-而是要自己看清一切　　　　　　　　　</message>
-    <times>2010-03-07 03:52:42</times>
-  </data>
-  <data>
-    <playTime>179.6</playTime>
-    <message fontsize="25" color="153" mode="5">　
-
-
-
-　
-
-
-
-
-
-
-
-
-
-而是要自己看清一切　　　　　　　　　</message>
-    <times>2010-03-07 03:52:56</times>
-  </data>
-  <data>
-    <playTime>179.6</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　　　即便不刻意侧耳倾听</message>
-    <times>2010-03-07 03:53:53</times>
-  </data>
-  <data>
-    <playTime>179.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-而是要自己看清一切　　　　　　　　　</message>
-    <times>2010-03-07 03:54:22</times>
-  </data>
-  <data>
-    <playTime>179.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　　　即便不刻意侧耳倾听</message>
-    <times>2010-03-07 03:55:30</times>
-  </data>
-  <data>
-    <playTime>179.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-即便不刻意侧耳倾听</message>
-    <times>2010-03-07 03:55:58</times>
-  </data>
-  <data>
-    <playTime>182.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-　
-
-
-即便不刻意侧耳倾听</message>
-    <times>2010-03-07 03:56:23</times>
-  </data>
-  <data>
-    <playTime>182.1</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-亦早已发现　　　　　　相信大家亦早已发现</message>
-    <times>2010-03-07 03:57:33</times>
-  </data>
-  <data>
-    <playTime>182.3</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-亦早已发现　　　　　　相信大家亦早已发现</message>
-    <times>2010-03-07 03:57:57</times>
-  </data>
-  <data>
-    <playTime>182.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-相信大家亦早已发现</message>
-    <times>2010-03-07 03:58:18</times>
-  </data>
-  <data>
-    <playTime>184.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+剥开獠牙天动地变　　　　　　　　　　</text>
+	<attr id="0" playtime="166.6" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="149473426" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4821,12 +4239,11 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 　
-相信大家亦早已发现</message>
-    <times>2010-03-07 04:00:21</times>
-  </data>
-  <data>
-    <playTime>184.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
+剥开獠牙天动地变　　　　　　　　　　</text>
+	<attr id="0" playtime="169.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="172327079" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4840,12 +4257,11 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
-亦早已发现　　　　　　在看似和平的世界中</message>
-    <times>2010-03-07 04:01:14</times>
-  </data>
-  <data>
-    <playTime>184.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+　　　　　　　　respectable 太浪费了</text>
+	<attr id="0" playtime="169.2" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="19257465" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4859,12 +4275,11 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 　
-亦早已发现　　　　　　在看似和平的世界中</message>
-    <times>2010-03-07 04:01:37</times>
-  </data>
-  <data>
-    <playTime>184.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
+　　　　　　　　respectable 太浪费了</text>
+	<attr id="0" playtime="171.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="582956188" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4878,12 +4293,11 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
-在看似和平的世界中</message>
-    <times>2010-03-07 04:01:55</times>
-  </data>
-  <data>
-    <playTime>187.2</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+ECO(节约)和EGO(自我)一纸之隔Propaganda</text>
+	<attr id="0" playtime="171.8" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="695630847" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4897,12 +4311,11 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
-在看似和平的世界中</message>
-    <times>2010-03-07 04:02:23</times>
-  </data>
-  <data>
-    <playTime>187.2</playTime>
-    <message fontsize="25" color="255" mode="5">　
+ECO(节约)和EGO(自我)一纸之隔Propaganda</text>
+	<attr id="0" playtime="174.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="709527801" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4916,17 +4329,11 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
-平的世界中　　　　　　也有激烈苦痛的声音</message>
-    <times>2010-03-07 04:02:53</times>
-  </data>
-  <data>
-    <playTime>187.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
+　　　　　　　要在意的不是其他的事情</text>
+	<attr id="0" playtime="174.6" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="201186116" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4935,12 +4342,16 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 　
-平的世界中　　　　　　也有激烈苦痛的声音</message>
-    <times>2010-03-07 04:03:16</times>
-  </data>
-  <data>
-    <playTime>187.4</playTime>
-    <message fontsize="25" color="255" mode="5">　
+
+
+
+
+
+　　　　　　　要在意的不是其他的事情</text>
+	<attr id="0" playtime="176.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="239423969" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -4954,54 +4365,11 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
-也有激烈苦痛的声音</message>
-    <times>2010-03-07 04:03:36</times>
-  </data>
-  <data>
-    <playTime>189.5</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-也有激烈苦痛的声音</message>
-    <times>2010-03-07 04:04:58</times>
-  </data>
-  <data>
-    <playTime>189.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-苦痛的声音　　　　　　若超越国境肤色血统</message>
-    <times>2010-03-07 04:05:30</times>
-  </data>
-  <data>
-    <playTime>189.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
+而是要自己看清一切　　　　　　　　　</text>
+	<attr id="0" playtime="176.8" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1296691065" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -5011,88 +4379,19 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 　
 
 
-苦痛的声音　　　　　　若超越国境肤色血统</message>
-    <times>2010-03-07 04:05:51</times>
-  </data>
-  <data>
-    <playTime>189.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
 
 
 
 
-
-
-
-
-
-
-
-
-
-若超越国境肤色血统</message>
-    <times>2010-03-07 04:06:12</times>
-  </data>
-  <data>
-    <playTime>192.1</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-若超越国境肤色血统</message>
-    <times>2010-03-07 04:06:41</times>
-  </data>
-  <data>
-    <playTime>192.1</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-境肤色血统　　　　　　要想大家成为共同体</message>
-    <times>2010-03-07 04:07:24</times>
-  </data>
-  <data>
-    <playTime>192.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
+而是要自己看清一切　　　　　　　　　</text>
+	<attr id="0" playtime="179.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1546755084" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
 　
-境肤色血统　　　　　　要想大家成为共同体</message>
-    <times>2010-03-07 04:07:56</times>
-  </data>
-  <data>
-    <playTime>192.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
 
 
 
@@ -5102,16 +4401,15 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
+而是要自己看清一切　　　　　　　　　</text>
+	<attr id="0" playtime="179.6" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="278824702" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
 
-要想大家成为共同体</message>
-    <times>2010-03-07 04:08:24</times>
-  </data>
-  <data>
-    <playTime>194.7</playTime>
-    <message fontsize="25" color="0" mode="5">　　
 
 
 
@@ -5121,16 +4419,15 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
+　　　　　　　　　　　即便不刻意侧耳倾听</text>
+	<attr id="0" playtime="179.6" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1980202096" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
 
-要想大家成为共同体</message>
-    <times>2010-03-07 04:08:42</times>
-  </data>
-  <data>
-    <playTime>194.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
 
 
 
@@ -5140,16 +4437,15 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
+而是要自己看清一切　　　　　　　　　</text>
+	<attr id="0" playtime="179.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1204181629" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
 
-成为共同体　　　　　　相信就是在这个地方</message>
-    <times>2010-03-07 04:09:10</times>
-  </data>
-  <data>
-    <playTime>195</playTime>
-    <message fontsize="25" color="0" mode="5">　
 
 
 
@@ -5159,16 +4455,14 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
+　　　　　　　　　　　即便不刻意侧耳倾听</text>
+	<attr id="0" playtime="179.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="93608354" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
-　
-成为共同体　　　　　　相信就是在这个地方</message>
-    <times>2010-03-07 04:09:33</times>
-  </data>
-  <data>
-    <playTime>195</playTime>
-    <message fontsize="25" color="255" mode="5">　
 
 
 
@@ -5179,15 +4473,11 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
-
-
-
-相信就是在这个地方</message>
-    <times>2010-03-07 04:09:48</times>
-  </data>
-  <data>
-    <playTime>197.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
+即便不刻意侧耳倾听</text>
+	<attr id="0" playtime="179.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="532697703" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -5201,47 +4491,11 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 　
 
 
-相信就是在这个地方</message>
-    <times>2010-03-07 04:10:34</times>
-  </data>
-  <data>
-    <playTime>197.4</playTime>
-    <message fontsize="37" color="16711680" mode="1">\一起唱歌吧/</message>
-    <times>2010-03-07 04:23:36</times>
-  </data>
-  <data>
-    <playTime>197.4</playTime>
-    <message fontsize="37" color="16750848" mode="1">\一起唱歌吧/　</message>
-    <times>2010-03-07 04:24:36</times>
-  </data>
-  <data>
-    <playTime>197.4</playTime>
-    <message fontsize="37" color="16776960" mode="1">\一起唱歌吧/　　</message>
-    <times>2010-03-07 04:24:45</times>
-  </data>
-  <data>
-    <playTime>197.4</playTime>
-    <message fontsize="37" color="6749952" mode="1">\一起唱歌吧/　　　</message>
-    <times>2010-03-07 04:24:52</times>
-  </data>
-  <data>
-    <playTime>197.4</playTime>
-    <message fontsize="37" color="6750207" mode="1">\一起唱歌吧/　　　　</message>
-    <times>2010-03-07 04:25:06</times>
-  </data>
-  <data>
-    <playTime>197.4</playTime>
-    <message fontsize="37" color="6684927" mode="1">\一起唱歌吧/　　　　　</message>
-    <times>2010-03-07 04:25:24</times>
-  </data>
-  <data>
-    <playTime>197.4</playTime>
-    <message fontsize="37" color="10027263" mode="1">\一起唱歌吧/　　　　　　</message>
-    <times>2010-03-07 04:25:40</times>
-  </data>
-  <data>
-    <playTime>199</playTime>
-    <message fontsize="37" color="52479" mode="4">　
+即便不刻意侧耳倾听</text>
+	<attr id="0" playtime="182.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="10813451" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -5250,17 +4504,16 @@ ECO(节约)和EGO(自我)一纸之隔Propaganda</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-07 04:28:08</times>
-  </data>
-  <data>
-    <playTime>199</playTime>
-    <message fontsize="25" color="255" mode="5">　　
 
 
 
 
 
+亦早已发现　　　　　　相信大家亦早已发现</text>
+	<attr id="0" playtime="182.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="699860212" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -5269,26 +4522,19 @@ Smiling together</message>
 
 
 
-Smiling together</message>
-    <times>2010-03-07 04:28:25</times>
-  </data>
-  <data>
-    <playTime>201.4</playTime>
-    <message fontsize="37" color="0" mode="4">　
 
 
 
 
 
+亦早已发现　　　　　　相信大家亦早已发现</text>
+	<attr id="0" playtime="182.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1742143587" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
-Smiling together</message>
-    <times>2010-03-07 04:29:39</times>
-  </data>
-  <data>
-    <playTime>201.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
 
 
 
@@ -5299,284 +4545,11 @@ Smiling together</message>
 
 
 
-
-
-
-Smiling together</message>
-    <times>2010-03-07 04:29:53</times>
-  </data>
-  <data>
-    <playTime>201.4</playTime>
-    <message fontsize="37" color="255" mode="5">　
-
-
-
-
-
-
-
-
-Will be together</message>
-    <times>2010-03-07 04:30:15</times>
-  </data>
-  <data>
-    <playTime>201.4</playTime>
-    <message fontsize="25" color="52479" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Will be together</message>
-    <times>2010-03-07 04:30:33</times>
-  </data>
-  <data>
-    <playTime>209.1</playTime>
-    <message fontsize="37" color="65535" mode="5">　
-
-
-
-
-
-
-
-
-Smiling together　　　</message>
-    <times>2010-03-07 04:32:32</times>
-  </data>
-  <data>
-    <playTime>209.1</playTime>
-    <message fontsize="37" color="255" mode="5">　
-
-
-
-
-
-
-
-
-Smiling together      </message>
-    <times>2010-03-07 04:32:50</times>
-  </data>
-  <data>
-    <playTime>211.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling together　　　</message>
-    <times>2010-03-07 04:38:05</times>
-  </data>
-  <data>
-    <playTime>211.3</playTime>
-    <message fontsize="37" color="0" mode="5">　
-
-
-
-
-
-
-
-
-Smiling together</message>
-    <times>2010-03-07 04:38:18</times>
-  </data>
-  <data>
-    <playTime>211.3</playTime>
-    <message fontsize="37" color="0" mode="5">　
-
-
-
-
-
-
-
-
-Smiling together　　　</message>
-    <times>2010-03-07 04:38:25</times>
-  </data>
-  <data>
-    <playTime>211.3</playTime>
-    <message fontsize="37" color="255" mode="5">　
-
-
-
-
-
-
-
-
-　　　Will be together</message>
-    <times>2010-03-07 04:40:00</times>
-  </data>
-  <data>
-    <playTime>218.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling together　　　　　　　　　　</message>
-    <times>2010-03-07 04:45:52</times>
-  </data>
-  <data>
-    <playTime>221.6</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling together　　　　　　　　　　</message>
-    <times>2010-03-07 04:46:15</times>
-  </data>
-  <data>
-    <playTime>221.6</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　　Will be together</message>
-    <times>2010-03-07 04:46:43</times>
-  </data>
-  <data>
-    <playTime>211.3</playTime>
-    <message fontsize="37" color="52479" mode="5">　
-
-
-
-
-
-
-
-
-Will be together</message>
-    <times>2010-03-07 04:52:32</times>
-  </data>
-  <data>
-    <playTime>221.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling together　　　　　　　　　　</message>
-    <times>2010-03-07 04:53:04</times>
-  </data>
-  <data>
-    <playTime>221.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　　Will be together</message>
-    <times>2010-03-07 04:53:43</times>
-  </data>
-  <data>
-    <playTime>224.3</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　　Will be together</message>
-    <times>2010-03-07 04:54:05</times>
-  </data>
-  <data>
-    <playTime>224.3</playTime>
-    <message fontsize="25" color="204" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-正因世道如此才更需微笑前行　　　　　</message>
-    <times>2010-03-07 05:06:38</times>
-  </data>
-  <data>
-    <playTime>224.6</playTime>
-    <message fontsize="25" color="255" mode="5">　
+相信大家亦早已发现</text>
+	<attr id="0" playtime="182.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1847056215" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -5590,12 +4563,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 　
-正因世道如此才更需微笑前行　　　　　</message>
-    <times>2010-03-07 05:06:59</times>
-  </data>
-  <data>
-    <playTime>224.8</playTime>
-    <message fontsize="25" color="26367" mode="5">　
+相信大家亦早已发现</text>
+	<attr id="0" playtime="184.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1390127793" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -5609,715 +4581,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-正因世道如此才更需微笑前行　　　　　</message>
-    <times>2010-03-07 05:07:13</times>
-  </data>
-  <data>
-    <playTime>226.8</playTime>
-    <message fontsize="25" color="26367" mode="5">　　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-正因世道如此才更需微笑前行　　　　　</message>
-    <times>2010-03-07 05:08:53</times>
-  </data>
-  <data>
-    <playTime>229.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-正因世道如此才更需微笑前行　　　　　</message>
-    <times>2010-03-07 05:09:19</times>
-  </data>
-  <data>
-    <playTime>229.2</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　　Smiling together</message>
-    <times>2010-03-07 05:09:46</times>
-  </data>
-  <data>
-    <playTime>231.5</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　　Smiling together</message>
-    <times>2010-03-07 05:10:09</times>
-  </data>
-  <data>
-    <playTime>231.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Will be together　　　　　　　　　　</message>
-    <times>2010-03-07 05:10:33</times>
-  </data>
-  <data>
-    <playTime>234</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Will be together　　　　　　　　　　</message>
-    <times>2010-03-07 05:10:58</times>
-  </data>
-  <data>
-    <playTime>234</playTime>
-    <message fontsize="25" color="204" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-无论发生怎样的争斗　　　　　　　　　　　</message>
-    <times>2010-03-07 05:11:26</times>
-  </data>
-  <data>
-    <playTime>234.3</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-无论发生怎样的争斗　　　　　　　　　　　</message>
-    <times>2010-03-07 05:11:44</times>
-  </data>
-  <data>
-    <playTime>234.3</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-无论发生怎样的争斗　　　　　　　　　</message>
-    <times>2010-03-07 05:12:07</times>
-  </data>
-  <data>
-    <playTime>236.3</playTime>
-    <message fontsize="25" color="153" mode="5">　
-
-
-
-
-
-
-
-
-
-
-　
-
-
-无论发生怎样的争斗　　　　　　　　　</message>
-    <times>2010-03-07 05:13:03</times>
-  </data>
-  <data>
-    <playTime>236.3</playTime>
-    <message fontsize="25" color="204" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　用心灵而非语言去感受的话</message>
-    <times>2010-03-07 05:13:32</times>
-  </data>
-  <data>
-    <playTime>236.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-无论发生怎样争斗　　　　　　　　　　</message>
-    <times>2010-03-07 05:14:22</times>
-  </data>
-  <data>
-    <playTime>236.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　用心灵而非语言去感受的话</message>
-    <times>2010-03-07 05:15:03</times>
-  </data>
-  <data>
-    <playTime>239.2</playTime>
-    <message fontsize="25" color="204" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　用心灵而非语言去感受的话</message>
-    <times>2010-03-07 05:15:43</times>
-  </data>
-  <data>
-    <playTime>239.2</playTime>
-    <message fontsize="25" color="255" mode="1">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-—Smiling together—</message>
-    <times>2010-03-07 05:16:21</times>
-  </data>
-  <data>
-    <playTime>239.5</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　用心灵而非语言去感受的话</message>
-    <times>2010-03-07 05:17:14</times>
-  </data>
-  <data>
-    <playTime>240.2</playTime>
-    <message fontsize="25" color="39423" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling　乍一看自言自语好像越来越流行</message>
-    <times>2010-03-07 05:32:09</times>
-  </data>
-  <data>
-    <playTime>242.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling 乍一看自言自语好像越来越流行</message>
-    <times>2010-03-07 05:32:31</times>
-  </data>
-  <data>
-    <playTime>242.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling　乍一看自言自语好像越来越流行</message>
-    <times>2010-03-07 05:32:47</times>
-  </data>
-  <data>
-    <playTime>242.3</playTime>
-    <message fontsize="25" color="39423" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-合著鼓动 world 　　　　　　　　　　</message>
-    <times>2010-03-07 05:33:23</times>
-  </data>
-  <data>
-    <playTime>245.4</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-合著鼓动 world 　　　　　　　　　　</message>
-    <times>2010-03-07 05:34:53</times>
-  </data>
-  <data>
-    <playTime>245.4</playTime>
-    <message fontsize="25" color="39423" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-问候　　　What's up!　　　　　　　　</message>
-    <times>2010-03-07 05:35:50</times>
-  </data>
-  <data>
-    <playTime>246</playTime>
-    <message fontsize="25" color="52479" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　What's up!　　　　　　　</message>
-    <times>2010-03-07 05:36:18</times>
-  </data>
-  <data>
-    <playTime>246.7</playTime>
-    <message fontsize="25" color="65535" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　What's up!　　　　　　</message>
-    <times>2010-03-07 05:36:44</times>
-  </data>
-  <data>
-    <playTime>248.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-What's up!</message>
-    <times>2010-03-07 05:37:08</times>
-  </data>
-  <data>
-    <playTime>248.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-问候　　　What's up!　　　　　　　　</message>
-    <times>2010-03-07 05:37:30</times>
-  </data>
-  <data>
-    <playTime>248.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　What's up!　　　　　　　</message>
-    <times>2010-03-07 05:37:52</times>
-  </data>
-  <data>
-    <playTime>248.1</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　What's up!　　　　　　</message>
-    <times>2010-03-07 05:38:11</times>
-  </data>
-  <data>
-    <playTime>248.1</playTime>
-    <message fontsize="25" color="39423" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　没什麼精神的话一起来看如何</message>
-    <times>2010-03-07 05:38:51</times>
-  </data>
-  <data>
-    <playTime>250.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-　
-
-　　　　　没什麼精神的话一起来看如何</message>
-    <times>2010-03-07 05:39:38</times>
-  </data>
-  <data>
-    <playTime>250.6</playTime>
-    <message fontsize="25" color="39423" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-来吧、在新一年到来之前　　　　　　　</message>
-    <times>2010-03-07 05:40:22</times>
-  </data>
-  <data>
-    <playTime>252.8</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-来吧、在新一年到来之前　　　　　　　</message>
-    <times>2010-03-07 05:41:02</times>
-  </data>
-  <data>
-    <playTime>252.8</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　我们不想结束地笑著</message>
-    <times>2010-03-07 05:41:36</times>
-  </data>
-  <data>
-    <playTime>255.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-　
-
-　　　　　　　　　我们不想结束地笑著</message>
-    <times>2010-03-07 05:41:56</times>
-  </data>
-  <data>
-    <playTime>255.5</playTime>
-    <message fontsize="25" color="39423" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-this is Sunrise　　　　　　　　　　　</message>
-    <times>2010-03-07 05:42:28</times>
-  </data>
-  <data>
-    <playTime>256.1</playTime>
-    <message fontsize="25" color="39423" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　再没有像这样的地方了吧？</message>
-    <times>2010-03-07 05:43:19</times>
-  </data>
-  <data>
-    <playTime>259.4</playTime>
-    <message fontsize="25" color="204" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling together　　　　　　　　　　</message>
-    <times>2010-03-07 05:44:51</times>
-  </data>
-  <data>
-    <playTime>259.6</playTime>
-    <message fontsize="25" color="255" mode="5">　
+亦早已发现　　　　　　在看似和平的世界中</text>
+	<attr id="0" playtime="184.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1323904673" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6331,12 +4599,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 　
-Smiling together　　　　　　　　　　</message>
-    <times>2010-03-07 05:45:13</times>
-  </data>
-  <data>
-    <playTime>261.9</playTime>
-    <message fontsize="25" color="0" mode="5">　
+亦早已发现　　　　　　在看似和平的世界中</text>
+	<attr id="0" playtime="184.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1883686262" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6350,12 +4617,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-Smiling together　　　　　　　　　　</message>
-    <times>2010-03-07 05:45:27</times>
-  </data>
-  <data>
-    <playTime>261.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
+在看似和平的世界中</text>
+	<attr id="0" playtime="184.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="201717799" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -6369,12 +4635,29 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-　　　　　　　　　　Will be together</message>
-    <times>2010-03-07 05:45:50</times>
-  </data>
-  <data>
-    <playTime>264.6</playTime>
-    <message fontsize="25" color="153" mode="5">　
+在看似和平的世界中</text>
+	<attr id="0" playtime="187.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1449713685" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+平的世界中　　　　　　也有激烈苦痛的声音</text>
+	<attr id="0" playtime="187.2" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1767359948" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6388,12 +4671,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 　
-　　　　　　　　　　Will be together</message>
-    <times>2010-03-07 05:46:18</times>
-  </data>
-  <data>
-    <playTime>264.6</playTime>
-    <message fontsize="25" color="255" mode="5">　
+平的世界中　　　　　　也有激烈苦痛的声音</text>
+	<attr id="0" playtime="187.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2073737329" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6407,12 +4689,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-大家微笑福便临门　　　　　　　　　　</message>
-    <times>2010-03-07 05:46:48</times>
-  </data>
-  <data>
-    <playTime>264.8</playTime>
-    <message fontsize="25" color="0" mode="5">　
+也有激烈苦痛的声音</text>
+	<attr id="0" playtime="187.4" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1865379454" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -6426,12 +4707,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-　　　　　　　　　　Will be together</message>
-    <times>2010-03-07 05:47:07</times>
-  </data>
-  <data>
-    <playTime>267.5</playTime>
-    <message fontsize="25" color="204" mode="5">　
+也有激烈苦痛的声音</text>
+	<attr id="0" playtime="189.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1123319111" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6445,392 +4725,11 @@ Smiling together　　　　　　　　　　</message>
 
 
 
-将小小的现在　　　　　　　</message>
-    <times>2010-03-07 05:55:18</times>
-  </data>
-  <data>
-    <playTime>267.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-微笑福便临门　　　　　　　　</message>
-    <times>2010-03-07 05:55:50</times>
-  </data>
-  <data>
-    <playTime>266.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-大家　　　　　　　　　　　　　　　　</message>
-    <times>2010-03-07 05:56:56</times>
-  </data>
-  <data>
-    <playTime>267.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-将小小的现在　　　　　　　</message>
-    <times>2010-03-07 05:57:29</times>
-  </data>
-  <data>
-    <playTime>267.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-大家微笑福便临门　将小小的现在　　　</message>
-    <times>2010-03-07 05:58:05</times>
-  </data>
-  <data>
-    <playTime>269.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-　
-
-大家微笑福便临门　将小小的现在　　　</message>
-    <times>2010-03-07 05:58:47</times>
-  </data>
-  <data>
-    <playTime>269.7</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling together　　　　</message>
-    <times>2010-03-07 05:59:25</times>
-  </data>
-  <data>
-    <playTime>272.1</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smiling together　　　　</message>
-    <times>2010-03-07 05:59:44</times>
-  </data>
-  <data>
-    <playTime>272.1</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　Will be together</message>
-    <times>2010-03-07 06:00:05</times>
-  </data>
-  <data>
-    <playTime>274.4</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　Will be together</message>
-    <times>2010-03-07 06:00:38</times>
-  </data>
-  <data>
-    <playTime>274.4</playTime>
-    <message fontsize="25" color="153" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　悲伤的表情不适合你</message>
-    <times>2010-03-07 06:01:05</times>
-  </data>
-  <data>
-    <playTime>274.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-　
-　　　　　　　　　悲伤的表情不适合你</message>
-    <times>2010-03-07 06:01:30</times>
-  </data>
-  <data>
-    <playTime>274.6</playTime>
-    <message fontsize="25" color="204" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-悲伤的表情不适合你</message>
-    <times>2010-03-07 06:01:40</times>
-  </data>
-  <data>
-    <playTime>274.9</playTime>
-    <message fontsize="25" color="0" mode="5">　　
-
-
-
-
-
-
-
-
-
-
-
-
-
-悲伤的表情不适合你</message>
-    <times>2010-03-07 06:01:55</times>
-  </data>
-  <data>
-    <playTime>274.9</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-悲伤的表情不适合你　　　　　　　　　</message>
-    <times>2010-03-07 06:02:10</times>
-  </data>
-  <data>
-    <playTime>277.2</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-　
-悲伤的表情不适合你　　　　　　　　　</message>
-    <times>2010-03-07 06:02:49</times>
-  </data>
-  <data>
-    <playTime>278</playTime>
-    <message fontsize="25" color="204" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　　　　　　　一起唱歌吧</message>
-    <times>2010-03-07 06:03:44</times>
-  </data>
-  <data>
-    <playTime>278.2</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-　
-　　　　　　　　　　　　　　　一起唱歌吧</message>
-    <times>2010-03-07 06:04:13</times>
-  </data>
-  <data>
-    <playTime>278.2</playTime>
-    <message fontsize="25" color="255" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-　　　　　　　　　　一起唱歌吧　　　</message>
-    <times>2010-03-07 06:04:36</times>
-  </data>
-  <data>
-    <playTime>279.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-悲伤的表情不适合你　一起唱歌吧　　　</message>
-    <times>2010-03-07 06:05:19</times>
-  </data>
-  <data>
-    <playTime>279.7</playTime>
-    <message fontsize="25" color="153" mode="5">　
-
-
-
-
-
-
-
-
-
-
-
-
-
-Smil ether</message>
-    <times>2010-03-07 06:06:01</times>
-  </data>
-  <data>
-    <playTime>279.8</playTime>
-    <message fontsize="25" color="0" mode="5">　
+苦痛的声音　　　　　　若超越国境肤色血统</text>
+	<attr id="0" playtime="189.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1679500493" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6844,12 +4743,11 @@ Smil ether</message>
 　
 
 
-Smil ether</message>
-    <times>2010-03-07 06:06:34</times>
-  </data>
-  <data>
-    <playTime>279.8</playTime>
-    <message fontsize="25" color="204" mode="5">　
+苦痛的声音　　　　　　若超越国境肤色血统</text>
+	<attr id="0" playtime="189.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2494538" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6863,12 +4761,11 @@ Smil ether</message>
 
 
 
-Smiling　together</message>
-    <times>2010-03-07 06:06:56</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="0" mode="5">　　
+若超越国境肤色血统</text>
+	<attr id="0" playtime="189.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="130311751" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -6882,12 +4779,11 @@ Smiling　together</message>
 
 
 
-Smiling　together</message>
-    <times>2010-03-07 06:07:19</times>
-  </data>
-  <data>
-    <playTime>280</playTime>
-    <message fontsize="25" color="255" mode="5">　
+若超越国境肤色血统</text>
+	<attr id="0" playtime="192.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1422307057" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6901,12 +4797,11 @@ Smiling　together</message>
 
 
 
-Smiling　　　　　together</message>
-    <times>2010-03-07 06:07:43</times>
-  </data>
-  <data>
-    <playTime>282.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
+境肤色血统　　　　　　要想大家成为共同体</text>
+	<attr id="0" playtime="192.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1201621590" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6920,12 +4815,11 @@ Smiling　　　　　together</message>
 
 
 　
-Smiling　　　　　together</message>
-    <times>2010-03-07 06:08:21</times>
-  </data>
-  <data>
-    <playTime>282.3</playTime>
-    <message fontsize="25" color="204" mode="5">　
+境肤色血统　　　　　　要想大家成为共同体</text>
+	<attr id="0" playtime="192.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1034205540" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6939,12 +4833,47 @@ Smiling　　　　　together</message>
 
 
 
-Will be　　　together</message>
-    <times>2010-03-07 06:09:08</times>
-  </data>
-  <data>
-    <playTime>282.5</playTime>
-    <message fontsize="25" color="0" mode="5">　
+要想大家成为共同体</text>
+	<attr id="0" playtime="192.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1817479445" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+要想大家成为共同体</text>
+	<attr id="0" playtime="194.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="680463443" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+成为共同体　　　　　　相信就是在这个地方</text>
+	<attr id="0" playtime="194.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="687244613" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6958,12 +4887,11 @@ Will be　　　together</message>
 
 
 　
-Will be　　　together</message>
-    <times>2010-03-07 06:09:36</times>
-  </data>
-  <data>
-    <playTime>282.5</playTime>
-    <message fontsize="25" color="255" mode="5">　
+成为共同体　　　　　　相信就是在这个地方</text>
+	<attr id="0" playtime="195" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="456800181" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6977,12 +4905,372 @@ Will be　　　together</message>
 
 
 
-Will be together</message>
-    <times>2010-03-07 06:09:50</times>
-  </data>
-  <data>
-    <playTime>282.7</playTime>
-    <message fontsize="25" color="0" mode="5">　
+相信就是在这个地方</text>
+	<attr id="0" playtime="195" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1444313370" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+　
+
+
+相信就是在这个地方</text>
+	<attr id="0" playtime="197.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1419717232" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>\一起唱歌吧/</text>
+	<attr id="0" playtime="197.4" mode="1" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1516456777" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>\一起唱歌吧/　</text>
+	<attr id="0" playtime="197.4" mode="1" fontsize="37" color="16750848"/>
+</comment>
+<comment id="1955789973" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>\一起唱歌吧/　　</text>
+	<attr id="0" playtime="197.4" mode="1" fontsize="37" color="16776960"/>
+</comment>
+<comment id="1703281774" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>\一起唱歌吧/　　　</text>
+	<attr id="0" playtime="197.4" mode="1" fontsize="37" color="6749952"/>
+</comment>
+<comment id="1201115403" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>\一起唱歌吧/　　　　</text>
+	<attr id="0" playtime="197.4" mode="1" fontsize="37" color="6750207"/>
+</comment>
+<comment id="104313447" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>\一起唱歌吧/　　　　　</text>
+	<attr id="0" playtime="197.4" mode="1" fontsize="37" color="6684927"/>
+</comment>
+<comment id="881865631" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>\一起唱歌吧/　　　　　　</text>
+	<attr id="0" playtime="197.4" mode="1" fontsize="37" color="10027263"/>
+</comment>
+<comment id="1564384896" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+Smiling together</text>
+	<attr id="0" playtime="199" mode="4" fontsize="37" color="52479"/>
+</comment>
+<comment id="1937060780" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together</text>
+	<attr id="0" playtime="199" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1937138944" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+Smiling together</text>
+	<attr id="0" playtime="201.4" mode="4" fontsize="37" color="0"/>
+</comment>
+<comment id="851186047" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together</text>
+	<attr id="0" playtime="201.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1368808946" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+Will be together</text>
+	<attr id="0" playtime="201.4" mode="5" fontsize="37" color="255"/>
+</comment>
+<comment id="2126669134" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will be together</text>
+	<attr id="0" playtime="201.4" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="1091442624" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+Smiling together　　　</text>
+	<attr id="0" playtime="209.1" mode="5" fontsize="37" color="65535"/>
+</comment>
+<comment id="2137529287" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+Smiling together      </text>
+	<attr id="0" playtime="209.1" mode="5" fontsize="37" color="255"/>
+</comment>
+<comment id="1382294364" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together　　　</text>
+	<attr id="0" playtime="211.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="577800097" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+Smiling together</text>
+	<attr id="0" playtime="211.3" mode="5" fontsize="37" color="0"/>
+</comment>
+<comment id="1344984501" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+Smiling together　　　</text>
+	<attr id="0" playtime="211.3" mode="5" fontsize="37" color="0"/>
+</comment>
+<comment id="207551526" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+　　　Will be together</text>
+	<attr id="0" playtime="211.3" mode="5" fontsize="37" color="255"/>
+</comment>
+<comment id="1442124939" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="218.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="670453349" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="221.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="381642836" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="221.6" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1874862431" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+Will be together</text>
+	<attr id="0" playtime="211.3" mode="5" fontsize="37" color="52479"/>
+</comment>
+<comment id="121131118" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="221.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="370854604" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="221.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1295072868" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="224.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1564656938" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+正因世道如此才更需微笑前行　　　　　</text>
+	<attr id="0" playtime="224.3" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="409806147" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -6996,12 +5284,11 @@ Will be together</message>
 
 
 　
-Will be together</message>
-    <times>2010-03-07 06:10:26</times>
-  </data>
-  <data>
-    <playTime>282.7</playTime>
-    <message fontsize="37" color="52479" mode="5">　
+正因世道如此才更需微笑前行　　　　　</text>
+	<attr id="0" playtime="224.6" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1108969994" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -7010,12 +5297,181 @@ Will be together</message>
 
 
 
-Will be together</message>
-    <times>2010-03-07 06:10:39</times>
-  </data>
-  <data>
-    <playTime>285.6</playTime>
-    <message fontsize="37" color="0" mode="5">　
+
+
+
+
+
+正因世道如此才更需微笑前行　　　　　</text>
+	<attr id="0" playtime="224.8" mode="5" fontsize="25" color="26367"/>
+</comment>
+<comment id="1197908556" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+正因世道如此才更需微笑前行　　　　　</text>
+	<attr id="0" playtime="226.8" mode="5" fontsize="25" color="26367"/>
+</comment>
+<comment id="163035338" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+正因世道如此才更需微笑前行　　　　　</text>
+	<attr id="0" playtime="229.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="769029248" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　Smiling together</text>
+	<attr id="0" playtime="229.2" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1950455933" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　Smiling together</text>
+	<attr id="0" playtime="231.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1302093135" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will be together　　　　　　　　　　</text>
+	<attr id="0" playtime="231.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="916351734" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will be together　　　　　　　　　　</text>
+	<attr id="0" playtime="234" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="71238031" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+无论发生怎样的争斗　　　　　　　　　　　</text>
+	<attr id="0" playtime="234" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="995656536" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+无论发生怎样的争斗　　　　　　　　　　　</text>
+	<attr id="0" playtime="234.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="305601365" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+无论发生怎样的争斗　　　　　　　　　</text>
+	<attr id="0" playtime="234.3" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="2094918236" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
 
 
 
@@ -7024,14 +5480,13 @@ Will be together</message>
 
 
 　
-Will be together</message>
-    <times>2010-03-07 06:11:07</times>
-  </data>
-  <data>
-    <playTime>287.1</playTime>
-    <message fontsize="25" color="255" mode="5">　
 
 
+无论发生怎样的争斗　　　　　　　　　</text>
+	<attr id="0" playtime="236.3" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="440260760" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -7043,14 +5498,13 @@ Will be together</message>
 
 
 
-ＳＭＩＬＩＮＧ</message>
-    <times>2010-03-07 06:13:17</times>
-  </data>
-  <data>
-    <playTime>287.1</playTime>
-    <message fontsize="25" color="153" mode="5">　
 
 
+　　　　　　用心灵而非语言去感受的话</text>
+	<attr id="0" playtime="236.3" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1264285002" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -7062,14 +5516,13 @@ Will be together</message>
 
 
 
-—The　　　　　　　　　　　end—</message>
-    <times>2010-03-07 06:14:09</times>
-  </data>
-  <data>
-    <playTime>287.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
 
 
+无论发生怎样争斗　　　　　　　　　　</text>
+	<attr id="0" playtime="236.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1555086769" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -7081,14 +5534,13 @@ Will be together</message>
 
 
 
-Ｓ　　　　　Ｇ</message>
-    <times>2010-03-07 06:14:47</times>
-  </data>
-  <data>
-    <playTime>287.3</playTime>
-    <message fontsize="25" color="0" mode="5">　
 
 
+　　　　　　用心灵而非语言去感受的话</text>
+	<attr id="0" playtime="236.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="720324797" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -7100,14 +5552,13 @@ Will be together</message>
 
 
 
-—The　　　　　　　　　　　end—</message>
-    <times>2010-03-07 06:15:08</times>
-  </data>
-  <data>
-    <playTime>287.3</playTime>
-    <message fontsize="25" color="204" mode="5">　
 
 
+　　　　　　用心灵而非语言去感受的话</text>
+	<attr id="0" playtime="239.2" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1487225" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -7119,14 +5570,13 @@ Will be together</message>
 
 
 
-—The　　　　　end—</message>
-    <times>2010-03-07 06:15:28</times>
-  </data>
-  <data>
-    <playTime>287.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
 
 
+—Smiling together—</text>
+	<attr id="0" playtime="239.2" mode="1" fontsize="25" color="255"/>
+</comment>
+<comment id="860685529" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
 
 
 
@@ -7138,14 +5588,13 @@ Will be together</message>
 
 
 
-ＭＩＬＩＮ</message>
-    <times>2010-03-07 06:15:56</times>
-  </data>
-  <data>
-    <playTime>287.6</playTime>
-    <message fontsize="25" color="0" mode="5">　
 
 
+　　　　　　用心灵而非语言去感受的话</text>
+	<attr id="0" playtime="239.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="992943913" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -7157,14 +5606,13 @@ Will be together</message>
 
 
 
-—The　　　　　end—</message>
-    <times>2010-03-07 06:16:14</times>
-  </data>
-  <data>
-    <playTime>287.6</playTime>
-    <message fontsize="25" color="255" mode="5">　
 
 
+Smiling　乍一看自言自语好像越来越流行</text>
+	<attr id="0" playtime="240.2" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="774186383" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
 
 
 
@@ -7176,7 +5624,1169 @@ Will be together</message>
 
 
 
-—The end—</message>
-    <times>2010-03-07 06:16:14</times>
-  </data>
-</information>
+
+
+Smiling 乍一看自言自语好像越来越流行</text>
+	<attr id="0" playtime="242.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1807255288" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling　乍一看自言自语好像越来越流行</text>
+	<attr id="0" playtime="242.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="863245643" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+合著鼓动 world 　　　　　　　　　　</text>
+	<attr id="0" playtime="242.3" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="773117144" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+合著鼓动 world 　　　　　　　　　　</text>
+	<attr id="0" playtime="245.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="439880713" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+问候　　　What's up!　　　　　　　　</text>
+	<attr id="0" playtime="245.4" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="629808790" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　What's up!　　　　　　　</text>
+	<attr id="0" playtime="246" mode="5" fontsize="25" color="52479"/>
+</comment>
+<comment id="327633106" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　What's up!　　　　　　</text>
+	<attr id="0" playtime="246.7" mode="5" fontsize="25" color="65535"/>
+</comment>
+<comment id="133959960" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's up!</text>
+	<attr id="0" playtime="248.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1371006845" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+问候　　　What's up!　　　　　　　　</text>
+	<attr id="0" playtime="248.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1899885722" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　What's up!　　　　　　　</text>
+	<attr id="0" playtime="248.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1537751237" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　What's up!　　　　　　</text>
+	<attr id="0" playtime="248.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="546053426" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　没什麼精神的话一起来看如何</text>
+	<attr id="0" playtime="248.1" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="899208672" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+　
+
+　　　　　没什麼精神的话一起来看如何</text>
+	<attr id="0" playtime="250.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1866294600" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+来吧、在新一年到来之前　　　　　　　</text>
+	<attr id="0" playtime="250.6" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1050150290" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+来吧、在新一年到来之前　　　　　　　</text>
+	<attr id="0" playtime="252.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="407268151" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　我们不想结束地笑著</text>
+	<attr id="0" playtime="252.8" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1836872866" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+　
+
+　　　　　　　　　我们不想结束地笑著</text>
+	<attr id="0" playtime="255.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="218265943" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+this is Sunrise　　　　　　　　　　　</text>
+	<attr id="0" playtime="255.5" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1468150110" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　再没有像这样的地方了吧？</text>
+	<attr id="0" playtime="256.1" mode="5" fontsize="25" color="39423"/>
+</comment>
+<comment id="1603822072" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="259.4" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1175262049" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+　
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="259.6" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1292890634" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together　　　　　　　　　　</text>
+	<attr id="0" playtime="261.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1513254587" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="261.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="641706525" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+　
+　　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="264.6" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="2073131571" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+大家微笑福便临门　　　　　　　　　　</text>
+	<attr id="0" playtime="264.6" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="22807365" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　Will be together</text>
+	<attr id="0" playtime="264.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="265580106" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+将小小的现在　　　　　　　</text>
+	<attr id="0" playtime="267.5" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="431673201" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+微笑福便临门　　　　　　　　</text>
+	<attr id="0" playtime="267.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1973614787" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+大家　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="266.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1184532019" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+将小小的现在　　　　　　　</text>
+	<attr id="0" playtime="267.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1159204557" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+大家微笑福便临门　将小小的现在　　　</text>
+	<attr id="0" playtime="267.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="362028619" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+　
+
+大家微笑福便临门　将小小的现在　　　</text>
+	<attr id="0" playtime="269.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="958105604" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together　　　　</text>
+	<attr id="0" playtime="269.7" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1705384405" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling together　　　　</text>
+	<attr id="0" playtime="272.1" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2050446858" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　Will be together</text>
+	<attr id="0" playtime="272.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="407595227" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　Will be together</text>
+	<attr id="0" playtime="274.4" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="662191894" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　悲伤的表情不适合你</text>
+	<attr id="0" playtime="274.4" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="967421311" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+　
+　　　　　　　　　悲伤的表情不适合你</text>
+	<attr id="0" playtime="274.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1743160261" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+悲伤的表情不适合你</text>
+	<attr id="0" playtime="274.6" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="282239278" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+悲伤的表情不适合你</text>
+	<attr id="0" playtime="274.9" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1186966949" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+悲伤的表情不适合你　　　　　　　　　</text>
+	<attr id="0" playtime="274.9" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1878056714" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+　
+悲伤的表情不适合你　　　　　　　　　</text>
+	<attr id="0" playtime="277.2" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="266304125" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　　　　　　一起唱歌吧</text>
+	<attr id="0" playtime="278" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="2070488949" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+　
+　　　　　　　　　　　　　　　一起唱歌吧</text>
+	<attr id="0" playtime="278.2" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="498716363" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+　　　　　　　　　　一起唱歌吧　　　</text>
+	<attr id="0" playtime="278.2" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1861714773" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+悲伤的表情不适合你　一起唱歌吧　　　</text>
+	<attr id="0" playtime="279.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1266518492" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smil ether</text>
+	<attr id="0" playtime="279.7" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="634492932" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+　
+
+
+Smil ether</text>
+	<attr id="0" playtime="279.8" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="584730612" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling　together</text>
+	<attr id="0" playtime="279.8" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1534215676" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling　together</text>
+	<attr id="0" playtime="280" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="8437176" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smiling　　　　　together</text>
+	<attr id="0" playtime="280" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="750026201" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+　
+Smiling　　　　　together</text>
+	<attr id="0" playtime="282.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="56864724" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will be　　　together</text>
+	<attr id="0" playtime="282.3" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="1560657606" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+　
+Will be　　　together</text>
+	<attr id="0" playtime="282.5" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="119097041" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Will be together</text>
+	<attr id="0" playtime="282.5" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="675156713" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+　
+Will be together</text>
+	<attr id="0" playtime="282.7" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="335234900" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+Will be together</text>
+	<attr id="0" playtime="282.7" mode="5" fontsize="37" color="52479"/>
+</comment>
+<comment id="1757874028" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+　
+Will be together</text>
+	<attr id="0" playtime="285.6" mode="5" fontsize="37" color="0"/>
+</comment>
+<comment id="1142029128" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+ＳＭＩＬＩＮＧ</text>
+	<attr id="0" playtime="287.1" mode="5" fontsize="25" color="255"/>
+</comment>
+<comment id="1073388380" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+—The　　　　　　　　　　　end—</text>
+	<attr id="0" playtime="287.1" mode="5" fontsize="25" color="153"/>
+</comment>
+<comment id="1598438511" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ｓ　　　　　Ｇ</text>
+	<attr id="0" playtime="287.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="218560755" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+—The　　　　　　　　　　　end—</text>
+	<attr id="0" playtime="287.3" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="1863579302" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+—The　　　　　end—</text>
+	<attr id="0" playtime="287.3" mode="5" fontsize="25" color="204"/>
+</comment>
+<comment id="368477757" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+ＭＩＬＩＮ</text>
+	<attr id="0" playtime="287.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="174892578" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+—The　　　　　end—</text>
+	<attr id="0" playtime="287.6" mode="5" fontsize="25" color="0"/>
+</comment>
+<comment id="2140766841" poolid="1" userhash="deadbeef" sendtime="1321635820">
+	<text>　
+
+
+
+
+
+
+
+
+
+
+
+
+
+—The end—</text>
+	<attr id="0" playtime="287.6" mode="5" fontsize="25" color="255"/>
+</comment>
+</comments>

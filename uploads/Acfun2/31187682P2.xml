@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>43.5</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1045819754" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -16,12 +15,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>48.1</playTime>
-    <message fontsize="37" color="16751103" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="43.5" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="387285741" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -30,12 +28,11 @@
 呐　　 让 我 感　
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>47.9</playTime>
-    <message fontsize="37" color="16738047" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="48.1" mode="4" fontsize="37" color="16751103"/>
+</comment>
+<comment id="1196838350" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -44,12 +41,11 @@
 呐　　 让 我 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>47.7</playTime>
-    <message fontsize="37" color="16724991" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="47.9" mode="4" fontsize="37" color="16738047"/>
+</comment>
+<comment id="1270805526" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -58,12 +54,11 @@
 呐　　 让 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>47.5</playTime>
-    <message fontsize="37" color="16711935" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="47.7" mode="4" fontsize="37" color="16724991"/>
+</comment>
+<comment id="1784914307" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -72,12 +67,11 @@
 呐　　 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>36.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="47.5" mode="4" fontsize="37" color="16711935"/>
+</comment>
+<comment id="1231477876" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -91,12 +85,11 @@
 
 
 你的那份思念 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>36.5</playTime>
-    <message fontsize="25" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="36.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1906005270" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -110,12 +103,11 @@
 
 
 你的那份思念
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>39.7</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="36.5" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="573270211" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -129,12 +121,11 @@
 
 
 就是前往乐园的单程票 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>39.7</playTime>
-    <message fontsize="25" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="39.7" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1454122424" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -148,12 +139,11 @@
 
 
 就是前往乐园的单程票
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>20.0</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　</text>
+	<attr id="0" playtime="39.7" mode="1" fontsize="25" color="16711680"/>
+</comment>
+<comment id="257177396" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -167,12 +157,11 @@
 
 
 
-　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>20.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　</text>
+	<attr id="0" playtime="20.0" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="397427881" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　▁▁▁
@@ -186,12 +175,11 @@
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>42.5</playTime>
-    <message fontsize="25" color="16711935" mode="5">　
+　</text>
+	<attr id="0" playtime="20.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1721753433" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -205,12 +193,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>43.0</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="42.5" mode="5" fontsize="25" color="16711935"/>
+</comment>
+<comment id="1583027292" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -224,12 +211,11 @@
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>20.4</playTime>
-    <message fontsize="25" color="16711935" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="43.0" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="84266962" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -243,12 +229,11 @@
 
 
 
-　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>21.5</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　　　　　　　　　　</text>
+	<attr id="0" playtime="20.4" mode="4" fontsize="25" color="16711935"/>
+</comment>
+<comment id="1920276571" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -262,12 +247,11 @@
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>21.5</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　</text>
+	<attr id="0" playtime="21.5" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="151742492" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -281,12 +265,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>48.3</playTime>
-    <message fontsize="37" color="16764159" mode="4">　
+　</text>
+	<attr id="0" playtime="21.5" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1331141797" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -295,12 +278,11 @@ MEGUMEGU☆Fire Endless Night
 呐　　 让 我 感　觉 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>48.5</playTime>
-    <message fontsize="37" color="16777215" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="48.3" mode="4" fontsize="37" color="16764159"/>
+</comment>
+<comment id="537152127" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -309,12 +291,11 @@ MEGUMEGU☆Fire Endless Night
 呐　　 让 我 感　觉 下 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>48.7</playTime>
-    <message fontsize="37" color="16777164" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="48.5" mode="4" fontsize="37" color="16777215"/>
+</comment>
+<comment id="698329696" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -323,12 +304,11 @@ MEGUMEGU☆Fire Endless Night
 呐　　 让 我 感　觉 下 吧
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>51.2</playTime>
-    <message fontsize="25" color="6724095" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="48.7" mode="4" fontsize="37" color="16777164"/>
+</comment>
+<comment id="1714936427" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -342,12 +322,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>51.4</playTime>
-    <message fontsize="25" color="6724095" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="51.2" mode="4" fontsize="25" color="6724095"/>
+</comment>
+<comment id="771279259" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -361,12 +340,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>51.6</playTime>
-    <message fontsize="25" color="6724095" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="51.4" mode="4" fontsize="25" color="6724095"/>
+</comment>
+<comment id="1473861899" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -380,12 +358,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>51.8</playTime>
-    <message fontsize="25" color="6724095" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="51.6" mode="4" fontsize="25" color="6724095"/>
+</comment>
+<comment id="2055887828" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -399,12 +376,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>52.0</playTime>
-    <message fontsize="25" color="6724095" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="51.8" mode="4" fontsize="25" color="6724095"/>
+</comment>
+<comment id="369169312" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -418,12 +394,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>53.6</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="52.0" mode="4" fontsize="25" color="6724095"/>
+</comment>
+<comment id="944770823" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -437,12 +412,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>53.8</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="53.6" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1936151237" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -456,12 +430,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>54.0</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="53.8" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1147517817" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -475,12 +448,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>54.2</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="54.0" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1540884954" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -494,12 +466,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>54.4</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="54.2" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="983327943" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -513,12 +484,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>54.6</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="54.4" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1147426765" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -532,12 +502,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>56.2</playTime>
-    <message fontsize="37" color="13434879" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="54.6" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1088192327" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 不 
@@ -546,12 +515,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>56.3</playTime>
-    <message fontsize="37" color="13434828" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="56.2" mode="4" fontsize="37" color="13434879"/>
+</comment>
+<comment id="113785004" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 不 要　
@@ -560,12 +528,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>56.4</playTime>
-    <message fontsize="37" color="13434777" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="56.3" mode="4" fontsize="37" color="13434828"/>
+</comment>
+<comment id="1589530459" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 不 要　手 
@@ -574,12 +541,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>56.5</playTime>
-    <message fontsize="37" color="13434726" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="56.4" mode="4" fontsize="37" color="13434777"/>
+</comment>
+<comment id="431933629" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 不 要　手 下 
@@ -588,12 +554,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>56.6</playTime>
-    <message fontsize="37" color="13434675" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="56.5" mode="4" fontsize="37" color="13434726"/>
+</comment>
+<comment id="1566694365" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 不 要　手 下 留　
@@ -602,12 +567,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>56.7</playTime>
-    <message fontsize="37" color="13434624" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="56.6" mode="4" fontsize="37" color="13434675"/>
+</comment>
+<comment id="2145055970" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 不 要　手 下 留　情 
@@ -616,12 +580,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>56.8</playTime>
-    <message fontsize="37" color="13434625" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="56.7" mode="4" fontsize="37" color="13434624"/>
+</comment>
+<comment id="1408271364" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 不 要　手 下 留　情 哦 ！
@@ -630,47 +593,41 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>60.4</playTime>
-    <message fontsize="150" color="16711680" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="56.8" mode="4" fontsize="37" color="13434625"/>
+</comment>
+<comment id="1608521070" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 FIRE
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>60.6</playTime>
-    <message fontsize="150" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="60.4" mode="4" fontsize="150" color="16711680"/>
+</comment>
+<comment id="87500116" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 FIRE
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>60.8</playTime>
-    <message fontsize="150" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="60.6" mode="4" fontsize="150" color="16777215"/>
+</comment>
+<comment id="781353949" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 FIRE
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>61.0</playTime>
-    <message fontsize="150" color="16777215" mode="4">　
+　</text>
+	<attr id="0" playtime="60.8" mode="4" fontsize="150" color="16711680"/>
+</comment>
+<comment id="1244826452" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 FIRE
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>61.2</playTime>
-    <message fontsize="150" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="61.0" mode="4" fontsize="150" color="16777215"/>
+</comment>
+<comment id="1341040408" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 FIRE
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>61.6</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　</text>
+	<attr id="0" playtime="61.2" mode="4" fontsize="150" color="16711680"/>
+</comment>
+<comment id="271501129" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -684,12 +641,11 @@ FIRE
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>61.6</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="61.6" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="2098931141" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -703,12 +659,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>61.8</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="61.6" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1808670380" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -722,12 +677,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>61.8</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="61.8" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="778938383" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -741,12 +695,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>62.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="61.8" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1236256331" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -760,12 +713,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>62.2</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="62.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="776347309" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -779,12 +731,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>62.6</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="62.2" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="560647745" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -798,12 +749,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>62.6</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="62.6" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1344956874" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -817,12 +767,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>63.5</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="62.6" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1495959033" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -836,12 +785,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>63.5</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="63.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="490053443" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -855,12 +803,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>64.2</playTime>
-    <message fontsize="30" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="63.5" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="823072067" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 然后
 
@@ -872,12 +819,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>64.2</playTime>
-    <message fontsize="30" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="64.2" mode="5" fontsize="30" color="16711680"/>
+</comment>
+<comment id="26485435" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -889,19 +835,17 @@ MEGUMEGU☆Fire Endless Night
 　　　　　　　　　　　　　　 火热
 
 
-　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>66.8</playTime>
-    <message fontsize="150" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="64.2" mode="4" fontsize="30" color="16711680"/>
+</comment>
+<comment id="231398378" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 FEVER
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>67.3</playTime>
-    <message fontsize="25" color="16750848" mode="4">　
+　</text>
+	<attr id="0" playtime="66.8" mode="4" fontsize="150" color="16711680"/>
+</comment>
+<comment id="1644688049" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -915,12 +859,11 @@ FEVER
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>67.3</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="67.3" mode="4" fontsize="25" color="16750848"/>
+</comment>
+<comment id="629860376" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -934,12 +877,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>67.5</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="67.3" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="98871080" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -953,12 +895,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>67.5</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="67.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="570949483" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -972,12 +913,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="67.5" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1057786227" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -991,12 +931,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>67.9</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="67.9" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1544882109" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1010,12 +949,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>68.3</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="67.9" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="196171394" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1029,12 +967,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>68.3</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="68.3" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="45905399" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1048,12 +985,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>69.2</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　</text>
+	<attr id="0" playtime="68.3" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="286712794" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1067,12 +1003,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>69.2</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+　</text>
+	<attr id="0" playtime="69.2" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1220361580" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1086,36 +1021,33 @@ MEGUMEGU☆Fire Endless Night
 
 
 MEGUMEGU☆Fire Endless Night
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>69.8</playTime>
-    <message fontsize="45" color="16711935" mode="4">　
+　</text>
+	<attr id="0" playtime="69.2" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="2094377628" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 感 觉 到 的
 　　 
 　　　　　　就 是 真 实
 
 
-　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>69.8</playTime>
-    <message fontsize="45" color="16711680" mode="4">　
+　　　　　　　　　　　　</text>
+	<attr id="0" playtime="69.8" mode="4" fontsize="45" color="16711935"/>
+</comment>
+<comment id="1016351445" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　 『 此 刻 』
 　　　　　　
 
 
-　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>73.1</playTime>
-    <message fontsize="25" color="16776960" mode="4">　
+　　　　　　　　　　　　</text>
+	<attr id="0" playtime="69.8" mode="4" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1171681419" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1129,12 +1061,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>73.1</playTime>
-    <message fontsize="25" color="16711935" mode="4">　
+　</text>
+	<attr id="0" playtime="73.1" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="289975356" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1148,17 +1079,15 @@ MEGUMEGU☆Fire Endless Night
 
 
 　
-　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>73.1</playTime>
-    <message fontsize="25" color="16711935" mode="4"></message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>79.1</playTime>
-    <message fontsize="30" color="16711935" mode="4">　
+　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="73.1" mode="4" fontsize="25" color="16711935"/>
+</comment>
+<comment id="606575481" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text/>
+	<attr id="0" playtime="73.1" mode="4" fontsize="25" color="16711935"/>
+</comment>
+<comment id="993884631" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1170,12 +1099,11 @@ MEGUMEGU☆Fire Endless Night
 ★比★任★何★人★都★更★深★地★
 ★★★★★★★★★★★★★★★★★
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>79.1</playTime>
-    <message fontsize="30" color="16776960" mode="4">　
+　</text>
+	<attr id="0" playtime="79.1" mode="4" fontsize="30" color="16711935"/>
+</comment>
+<comment id="159116331" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1187,20 +1115,18 @@ MEGUMEGU☆Fire Endless Night
 ☆比☆任☆何☆人☆都☆更☆深☆地☆
 ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>84.1</playTime>
-    <message fontsize="100" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="79.1" mode="4" fontsize="30" color="16776960"/>
+</comment>
+<comment id="967284224" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 爱着你哟
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="84.1" mode="5" fontsize="100" color="16711680"/>
+</comment>
+<comment id="1607941845" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　
 
 
@@ -1214,12 +1140,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1896353949" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　
 
 
@@ -1233,12 +1158,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1965322335" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　
 
 
@@ -1252,12 +1176,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.1</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="547908938" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　
 
 
@@ -1271,12 +1194,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.3</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.1" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="378785808" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　
@@ -1290,12 +1212,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.3</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.3" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="444425276" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　
@@ -1309,12 +1230,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.3</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.3" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1712002888" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　
@@ -1328,12 +1248,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.3</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.3" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1363288093" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　
@@ -1347,12 +1266,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.8</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.3" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1277696612" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1368,12 +1286,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.8</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.8" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1543991650" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1387,12 +1304,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.8</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.8" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1247754891" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1406,12 +1322,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>85.8</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.8" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1061977270" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1425,12 +1340,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>86.8</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="85.8" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="394704077" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　　
 
 
@@ -1444,12 +1358,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>86.8</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="86.8" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="730013741" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　　　
 
 
@@ -1463,12 +1376,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>86.8</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="86.8" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="576755393" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　　　　　
 
 
@@ -1482,12 +1394,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>86.8</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="86.8" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1746208317" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　　　　　　　
 
 
@@ -1501,12 +1412,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>87.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="86.8" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1528848786" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　
@@ -1520,12 +1430,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>87.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="87.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1379771603" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　
@@ -1539,12 +1448,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>87.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="87.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="2053927025" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　
@@ -1558,12 +1466,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>87.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="87.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1260512365" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　
@@ -1577,12 +1484,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>87.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="87.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1449220914" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1598,12 +1504,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>87.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="87.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="932764908" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1617,12 +1522,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>87.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="87.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="732789438" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1636,12 +1540,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>87.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="87.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1411729155" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1655,12 +1558,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>88.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="87.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1075510097" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　　
 
 
@@ -1674,12 +1576,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>88.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="88.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1426737162" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　　　
 
 
@@ -1693,12 +1594,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>88.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="88.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="249086632" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　　　　　
 
 
@@ -1712,12 +1612,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>88.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="88.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1440152072" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　　　　　　　
 
 
@@ -1731,12 +1630,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>88.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="88.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="271358572" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　　
@@ -1750,12 +1648,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>88.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="88.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="656652254" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　　　　
@@ -1769,12 +1666,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>88.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="88.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="315205717" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　　　　　　
@@ -1788,12 +1684,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>88.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="88.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1327353522" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　　　　　　　　
@@ -1807,12 +1702,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>89.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="88.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="441740477" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1828,12 +1722,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>89.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="89.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1984956970" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1847,12 +1740,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>89.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="89.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1240659389" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1866,12 +1758,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>89.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="89.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1388195822" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -1885,12 +1776,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>91.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="89.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1358837970" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　　
 
 
@@ -1904,12 +1794,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>91.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="91.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1246983698" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　　　
 
 
@@ -1923,12 +1812,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>91.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="91.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1294633676" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　　　　　
 
 
@@ -1942,12 +1830,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>91.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="91.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="25902953" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　　　　　　　
 
 
@@ -1961,12 +1848,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>91.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="91.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1687166856" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　　
@@ -1980,12 +1866,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>91.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="91.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1379219631" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　　　　
@@ -1999,12 +1884,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>91.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="91.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1107126607" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　　　　　　
@@ -2018,12 +1902,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>91.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="91.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="348094755" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　　　　　　　　
@@ -2037,12 +1920,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>92.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="91.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1226030861" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2058,12 +1940,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>92.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="92.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="749906385" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2077,12 +1958,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>92.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="92.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="678596327" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2096,12 +1976,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>92.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="92.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1907227969" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2115,12 +1994,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>92.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="92.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1002665987" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　　
 
 
@@ -2134,12 +2012,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>92.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="92.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1919873169" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　　　
 
 
@@ -2153,12 +2030,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>92.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="92.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="575128815" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　　　　　
 
 
@@ -2172,12 +2048,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>92.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="92.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="369714006" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　　　　　　　
 
 
@@ -2191,12 +2066,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>93.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="92.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="940631088" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　　
@@ -2210,12 +2084,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>93.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="93.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1136504655" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　　　　
@@ -2229,12 +2102,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>93.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="93.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="966575875" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　　　　　　
@@ -2248,12 +2120,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>93.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="93.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1945966917" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　　　　　　　　
@@ -2267,12 +2138,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="93.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="781327178" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2288,12 +2158,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="93.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1722435480" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2307,12 +2176,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="93.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1358562018" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2326,12 +2194,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>93.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="93.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1911764948" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2345,12 +2212,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>94.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="93.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="401702620" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　　
 
 
@@ -2364,12 +2230,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>94.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="94.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1401806429" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　　　
 
 
@@ -2383,12 +2248,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>94.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="94.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1605998873" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　　　　　
 
 
@@ -2402,12 +2266,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>94.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="94.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="655011882" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　　　　　　　
 
 
@@ -2421,12 +2284,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>94.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="94.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="365199576" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　　
@@ -2440,12 +2302,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>94.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="94.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1698650103" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　　　　
@@ -2459,12 +2320,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>94.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="94.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1373177700" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　　　　　　
@@ -2478,12 +2338,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>94.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="94.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="160188481" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　　　　　　　　
@@ -2497,12 +2356,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>95.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="94.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1681508911" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2518,12 +2376,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>95.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="95.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="2003973835" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2537,12 +2394,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>95.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="95.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1764493406" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2556,12 +2412,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>95.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="95.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1082441057" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2575,12 +2430,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>97.0</playTime>
-    <message fontsize="25" color="16776960" mode="1">　
+　</text>
+	<attr id="0" playtime="95.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1249689126" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 从碰触
@@ -2592,12 +2446,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　开始</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>100.0</playTime>
-    <message fontsize="25" color="16776960" mode="1">　
+　　　　　　开始</text>
+	<attr id="0" playtime="97.0" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="2037961433" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2611,12 +2464,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>100.0</playTime>
-    <message fontsize="25" color="10092288" mode="5">　
+　</text>
+	<attr id="0" playtime="100.0" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="195071537" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　　　　　 而
@@ -2630,12 +2482,11 @@ MEGUMEGU☆Fire Endless Night
 
 泄
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>103.0</playTime>
-    <message fontsize="25" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="100.0" mode="5" fontsize="25" color="10092288"/>
+</comment>
+<comment id="1094287302" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　　　　　　❤　　　❤
@@ -2649,12 +2500,11 @@ MEGUMEGU☆Fire Endless Night
 　　　　　　　　　❤
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>103.0</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="103.0" mode="5" fontsize="25" color="16711680"/>
+</comment>
+<comment id="237248080" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　　　　　　❤　　　❤
@@ -2668,12 +2518,11 @@ MEGUMEGU☆Fire Endless Night
 　　　　　　　　　❤
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>103.0</playTime>
-    <message fontsize="25" color="16776960" mode="5">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="103.0" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="351559757" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　　　　　　　　　
@@ -2687,12 +2536,11 @@ MEGUMEGU☆Fire Endless Night
 　　　　　　　　　
 
 
-　　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>104.0</playTime>
-    <message fontsize="25" color="16711935" mode="5">　
+　　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="103.0" mode="5" fontsize="25" color="16776960"/>
+</comment>
+<comment id="167868085" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2706,12 +2554,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>111.0</playTime>
-    <message fontsize="37" color="16711935" mode="4">　
+　</text>
+	<attr id="0" playtime="104.0" mode="5" fontsize="25" color="16711935"/>
+</comment>
+<comment id="1558812824" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2720,12 +2567,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>112.0</playTime>
-    <message fontsize="25" color="16711935" mode="1">　
+　</text>
+	<attr id="0" playtime="111.0" mode="4" fontsize="37" color="16711935"/>
+</comment>
+<comment id="266522613" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 将我从
 
@@ -2739,12 +2585,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>112.5</playTime>
-    <message fontsize="25" color="16711935" mode="1">　
+　　　　　　　　　　　</text>
+	<attr id="0" playtime="112.0" mode="1" fontsize="25" color="16711935"/>
+</comment>
+<comment id="516691283" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2758,12 +2603,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>113.0</playTime>
-    <message fontsize="25" color="16711935" mode="1">　
+　　　　　　　　　　　</text>
+	<attr id="0" playtime="112.5" mode="1" fontsize="25" color="16711935"/>
+</comment>
+<comment id="61156818" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2777,12 +2621,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>117.0</playTime>
-    <message fontsize="30" color="16711935" mode="5">　
+　　　　　　　　　　　</text>
+	<attr id="0" playtime="113.0" mode="1" fontsize="25" color="16711935"/>
+</comment>
+<comment id="1314799011" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2793,12 +2636,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>117.2</playTime>
-    <message fontsize="30" color="16711884" mode="5">　
+　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="117.0" mode="5" fontsize="30" color="16711935"/>
+</comment>
+<comment id="475242171" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2809,12 +2651,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>117.4</playTime>
-    <message fontsize="30" color="16711833" mode="5">　
+　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="117.2" mode="5" fontsize="30" color="16711884"/>
+</comment>
+<comment id="1925983790" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2825,12 +2666,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>117.6</playTime>
-    <message fontsize="30" color="16711782" mode="5">　
+　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="117.4" mode="5" fontsize="30" color="16711833"/>
+</comment>
+<comment id="88254968" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2841,12 +2681,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>117.8</playTime>
-    <message fontsize="30" color="16711731" mode="5">　
+　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="117.6" mode="5" fontsize="30" color="16711782"/>
+</comment>
+<comment id="1860574288" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2857,12 +2696,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>118.0</playTime>
-    <message fontsize="30" color="16711680" mode="5">　
+　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="117.8" mode="5" fontsize="30" color="16711731"/>
+</comment>
+<comment id="1844819798" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2873,12 +2711,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>118.2</playTime>
-    <message fontsize="30" color="16711680" mode="5">　
+　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="118.0" mode="5" fontsize="30" color="16711680"/>
+</comment>
+<comment id="1932718410" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -2889,12 +2726,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>122.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="118.2" mode="5" fontsize="30" color="16711680"/>
+</comment>
+<comment id="1122282247" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　　
 
 
@@ -2908,12 +2744,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>122.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="122.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1442533714" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　　　
 
 
@@ -2927,12 +2762,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>122.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="122.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="438296561" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　　　　　
 
 
@@ -2946,12 +2780,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>122.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="122.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="88898708" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　　　　　　　
 
 
@@ -2965,12 +2798,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>122.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="122.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="835017804" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　　
@@ -2984,12 +2816,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>122.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="122.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="472436411" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　　　　
@@ -3003,12 +2834,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>122.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="122.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="2144620376" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　　　　　　
@@ -3022,12 +2852,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>122.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="122.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1341620278" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　　　　　　　　
@@ -3041,12 +2870,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>123.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="122.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1860637865" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3062,12 +2890,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>123.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="123.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1051994178" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3081,12 +2908,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>123.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="123.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1966866105" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3100,12 +2926,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>123.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="123.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="765699180" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3119,36 +2944,32 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>123.5</playTime>
-    <message fontsize="100" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="123.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="294085670" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 ＥＮＤ
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>124.0</playTime>
-    <message fontsize="100" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="123.5" mode="1" fontsize="100" color="16711680"/>
+</comment>
+<comment id="264782148" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 ＬＥＳＳ
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>124.5</playTime>
-    <message fontsize="100" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="124.0" mode="1" fontsize="100" color="16711680"/>
+</comment>
+<comment id="2111081982" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
-ＮＩＧＨＴ</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>124.5</playTime>
-    <message fontsize="25" color="16776960" mode="1">　
+ＮＩＧＨＴ</text>
+	<attr id="0" playtime="124.5" mode="1" fontsize="100" color="16711680"/>
+</comment>
+<comment id="583946857" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 所以
 
@@ -3162,12 +2983,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>125.0</playTime>
-    <message fontsize="25" color="16776960" mode="1">　
+　　　　　　　　　　　</text>
+	<attr id="0" playtime="124.5" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1342329089" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3181,12 +3001,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>125.5</playTime>
-    <message fontsize="25" color="16776960" mode="1">　
+　　　　　　　　　　　</text>
+	<attr id="0" playtime="125.0" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1505253687" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3200,96 +3019,88 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>127.0</playTime>
-    <message fontsize="50" color="16711680" mode="4">　
+　　　　　　　　　　　</text>
+	<attr id="0" playtime="125.5" mode="1" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1839558012" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｆ
 
 
 
-　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>127.0</playTime>
-    <message fontsize="50" color="16724787" mode="4">　
+　　　　　　　</text>
+	<attr id="0" playtime="127.0" mode="4" fontsize="50" color="16711680"/>
+</comment>
+<comment id="391416014" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　Ｏ
 
 
 
-　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>127.0</playTime>
-    <message fontsize="50" color="16737894" mode="4">　
+　　　　　　　</text>
+	<attr id="0" playtime="127.0" mode="4" fontsize="50" color="16724787"/>
+</comment>
+<comment id="1693483693" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　ＲＥＶＥＲ
 
 
 
-　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>127.0</playTime>
-    <message fontsize="50" color="16751001" mode="4">　
+　　　　　　　</text>
+	<attr id="0" playtime="127.0" mode="4" fontsize="50" color="16737894"/>
+</comment>
+<comment id="2063997363" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　　ＥＶＥＲ
 
 
 
-　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>127.0</playTime>
-    <message fontsize="50" color="16764108" mode="4">　
+　　　　　　　</text>
+	<attr id="0" playtime="127.0" mode="4" fontsize="50" color="16751001"/>
+</comment>
+<comment id="1515289252" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　　　ＶＥＲ
 
 
 
-　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>127.0</playTime>
-    <message fontsize="50" color="16764108" mode="4">　
+　　　　　　　</text>
+	<attr id="0" playtime="127.0" mode="4" fontsize="50" color="16764108"/>
+</comment>
+<comment id="474641222" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　　　　ＥＲ
 
 
 
-　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>127.0</playTime>
-    <message fontsize="50" color="16777215" mode="4">　
+　　　　　　　</text>
+	<attr id="0" playtime="127.0" mode="4" fontsize="50" color="16764108"/>
+</comment>
+<comment id="589828267" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　　　　　Ｒ
 
 
 
-　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>128.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　　　　　　　</text>
+	<attr id="0" playtime="127.0" mode="4" fontsize="50" color="16777215"/>
+</comment>
+<comment id="533075901" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　　
 
 
@@ -3303,12 +3114,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>128.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="128.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="938215371" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　　　
 
 
@@ -3322,12 +3132,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>128.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="128.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="394564318" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　　　　　
 
 
@@ -3341,12 +3150,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>128.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="128.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="397765585" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　　　　　　　
 
 
@@ -3360,12 +3168,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>128.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="128.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1909744184" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　　
@@ -3379,12 +3186,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>128.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="128.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1831952002" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　　　　
@@ -3398,12 +3204,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>128.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="128.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="524946205" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　　　　　　
@@ -3417,12 +3222,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>128.5</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="128.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="454053001" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　　　　　　　　
@@ -3436,12 +3240,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>129.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="128.5" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="2135351973" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3457,12 +3260,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>129.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="129.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="256076938" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3476,12 +3278,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>129.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="129.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1534675876" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3495,12 +3296,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>129.0</playTime>
-    <message fontsize="25" color="16750848" mode="1">　
+　</text>
+	<attr id="0" playtime="129.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1267483780" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3514,36 +3314,32 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>129.5</playTime>
-    <message fontsize="100" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="129.0" mode="1" fontsize="25" color="16750848"/>
+</comment>
+<comment id="947591802" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 ＥＮＤ
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>130.0</playTime>
-    <message fontsize="100" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="129.5" mode="1" fontsize="100" color="16711680"/>
+</comment>
+<comment id="172855632" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 ＬＥＳＳ
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>130.5</playTime>
-    <message fontsize="100" color="16711680" mode="1">　
+　</text>
+	<attr id="0" playtime="130.0" mode="1" fontsize="100" color="16711680"/>
+</comment>
+<comment id="1742690488" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
-ＮＩＧＨＴ</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>131.0</playTime>
-    <message fontsize="37" color="3381759" mode="4">　
+ＮＩＧＨＴ</text>
+	<attr id="0" playtime="130.5" mode="1" fontsize="100" color="16711680"/>
+</comment>
+<comment id="1695779729" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 相 信 着 的
@@ -3552,12 +3348,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>131.0</playTime>
-    <message fontsize="37" color="16751103" mode="4">　
+　　　　　　　　　　　</text>
+	<attr id="0" playtime="131.0" mode="4" fontsize="37" color="3381759"/>
+</comment>
+<comment id="705984414" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3566,12 +3361,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>134.0</playTime>
-    <message fontsize="25" color="16751103" mode="4">　
+　　　　　　　　　　　</text>
+	<attr id="0" playtime="131.0" mode="4" fontsize="37" color="16751103"/>
+</comment>
+<comment id="1929054905" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3585,12 +3379,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>134.0</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="134.0" mode="4" fontsize="25" color="16751103"/>
+</comment>
+<comment id="6012031" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3599,12 +3392,11 @@ MEGUMEGU☆Fire Endless Night
 奇 迹
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>140.0</playTime>
-    <message fontsize="25" color="16776960" mode="4">　
+　</text>
+	<attr id="0" playtime="134.0" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="600903526" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3618,12 +3410,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>140.0</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="140.0" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="192181753" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3632,12 +3423,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>142.0</playTime>
-    <message fontsize="25" color="16776960" mode="4">　
+　</text>
+	<attr id="0" playtime="140.0" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="1246966374" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3651,12 +3441,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>142.0</playTime>
-    <message fontsize="37" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="142.0" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="1489968836" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3665,12 +3454,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>144.0</playTime>
-    <message fontsize="37" color="16777215" mode="1">　
+　</text>
+	<attr id="0" playtime="142.0" mode="5" fontsize="37" color="16711680"/>
+</comment>
+<comment id="2061345044" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3679,12 +3467,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="144.0" mode="1" fontsize="37" color="16777215"/>
+</comment>
+<comment id="1760167750" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　　
 
 
@@ -3698,12 +3485,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="173.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1565859436" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　　　
 
 
@@ -3717,12 +3503,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="173.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1776611638" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　　　　　
 
 
@@ -3736,12 +3521,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="173.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="759024436" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　　　　　　　
 
 
@@ -3755,12 +3539,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.5</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="173.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="2088851605" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　　
@@ -3774,12 +3557,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.5</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="173.5" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1618313421" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　　　　
@@ -3793,12 +3575,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.5</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="173.5" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="737477650" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　　　　　　
@@ -3812,12 +3593,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.5</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="173.5" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="255945091" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　　　　　　　　
@@ -3831,12 +3611,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>174.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="173.5" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="485777087" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3852,12 +3631,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>174.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="174.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1235352428" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3871,12 +3649,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>174.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="174.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1547334426" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3890,12 +3667,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>174.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="174.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1178226403" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3909,36 +3685,32 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>174.0</playTime>
-    <message fontsize="100" color="16776960" mode="1">　
+　</text>
+	<attr id="0" playtime="174.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1923939762" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 ＥＮＤ
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>174.4</playTime>
-    <message fontsize="100" color="16776960" mode="1">　
+　</text>
+	<attr id="0" playtime="174.0" mode="1" fontsize="100" color="16776960"/>
+</comment>
+<comment id="950988064" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 ＬＥＳＳ
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>174.8</playTime>
-    <message fontsize="100" color="16776960" mode="1">　
+　</text>
+	<attr id="0" playtime="174.4" mode="1" fontsize="100" color="16776960"/>
+</comment>
+<comment id="1650389179" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
-ＮＩＧＨＴ</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.0</playTime>
-    <message fontsize="25" color="16776960" mode="4">　
+ＮＩＧＨＴ</text>
+	<attr id="0" playtime="174.8" mode="1" fontsize="100" color="16776960"/>
+</comment>
+<comment id="93094929" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 那个呀
 
@@ -3952,12 +3724,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>173.5</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="173.0" mode="4" fontsize="25" color="16776960"/>
+</comment>
+<comment id="432479868" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3971,12 +3742,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>174.0</playTime>
-    <message fontsize="25" color="16777215" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="173.5" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="643414836" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -3990,12 +3760,11 @@ MEGUMEGU☆Fire Endless Night
 
 
 
-　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>177.5</playTime>
-    <message fontsize="25" color="16751103" mode="4">　
+　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="174.0" mode="4" fontsize="25" color="16777215"/>
+</comment>
+<comment id="754409934" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4008,12 +3777,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>178.5</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="177.5" mode="4" fontsize="25" color="16751103"/>
+</comment>
+<comment id="2146686937" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｕ　　　
 
 
@@ -4027,12 +3795,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>178.5</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="178.5" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1600708503" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｇ　　　　　
 
 
@@ -4046,12 +3813,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>178.5</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="178.5" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1797220129" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｅ　　　　　　　　
 
 
@@ -4065,12 +3831,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>178.5</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="178.5" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="826320994" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 Ｍ　　　　　　　　　　　
 
 
@@ -4084,12 +3849,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>179.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="178.5" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1225563812" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｕ　　　
@@ -4103,12 +3867,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>179.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="179.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1241875117" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｇ　　　　　　
@@ -4122,12 +3885,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>179.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="179.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1174294977" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｅ　　　　　　　　　
@@ -4141,12 +3903,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>179.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="179.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1875520131" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 Ｍ　　　　　　　　　　　　
@@ -4160,12 +3921,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>180.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="179.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="854794529" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4181,12 +3941,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>180.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="180.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1031872308" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4200,12 +3959,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>180.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="180.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="218492964" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4219,12 +3977,11 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>180.0</playTime>
-    <message fontsize="25" color="16751103" mode="1">　
+　</text>
+	<attr id="0" playtime="180.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1747022638" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4238,36 +3995,32 @@ Pleasure
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>180.0</playTime>
-    <message fontsize="100" color="16776960" mode="1">　
+　</text>
+	<attr id="0" playtime="180.0" mode="1" fontsize="25" color="16751103"/>
+</comment>
+<comment id="582266665" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 ＥＮＤ
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>180.4</playTime>
-    <message fontsize="100" color="16776960" mode="1">　
+　</text>
+	<attr id="0" playtime="180.0" mode="1" fontsize="100" color="16776960"/>
+</comment>
+<comment id="633764332" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 ＬＥＳＳ
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>180.8</playTime>
-    <message fontsize="100" color="16776960" mode="1">　
+　</text>
+	<attr id="0" playtime="180.4" mode="1" fontsize="100" color="16776960"/>
+</comment>
+<comment id="297846267" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
-ＮＩＧＨＴ</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>181.2</playTime>
-    <message fontsize="25" color="16724991" mode="4">　
+ＮＩＧＨＴ</text>
+	<attr id="0" playtime="180.8" mode="1" fontsize="100" color="16776960"/>
+</comment>
+<comment id="63185206" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4281,12 +4034,11 @@ Pleasure
 
 
 　
-　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>181.4</playTime>
-    <message fontsize="25" color="16724991" mode="4">　
+　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="181.2" mode="4" fontsize="25" color="16724991"/>
+</comment>
+<comment id="470544395" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4300,12 +4052,11 @@ Pleasure
 
 
 　
-　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>181.6</playTime>
-    <message fontsize="25" color="16724991" mode="4">　
+　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="181.4" mode="4" fontsize="25" color="16724991"/>
+</comment>
+<comment id="445731257" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4319,12 +4070,11 @@ Pleasure
 
 
 　
-　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>181.8</playTime>
-    <message fontsize="25" color="16724991" mode="4">　
+　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="181.6" mode="4" fontsize="25" color="16724991"/>
+</comment>
+<comment id="1922187618" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4338,12 +4088,11 @@ Pleasure
 
 
 　
-　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>182.0</playTime>
-    <message fontsize="25" color="16724991" mode="4">　
+　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="181.8" mode="4" fontsize="25" color="16724991"/>
+</comment>
+<comment id="382620379" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4357,12 +4106,11 @@ Pleasure
 
 
 　
-　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>182.2</playTime>
-    <message fontsize="25" color="16724991" mode="4">　
+　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="182.0" mode="4" fontsize="25" color="16724991"/>
+</comment>
+<comment id="972407684" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4376,12 +4124,11 @@ Pleasure
 
 
 　
-　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>182.4</playTime>
-    <message fontsize="25" color="16724991" mode="4">　
+　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="182.2" mode="4" fontsize="25" color="16724991"/>
+</comment>
+<comment id="1286653477" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4395,12 +4142,11 @@ Pleasure
 
 
 　
-　　　　　　　　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>188.0</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　　　　　　　　</text>
+	<attr id="0" playtime="182.4" mode="4" fontsize="25" color="16724991"/>
+</comment>
+<comment id="1953100744" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4414,12 +4160,11 @@ Pleasure
 
 
 
-然后再变得更加更加火热　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>188.0</playTime>
-    <message fontsize="25" color="16750848" mode="5">　
+然后再变得更加更加火热　　　　</text>
+	<attr id="0" playtime="188.0" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="658519083" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4433,43 +4178,39 @@ Pleasure
 
 
 
-然后再变得更加更加火热　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>191.3</playTime>
-    <message fontsize="150" color="16711680" mode="4">　
+然后再变得更加更加火热　　　　</text>
+	<attr id="0" playtime="188.0" mode="5" fontsize="25" color="16750848"/>
+</comment>
+<comment id="1086389377" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 FEVER
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>194.0</playTime>
-    <message fontsize="45" color="16711935" mode="4">　
+　</text>
+	<attr id="0" playtime="191.3" mode="4" fontsize="150" color="16711680"/>
+</comment>
+<comment id="492309543" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 感 觉 到 的
 　　 
 　　　　　　就 是 真 实
 
 
-　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>194.0</playTime>
-    <message fontsize="45" color="16711680" mode="4">　
+　　　　　　　　　　　　</text>
+	<attr id="0" playtime="194.0" mode="4" fontsize="45" color="16711935"/>
+</comment>
+<comment id="2116596446" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 　　 『 此 刻 』
 　　　　　　
 
 
-　　　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>198.0</playTime>
-    <message fontsize="25" color="16711680" mode="4">　
+　　　　　　　　　　　　</text>
+	<attr id="0" playtime="194.0" mode="4" fontsize="45" color="16711680"/>
+</comment>
+<comment id="1490629904" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4483,12 +4224,11 @@ FEVER
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>198.0</playTime>
-    <message fontsize="25" color="3342591" mode="4">　
+　</text>
+	<attr id="0" playtime="198.0" mode="4" fontsize="25" color="16711680"/>
+</comment>
+<comment id="1344979904" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4502,12 +4242,11 @@ FEVER
 
 
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>204.0</playTime>
-    <message fontsize="25" color="16751103" mode="4">　
+　</text>
+	<attr id="0" playtime="198.0" mode="4" fontsize="25" color="3342591"/>
+</comment>
+<comment id="803810168" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4521,12 +4260,11 @@ FEVER
 
 
 
-　　　　　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>204.0</playTime>
-    <message fontsize="35" color="16711680" mode="5">　
+　　　　　　　　　　</text>
+	<attr id="0" playtime="204.0" mode="4" fontsize="25" color="16751103"/>
+</comment>
+<comment id="1338340042" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 
 
@@ -4535,33 +4273,30 @@ FEVER
 
 
 
-　　　　　　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>208.5</playTime>
-    <message fontsize="100" color="16711680" mode="5">　
+　　　　　　</text>
+	<attr id="0" playtime="204.0" mode="5" fontsize="35" color="16711680"/>
+</comment>
+<comment id="219411386" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 爱着你哟
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>211.5</playTime>
-    <message fontsize="80" color="16776960" mode="5">　
+　</text>
+	<attr id="0" playtime="208.5" mode="5" fontsize="100" color="16711680"/>
+</comment>
+<comment id="2026884999" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 可以爱我么？
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-  <data>
-    <playTime>211.5</playTime>
-    <message fontsize="80" color="16711680" mode="5">　
+　</text>
+	<attr id="0" playtime="211.5" mode="5" fontsize="80" color="16776960"/>
+</comment>
+<comment id="1481335023" poolid="1" userhash="deadbeef" sendtime="1321635826">
+	<text>　
 
 　　爱　　　
 
-　</message>
-    <times>1970-01-01 00:00:00</times>
-  </data>
-</information>
+　</text>
+	<attr id="0" playtime="211.5" mode="5" fontsize="80" color="16711680"/>
+</comment>
+</comments>

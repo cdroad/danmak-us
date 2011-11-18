@@ -1,88 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?>
-<information>
-  <data>
-    <playTime>7</playTime>
-    <message fontsize="15" color="3394764" mode="4">【photograph】</message>
-    <times>2010-01-20 00:15:48</times>
-  </data>
-  <data>
-    <playTime>25.4</playTime>
-    <message fontsize="15" color="3394764" mode="4">每当回首追忆</message>
-    <times>2010-01-20 00:16:07</times>
-  </data>
-  <data>
-    <playTime>35.1</playTime>
-    <message fontsize="15" color="3394764" mode="4">那无形的回忆之时、想必就会渐渐渗入。</message>
-    <times>2010-01-20 00:16:43</times>
-  </data>
-  <data>
-    <playTime>46.2</playTime>
-    <message fontsize="15" color="3394764" mode="4">仅仅截取摄下其中之一、迎接明天的到来。</message>
-    <times>2010-01-20 00:16:55</times>
-  </data>
-  <data>
-    <playTime>57.4</playTime>
-    <message fontsize="15" color="3394764" mode="4">悄悄将其收入心中、看吧。</message>
-    <times>2010-01-20 00:17:06</times>
-  </data>
-  <data>
-    <playTime>66.6</playTime>
-    <message fontsize="15" color="3394764" mode="4">若是跨越昨天、很快就能看见了哟。</message>
-    <times>2010-01-20 00:17:15</times>
-  </data>
-  <data>
-    <playTime>77.4</playTime>
-    <message fontsize="15" color="3394764" mode="4">能够看见哟。</message>
-    <times>2010-01-20 00:17:26</times>
-  </data>
-  <data>
-    <playTime>113.3</playTime>
-    <message fontsize="15" color="3394764" mode="4">仿佛被柔和的灰色渲染一般</message>
-    <times>2010-01-20 00:18:02</times>
-  </data>
-  <data>
-    <playTime>124.3</playTime>
-    <message fontsize="15" color="3394764" mode="4">这份感情是否也变得淡薄了呢。</message>
-    <times>2010-01-20 00:18:13</times>
-  </data>
-  <data>
-    <playTime>134.7</playTime>
-    <message fontsize="15" color="3394764" mode="4">淡泊的心灵交叠、与你相连。</message>
-    <times>2010-01-20 00:18:23</times>
-  </data>
-  <data>
-    <playTime>145.3</playTime>
-    <message fontsize="15" color="3394764" mode="4">手与手紧紧交握、看吧。</message>
-    <times>2010-01-20 00:18:34</times>
-  </data>
-  <data>
-    <playTime>155.1</playTime>
-    <message fontsize="15" color="3394764" mode="4">若是跨越昨天、很快就能看见了哟。</message>
-    <times>2010-01-20 00:18:44</times>
-  </data>
-  <data>
-    <playTime>166.1</playTime>
-    <message fontsize="15" color="3394764" mode="4">向着未完成的图层 去往曾经描绘的彼方</message>
-    <times>2010-01-20 00:18:55</times>
-  </data>
-  <data>
-    <playTime>178</playTime>
-    <message fontsize="15" color="3394764" mode="4">若是睁开双眼 编织着广阔的影像</message>
-    <times>2010-01-20 00:19:07</times>
-  </data>
-  <data>
-    <playTime>192.4</playTime>
-    <message fontsize="15" color="3394764" mode="4">截取拍摄哦</message>
-    <times>2010-01-20 00:19:21</times>
-  </data>
-  <data>
-    <playTime>207.5</playTime>
-    <message fontsize="15" color="3394764" mode="4">翻译：S</message>
-    <times>2010-01-20 00:19:36</times>
-  </data>
-  <data>
-    <playTime>216.4</playTime>
-    <message fontsize="15" color="3394764" mode="4">——END——</message>
-    <times>2010-01-20 00:19:45</times>
-  </data>
-</information>
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="924270348" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>【photograph】</text>
+	<attr id="0" playtime="7" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="732872100" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>每当回首追忆</text>
+	<attr id="0" playtime="25.4" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="2144406528" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>那无形的回忆之时、想必就会渐渐渗入。</text>
+	<attr id="0" playtime="35.1" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="352357939" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>仅仅截取摄下其中之一、迎接明天的到来。</text>
+	<attr id="0" playtime="46.2" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="683286635" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>悄悄将其收入心中、看吧。</text>
+	<attr id="0" playtime="57.4" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="1091428423" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>若是跨越昨天、很快就能看见了哟。</text>
+	<attr id="0" playtime="66.6" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="2015658685" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>能够看见哟。</text>
+	<attr id="0" playtime="77.4" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="510069491" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>仿佛被柔和的灰色渲染一般</text>
+	<attr id="0" playtime="113.3" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="850555083" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>这份感情是否也变得淡薄了呢。</text>
+	<attr id="0" playtime="124.3" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="123310883" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>淡泊的心灵交叠、与你相连。</text>
+	<attr id="0" playtime="134.7" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="76865403" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>手与手紧紧交握、看吧。</text>
+	<attr id="0" playtime="145.3" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="242490708" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>若是跨越昨天、很快就能看见了哟。</text>
+	<attr id="0" playtime="155.1" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="899120182" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>向着未完成的图层 去往曾经描绘的彼方</text>
+	<attr id="0" playtime="166.1" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="71400799" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>若是睁开双眼 编织着广阔的影像</text>
+	<attr id="0" playtime="178" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="663372708" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>截取拍摄哦</text>
+	<attr id="0" playtime="192.4" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="1691846057" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>翻译：S</text>
+	<attr id="0" playtime="207.5" mode="4" fontsize="15" color="3394764"/>
+</comment>
+<comment id="2116954569" poolid="1" userhash="deadbeef" sendtime="1321635791">
+	<text>——END——</text>
+	<attr id="0" playtime="216.4" mode="4" fontsize="15" color="3394764"/>
+</comment>
+</comments>
