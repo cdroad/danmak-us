@@ -52,7 +52,7 @@ class Dpi extends CI_Controller {
         $auth = 'edit';
         $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
         if (!$page) die('{"ok":-1,"cmnt_id":1265}');
-    
+        
         $page['text'] .= $xml;
         WritePage($_pagename, $page);
         die('{"ok":1,"cmnt_id":1265}');

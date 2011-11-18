@@ -35,10 +35,13 @@ EOF;
 
 class StaticPoolIO extends DanmakuPoolBaseIO
 {
+    private $AuthPage;
+    
 	public function __construct($dmid, $group)
 	{
         if (empty($group)) throw new Exception("No group spec!");
 		parent::__construct(utils::GetXMLFilePath($dmid, $group));
+		$this->AuthPage = GetDMRPageName($dmid, $group);
 	}
 	
 	public function Load()
@@ -61,6 +64,10 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 	
 	public function Save(SimpleXMLElement $Obj)
 	{
+        if (!CondAuth('edit', $this->AuthPage)) {
+            Utils::WriteLog('StaticPoolIO::Save()', 'CondAuth :: FALSE!');
+        }
+        
 		if (file_exists($this->file))
 		{
 			rename($this->file, $this->file.",del-".time());
@@ -112,7 +119,10 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 	
 	public function Save(SimpleXMLElement $Obj)
 	{
-		$auth = 'edit';
+        if (!CondAuth('edit', $this->file)) {
+            Utils::WriteLog('DynamicPoolIO::Save()', 'CondAuth :: FALSE!');
+        }
+        $auth = 'edit';
 		$new = $old = RetrieveAuthPage($this->file, $auth, FALSE, 0);
 		$danmakuS = $Obj->comment;
 		$new['text'] = '';

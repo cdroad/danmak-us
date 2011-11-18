@@ -84,6 +84,7 @@ class Bpi extends CI_Controller {
 	
 	public function dmpost()
 	{
+        $auth = 'edit';
         if (	$_POST['date']			== ''		||
                 $_POST["playTime"]	    == ''		||
                 $_POST["mode"]			== ''		||
@@ -104,7 +105,6 @@ class Bpi extends CI_Controller {
         playTime=97.8
         */
         
-        
 		$text = htmlspecialchars(stripmagic($_POST["message"]), ENT_NOQUOTES, "UTF-8");
 		$pool = ($_POST["mode"] == '8') ? 2 : 1; //mode = 8 时 pool 必须 = 2
         $pt = $_POST["playTime"];
@@ -115,7 +115,8 @@ class Bpi extends CI_Controller {
         {
             $Shift = 0.0;
             $pp = 'Site.LastDanmakuCommit';
-            $n = ReadPage($pp);
+            $n = @RetrieveAuthPage($pp, $auth, false, 0);;
+            if (!$n) die("-55");
             $LastCommit = @unserialize($n[$vid]);
             
             if ( ($LastCommit !== FALSE) &&
@@ -153,10 +154,9 @@ class Bpi extends CI_Controller {
         
         //准备写入PmWiki
         $_pagename = 'DMR.B'.$vid;
-        $auth = 'edit';
         $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
         if (!$page) die("-55");
-    
+        
         $page['text'] .= $xml;
         WritePage($_pagename, $page);
         echo mt_rand();
