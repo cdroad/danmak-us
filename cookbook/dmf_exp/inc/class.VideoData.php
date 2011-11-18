@@ -186,7 +186,7 @@ class VideoData
 		$isPreferPlayerAuthed = CondAuth($this->pagename, 'admin');		
 		foreach ($this->groupConfig->PlayersSet as $playerId => $playerObj)
 		{
-			if ($playerId == 'DEFAULT')
+			if ($playerId == 'default')
 			{
 				continue;
 			}
