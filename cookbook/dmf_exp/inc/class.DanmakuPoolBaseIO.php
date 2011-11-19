@@ -41,7 +41,7 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 	{
         if (empty($group)) throw new Exception("No group spec!");
 		parent::__construct(utils::GetXMLFilePath($dmid, $group));
-		$this->AuthPage = GetDMRPageName($dmid, $group);
+		$this->AuthPage = Utils::GetDMRPageName($dmid, $group);
 	}
 	
 	public function Load()
