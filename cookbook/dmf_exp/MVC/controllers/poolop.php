@@ -23,7 +23,8 @@ class PoolOp extends CI_Controller {
 		
 		$staPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'static'), false);
 		$dynPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'dynamic'), false);
-		
+		if (!XMLAuth::IsAdmin($dmid, $group)) $this->display("越权访问。");
+        
 		switch (strtolower($pair))
 		{
 			case "static":
@@ -110,6 +111,7 @@ class PoolOp extends CI_Controller {
 	public function move($group, $dmid, $from, $to)
 	{
 		$group = Utils::GetGroup($group);
+        if (!XMLAuth::IsAdmin($dmid, $group)) $this->display("越权访问。");
 		$fromPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $from));
 		$toPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $to));
 		
