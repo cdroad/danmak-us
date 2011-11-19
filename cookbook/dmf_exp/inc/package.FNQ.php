@@ -13,7 +13,7 @@ abstract class FNQClass
     protected $cookieFile;
     protected $username;
     protected $password;
-    protected $gc
+    protected $gc;
     
     public function Init($url)
     {
@@ -53,22 +53,17 @@ class Bilibili2FNQClass extends FNQClass
     
     protected function GetDesc()
     {
-        preg_match('/\<meta.*description.*\"(.*)\".*>/',$this->html,$matches);
-        $des = $matches[1];
+        return $this->html->description;
     }
     
     protected function GetTitle()
     {
-        preg_match('/\<title>(.*)\<\/title>/',$this->html,$matches);
-        return $matches[1];
+        return $this->html->title;
     }
     
     protected function GetDanmakuId()
     {
-        preg_match('/(\<embed.*play\.swf.*embed>)/',$this->html,$matches);
-        preg_match('/id=([0-9a-zA-Z]*)(\"|&| |\?)/',$matches[0],$matches2);
-        $id = $matches2[1];
-        return $id;
+        return $this->html->vid;
     }
     
     protected function GetXMLData()
@@ -79,42 +74,16 @@ class Bilibili2FNQClass extends FNQClass
     
     protected function DownloadWebPage($url)
     {
-        global $FarmD;
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, $url);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
-        curl_setopt($ch, CURLOPT_ENCODING, "");
-        curl_setopt($ch, CURLOPT_COOKIEJAR, $this->cookieFile);
-        curl_setopt($ch, CURLOPT_COOKIEFILE, $this->cookieFile);
-        $str = curl_exec($ch);
-        curl_close($ch);
-        return $str;
+        preg_match('/www\.bilibili\.tv\/video\/av([0-9]+)(?:\/index_([0-9]+)\.html)?/', $url, $m);
+        $vid = $m[1]; $page = $m[2];
+        $str = "http://api.bilibili.tv/view?type=json&appkey=fc9f37b4c428e5be&id={$vid}&page={$page}";
+        
+        return json_decode(file_get_contents($str));
     }
     
     protected function Login()
     {
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, "http://www.bilibili.tv/member/ajax_loginsta.php");
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
-        curl_setopt($ch, CURLOPT_ENCODING, "");
-        curl_setopt($ch, CURLOPT_COOKIEJAR, $this->cookieFile);
-        curl_setopt($ch, CURLOPT_COOKIEFILE, $this->cookieFile);
-        $test = curl_exec($ch);
-        curl_close($ch);
-        if (strpos($test, "welcome") !== false) {return true;}
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, "http://www.bilibili.tv/member/index_do.php");
-        curl_setopt($ch, CURLOPT_POST, TRUE);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
-        curl_setopt($ch, CURLOPT_ENCODING, "");
-        curl_setopt($ch, CURLOPT_POSTFIELDS, 'fmdo=login&dopost=login&refurl=http%3A%2F%2Fwww.bilibili.tv%2F&keeptime=604800&userid=SHK&pwd=A98532E21655&keeptime=2592000');
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
-        curl_setopt($ch, CURLOPT_COOKIEJAR, $this->cookieFile);
-        curl_setopt($ch, CURLOPT_COOKIEFILE, $this->cookieFile);
-        $test2 = curl_exec($ch);
-        if (strpos($test2, 'javascript:history.go(-1)') === false) {return true;}
-        return false;;
+        return;
     }
 }
 
