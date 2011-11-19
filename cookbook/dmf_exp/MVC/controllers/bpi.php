@@ -84,7 +84,7 @@ class Bpi extends CI_Controller {
 	
 	public function dmpost()
 	{
-        $auth = 'edit';
+        
         if (	$_POST['date']			== ''		||
                 $_POST["playTime"]	    == ''		||
                 $_POST["mode"]			== ''		||
@@ -93,6 +93,7 @@ class Bpi extends CI_Controller {
                 $_POST["pool"]			== ''		||
                 $_POST["message"]		== ''		)
 			{ Abort("不允许直接访问"); }
+        $auth = 'edit';
         /*
         vid=DMFWhite
         mode=1
@@ -109,7 +110,7 @@ class Bpi extends CI_Controller {
 		$pool = ($_POST["mode"] == '8') ? 2 : 1; //mode = 8 时 pool 必须 = 2
         $pt = $_POST["playTime"];
 		$vid = basename($_POST['vid']);
-		
+        
         global $EnableAutoTimeShift;
         if ($EnableAutoTimeShift)
         {

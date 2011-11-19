@@ -49,7 +49,7 @@ class Dpi extends CI_Controller {
         $vid = $_REQUEST['video_id'];
         //准备写入PmWiki
         $_pagename = 'DMR.D'.$vid;
-        $auth = 'edit';
+        $auth = 'xmledit';
         $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
         if (!$page) die('{"ok":-1,"cmnt_id":1265}');
         

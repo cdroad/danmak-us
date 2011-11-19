@@ -9,6 +9,11 @@ $DefaultPasswords['edit'] = 'id:*';
 $DefaultPasswords['admin'] = array('@admins');
 $DefaultPasswords['upload'] = array('@admins');
 $HandleAuth['delete'] = 'admin';
+
+$HandleAuth['xmlread'] = 'read';
+$HandleAuth['xmledit'] = 'edit';
+$HandleAuth['xmladmin'] = 'admin';
+
 include_once("$FarmD/cookbook/openid/KAuth.php");
 include_once("$FarmD/scripts/authuser.php");
 
