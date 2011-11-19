@@ -33,7 +33,10 @@ if (isset($_REQUEST['openid_mode']) || isset($_REQUEST['openid.mode'])) {
             $action = 'browse';
         }
         
+    } else if ($_REQUEST['openid_mode'] == 'cancel' || $_REQUEST['openid.mode'] == 'cancel') {
+        $GLOBALS['MessagesFmt'] = '用户取消了验证';
     }
+    
 } else {
     if (isset($_REQUEST['google_login'])) {
         $openid = new LightOpenID($_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']);
@@ -44,16 +47,9 @@ if (isset($_REQUEST['openid_mode']) || isset($_REQUEST['openid.mode'])) {
 }
 
 
-
-
-
 function AuthUserOpenID($pagename, $id, $pw, $pwlist) {
   try{
     $openid = new LightOpenID($_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI']);
-    if ($openid->mode == 'cancel') {
-        $GLOBALS['MessagesFmt'] = '用户取消了验证';
-        return false;
-    }
     if($openid->validate()){
       return true;
     }
