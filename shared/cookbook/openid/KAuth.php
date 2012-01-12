@@ -11,7 +11,7 @@ Markup("google_loginbox", "directives", '/\\(:google_loginbox:\\)/ei', "GoogleLo
 function GoogleLoginBox(){
     if ( !empty($_REQUEST['action'])) $action='&action='.$_REQUEST['action'];
     
-    $output = '<form action="?google_login'.$action.'" method="post"><button>Login with Google</button></form>';
+    $output = '<form action="?google_login'.$action.'" method="post"><button>使用Google账户登录(OpenID)</button></form>';
     return $output;
 }
 

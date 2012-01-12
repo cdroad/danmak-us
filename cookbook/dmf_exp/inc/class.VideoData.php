@@ -60,6 +60,7 @@ class VideoData
 	private $DanmakuBarCode;
 	private $PlayerLinkCode;
 	private $PartIndexCode;
+	private $Messages;
 	
 	private $stat = true;
 	
@@ -130,6 +131,7 @@ class VideoData
 		$this->initPartIndexCode();
 		$this->initPlayerLinkCode();
 		$this->initPlayerLoadCode();
+		$this->Messages = "{$this->player->desc} -> {$this->sourcetype->getType()}( \"{$this->sourcetype->danmakuId}\" ))";
 	}
 	
 	private function initPageVars()
