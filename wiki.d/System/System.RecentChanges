@@ -2,8 +2,8 @@ version=pmwiki-2.2.34 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
 charset=UTF-8
 ctime=1305475955
-host=::1
+host=127.0.0.1
 name=System.RecentChanges
-rev=8
-text=* [[System/AcFastPostNew]]  . . . 2011 年 10 月 21 日, 00:23  被 ?: [==]%0a* [[System/BiliFastPostNew]]  . . . 2011 年 10 月 21 日, 00:23  被 ?: [==]%0a
-time=1319127817
+rev=10
+text=* [[System/2dFastPostNew]]  . . . 2011 年 11 月 21 日, 16:11  被 ?: [==]%0a* [[System/AcFastPostNew]]  . . . 2011 年 10 月 21 日, 00:23  被 ?: [==]%0a* [[System/BiliFastPostNew]]  . . . 2011 年 10 月 21 日, 00:23  被 ?: [==]%0a
+time=1321863102

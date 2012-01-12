@@ -10,7 +10,9 @@ $HandleAuth['FastPost'] = 'edit';
 
 function HandleFastPost($pn, $auth)
 {
+    
     $GLOBALS['EnablePostAuthorRequired'] = 0;
+   
     
     $url = $_POST['xURL'];
     try {
@@ -22,6 +24,8 @@ function HandleFastPost($pn, $auth)
     }
     
     WriteFNQPage((string)$class);
+    $GLOBALS['MessagesFmt'] = "提交完成，请等待管理员处理";
+    HandleBrowse('Main.FNQ');
 }
 
 function WriteFNQPage($str)

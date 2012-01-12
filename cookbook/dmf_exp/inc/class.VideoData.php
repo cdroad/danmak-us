@@ -98,7 +98,7 @@ class VideoData
 		$isRequestPartIndexVaild = !empty($PageVarResult);
 		
 		$PartPreferPlayer = $page["PartPlayer_P".$this->partIndex];
-		$UserPreferPlayer = $_REQUEST['player'];
+		$UserPreferPlayer = $_REQUEST['Player'];
 		if ( $this->groupConfig->PlayersSet->$UserPreferPlayer !== FALSE )
 		{
 			$this->player = $this->groupConfig->PlayersSet->$UserPreferPlayer;
@@ -183,27 +183,27 @@ class VideoData
 	
 	private function initPlayerLinkCode()
 	{
-		$isPreferPlayerAuthed = CondAuth($this->pagename, 'admin');		
+		$isPreferPlayerAuthed = CondAuth($this->pagename, 'admin');
+		$URL = PageVar($this->pagename, '$PageUrl');
 		foreach ($this->groupConfig->PlayersSet as $playerId => $playerObj)
 		{
 			if ($playerId == 'default')
 			{
 				continue;
 			}
-			
-			if ($this->player == $playerObj)
+
+			if ($this->player->playerUrl == $playerObj->playerUrl)
 			{
 				$this->PlayerLinkCode .= 
 					"&nbsp;&nbsp;'''".$playerObj->desc."'''";
 			} else {
-				$this->PlayerLinkCode .= "&nbsp;&nbsp;[[".
-					$playerObj->playerUrl.
+				$this->PlayerLinkCode .= "&nbsp;&nbsp;[[$URL".
 					"?Player=$playerId | ".$playerObj->desc.' ]]';
 			}
 			
 			if ($isPreferPlayerAuthed)
 			{
-				$this->PlayerLinkCode .= '[[{*$host}'.
+				$this->PlayerLinkCode .= "[[$URL".
 					"?Part=$this->partIndex".
 					"?Player=$playerId?action=setdef | "."&nbsp;'^Def^'".' ]]';
 			}

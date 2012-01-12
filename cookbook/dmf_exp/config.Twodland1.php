@@ -37,7 +37,7 @@ class Twodland1GroupConfig extends GroupConfig
 		$AFVArray['dir'] = strtoupper($source->sourcetype->getType());
 		$AFVArray['vid'] = $source->dmid;
         
-        if (strtoupper($source->sourcetype->getType()) == "nor") {
+        if (strtoupper($source->sourcetype->getType()) == "NOR") {
             $type = 'sina';
             $part = "<vid>{$source->dmid}</vid>";
         } else {
