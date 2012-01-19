@@ -1,6 +1,7 @@
 
 /wiki.d/.pageindex
 /wiki.d/Site/Site.DMFPerfs
+/static/page/*.xml
 /.buildpath
 /.project
 /.settings/org.eclipse.php.core.prefs
