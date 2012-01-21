@@ -75,7 +75,6 @@ class Bpi extends CI_Controller {
     //播放器接口 。弹幕错误汇报
 	public function dmerror()
 	{
-        //TODO:
         if (empty($_REQUEST['id']) || empty($_REQUEST['error']))
             exit;
         $str = "播放器汇报错误{$_REQUEST['error']}, 返回视频vid : {$_REQUEST['id']}";

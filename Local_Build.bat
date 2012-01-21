@@ -13,9 +13,13 @@ call :DeleteFiles .\Main.Talk.php .\Queue.php .\Main.FNQ.php .\Main.Flvcache.php
 popd
 echo 清理无用数据文件
 call :clearDir .\uploads\Acfun2
+call :clearDir .\uploads\AcfunN1
 call :clearDir .\uploads\Bilibili2
+call :clearDir .\uploads\Twodland1
 call :clearDir .\wiki.d\Acfun2
+call :clearDir .\wiki.d\AcfunN1
 call :clearDir .\wiki.d\Bilibili2
+call :clearDir .\wiki.d\Twodland1
 call :clearDir .\wiki.d\DMR
 call :RemoveDir .\wiki.d\Queue
 call :RemoveDir .\wiki.d\Site
