@@ -6,7 +6,7 @@ class Bpi extends CI_Controller {
 
 	public function index()
 	{
-        exit;
+        die("unknown action");
 	}
     
     public function bpad()
@@ -106,7 +106,7 @@ class Bpi extends CI_Controller {
         playTime=97.8
         */
         
-		$text = htmlspecialchars(stripmagic($_POST["message"]), ENT_NOQUOTES, "UTF-8");
+		$text = stripmagic($_POST["message"]);
 		$pool = ($_POST["mode"] == '8') ? 2 : 1; //mode = 8 时 pool 必须 = 2
         $pt = $_POST["playTime"];
 		$vid = basename($_POST['vid']);
