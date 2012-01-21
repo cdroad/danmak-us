@@ -1,0 +1,17 @@
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=dmmikufansgmailcom
+cauthor=dmmikufansgmailcom
+charset=UTF-8
+csum=
+ctime=1321863755
+host=127.0.0.1
+name=Twodland1.1002
+rev=1
+targets=
+text=%0a(:VideoStr:29490730:)%0a(:title 【投稿者コメント】二息步行 :)%0a(:sourcelink:http://www.2dland.cn/watch/moe421:)%0a(:VideoType:Nor:)%0a(:IsMuti::)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a[[#partinfo]]%0a[[#partend]]%0a(:ifend:)
+time=1321863755
+title=【投稿者コメント】二息步行 
+author:1321863755=dmmikufansgmailcom
+diff:1321863755:1321863755:=1,13d0%0a%3c %0a%3c (:VideoStr:29490730:)%0a%3c (:title 【投稿者コメント】二息步行 :)%0a%3c (:sourcelink:http://www.2dland.cn/watch/moe421:)%0a%3c (:VideoType:Nor:)%0a%3c (:IsMuti::)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c [[#partinfo]]%0a%3c [[#partend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1321863755=127.0.0.1

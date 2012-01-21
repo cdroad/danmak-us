@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="1129752823" poolid="0" userhash="deadbeef" sendtime="1320418364">
+	<text>神蛋木- -</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16777215" playtime="61"/>
+</comment>
+<comment id="462892129" poolid="0" userhash="deadbeef" sendtime="1319458961">
+	<text>跪了</text>
+	<attr id="0" mode="5" showeffect="1" hideeffect="1" fonteffect="1" fontsize="24" color="16777215" playtime="74.8"/>
+</comment>
+<comment id="1153340717" poolid="0" userhash="deadbeef" sendtime="1309321272">
+	<text>歌 /attr{row:5.9|2.9,col:15.4|11.7,size:55,time:193.8,life:2.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="193.8"/>
+</comment>
+<comment id="921824691" poolid="0" userhash="deadbeef" sendtime="1309320952">
+	<text>容 /attr{row:5|2,col:12|10,size:55,time:193.8,life:2.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="193.8"/>
+</comment>
+<comment id="564117724" poolid="0" userhash="deadbeef" sendtime="1309320943">
+	<text>我 /attr{row:5|2,col:13.7|11.7,size:55,time:193.8,life:2.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="193.8"/>
+</comment>
+<comment id="633570895" poolid="0" userhash="deadbeef" sendtime="1309320936">
+	<text>高 /attr{row:5.9|2.9,col:13.7|10,size:55,time:193.8,life:2.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="193.8"/>
+</comment>
+<comment id="920119291" poolid="0" userhash="deadbeef" sendtime="1309320917">
+	<text>█ /attr{row:5|2,col:12|10,size:55,time:193.8,life:2.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="193.8"/>
+</comment>
+<comment id="1818066450" poolid="0" userhash="deadbeef" sendtime="1309320907">
+	<text>█ /attr{row:5|2,col:13.7|11.7,size:55,time:193.8,life:2.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="193.8"/>
+</comment>
+<comment id="1856320332" poolid="0" userhash="deadbeef" sendtime="1309320864">
+	<text>█ /attr{row:5.9|2.9,col:13.7|10,size:55,time:193.8,life:2.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="193.8"/>
+</comment>
+<comment id="1852859320" poolid="0" userhash="deadbeef" sendtime="1309320842">
+	<text>歌 /attr{row:5.9|2.9,col:15.4|11.7,size:55,time:193.8,life:2.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="193.8"/>
+</comment>
+<comment id="584726376" poolid="0" userhash="deadbeef" sendtime="1309320748">
+	<text>█ /attr{row:5.9|2.9,col:15.4|11.7,size:55,time:193.8,life:2.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="193.8"/>
+</comment>
+<comment id="186224863" poolid="0" userhash="deadbeef" sendtime="1309320664">
+	<text>我 /attr{row:5,col:13.7,size:55,time:191.4,life:2.4}</text>
+	<attr id="0" mode="2" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="191.4"/>
+</comment>
+<comment id="1125076426" poolid="0" userhash="deadbeef" sendtime="1309320645">
+	<text>█ /attr{row:5,col:13.7,size:55,time:191.4,life:2.4}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="191.4"/>
+</comment>
+<comment id="180765246" poolid="0" userhash="deadbeef" sendtime="1309320311">
+	<text>容 /attr{row:5,col:12,size:55,time:189.8,life:4}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="189.8"/>
+</comment>
+<comment id="619437011" poolid="0" userhash="deadbeef" sendtime="1309320297">
+	<text>█ /attr{row:5,col:12,size:55,time:189.8,life:4}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="189.8"/>
+</comment>
+<comment id="1401183323" poolid="0" userhash="deadbeef" sendtime="1309320244">
+	<text>我 /attr{row:5|5,col:12|13.7,size:55,time:190.7,life:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="190.7"/>
+</comment>
+<comment id="194751350" poolid="0" userhash="deadbeef" sendtime="1309320231">
+	<text>█ /attr{row:5|5,col:12|13.7,size:55,time:190.7,life:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="190.7"/>
+</comment>
+<comment id="603404271" poolid="0" userhash="deadbeef" sendtime="1309320189">
+	<text>高 /attr{row:5|5.9,col:13.7|13.7,size:55,time:191.4,life:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="191.4"/>
+</comment>
+<comment id="1774431981" poolid="0" userhash="deadbeef" sendtime="1309320175">
+	<text>█ /attr{row:5|5.9,col:13.7|13.7,size:55,time:191.4,life:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="191.4"/>
+</comment>
+<comment id="1087027387" poolid="0" userhash="deadbeef" sendtime="1309320160">
+	<text>高 /attr{row:5.9,col:13.7,size:55,time:192.1,life:1.7}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="192.1"/>
+</comment>
+<comment id="333574775" poolid="0" userhash="deadbeef" sendtime="1309320148">
+	<text>█ /attr{row:5.9,col:13.7,size:55,time:192.1,life:1.7}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="192.1"/>
+</comment>
+<comment id="1487009119" poolid="0" userhash="deadbeef" sendtime="1309320131">
+	<text>歌 /attr{row:5.9|5.9,col:13.7|15.4,size:55,time:192.1,life:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="192.1"/>
+</comment>
+<comment id="966525642" poolid="0" userhash="deadbeef" sendtime="1309320121">
+	<text>█ /attr{row:5.9|5.9,col:13.7|15.4,size:55,time:192.1,life:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="192.1"/>
+</comment>
+<comment id="2060335813" poolid="0" userhash="deadbeef" sendtime="1309320107">
+	<text>歌 /attr{row:5.9,col:15.4,size:55,time:192.8,life:1}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16777215" playtime="192.8"/>
+</comment>
+<comment id="407668503" poolid="0" userhash="deadbeef" sendtime="1309320060">
+	<text>█ /attr{row:5.9,col:15.4,size:55,time:192.8,life:1}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="0" playtime="192.8"/>
+</comment>
+<comment id="299429819" poolid="0" userhash="deadbeef" sendtime="1309320038">
+	<text>◥ /attr{row:4|8,col:13|15,size:45,time:196.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="45" color="0" playtime="196.6"/>
+</comment>
+<comment id="1919044963" poolid="0" userhash="deadbeef" sendtime="1309320033">
+	<text>◤ /attr{row:3|5,col:11|1,size:45,time:196.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="45" color="0" playtime="196.6"/>
+</comment>
+<comment id="1049149468" poolid="0" userhash="deadbeef" sendtime="1309320027">
+	<text>▲ /attr{row:4|8,col:12|5,size:45,time:196.6,life:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="45" color="0" playtime="196.6"/>
+</comment>
+<comment id="1583488115" poolid="0" userhash="deadbeef" sendtime="1309320020">
+	<text>◥ /attr{row:3|-3,col:11|16,size:45,time:196.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="45" color="0" playtime="196.6"/>
+</comment>
+<comment id="1530999430" poolid="0" userhash="deadbeef" sendtime="1309320014">
+	<text>◢ /attr{row:4|-3,col:14|8,size:45,time:196.6,life:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="45" color="0" playtime="196.6"/>
+</comment>
+<comment id="23893765" poolid="0" userhash="deadbeef" sendtime="1309320009">
+	<text>▼ /attr{row:3|-3,col:11|8,size:45,time:196.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="45" color="0" playtime="196.6"/>
+</comment>
+<comment id="1630593799" poolid="0" userhash="deadbeef" sendtime="1309320004">
+	<text>◣ /attr{row:3|6,col:12|22,size:45,time:196.6,life:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="45" color="0" playtime="196.6"/>
+</comment>
+<comment id="1015899589" poolid="0" userhash="deadbeef" sendtime="1309308717">
+	<text>在明亮的地方 /attr{row:1|1,col:-2|3.1,size:35,time:181.6,life:8,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="35" color="16777215" playtime="181.6"/>
+</comment>
+<comment id="1127303823" poolid="0" userhash="deadbeef" sendtime="1308630499">
+	<text>般 /attr{row:3.3|3,col:3|5.5,size:30,time:104.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104.6"/>
+</comment>
+<comment id="736236538" poolid="0" userhash="deadbeef" sendtime="1308630496">
+	<text>般 /attr{row:4|3.3,col:1.8|3,size:30,time:104.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104.4"/>
+</comment>
+<comment id="1118257285" poolid="0" userhash="deadbeef" sendtime="1308630491">
+	<text>般 /attr{row:5.2|4,col:1.5|1.8,size:30,time:104.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104.2"/>
+</comment>
+<comment id="68517014" poolid="0" userhash="deadbeef" sendtime="1308630487">
+	<text>般 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:104,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104"/>
+</comment>
+<comment id="399488159" poolid="0" userhash="deadbeef" sendtime="1308630484">
+	<text>般 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:103.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.8"/>
+</comment>
+<comment id="542020879" poolid="0" userhash="deadbeef" sendtime="1308630480">
+	<text>般 /attr{row:7.4|7.1,col:6|3.6,size:30,time:103.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.6"/>
+</comment>
+<comment id="1926927030" poolid="0" userhash="deadbeef" sendtime="1308630475">
+	<text>般 /attr{row:7.1|7.4,col:8.2|6,size:30,time:103.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.4"/>
+</comment>
+<comment id="918631006" poolid="0" userhash="deadbeef" sendtime="1308630469">
+	<text>般 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:103.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.2"/>
+</comment>
+<comment id="1448305551" poolid="0" userhash="deadbeef" sendtime="1308630465">
+	<text>般 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:103,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103"/>
+</comment>
+<comment id="1111101313" poolid="0" userhash="deadbeef" sendtime="1308630462">
+	<text>般 /attr{row:4|5.2,col:9.7|10.3,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="596641305" poolid="0" userhash="deadbeef" sendtime="1308630458">
+	<text>般 /attr{row:3.3|4,col:8.2|9.7,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="605550166" poolid="0" userhash="deadbeef" sendtime="1308630454">
+	<text>般 /attr{row:3|3.3,col:5.5|8.2,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="1889880976" poolid="0" userhash="deadbeef" sendtime="1308630448">
+	<text>寂 /attr{row:3.3|3,col:3|5.5,size:30,time:104.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104.4"/>
+</comment>
+<comment id="1485095449" poolid="0" userhash="deadbeef" sendtime="1308630444">
+	<text>寂 /attr{row:4|3.3,col:1.8|3,size:30,time:104.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104.2"/>
+</comment>
+<comment id="297444931" poolid="0" userhash="deadbeef" sendtime="1308630441">
+	<text>寂 /attr{row:5.2|4,col:1.5|1.8,size:30,time:104,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104"/>
+</comment>
+<comment id="1006034283" poolid="0" userhash="deadbeef" sendtime="1308630438">
+	<text>寂 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:103.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.8"/>
+</comment>
+<comment id="1390530342" poolid="0" userhash="deadbeef" sendtime="1308630435">
+	<text>寂 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:103.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.6"/>
+</comment>
+<comment id="239323741" poolid="0" userhash="deadbeef" sendtime="1308630431">
+	<text>寂 /attr{row:7.4|7.1,col:6|3.6,size:30,time:103.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.4"/>
+</comment>
+<comment id="1163186503" poolid="0" userhash="deadbeef" sendtime="1308630428">
+	<text>寂 /attr{row:7.1|7.4,col:8.2|6,size:30,time:103.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.2"/>
+</comment>
+<comment id="482129045" poolid="0" userhash="deadbeef" sendtime="1308630425">
+	<text>寂 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:103,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103"/>
+</comment>
+<comment id="302860489" poolid="0" userhash="deadbeef" sendtime="1308630417">
+	<text>寂 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="681515444" poolid="0" userhash="deadbeef" sendtime="1308630414">
+	<text>寂 /attr{row:4|5.2,col:9.7|10.3,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="1965297296" poolid="0" userhash="deadbeef" sendtime="1308630411">
+	<text>寂 /attr{row:3.3|4,col:8.2|9.7,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="963997307" poolid="0" userhash="deadbeef" sendtime="1308630408">
+	<text>寂 /attr{row:3|3.3,col:5.5|8.2,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="1497033631" poolid="0" userhash="deadbeef" sendtime="1308630402">
+	<text>静 /attr{row:3.3|3,col:3|5.5,size:30,time:104.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104.2"/>
+</comment>
+<comment id="928242600" poolid="0" userhash="deadbeef" sendtime="1308630398">
+	<text>静 /attr{row:4|3.3,col:1.8|3,size:30,time:104,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104"/>
+</comment>
+<comment id="1328771364" poolid="0" userhash="deadbeef" sendtime="1308630394">
+	<text>静 /attr{row:5.2|4,col:1.5|1.8,size:30,time:103.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.8"/>
+</comment>
+<comment id="1725357019" poolid="0" userhash="deadbeef" sendtime="1308630391">
+	<text>静 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:103.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.6"/>
+</comment>
+<comment id="24568346" poolid="0" userhash="deadbeef" sendtime="1308630381">
+	<text>静 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:103.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.4"/>
+</comment>
+<comment id="402100911" poolid="0" userhash="deadbeef" sendtime="1308630378">
+	<text>静 /attr{row:7.4|7.1,col:6|3.6,size:30,time:103.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.2"/>
+</comment>
+<comment id="1417045678" poolid="0" userhash="deadbeef" sendtime="1308630375">
+	<text>静 /attr{row:7.1|7.4,col:8.2|6,size:30,time:103,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103"/>
+</comment>
+<comment id="1110587512" poolid="0" userhash="deadbeef" sendtime="1308630372">
+	<text>静 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="1819542648" poolid="0" userhash="deadbeef" sendtime="1308630369">
+	<text>静 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="1123188354" poolid="0" userhash="deadbeef" sendtime="1308630366">
+	<text>静 /attr{row:4|5.2,col:9.7|10.3,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="2113284172" poolid="0" userhash="deadbeef" sendtime="1308630361">
+	<text>静 /attr{row:3.3|4,col:8.2|9.7,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="321036889" poolid="0" userhash="deadbeef" sendtime="1308630357">
+	<text>静 /attr{row:3|3.3,col:5.5|8.2,size:30,time:102,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102"/>
+</comment>
+<comment id="1028586768" poolid="0" userhash="deadbeef" sendtime="1308630350">
+	<text>破 /attr{row:3.3|3,col:3|5.5,size:30,time:104,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="104"/>
+</comment>
+<comment id="1558912041" poolid="0" userhash="deadbeef" sendtime="1308630346">
+	<text>破 /attr{row:4|3.3,col:1.8|3,size:30,time:103.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.8"/>
+</comment>
+<comment id="1701500083" poolid="0" userhash="deadbeef" sendtime="1308630341">
+	<text>破 /attr{row:5.2|4,col:1.5|1.8,size:30,time:103.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.6"/>
+</comment>
+<comment id="1625996560" poolid="0" userhash="deadbeef" sendtime="1308630338">
+	<text>破 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:103.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.4"/>
+</comment>
+<comment id="1577960819" poolid="0" userhash="deadbeef" sendtime="1308630335">
+	<text>破 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:103.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.2"/>
+</comment>
+<comment id="1645451845" poolid="0" userhash="deadbeef" sendtime="1308630329">
+	<text>破 /attr{row:7.4|7.1,col:6|3.6,size:30,time:103,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103"/>
+</comment>
+<comment id="276364226" poolid="0" userhash="deadbeef" sendtime="1308630324">
+	<text>破 /attr{row:7.1|7.4,col:8.2|6,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="276634160" poolid="0" userhash="deadbeef" sendtime="1308630320">
+	<text>破 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="2121704548" poolid="0" userhash="deadbeef" sendtime="1308630316">
+	<text>破 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="908697358" poolid="0" userhash="deadbeef" sendtime="1308630313">
+	<text>破 /attr{row:4|5.2,col:9.7|10.3,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="115287156" poolid="0" userhash="deadbeef" sendtime="1308630310">
+	<text>破 /attr{row:3.3|4,col:8.2|9.7,size:30,time:102,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102"/>
+</comment>
+<comment id="1708739958" poolid="0" userhash="deadbeef" sendtime="1308630307">
+	<text>破 /attr{row:3|3.3,col:5.5|8.2,size:30,time:101.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.8"/>
+</comment>
+<comment id="498337824" poolid="0" userhash="deadbeef" sendtime="1308630302">
+	<text>划 /attr{row:3.3|3,col:3|5.5,size:30,time:103.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.8"/>
+</comment>
+<comment id="638357169" poolid="0" userhash="deadbeef" sendtime="1308630298">
+	<text>划 /attr{row:4|3.3,col:1.8|3,size:30,time:103.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.6"/>
+</comment>
+<comment id="1080565172" poolid="0" userhash="deadbeef" sendtime="1308630290">
+	<text>划 /attr{row:5.2|4,col:1.5|1.8,size:30,time:103.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.4"/>
+</comment>
+<comment id="678765231" poolid="0" userhash="deadbeef" sendtime="1308630284">
+	<text>划 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:103.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.2"/>
+</comment>
+<comment id="949547476" poolid="0" userhash="deadbeef" sendtime="1308630281">
+	<text>划 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:103,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103"/>
+</comment>
+<comment id="82107569" poolid="0" userhash="deadbeef" sendtime="1308630278">
+	<text>划 /attr{row:7.4|7.1,col:6|3.6,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="1060745691" poolid="0" userhash="deadbeef" sendtime="1308630274">
+	<text>划 /attr{row:7.1|7.4,col:8.2|6,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="896825414" poolid="0" userhash="deadbeef" sendtime="1308630269">
+	<text>划 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="2067973913" poolid="0" userhash="deadbeef" sendtime="1308630266">
+	<text>划 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="1635662500" poolid="0" userhash="deadbeef" sendtime="1308630263">
+	<text>划 /attr{row:4|5.2,col:9.7|10.3,size:30,time:102,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102"/>
+</comment>
+<comment id="1645673" poolid="0" userhash="deadbeef" sendtime="1308630260">
+	<text>划 /attr{row:3.3|4,col:8.2|9.7,size:30,time:101.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.8"/>
+</comment>
+<comment id="174908234" poolid="0" userhash="deadbeef" sendtime="1308630256">
+	<text>划 /attr{row:3|3.3,col:5.5|8.2,size:30,time:101.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.6"/>
+</comment>
+<comment id="884969398" poolid="0" userhash="deadbeef" sendtime="1308630247">
+	<text>裂 /attr{row:3.3|3,col:3|5.5,size:30,time:103.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.6"/>
+</comment>
+<comment id="975306039" poolid="0" userhash="deadbeef" sendtime="1308630243">
+	<text>裂 /attr{row:4|3.3,col:1.8|3,size:30,time:103.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.4"/>
+</comment>
+<comment id="1635435973" poolid="0" userhash="deadbeef" sendtime="1308630236">
+	<text>裂 /attr{row:5.2|4,col:1.5|1.8,size:30,time:103.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.2"/>
+</comment>
+<comment id="1035897155" poolid="0" userhash="deadbeef" sendtime="1308630233">
+	<text>裂 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:103,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103"/>
+</comment>
+<comment id="702952754" poolid="0" userhash="deadbeef" sendtime="1308630230">
+	<text>裂 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="2144776957" poolid="0" userhash="deadbeef" sendtime="1308630226">
+	<text>裂 /attr{row:7.4|7.1,col:6|3.6,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="1695240307" poolid="0" userhash="deadbeef" sendtime="1308630221">
+	<text>裂 /attr{row:7.1|7.4,col:8.2|6,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="1514122719" poolid="0" userhash="deadbeef" sendtime="1308630217">
+	<text>裂 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="719891960" poolid="0" userhash="deadbeef" sendtime="1308630211">
+	<text>裂 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:102,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102"/>
+</comment>
+<comment id="7003969" poolid="0" userhash="deadbeef" sendtime="1308630208">
+	<text>裂 /attr{row:4|5.2,col:9.7|10.3,size:30,time:101.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.8"/>
+</comment>
+<comment id="1597825188" poolid="0" userhash="deadbeef" sendtime="1308630204">
+	<text>裂 /attr{row:3.3|4,col:8.2|9.7,size:30,time:101.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.6"/>
+</comment>
+<comment id="62587312" poolid="0" userhash="deadbeef" sendtime="1308630202">
+	<text>裂 /attr{row:3|3.3,col:5.5|8.2,size:30,time:101.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.4"/>
+</comment>
+<comment id="799928611" poolid="0" userhash="deadbeef" sendtime="1308630197">
+	<text>撕 /attr{row:3.3|3,col:3|5.5,size:30,time:103.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.4"/>
+</comment>
+<comment id="102873578" poolid="0" userhash="deadbeef" sendtime="1308630194">
+	<text>撕 /attr{row:4|3.3,col:1.8|3,size:30,time:103.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.2"/>
+</comment>
+<comment id="482982670" poolid="0" userhash="deadbeef" sendtime="1308630190">
+	<text>撕 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="1743439141" poolid="0" userhash="deadbeef" sendtime="1308630185">
+	<text>撕 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="2139323759" poolid="0" userhash="deadbeef" sendtime="1308630179">
+	<text>撕 /attr{row:7.4|7.1,col:6|3.6,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="1149131614" poolid="0" userhash="deadbeef" sendtime="1308630175">
+	<text>撕 /attr{row:7.1|7.4,col:8.2|6,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="1348069425" poolid="0" userhash="deadbeef" sendtime="1308630170">
+	<text>撕 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:102,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102"/>
+</comment>
+<comment id="86047357" poolid="0" userhash="deadbeef" sendtime="1308630166">
+	<text>撕 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:101.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.8"/>
+</comment>
+<comment id="88708370" poolid="0" userhash="deadbeef" sendtime="1308630162">
+	<text>撕 /attr{row:4|5.2,col:9.7|10.3,size:30,time:101.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.6"/>
+</comment>
+<comment id="1698072753" poolid="0" userhash="deadbeef" sendtime="1308630155">
+	<text>撕 /attr{row:3.3|4,col:8.2|9.7,size:30,time:101.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.4"/>
+</comment>
+<comment id="408223656" poolid="0" userhash="deadbeef" sendtime="1308630150">
+	<text>撕 /attr{row:3|3.3,col:5.5|8.2,size:30,time:101.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.2"/>
+</comment>
+<comment id="1090411630" poolid="0" userhash="deadbeef" sendtime="1308630141">
+	<text>要 /attr{row:3.3|3,col:3|5.5,size:30,time:103.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103.2"/>
+</comment>
+<comment id="1179579434" poolid="0" userhash="deadbeef" sendtime="1308630136">
+	<text>要 /attr{row:4|3.3,col:1.8|3,size:30,time:103,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103"/>
+</comment>
+<comment id="412767681" poolid="0" userhash="deadbeef" sendtime="1308630127">
+	<text>要 /attr{row:5.2|4,col:1.5|1.8,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="1374989899" poolid="0" userhash="deadbeef" sendtime="1308630123">
+	<text>要 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="1720185617" poolid="0" userhash="deadbeef" sendtime="1308630118">
+	<text>要 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="522924952" poolid="0" userhash="deadbeef" sendtime="1308630113">
+	<text>要 /attr{row:7.4|7.1,col:6|3.6,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="1085123287" poolid="0" userhash="deadbeef" sendtime="1308630109">
+	<text>要 /attr{row:7.1|7.4,col:8.2|6,size:30,time:102,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102"/>
+</comment>
+<comment id="1051816314" poolid="0" userhash="deadbeef" sendtime="1308630104">
+	<text>要 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:101.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.8"/>
+</comment>
+<comment id="1695002050" poolid="0" userhash="deadbeef" sendtime="1308630100">
+	<text>要 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:101.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.6"/>
+</comment>
+<comment id="137049488" poolid="0" userhash="deadbeef" sendtime="1308630094">
+	<text>要 /attr{row:4|5.2,col:9.7|10.3,size:30,time:101.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.4"/>
+</comment>
+<comment id="1781238756" poolid="0" userhash="deadbeef" sendtime="1308630089">
+	<text>要 /attr{row:3.3|4,col:8.2|9.7,size:30,time:101.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.2"/>
+</comment>
+<comment id="725306135" poolid="0" userhash="deadbeef" sendtime="1308630084">
+	<text>要 /attr{row:3|3.3,col:5.5|8.2,size:30,time:101,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101"/>
+</comment>
+<comment id="45024610" poolid="0" userhash="deadbeef" sendtime="1308630075">
+	<text>佛 /attr{row:3.3|3,col:3|5.5,size:30,time:103,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="103"/>
+</comment>
+<comment id="245062454" poolid="0" userhash="deadbeef" sendtime="1308630071">
+	<text>佛 /attr{row:4|3.3,col:1.8|3,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="510599674" poolid="0" userhash="deadbeef" sendtime="1308630065">
+	<text>佛 /attr{row:5.2|4,col:1.5|1.8,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="1975537121" poolid="0" userhash="deadbeef" sendtime="1308630059">
+	<text>佛 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="695906538" poolid="0" userhash="deadbeef" sendtime="1308630054">
+	<text>佛 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="1979035556" poolid="0" userhash="deadbeef" sendtime="1308630042">
+	<text>佛 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="917487417" poolid="0" userhash="deadbeef" sendtime="1308630035">
+	<text>佛 /attr{row:7.4|7.1,col:6|3.6,size:30,time:102,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102"/>
+</comment>
+<comment id="2032518249" poolid="0" userhash="deadbeef" sendtime="1308630031">
+	<text>佛 /attr{row:7.1|7.4,col:8.2|6,size:30,time:101.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.8"/>
+</comment>
+<comment id="926735892" poolid="0" userhash="deadbeef" sendtime="1308630027">
+	<text>佛 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:101.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.6"/>
+</comment>
+<comment id="1242233562" poolid="0" userhash="deadbeef" sendtime="1308630021">
+	<text>佛 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:101.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.4"/>
+</comment>
+<comment id="1472085859" poolid="0" userhash="deadbeef" sendtime="1308630017">
+	<text>佛 /attr{row:4|5.2,col:9.7|10.3,size:30,time:101.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.2"/>
+</comment>
+<comment id="358214024" poolid="0" userhash="deadbeef" sendtime="1308630012">
+	<text>佛 /attr{row:3.3|4,col:8.2|9.7,size:30,time:101,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101"/>
+</comment>
+<comment id="2000761469" poolid="0" userhash="deadbeef" sendtime="1308630008">
+	<text>彿 /attr{row:3|3.3,col:5.5|8.2,size:30,time:100.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="100.8"/>
+</comment>
+<comment id="1940508978" poolid="0" userhash="deadbeef" sendtime="1308630001">
+	<text>彷 /attr{row:3.3|3,col:3|5.5,size:30,time:102.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.8"/>
+</comment>
+<comment id="1451404655" poolid="0" userhash="deadbeef" sendtime="1308629996">
+	<text>彷 /attr{row:4|3.3,col:1.8|3,size:30,time:102.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.6"/>
+</comment>
+<comment id="1468159348" poolid="0" userhash="deadbeef" sendtime="1308629992">
+	<text>彷 /attr{row:5.2|4,col:1.5|1.8,size:30,time:102.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.4"/>
+</comment>
+<comment id="2142194406" poolid="0" userhash="deadbeef" sendtime="1308629987">
+	<text>彷 /attr{row:6.4|5.2,col:2.1|1.5,size:30,time:102.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102.2"/>
+</comment>
+<comment id="1359856716" poolid="0" userhash="deadbeef" sendtime="1308629983">
+	<text>彷 /attr{row:7.1|6.4,col:3.6|2.1,size:30,time:102,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="102"/>
+</comment>
+<comment id="773086274" poolid="0" userhash="deadbeef" sendtime="1308629975">
+	<text>彷 /attr{row:7.4|7.1,col:6|3.6,size:30,time:101.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.8"/>
+</comment>
+<comment id="1695487324" poolid="0" userhash="deadbeef" sendtime="1308629969">
+	<text>彷 /attr{row:7.1|7.4,col:8.2|6,size:30,time:101.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.6"/>
+</comment>
+<comment id="1711532054" poolid="0" userhash="deadbeef" sendtime="1308629965">
+	<text>彷 /attr{row:6.4|7.1,col:9.7|8.2,size:30,time:101.4,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.4"/>
+</comment>
+<comment id="442952905" poolid="0" userhash="deadbeef" sendtime="1308629961">
+	<text>彷 /attr{row:5.2|6.4,col:10.3|9.7,size:30,time:101.2,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101.2"/>
+</comment>
+<comment id="2048706799" poolid="0" userhash="deadbeef" sendtime="1308629956">
+	<text>彷 /attr{row:4|5.2,col:9.7|10.3,size:30,time:101,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="101"/>
+</comment>
+<comment id="1451281629" poolid="0" userhash="deadbeef" sendtime="1308629952">
+	<text>彷 /attr{row:3.3|4,col:8.2|9.7,size:30,time:100.8,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="100.8"/>
+</comment>
+<comment id="356510237" poolid="0" userhash="deadbeef" sendtime="1308629945">
+	<text>彷 /attr{row:3|3.3,col:5.5|8.2,size:30,time:100.6,life:0.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6750207" playtime="100.6"/>
+</comment>
+<comment id="1401358883" poolid="0" userhash="deadbeef" sendtime="1308429018">
+	<text>光芒 /attr{row:3.3|3.8,col:11.9|11.9,size:50,life:0.5,alpha:0.3,time:92.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92.7"/>
+</comment>
+<comment id="1142844194" poolid="0" userhash="deadbeef" sendtime="1308429013">
+	<text>光芒 /attr{row:3.5|3.9,col:11.8|11.8,size:50,life:0.5,alpha:0.4,time:92.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92.7"/>
+</comment>
+<comment id="1023529105" poolid="0" userhash="deadbeef" sendtime="1308429007">
+	<text>光芒 /attr{row:3.7|4,col:11.7|11.7,size:50,life:0.5,alpha:0.5,time:92.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92.7"/>
+</comment>
+<comment id="1740770457" poolid="0" userhash="deadbeef" sendtime="1308429002">
+	<text>光芒 /attr{row:3.9|4.1,col:11.6|11.6,size:50,life:0.5,alpha:0.6,time:92.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92.7"/>
+</comment>
+<comment id="1396791403" poolid="0" userhash="deadbeef" sendtime="1308428996">
+	<text>光芒 /attr{row:4.1|4.2,col:11.5|11.5,size:50,life:0.5,alpha:0.7,time:92.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92.7"/>
+</comment>
+<comment id="133409605" poolid="0" userhash="deadbeef" sendtime="1308428992">
+	<text>光芒 /attr{row:4.3|3.3,col:11.4|11.9,size:50,life:0.7,alpha:0.3,time:92}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92"/>
+</comment>
+<comment id="225025391" poolid="0" userhash="deadbeef" sendtime="1308428987">
+	<text>光芒 /attr{row:4.3|3.5,col:11.4|11.8,size:50,life:0.7,alpha:0.4,time:92}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92"/>
+</comment>
+<comment id="1038307186" poolid="0" userhash="deadbeef" sendtime="1308428983">
+	<text>光芒 /attr{row:4.3|3.7,col:11.4|11.7,size:50,life:0.7,alpha:0.5,time:92}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92"/>
+</comment>
+<comment id="1558609815" poolid="0" userhash="deadbeef" sendtime="1308428980">
+	<text>光芒 /attr{row:4.3|3.9,col:11.4|11.6,size:50,life:0.7,alpha:0.6,time:92}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92"/>
+</comment>
+<comment id="938985741" poolid="0" userhash="deadbeef" sendtime="1308428964">
+	<text>光芒 /attr{row:4.3|4.1,col:11.4|11.5,size:50,life:0.7,alpha:0.7,time:92}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="92"/>
+</comment>
+<comment id="1892582474" poolid="0" userhash="deadbeef" sendtime="1308428950">
+	<text>光芒 /attr{row:4.3,col:11.4,size:50,life:3.6,time:92}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="50" color="16777215" playtime="92"/>
+</comment>
+<comment id="1858534180" poolid="0" userhash="deadbeef" sendtime="1308428885">
+	<text>仅如刺进来的 /attr{row:7.3,col:8,size:30,life:3.6,time:92}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="30" color="0" playtime="92"/>
+</comment>
+<comment id="905446664" poolid="0" userhash="deadbeef" sendtime="1308424591">
+	<text>12 /attr{row:3.2,col:12.1,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="1872333879" poolid="0" userhash="deadbeef" sendtime="1308424585">
+	<text>11 /attr{row:4,col:10.8,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="661050414" poolid="0" userhash="deadbeef" sendtime="1308424579">
+	<text>2 /attr{row:5.2,col:10.7,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="88756225" poolid="0" userhash="deadbeef" sendtime="1308424575">
+	<text>3 /attr{row:6.4,col:11.3,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="1142398482" poolid="0" userhash="deadbeef" sendtime="1308424570">
+	<text>7 /attr{row:7.1,col:12.8,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="1983680021" poolid="0" userhash="deadbeef" sendtime="1308424566">
+	<text>4 /attr{row:7.4,col:15,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="893924391" poolid="0" userhash="deadbeef" sendtime="1308424559">
+	<text>6 /attr{row:7.1,col:17.2,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="1582428414" poolid="0" userhash="deadbeef" sendtime="1308424555">
+	<text>1 /attr{row:6.4,col:18.7,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="504219968" poolid="0" userhash="deadbeef" sendtime="1308424550">
+	<text>9 /attr{row:5.2,col:19.3,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="1813354006" poolid="0" userhash="deadbeef" sendtime="1308424539">
+	<text>8 /attr{row:4,col:18.7,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="64075660" poolid="0" userhash="deadbeef" sendtime="1308424534">
+	<text>5 /attr{row:3.3,col:17.2,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="893022589" poolid="0" userhash="deadbeef" sendtime="1308424526">
+	<text>10 /attr{row:3,col:14.5,size:30,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3381657" playtime="137.6"/>
+</comment>
+<comment id="1567481171" poolid="0" userhash="deadbeef" sendtime="1308424496">
+	<text>11 /attr{row:3.2,col:12.1,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="1015802525" poolid="0" userhash="deadbeef" sendtime="1308424492">
+	<text>10 /attr{row:4,col:10.8,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="1988595767" poolid="0" userhash="deadbeef" sendtime="1308424487">
+	<text>9 /attr{row:5.2,col:10.7,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="878656306" poolid="0" userhash="deadbeef" sendtime="1308424482">
+	<text>8 /attr{row:6.4,col:11.3,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="617004818" poolid="0" userhash="deadbeef" sendtime="1308424478">
+	<text>7 /attr{row:7.1,col:12.8,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="884670631" poolid="0" userhash="deadbeef" sendtime="1308424473">
+	<text>6 /attr{row:7.4,col:15,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="181712754" poolid="0" userhash="deadbeef" sendtime="1308424468">
+	<text>5 /attr{row:7.1,col:17.2,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="616957593" poolid="0" userhash="deadbeef" sendtime="1308424461">
+	<text>4 /attr{row:6.4,col:18.7,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="536302385" poolid="0" userhash="deadbeef" sendtime="1308424447">
+	<text>3 /attr{row:5.2,col:19.3,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="690067333" poolid="0" userhash="deadbeef" sendtime="1308424438">
+	<text>2 /attr{row:4,col:18.7,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="1783660071" poolid="0" userhash="deadbeef" sendtime="1308424433">
+	<text>1 /attr{row:3.3,col:17.2,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="1570668764" poolid="0" userhash="deadbeef" sendtime="1308424429">
+	<text>12 /attr{row:3,col:14.5,size:30,time:135,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="135"/>
+</comment>
+<comment id="2010949314" poolid="0" userhash="deadbeef" sendtime="1308424412">
+	<text>● /attr{row:3.3,col:12,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="652527975" poolid="0" userhash="deadbeef" sendtime="1308424406">
+	<text>● /attr{row:4,col:10.8,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="1835559607" poolid="0" userhash="deadbeef" sendtime="1308424400">
+	<text>● /attr{row:5.2,col:10.5,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="419683242" poolid="0" userhash="deadbeef" sendtime="1308424395">
+	<text>● /attr{row:6.4,col:11.1,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="1153993356" poolid="0" userhash="deadbeef" sendtime="1308424390">
+	<text>● /attr{row:7.1,col:12.6,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="1972707402" poolid="0" userhash="deadbeef" sendtime="1308424384">
+	<text>● /attr{row:7.4,col:15,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="1098956539" poolid="0" userhash="deadbeef" sendtime="1308424378">
+	<text>● /attr{row:7.1,col:17.2,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="748095424" poolid="0" userhash="deadbeef" sendtime="1308424376">
+	<text>● /attr{row:6.4,col:18.7,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="1017070294" poolid="0" userhash="deadbeef" sendtime="1308424369">
+	<text>● /attr{row:5.2,col:19.3,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="1664469686" poolid="0" userhash="deadbeef" sendtime="1308424365">
+	<text>● /attr{row:4,col:18.7,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="2003257752" poolid="0" userhash="deadbeef" sendtime="1308424360">
+	<text>● /attr{row:3.3,col:17.2,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="505044061" poolid="0" userhash="deadbeef" sendtime="1308424355">
+	<text>● /attr{row:3,col:14.5,size:30,time:135,life:8.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="0" playtime="135"/>
+</comment>
+<comment id="471514759" poolid="0" userhash="deadbeef" sendtime="1308371018">
+	<text>狂乱歪曲 /attr{row:4.3,size:27,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="2" hideeffect="-1" fonteffect="-1" fontsize="27" color="10066329" playtime="137.6"/>
+</comment>
+<comment id="850238946" poolid="0" userhash="deadbeef" sendtime="1308370975">
+	<text>间 /attr{row:3.3,size:40,time:135,life:5.2}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="40" color="0" playtime="135"/>
+</comment>
+<comment id="1339305631" poolid="0" userhash="deadbeef" sendtime="1308370630">
+	<text>时 /attr{row:3.3,size:40,time:135,life:5.2}</text>
+	<attr id="0" mode="6" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16777215" playtime="135"/>
+</comment>
+<comment id="1469221900" poolid="0" userhash="deadbeef" sendtime="1308370544">
+	<text>狂乱歪曲 /attr{row:4.3,size:27,time:137.6,life:5.6}</text>
+	<attr id="0" mode="1" showeffect="2" hideeffect="-1" fonteffect="1" fontsize="27" color="10066329" playtime="137.6"/>
+</comment>
+<comment id="1089066719" poolid="0" userhash="deadbeef" sendtime="1308369308">
+	<text>转头向这边 /attr{row:5|5.1,col:6|6.1,size:35,time:179.6,life:0.4,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="179.6"/>
+</comment>
+<comment id="1927761649" poolid="0" userhash="deadbeef" sendtime="1308369304">
+	<text>转头向这边 /attr{row:5.1|5,col:6.1|6,size:35,time:179.6,life:0.4,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="179.6"/>
+</comment>
+<comment id="1795532764" poolid="0" userhash="deadbeef" sendtime="1308369300">
+	<text>转头向这边 /attr{row:5|5.1,col:6|6.1,size:35,time:178.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="178.6"/>
+</comment>
+<comment id="478567500" poolid="0" userhash="deadbeef" sendtime="1308369295">
+	<text>转头向这边 /attr{row:5.1|5,col:6.1|6,size:35,time:178.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="178.6"/>
+</comment>
+<comment id="426547584" poolid="0" userhash="deadbeef" sendtime="1308369290">
+	<text>转头向这边 /attr{row:5|5.1,col:6|6.1,size:35,time:177.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="177.6"/>
+</comment>
+<comment id="2091603774" poolid="0" userhash="deadbeef" sendtime="1308369285">
+	<text>转头向这边 /attr{row:5.1|5,col:6.1|6,size:35,time:177.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="177.6"/>
+</comment>
+<comment id="352143425" poolid="0" userhash="deadbeef" sendtime="1308369281">
+	<text>转头向这边 /attr{row:5|5.1,col:6|6.1,size:35,time:176.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="176.6"/>
+</comment>
+<comment id="1450591327" poolid="0" userhash="deadbeef" sendtime="1308369276">
+	<text>转头向这边 /attr{row:5.1|5,col:6.1|6,size:35,time:176.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="176.6"/>
+</comment>
+<comment id="1078865717" poolid="0" userhash="deadbeef" sendtime="1308369271">
+	<text>转头向这边 /attr{row:5|5.1,col:6|6.1,size:35,time:175.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="175.6"/>
+</comment>
+<comment id="2069885013" poolid="0" userhash="deadbeef" sendtime="1308369267">
+	<text>转头向这边 /attr{row:5.1|5,col:6.1|6,size:35,time:175.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="175.6"/>
+</comment>
+<comment id="1454220829" poolid="0" userhash="deadbeef" sendtime="1308369263">
+	<text>转头向这边 /attr{row:5|5.1,col:6|6.1,size:35,time:174.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="174.6"/>
+</comment>
+<comment id="1052878045" poolid="0" userhash="deadbeef" sendtime="1308369258">
+	<text>转头向这边 /attr{row:5.1|5,col:6.1|6,size:35,time:174.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="174.6"/>
+</comment>
+<comment id="573530731" poolid="0" userhash="deadbeef" sendtime="1308369253">
+	<text>转头向这边 /attr{row:5|5.1,col:6|6.1,size:35,time:173.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="173.6"/>
+</comment>
+<comment id="1595939594" poolid="0" userhash="deadbeef" sendtime="1308369248">
+	<text>转头向这边 /attr{row:5.1|5,col:6.1|6,size:35,time:173.6,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="173.6"/>
+</comment>
+<comment id="54830774" poolid="0" userhash="deadbeef" sendtime="1308369244">
+	<text>把所有全扔弃掉 /attr{row:5.1|5,col:6.1|6,size:35,time:173,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="173"/>
+</comment>
+<comment id="94460999" poolid="0" userhash="deadbeef" sendtime="1308369237">
+	<text>把所有全扔弃掉 /attr{row:5|5.1,col:6|6.1,size:35,time:173,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="173"/>
+</comment>
+<comment id="461872898" poolid="0" userhash="deadbeef" sendtime="1308369231">
+	<text>把所有全扔弃掉 /attr{row:5.1|5,col:6.1|6,size:35,time:172,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="172"/>
+</comment>
+<comment id="651705275" poolid="0" userhash="deadbeef" sendtime="1308369226">
+	<text>把所有全扔弃掉 /attr{row:5|5.1,col:6|6.1,size:35,time:172,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="172"/>
+</comment>
+<comment id="704509157" poolid="0" userhash="deadbeef" sendtime="1308369222">
+	<text>把所有全扔弃掉 /attr{row:5.1|5,col:6.1|6,size:35,time:171,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="171"/>
+</comment>
+<comment id="361063526" poolid="0" userhash="deadbeef" sendtime="1308369217">
+	<text>把所有全扔弃掉 /attr{row:5|5.1,col:6|6.1,size:35,time:171,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="171"/>
+</comment>
+<comment id="6748900" poolid="0" userhash="deadbeef" sendtime="1308369212">
+	<text>把所有全扔弃掉 /attr{row:5.1|5,col:6.1|6,size:35,time:170,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="170"/>
+</comment>
+<comment id="712634499" poolid="0" userhash="deadbeef" sendtime="1308369207">
+	<text>把所有全扔弃掉 /attr{row:5|5.1,col:6|6.1,size:35,time:170,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="170"/>
+</comment>
+<comment id="38880909" poolid="0" userhash="deadbeef" sendtime="1308369203">
+	<text>把所有全扔弃掉 /attr{row:5.1|5,col:6.1|6,size:35,time:169,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="169"/>
+</comment>
+<comment id="918403045" poolid="0" userhash="deadbeef" sendtime="1308369199">
+	<text>把所有全扔弃掉 /attr{row:5|5.1,col:6|6.1,size:35,time:169,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="169"/>
+</comment>
+<comment id="1942254890" poolid="0" userhash="deadbeef" sendtime="1308369193">
+	<text>把所有全扔弃掉 /attr{row:5.1|5,col:6.1|6,size:35,time:168,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="168"/>
+</comment>
+<comment id="57132772" poolid="0" userhash="deadbeef" sendtime="1308369189">
+	<text>把所有全扔弃掉 /attr{row:5|5.1,col:6|6.1,size:35,time:168,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="168"/>
+</comment>
+<comment id="1968688604" poolid="0" userhash="deadbeef" sendtime="1308369185">
+	<text>把所有全扔弃掉 /attr{row:5.1|5,col:6.1|6,size:35,time:167,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="167"/>
+</comment>
+<comment id="1156349572" poolid="0" userhash="deadbeef" sendtime="1308369179">
+	<text>把所有全扔弃掉 /attr{row:5|5.1,col:6|6.1,size:35,time:167,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="167"/>
+</comment>
+<comment id="132524599" poolid="0" userhash="deadbeef" sendtime="1308369174">
+	<text>把所有全扔弃掉 /attr{row:5.1|5,col:6.1|6,size:35,time:166,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="166"/>
+</comment>
+<comment id="1884371479" poolid="0" userhash="deadbeef" sendtime="1308369168">
+	<text>把所有全扔弃掉 /attr{row:5|5.1,col:6|6.1,size:35,time:166,life:1,alpha:0.7}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="2" fontsize="35" color="10066329" playtime="166"/>
+</comment>
+<comment id="369781478" poolid="0" userhash="deadbeef" sendtime="1305045669">
+	<text>● /attr{row:15|0,col:30|30,time:19.1,life:0.4,alpha:0.5,size:8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="8" color="16777215" playtime="19.1"/>
+</comment>
+<comment id="2065296053" poolid="0" userhash="deadbeef" sendtime="1305045664">
+	<text>● /attr{row:9|0,col:28|28,time:19.1,life:0.3,alpha:0.4,size:11}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="11" color="16777215" playtime="19.1"/>
+</comment>
+<comment id="1692331070" poolid="0" userhash="deadbeef" sendtime="1305045659">
+	<text>● /attr{row:7|0,col:24|24,time:19,life:0.4,alpha:0.3,size:15}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="15" color="16777215" playtime="19"/>
+</comment>
+<comment id="410158457" poolid="0" userhash="deadbeef" sendtime="1305045654">
+	<text>● /attr{row:7|0,col:30|30,time:18.9,life:0.4,alpha:0.3,size:10}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="10" color="16777215" playtime="18.9"/>
+</comment>
+<comment id="1335483270" poolid="0" userhash="deadbeef" sendtime="1305045649">
+	<text>● /attr{row:4|0,col:30|30,time:18.8,life:0.4,alpha:0.4,size:12}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="12" color="16777215" playtime="18.8"/>
+</comment>
+<comment id="1480636415" poolid="0" userhash="deadbeef" sendtime="1305044545">
+	<text>● /attr{row:15.4|21,col:16.6|16.6,time:65.7,life:0.9,size:10}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="10" color="16777215" playtime="65.7"/>
+</comment>
+<comment id="1081274432" poolid="0" userhash="deadbeef" sendtime="1305044537">
+	<text>● /attr{row:3.8|5,col:3.8|3.8,time:65.7,life:0.9,rotationY:-30,alpha:0.5,size:70}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="70" color="6737151" playtime="65.7"/>
+</comment>
+<comment id="1125442427" poolid="0" userhash="deadbeef" sendtime="1305044223">
+	<text>● /attr{row:15.4|21,col:16.6|16.6,time:70,life:0.9,size:10}</text>
+	<attr id="0" mode="6" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="10" color="16777215" playtime="70"/>
+</comment>
+<comment id="1779323503" poolid="0" userhash="deadbeef" sendtime="1305044209">
+	<text>● /attr{row:3.8|5,col:3.8|3.8,time:70,life:0.9,rotationY:-30,alpha:0.5,size:70}</text>
+	<attr id="0" mode="6" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="70" color="6737151" playtime="70"/>
+</comment>
+<comment id="775351883" poolid="0" userhash="deadbeef" sendtime="1305044200">
+	<text>着 /attr{row:6|8,col:6|6,time:70,life:0.9,size:40}</text>
+	<attr id="0" mode="6" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="70"/>
+</comment>
+<comment id="629644553" poolid="0" userhash="deadbeef" sendtime="1305044187">
+	<text>● /attr{row:14.5,col:18,time:69.8,life:0.2,alpha:0.9,size:10}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="10" color="16777215" playtime="69.8"/>
+</comment>
+<comment id="1132553053" poolid="0" userhash="deadbeef" sendtime="1305044178">
+	<text>● /attr{row:3.8,col:4,time:69.8,life:0.2,rotationX:60,rotationY:0,alpha:0.7,size:70}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="70" color="6737151" playtime="69.8"/>
+</comment>
+<comment id="92817425" poolid="0" userhash="deadbeef" sendtime="1305044164">
+	<text>● /attr{row:15.4|21,col:16.6|16.6,time:67.8,life:0.9,size:10}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="10" color="16777215" playtime="67.8"/>
+</comment>
+<comment id="354283444" poolid="0" userhash="deadbeef" sendtime="1305044152">
+	<text>● /attr{row:3.8|5,col:3.8|3.8,time:67.8,life:0.9,rotationY:-30,alpha:0.5,size:70}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="70" color="6737151" playtime="67.8"/>
+</comment>
+<comment id="1675739226" poolid="0" userhash="deadbeef" sendtime="1305044140">
+	<text>笑 /attr{row:6|8,col:6|6,time:67.8,life:0.9,size:40}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="67.8"/>
+</comment>
+<comment id="1046405978" poolid="0" userhash="deadbeef" sendtime="1305044126">
+	<text>● /attr{row:14.5,col:18,time:67.6,life:0.2,alpha:0.9,size:10}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="10" color="16777215" playtime="67.6"/>
+</comment>
+<comment id="2022638101" poolid="0" userhash="deadbeef" sendtime="1305044116">
+	<text>● /attr{row:3.8,col:4,time:67.6,life:0.2,rotationX:60,rotationY:0,alpha:0.7,size:70}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="70" color="6737151" playtime="67.6"/>
+</comment>
+<comment id="787623499" poolid="0" userhash="deadbeef" sendtime="1305043757">
+	<text>● /attr{row:14.5,col:18,time:65.6,life:0.2,alpha:0.9,size:10}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="10" color="16777215" playtime="65.6"/>
+</comment>
+<comment id="1585395361" poolid="0" userhash="deadbeef" sendtime="1305043748">
+	<text>● /attr{row:3.8,col:4,time:65.6,life:0.1,rotationX:60,rotationY:0,alpha:0.7,size:70}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="70" color="6737151" playtime="65.6"/>
+</comment>
+<comment id="2027962242" poolid="0" userhash="deadbeef" sendtime="1305043623">
+	<text>● /attr{row:15.4|21,col:16.6|16.6,time:65.7,life:0.9,size:10}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="10" color="16777215" playtime="65.7"/>
+</comment>
+<comment id="690782223" poolid="0" userhash="deadbeef" sendtime="1305043512">
+	<text>微 /attr{row:6|8,col:6|6,time:65.7,life:0.9,size:40}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="65.7"/>
+</comment>
+<comment id="1479563145" poolid="0" userhash="deadbeef" sendtime="1305037289">
+	<text>残留 /attr{row:-1|5,col:14|14,time:18.6,life:0.5,alpha:0.8,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="18.6"/>
+</comment>
+<comment id="1584077405" poolid="0" userhash="deadbeef" sendtime="1305037283">
+	<text>残留 /attr{row:5,col:14,time:19.1,life:0.8,alpha:0.8,size:30}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="19.1"/>
+</comment>
+<comment id="1219572493" poolid="0" userhash="deadbeef" sendtime="1305037274">
+	<text>哀伤 /attr{row:5,col:14,time:15.6,life:4.2,alpha:0.9,size:40}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16724940" playtime="15.6"/>
+</comment>
+<comment id="216803162" poolid="0" userhash="deadbeef" sendtime="1305035251">
+	<text>已 /attr{row:8.7|0,col:10|10,time:13.3,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="13.3"/>
+</comment>
+<comment id="1651116218" poolid="0" userhash="deadbeef" sendtime="1305035179">
+	<text>的 /attr{row:8.7|0,col:10|10,time:14.8,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="14.8"/>
+</comment>
+<comment id="11942028" poolid="0" userhash="deadbeef" sendtime="1305035171">
+	<text>█ /attr{row:8.7|0,col:10|10,time:14.8,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="14.8"/>
+</comment>
+<comment id="1255764134" poolid="0" userhash="deadbeef" sendtime="1305035142">
+	<text>生 /attr{row:8.7|0,col:10|10,time:14.2,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="14.2"/>
+</comment>
+<comment id="837921590" poolid="0" userhash="deadbeef" sendtime="1305035135">
+	<text>芽 /attr{row:8.7|0,col:8|8,time:13.9,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="13.9"/>
+</comment>
+<comment id="1337585906" poolid="0" userhash="deadbeef" sendtime="1305035105">
+	<text>█ /attr{row:8.7|0,col:10|10,time:14.2,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="14.2"/>
+</comment>
+<comment id="267939472" poolid="0" userhash="deadbeef" sendtime="1305035097">
+	<text>█ /attr{row:8.7|0,col:8|8,time:13.9,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="13.9"/>
+</comment>
+<comment id="63336561" poolid="0" userhash="deadbeef" sendtime="1305035092">
+	<text>█ /attr{row:8.7|0,col:10|10,time:13.3,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="13.3"/>
+</comment>
+<comment id="363815794" poolid="0" userhash="deadbeef" sendtime="1305035060">
+	<text>了 /attr{row:8.7|0,col:8|8,time:14.5,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="14.5"/>
+</comment>
+<comment id="990289711" poolid="0" userhash="deadbeef" sendtime="1305035017">
+	<text>█ /attr{row:8.7|0,col:8|8,time:14.5,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="14.5"/>
+</comment>
+<comment id="1693584252" poolid="0" userhash="deadbeef" sendtime="1305034301">
+	<text>间 /attr{row:8.7|0,col:8|8,time:12.7,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="12.7"/>
+</comment>
+<comment id="2109040600" poolid="0" userhash="deadbeef" sendtime="1305034292">
+	<text>█ /attr{row:8.7|0,col:8|8,time:12.7,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="12.7"/>
+</comment>
+<comment id="2003784370" poolid="0" userhash="deadbeef" sendtime="1305034199">
+	<text>觉 /attr{row:8.7|0,col:10|10,time:12.4,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="12.4"/>
+</comment>
+<comment id="1845451142" poolid="0" userhash="deadbeef" sendtime="1305034188">
+	<text>█ /attr{row:8.7|0,col:10|10,time:12.4,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="12.4"/>
+</comment>
+<comment id="552763991" poolid="0" userhash="deadbeef" sendtime="1305033971">
+	<text>不 /attr{row:8.7|0,col:8|8,time:12.1,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="12.1"/>
+</comment>
+<comment id="29213275" poolid="0" userhash="deadbeef" sendtime="1305033961">
+	<text>█ /attr{row:8.7|0,col:8|8,time:12.1,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="12.1"/>
+</comment>
+<comment id="1573740661" poolid="0" userhash="deadbeef" sendtime="1305033710">
+	<text>知 /attr{row:8.7|0,col:10|10,time:11.8,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="11.8"/>
+</comment>
+<comment id="371451271" poolid="0" userhash="deadbeef" sendtime="1305033700">
+	<text>█ /attr{row:8.7|0,col:10|10,time:11.8,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="11.8"/>
+</comment>
+<comment id="1682197446" poolid="0" userhash="deadbeef" sendtime="1305032783">
+	<text>不 /attr{row:8.7|0,col:8|8,time:11.5,life:3.6,rotationX:30,rotationY:20,alpha:0.9,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3394764" playtime="11.5"/>
+</comment>
+<comment id="2025510418" poolid="0" userhash="deadbeef" sendtime="1305032771">
+	<text>█ /attr{row:8.7|0,col:8|8,time:11.5,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="30" color="3368652" playtime="11.5"/>
+</comment>
+<comment id="674851879" poolid="0" userhash="deadbeef" sendtime="1305032757">
+	<text>█ /attr{row:8.7|0,col:8|8,time:11.5,life:3.6,rotationX:30,rotationY:20,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="3368652" playtime="11.5"/>
+</comment>
+<comment id="117274018" poolid="0" userhash="deadbeef" sendtime="1305031772">
+	<text>● /attr{row:8|0,col:11|11,time:15,life:3.9,alpha:0.3,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="30" color="16777215" playtime="15"/>
+</comment>
+<comment id="374754335" poolid="0" userhash="deadbeef" sendtime="1305031450">
+	<text>● /attr{row:5.5|0,col:12|12,time:14.2,life:4.5,alpha:0.6,size:50}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="14.2"/>
+</comment>
+<comment id="1953506032" poolid="0" userhash="deadbeef" sendtime="1305031322">
+	<text>● /attr{row:13.9|0,col:14|14,time:13.8,life:4,rotationX:40,rotationY:50,size:13}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="13" color="16777215" playtime="13.8"/>
+</comment>
+<comment id="1105095949" poolid="0" userhash="deadbeef" sendtime="1305031317">
+	<text>● /attr{row:4|0,col:3.8|3.8,time:13.8,life:4.7,alpha:0.6,size:70}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="70" color="16777215" playtime="13.8"/>
+</comment>
+<comment id="504039280" poolid="0" userhash="deadbeef" sendtime="1305031300">
+	<text>● /attr{row:4.5|0,col:6|6,time:12,life:5,alpha:0.4,size:60}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="60" color="16777215" playtime="12"/>
+</comment>
+<comment id="561548277" poolid="0" userhash="deadbeef" sendtime="1305030910">
+	<text>● /attr{row:7|0,col:17|17,time:13,life:5,alpha:0.3,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="30" color="16777215" playtime="13"/>
+</comment>
+<comment id="1681561591" poolid="0" userhash="deadbeef" sendtime="1305030723">
+	<text>● /attr{row:16.3|0,col:22|22,time:12,life:4.3,rotationX:40,rotationY:60,size:10}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="10" color="16777215" playtime="12"/>
+</comment>
+<comment id="1816723303" poolid="0" userhash="deadbeef" sendtime="1304692205">
+	<text>● /attr{row:13.5|0,col:34|34,time:11.3,life:3.1,rotationX:40,rotationY:60,size:8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="8" color="16777215" playtime="11.3"/>
+</comment>
+<comment id="1859334155" poolid="0" userhash="deadbeef" sendtime="1304692200">
+	<text>● /attr{row:5|0,col:13|13,time:11.3,life:3.5,alpha:0.4,size:35}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="35" color="16777215" playtime="11.3"/>
+</comment>
+<comment id="2116226106" poolid="0" userhash="deadbeef" sendtime="1304691040">
+	<text>● /attr{row:14.7|0,col:37.7|37.3,time:11.3,life:2.6,rotationX:30,rotationY:40,size:12}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="12" color="16777215" playtime="11.3"/>
+</comment>
+<comment id="779959002" poolid="0" userhash="deadbeef" sendtime="1304691027">
+	<text>● /attr{row:4|0,col:10|10,time:11.3,life:3.1,alpha:0.3,size:70}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="70" color="16777215" playtime="11.3"/>
+</comment>
+<comment id="1793332959" poolid="0" userhash="deadbeef" sendtime="1304690385">
+	<text>● /attr{row:16.8|0,col:16|16,time:11,life:3.6,rotationX:45,rotationY:45,size:9}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="9" color="16777215" playtime="11"/>
+</comment>
+<comment id="2115272565" poolid="0" userhash="deadbeef" sendtime="1304690373">
+	<text>● /attr{row:5|0,col:5|5,time:11,life:4.1,alpha:0.3,size:50}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="50" color="16777215" playtime="11"/>
+</comment>
+<comment id="1132544063" poolid="0" userhash="deadbeef" sendtime="1304142911">
+	<text>着 /attr{row:8.5,col:16,time:122.4,life:3.3,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="122.4"/>
+</comment>
+<comment id="878237101" poolid="0" userhash="deadbeef" sendtime="1304142906">
+	<text>喊 /attr{row:8.5,col:14,time:122.2,life:3.3,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="122.2"/>
+</comment>
+<comment id="1444281429" poolid="0" userhash="deadbeef" sendtime="1304142902">
+	<text>叫 /attr{row:8.5,col:12,time:121.2,life:4.5,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="121.2"/>
+</comment>
+<comment id="2076197041" poolid="0" userhash="deadbeef" sendtime="1304142898">
+	<text>我 /attr{row:8.5,col:10,time:120.4,life:5.3,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="120.4"/>
+</comment>
+<comment id="893234909" poolid="0" userhash="deadbeef" sendtime="1304142894">
+	<text>对 /attr{row:8.5,col:8,time:118.1,life:7.5,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="118.1"/>
+</comment>
+<comment id="580879344" poolid="0" userhash="deadbeef" sendtime="1304142890">
+	<text>在 /attr{row:8.5,col:6,time:118,life:7.7,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="118"/>
+</comment>
+<comment id="2122563911" poolid="0" userhash="deadbeef" sendtime="1304142877">
+	<text>音 /attr{row:8.5,col:15,time:115.9,life:1.8,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="115.9"/>
+</comment>
+<comment id="434425499" poolid="0" userhash="deadbeef" sendtime="1304142873">
+	<text>声 /attr{row:8.5,col:13,time:113.7,life:4,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="113.7"/>
+</comment>
+<comment id="763586687" poolid="0" userhash="deadbeef" sendtime="1304142869">
+	<text>柔 /attr{row:8.5,col:9,time:109.5,life:8.2,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="109.5"/>
+</comment>
+<comment id="731036629" poolid="0" userhash="deadbeef" sendtime="1304142864">
+	<text>的 /attr{row:8.5,col:11,time:112.6,life:5.1,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="112.6"/>
+</comment>
+<comment id="2074393891" poolid="0" userhash="deadbeef" sendtime="1304142855">
+	<text>温 /attr{row:8.5,col:7,time:109.4,life:8.3,size:38}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="38" color="16724736" playtime="109.4"/>
+</comment>
+<comment id="807052757" poolid="0" userhash="deadbeef" sendtime="1304142847">
+	<text>着 /attr{row:8|10,col:14|18,time:122.2,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="122.2"/>
+</comment>
+<comment id="1493657555" poolid="0" userhash="deadbeef" sendtime="1304142844">
+	<text>喊 /attr{row:8|10,col:14|16,time:122,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="122"/>
+</comment>
+<comment id="1691466467" poolid="0" userhash="deadbeef" sendtime="1304142839">
+	<text>叫 /attr{row:8|10,col:14|14,time:121,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="121"/>
+</comment>
+<comment id="570429970" poolid="0" userhash="deadbeef" sendtime="1304142835">
+	<text>我 /attr{row:8|10,col:14|12,time:120.2,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="120.2"/>
+</comment>
+<comment id="1913863570" poolid="0" userhash="deadbeef" sendtime="1304142831">
+	<text>对 /attr{row:8|10,col:14|10,time:117.9,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="117.9"/>
+</comment>
+<comment id="974470013" poolid="0" userhash="deadbeef" sendtime="1304142827">
+	<text>在 /attr{row:8|10,col:14|8,time:117.8,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="117.8"/>
+</comment>
+<comment id="1548236598" poolid="0" userhash="deadbeef" sendtime="1304142820">
+	<text>音 /attr{row:8|10,col:14|17,time:115.7,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="115.7"/>
+</comment>
+<comment id="1047009003" poolid="0" userhash="deadbeef" sendtime="1304142814">
+	<text>声 /attr{row:8|10,col:14|15,time:113.5,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="113.5"/>
+</comment>
+<comment id="1294421173" poolid="0" userhash="deadbeef" sendtime="1304142810">
+	<text>的 /attr{row:8|10,col:14|13,time:112.4,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="112.4"/>
+</comment>
+<comment id="2101854359" poolid="0" userhash="deadbeef" sendtime="1304142806">
+	<text>柔 /attr{row:8|10,col:14|11,time:109.3,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="109.3"/>
+</comment>
+<comment id="1150128204" poolid="0" userhash="deadbeef" sendtime="1304142800">
+	<text>温 /attr{row:8|10,col:14|9,time:109.2,life:0.2,alpha:0.7,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16724736" playtime="109.2"/>
+</comment>
+<comment id="1016934537" poolid="0" userhash="deadbeef" sendtime="1304133288">
+	<text>两步前方处远眺望远 /attr{row:2,col:3,time:74.1,life:4,size:30}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6710937" playtime="74.1"/>
+</comment>
+<comment id="1658681075" poolid="0" userhash="deadbeef" sendtime="1304133263">
+	<text>梦里打盹瞌睡的脸颊 /attr{row:2,col:3,time:79.6,life:2.5,size:30}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6710937" playtime="79.6"/>
+</comment>
+<comment id="1692197158" poolid="0" userhash="deadbeef" sendtime="1304133256">
+	<text>三步前方无法踏上去 /attr{row:2,col:3,time:83.6,life:2.5,size:30}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6710937" playtime="83.6"/>
+</comment>
+<comment id="983305488" poolid="0" userhash="deadbeef" sendtime="1304133245">
+	<text>憎恨那慢得不耐烦的感觉 /attr{row:2,col:3,time:87.6,life:2.5,size:30}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6710937" playtime="87.6"/>
+</comment>
+<comment id="157301531" poolid="0" userhash="deadbeef" sendtime="1303905477">
+	<text>三步前方无法踏上去 /attr{row:3|2,col:4|3,time:86.1,life:4,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="86.1"/>
+</comment>
+<comment id="134033158" poolid="0" userhash="deadbeef" sendtime="1303905473">
+	<text>憎恨那慢得不耐烦的感觉 /attr{row:4|3,col:3|4,time:86.1,life:1.5,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="86.1"/>
+</comment>
+<comment id="1141469773" poolid="0" userhash="deadbeef" sendtime="1303905469">
+	<text>两步前方处远眺望远 /attr{row:3|4,col:2|3,time:86.1,life:4,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="86.1"/>
+</comment>
+<comment id="672" poolid="0" userhash="deadbeef" sendtime="1303905465">
+	<text>梦里打盹瞌睡的脸颊 /attr{row:2|3,col:3|2,time:86.1,life:4,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="86.1"/>
+</comment>
+<comment id="646844300" poolid="0" userhash="deadbeef" sendtime="1303905461">
+	<text>梦里打盹瞌睡的脸颊 /attr{row:3|2,col:4|3,time:82.1,life:4,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="82.1"/>
+</comment>
+<comment id="1749961153" poolid="0" userhash="deadbeef" sendtime="1303905457">
+	<text>三步前方无法踏上去 /attr{row:4|3,col:3|4,time:82.1,life:1.5,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="82.1"/>
+</comment>
+<comment id="1013252200" poolid="0" userhash="deadbeef" sendtime="1303905453">
+	<text>憎恨那慢得不耐烦的感觉 /attr{row:3|4,col:2|3,time:82.1,life:4,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="82.1"/>
+</comment>
+<comment id="1504325536" poolid="0" userhash="deadbeef" sendtime="1303905448">
+	<text>两步前方处远眺望远 /attr{row:2|3,col:3|2,time:82.1,life:4,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="82.1"/>
+</comment>
+<comment id="1122897407" poolid="0" userhash="deadbeef" sendtime="1303905439">
+	<text>两步前方处远眺望远 /attr{row:3|2,col:4|3,time:78.1,life:4,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="78.1"/>
+</comment>
+<comment id="1402015368" poolid="0" userhash="deadbeef" sendtime="1303905435">
+	<text>三步前方无法踏上去 /attr{row:3|4,col:2|3,time:78.1,life:4,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="78.1"/>
+</comment>
+<comment id="2093376728" poolid="0" userhash="deadbeef" sendtime="1303905435">
+	<text>梦里打盹瞌睡的脸颊 /attr{row:4|3,col:3|4,time:78.1,life:1.5,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="78.1"/>
+</comment>
+<comment id="2141805811" poolid="0" userhash="deadbeef" sendtime="1303905425">
+	<text>憎恨那慢得不耐烦的感觉 /attr{row:2|3,col:3|2,time:78.1,life:4,size:20}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="78.1"/>
+</comment>
+<comment id="1558625640" poolid="0" userhash="deadbeef" sendtime="1303905413">
+	<text>梦里打盹瞌睡的脸颊 /attr{row:4,col:3,time:74.1,life:4,size:20}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="74.1"/>
+</comment>
+<comment id="1539316743" poolid="0" userhash="deadbeef" sendtime="1303905409">
+	<text>三步前方无法踏上去 /attr{row:3,col:2,time:74.1,life:4,size:20}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="74.1"/>
+</comment>
+<comment id="72505652" poolid="0" userhash="deadbeef" sendtime="1303905403">
+	<text>憎恨那慢得不耐烦的感觉 /attr{row:2,col:3,time:74.1,life:4,size:20}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="20" color="6737100" playtime="74.1"/>
+</comment>
+<comment id="775401594" poolid="0" userhash="deadbeef" sendtime="1303840294">
+	<text>玻璃 /attr{row:3.53,col:9,rotationX:180,alpha:0.5,size:70,time:56.4,life:9.1}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="70" color="16777215" playtime="56.4"/>
+</comment>
+<comment id="595771385" poolid="0" userhash="deadbeef" sendtime="1303840112">
+	<text>玻璃 /attr{row:3.5,col:9,rotationX:180,alpha:0.7,size:70,time:56.4,life:9.1}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="70" color="16777215" playtime="56.4"/>
+</comment>
+<comment id="1421908209" poolid="0" userhash="deadbeef" sendtime="1303840103">
+	<text>玻璃 /attr{row:3.58,col:9.05,rotationX:180,alpha:0.3,size:70,time:56.4,life:9.1}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="70" color="16777215" playtime="56.4"/>
+</comment>
+<comment id="1071143231" poolid="0" userhash="deadbeef" sendtime="1303839816">
+	<text>玻璃 /attr{row:3.46,col:9,rotationX:180,alpha:0.3,size:70,time:56.4,life:9.1}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="-1" fontsize="70" color="16777215" playtime="56.4"/>
+</comment>
+<comment id="1175128444" poolid="0" userhash="deadbeef" sendtime="1303839791">
+	<text>的
+对
+面 /attr{row:8,col:28,time:56.4,life:9.1,size:22}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="22" color="16777215" playtime="56.4"/>
+</comment>
+<comment id="1923134184" poolid="0" userhash="deadbeef" sendtime="1303839778">
+	<text>在 /attr{row:3.6,col:16,time:56.4,life:9.1,size:30}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16777215" playtime="56.4"/>
+</comment>
+<comment id="1511320186" poolid="0" userhash="deadbeef" sendtime="1303835908">
+	<text>您是在那处这件事 /attr{row:3|3,col:8|-8,time:37.1,life:0.2,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6737100" playtime="37.1"/>
+</comment>
+<comment id="817455142" poolid="0" userhash="deadbeef" sendtime="1303835807">
+	<text>您是在那处这件事 /attr{row:3,col:8,time:35.3,life:1.8,size:30}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6737100" playtime="35.3"/>
+</comment>
+<comment id="1470711845" poolid="0" userhash="deadbeef" sendtime="1303835641">
+	<text>您是在那处这件事 /attr{row:3|3,col:28|8,time:34.9,life:0.4,size:30}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="6737100" playtime="34.9"/>
+</comment>
+<comment id="1530704910" poolid="0" userhash="deadbeef" sendtime="1303834117">
+	<text>虽
+然
+早
+是
+一
+直
+知
+道 /attr{row:3|3,col:32|19,time:26,life:8.2,size:25}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="25" color="6711039" playtime="26"/>
+</comment>
+<comment id="842754454" poolid="0" userhash="deadbeef" sendtime="1303832169">
+	<text>我
+都
+无
+法
+抓
+住 /attr{row:5|5,col:30|5,time:20.2,life:15.1,size:25}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="25" color="6710988" playtime="20.2"/>
+</comment>
+<comment id="1265296138" poolid="0" userhash="deadbeef" sendtime="1303832169">
+	<text>绿
+草
+的
+声
+响
+也
+是 /attr{row:3|3,col:28|3,time:20.2,life:15.15,size:25}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="25" color="6723993" playtime="20.2"/>
+</comment>
+<comment id="1695290714" poolid="0" userhash="deadbeef" sendtime="1303831221">
+	<text>清
+风
+的
+色
+彩
+也
+好 /attr{row:4|4,col:26|1,time:20.2,life:15.1,size:25}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="25" color="6737100" playtime="20.2"/>
+</comment>
+<comment id="1733239114" poolid="0" userhash="deadbeef" sendtime="1303829360">
+	<text>感 /attr{row:1|2,col:19|19,time:9.8,life:0.5,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="9.8"/>
+</comment>
+<comment id="506991181" poolid="0" userhash="deadbeef" sendtime="1303829353">
+	<text>感 /attr{row:2,col:19,time:10.3,life:0.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="10.3"/>
+</comment>
+<comment id="1374141197" poolid="0" userhash="deadbeef" sendtime="1303829344">
+	<text>触 /attr{row:2,col:17,time:9.6,life:1.3}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="9.6"/>
+</comment>
+<comment id="390463589" poolid="0" userhash="deadbeef" sendtime="1303829336">
+	<text>触 /attr{row:1|2,col:17|17,time:9.3,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="9.3"/>
+</comment>
+<comment id="2006009823" poolid="0" userhash="deadbeef" sendtime="1303829096">
+	<text>的 /attr{row:2,col:15,time:8.1,life:2.8}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="8.1"/>
+</comment>
+<comment id="731081194" poolid="0" userhash="deadbeef" sendtime="1303829087">
+	<text>的 /attr{row:1|2,col:15|15,time:7.8,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="7.8"/>
+</comment>
+<comment id="176030728" poolid="0" userhash="deadbeef" sendtime="1303828814">
+	<text>您 /attr{row:2,col:13,time:7.5,life:3.4}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="7.5"/>
+</comment>
+<comment id="868280868" poolid="0" userhash="deadbeef" sendtime="1303828805">
+	<text>您 /attr{row:1|2,col:13|13,time:7.2,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="7.2"/>
+</comment>
+<comment id="1826818657" poolid="0" userhash="deadbeef" sendtime="1303828659">
+	<text>连 /attr{row:1|2,col:11|11,time:6.9,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="6.9"/>
+</comment>
+<comment id="1166180853" poolid="0" userhash="deadbeef" sendtime="1303828562">
+	<text>连 /attr{row:2,col:11,time:7.2,life:3.7}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="7.2"/>
+</comment>
+<comment id="1523048551" poolid="0" userhash="deadbeef" sendtime="1303828086">
+	<text>就 /attr{row:1|2,col:9|9,time:6.6,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="6.6"/>
+</comment>
+<comment id="1434062684" poolid="0" userhash="deadbeef" sendtime="1303828022">
+	<text>就 /attr{row:2,col:9,time:6.9,life:4}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="6.9"/>
+</comment>
+<comment id="531049860" poolid="0" userhash="deadbeef" sendtime="1303821691">
+	<text>有 /attr{row:2,col:26,time:6.2,life:0.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="6.2"/>
+</comment>
+<comment id="1463994806" poolid="0" userhash="deadbeef" sendtime="1303821677">
+	<text>有 /attr{row:1|2,col:26|26,time:5.9,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="5.9"/>
+</comment>
+<comment id="877981480" poolid="0" userhash="deadbeef" sendtime="1303821661">
+	<text>没 /attr{row:1|2,col:24|24,time:5.5,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="5.5"/>
+</comment>
+<comment id="1517682082" poolid="0" userhash="deadbeef" sendtime="1303821648">
+	<text>没 /attr{row:2,col:24,time:5.8,life:0.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="5.8"/>
+</comment>
+<comment id="20497564" poolid="0" userhash="deadbeef" sendtime="1303821461">
+	<text>都 /attr{row:2,col:22,time:5.6,life:0.8}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="5.6"/>
+</comment>
+<comment id="93595942" poolid="0" userhash="deadbeef" sendtime="1303821451">
+	<text>都 /attr{row:1|2,col:22|22,time:5.3,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="5.3"/>
+</comment>
+<comment id="1714282280" poolid="0" userhash="deadbeef" sendtime="1303821332">
+	<text>么 /attr{row:1|2,col:20|20,time:5.1,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="5.1"/>
+</comment>
+<comment id="1560501445" poolid="0" userhash="deadbeef" sendtime="1303821324">
+	<text>么 /attr{row:2,col:20,time:5.4,life:1}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="5.4"/>
+</comment>
+<comment id="550614599" poolid="0" userhash="deadbeef" sendtime="1303821015">
+	<text>在 /attr{row:2,col:8,time:2.7,life:3.7}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="2.7"/>
+</comment>
+<comment id="884769302" poolid="0" userhash="deadbeef" sendtime="1303820872">
+	<text>什 /attr{row:2,col:18,time:5.1,life:1.3}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="5.1"/>
+</comment>
+<comment id="2036531502" poolid="0" userhash="deadbeef" sendtime="1303820856">
+	<text>什 /attr{row:1|2,col:18|18,time:4.8,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="4.8"/>
+</comment>
+<comment id="1564047541" poolid="0" userhash="deadbeef" sendtime="1303820625">
+	<text>方 /attr{row:2,col:16,time:3.8,life:2.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="3.8"/>
+</comment>
+<comment id="43483981" poolid="0" userhash="deadbeef" sendtime="1303820610">
+	<text>方 /attr{row:1|2,col:16|16,time:3.5,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="3.5"/>
+</comment>
+<comment id="141705053" poolid="0" userhash="deadbeef" sendtime="1303820451">
+	<text>地 /attr{row:1|2,col:14|14,time:2.9,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="2.9"/>
+</comment>
+<comment id="1949683222" poolid="0" userhash="deadbeef" sendtime="1303820438">
+	<text>地 /attr{row:2,col:14,time:3.2,life:3.2}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="3.2"/>
+</comment>
+<comment id="391161896" poolid="0" userhash="deadbeef" sendtime="1303820368">
+	<text>个 /attr{row:2,col:12,time:3.1,life:3.3}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="3.1"/>
+</comment>
+<comment id="816008651" poolid="0" userhash="deadbeef" sendtime="1303820352">
+	<text>个 /attr{row:1|2,col:12|12,time:2.8,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="2.8"/>
+</comment>
+<comment id="2093518058" poolid="0" userhash="deadbeef" sendtime="1303820148">
+	<text>这 /attr{row:2,col:10,time:3,life:3.4}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="3"/>
+</comment>
+<comment id="317146669" poolid="0" userhash="deadbeef" sendtime="1303819621">
+	<text>这 /attr{row:1|2,col:10|10,time:2.7,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="2.7"/>
+</comment>
+<comment id="1836333687" poolid="0" userhash="deadbeef" sendtime="1303819266">
+	<text>在 /attr{row:2,col:8,time:2.8,life:0.3}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="2.8"/>
+</comment>
+<comment id="764929907" poolid="0" userhash="deadbeef" sendtime="1303819257">
+	<text>在 /attr{row:1|2,col:8|8,time:2.4,life:0.3,alpha:0.4}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16737894" playtime="2.4"/>
+</comment>
+<comment id="1578521632" poolid="0" userhash="deadbeef" sendtime="1302475006">
+	<text>在叫呼唤我 /attr{time:47.4,life:0.2,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="47.4"/>
+</comment>
+<comment id="1089372387" poolid="0" userhash="deadbeef" sendtime="1302474826">
+	<text>在叫呼唤我 /attr{time:53.2,life:1,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="53.2"/>
+</comment>
+<comment id="2022685522" poolid="0" userhash="deadbeef" sendtime="1302474651">
+	<text>在叫呼唤我 /attr{time:52.9,life:0.1,size:40,col:7.1|7.7,row:2|1.5,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="52.9"/>
+</comment>
+<comment id="1369825136" poolid="0" userhash="deadbeef" sendtime="1302474634">
+	<text>在叫呼唤我 /attr{time:53.1,life:0.2,size:40,col:8.3|7.1,row:1|1.4,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="53.1"/>
+</comment>
+<comment id="1740369918" poolid="0" userhash="deadbeef" sendtime="1302474615">
+	<text>在叫呼唤我 /attr{time:52.8,life:0.1,size:40,col:7.6|7.1,row:1.6|2,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="52.8"/>
+</comment>
+<comment id="539760747" poolid="0" userhash="deadbeef" sendtime="1302474604">
+	<text>在叫呼唤我 /attr{time:52.9,life:0.2,size:40,col:7.6|8.3,row:1.6|1,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="52.9"/>
+</comment>
+<comment id="2031568398" poolid="0" userhash="deadbeef" sendtime="1302474584">
+	<text>在叫呼唤我 /attr{time:52.6,life:0.3,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="52.6"/>
+</comment>
+<comment id="564602472" poolid="0" userhash="deadbeef" sendtime="1302474553">
+	<text>在叫呼唤我 /attr{time:51.5,life:1,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="51.5"/>
+</comment>
+<comment id="954614090" poolid="0" userhash="deadbeef" sendtime="1302474391">
+	<text>在叫呼唤我 /attr{time:50.3,life:1,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="50.3"/>
+</comment>
+<comment id="1691037195" poolid="0" userhash="deadbeef" sendtime="1302474322">
+	<text>在叫呼唤我 /attr{time:50.1,life:0.1,size:40,col:7.7|7.6,row:1.5|1.6,alpha:0.9}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="50.1"/>
+</comment>
+<comment id="1328012399" poolid="0" userhash="deadbeef" sendtime="1302474309">
+	<text>在叫呼唤我 /attr{time:50,life:0.1,size:40,col:7.1|7.7,row:2|1.5,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="50"/>
+</comment>
+<comment id="449121436" poolid="0" userhash="deadbeef" sendtime="1302474291">
+	<text>在叫呼唤我 /attr{time:50.2,life:0.2,size:40,col:8.3|7.1,row:1|1.4,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="50.2"/>
+</comment>
+<comment id="1431146650" poolid="0" userhash="deadbeef" sendtime="1302474243">
+	<text>在叫呼唤我 /attr{time:49.9,life:0.1,size:40,col:7.6|7.1,row:1.6|2,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="49.9"/>
+</comment>
+<comment id="258916345" poolid="0" userhash="deadbeef" sendtime="1302474231">
+	<text>在叫呼唤我 /attr{time:50,life:0.2,size:40,col:7.6|8.3,row:1.6|1,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="50"/>
+</comment>
+<comment id="64605487" poolid="0" userhash="deadbeef" sendtime="1302474029">
+	<text>在叫呼唤我 /attr{time:47.9,life:2.1,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="47.9"/>
+</comment>
+<comment id="220238570" poolid="0" userhash="deadbeef" sendtime="1302473923">
+	<text>在叫呼唤我 /attr{time:47.7,life:0.1,size:40,col:7.7|7.6,row:1.5|1.6,alpha:0.9}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="47.7"/>
+</comment>
+<comment id="1166961631" poolid="0" userhash="deadbeef" sendtime="1302473910">
+	<text>在叫呼唤我 /attr{time:47.6,life:0.1,size:40,col:7.1|7.7,row:2|1.5,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="47.6"/>
+</comment>
+<comment id="320868868" poolid="0" userhash="deadbeef" sendtime="1302473894">
+	<text>在叫呼唤我 /attr{time:47.8,life:0.2,size:40,col:8.3|7.1,row:1|1.4,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="47.8"/>
+</comment>
+<comment id="481603365" poolid="0" userhash="deadbeef" sendtime="1302473879">
+	<text>在叫呼唤我 /attr{time:47.5,life:0.1,size:40,col:7.6|7.1,row:1.6|2,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="47.5"/>
+</comment>
+<comment id="608865611" poolid="0" userhash="deadbeef" sendtime="1302473857">
+	<text>在叫呼唤我 /attr{time:47.6,life:0.2,size:40,col:7.6|8.3,row:1.6|1,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="47.6"/>
+</comment>
+<comment id="438986162" poolid="0" userhash="deadbeef" sendtime="1302473624">
+	<text>温柔的声音 /attr{time:41.5,life:0.1,size:40,col:7.1|7.7,row:2|1.5,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="41.5"/>
+</comment>
+<comment id="691431481" poolid="0" userhash="deadbeef" sendtime="1302473500">
+	<text>温柔的声音 /attr{time:46,life:0.5,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="46"/>
+</comment>
+<comment id="2008666938" poolid="0" userhash="deadbeef" sendtime="1302473411">
+	<text>温柔的声音 /attr{time:45.6,life:0.1,size:40,col:7.7|7.6,row:1.5|1.6,alpha:0.9}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="45.6"/>
+</comment>
+<comment id="1507671754" poolid="0" userhash="deadbeef" sendtime="1302473395">
+	<text>温柔的声音 /attr{time:45.7,life:0.1,size:40,col:7.1|7.7,row:2|1.5,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="45.7"/>
+</comment>
+<comment id="570706285" poolid="0" userhash="deadbeef" sendtime="1302473379">
+	<text>温柔的声音 /attr{time:45.9,life:0.2,size:40,col:8.3|7.1,row:1|1.4,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="45.9"/>
+</comment>
+<comment id="1683892644" poolid="0" userhash="deadbeef" sendtime="1302473365">
+	<text>温柔的声音 /attr{time:45.7,life:0.2,size:40,col:7.6|8.3,row:1.6|1,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="45.7"/>
+</comment>
+<comment id="1759085925" poolid="0" userhash="deadbeef" sendtime="1302473351">
+	<text>温柔的声音 /attr{time:45.6,life:0.1,size:40,col:7.6|7.1,row:1.6|2,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="45.6"/>
+</comment>
+<comment id="602193011" poolid="0" userhash="deadbeef" sendtime="1302473234">
+	<text>温柔的声音 /attr{time:44.2,life:1.6,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="44.2"/>
+</comment>
+<comment id="728876378" poolid="0" userhash="deadbeef" sendtime="1302472727">
+	<text>温柔的声音 /attr{time:41.9,life:2,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="41.9"/>
+</comment>
+<comment id="113494987" poolid="0" userhash="deadbeef" sendtime="1302472469">
+	<text>温柔的声音 /attr{time:41.7,life:0.2,size:40,col:8.3|7.1,row:1|1.4,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="41.7"/>
+</comment>
+<comment id="1627110365" poolid="0" userhash="deadbeef" sendtime="1302472447">
+	<text>温柔的声音 /attr{time:41.4,life:0.1,size:40,col:7.6|7.1,row:1.6|2,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="41.4"/>
+</comment>
+<comment id="104349788" poolid="0" userhash="deadbeef" sendtime="1302472431">
+	<text>温柔的声音 /attr{time:41.5,life:0.2,size:40,col:7.6|8.3,row:1.6|1,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="41.5"/>
+</comment>
+<comment id="137200743" poolid="0" userhash="deadbeef" sendtime="1302472123">
+	<text>温柔的声音 /attr{time:44,life:0.1,size:40,col:7.7|7.6,row:1.5|1.6,alpha:0.9}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="44"/>
+</comment>
+<comment id="2147374543" poolid="0" userhash="deadbeef" sendtime="1302472086">
+	<text>温柔的声音 /attr{time:44.1,life:0.2,size:40,col:8.3|7.1,row:1|1.4,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="44.1"/>
+</comment>
+<comment id="794882399" poolid="0" userhash="deadbeef" sendtime="1302472048">
+	<text>温柔的声音 /attr{time:43.8,life:0.1,size:40,col:7.6|7.1,row:1.6|2,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="43.8"/>
+</comment>
+<comment id="1500857390" poolid="0" userhash="deadbeef" sendtime="1302472025">
+	<text>温柔的声音 /attr{time:43.9,life:0.2,size:40,col:7.6|8.3,row:1.6|1,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="43.9"/>
+</comment>
+<comment id="893578448" poolid="0" userhash="deadbeef" sendtime="1302471954">
+	<text>温柔的声音 /attr{time:43.4,life:0.5,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="43.4"/>
+</comment>
+<comment id="211648045" poolid="0" userhash="deadbeef" sendtime="1302471054">
+	<text>温柔的声音 /attr{time:39.6,life:2.3,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="39.6"/>
+</comment>
+<comment id="700529694" poolid="0" userhash="deadbeef" sendtime="1302469565">
+	<text>温柔的声音 /attr{time:39.4,life:0.1,size:40,col:7.7|7.6,row:1.5|1.6,alpha:0.9}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="39.4"/>
+</comment>
+<comment id="345524477" poolid="0" userhash="deadbeef" sendtime="1302469559">
+	<text>温柔的声音 /attr{time:39.3,life:0.1,size:40,col:7.1|7.7,row:2|1.5,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="39.3"/>
+</comment>
+<comment id="1351050874" poolid="0" userhash="deadbeef" sendtime="1302469553">
+	<text>温柔的声音 /attr{time:39.2,life:0.1,size:40,col:7.6|7.1,row:1.6|2,alpha:0.8}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="39.2"/>
+</comment>
+<comment id="1235942083" poolid="0" userhash="deadbeef" sendtime="1302469545">
+	<text>温柔的声音 /attr{time:39.3,life:0.2,size:40,col:7.6|8.3,row:1.6|1,alpha:0.3}</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="39.3"/>
+</comment>
+<comment id="1071517870" poolid="0" userhash="deadbeef" sendtime="1302469531">
+	<text>温柔的声音 /attr{time:39.6,life:2,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="39.6"/>
+</comment>
+<comment id="2019689736" poolid="0" userhash="deadbeef" sendtime="1302469515">
+	<text>温柔的声音 /attr{time:38.7,life:0.5,size:40,col:7.6,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="38.7"/>
+</comment>
+<comment id="1585711575" poolid="0" userhash="deadbeef" sendtime="1302461936">
+	<text>嘴巴，萌倒了~</text>
+	<attr id="0" mode="5" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16777215" playtime="57"/>
+</comment>
+<comment id="634444212" poolid="0" userhash="deadbeef" sendtime="1302389152">
+	<text>啊啊啊啊啊啊啊\n啊\fs{5}啊\n啊\fs{5}啊\n啊\fs{5}啊\n啊啊啊啊啊啊啊 /attr{time:144,life:3,size:55,row:1.9}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="55" color="16711680" playtime="144"/>
+</comment>
+<comment id="1673656396" poolid="0" userhash="deadbeef" sendtime="1302389145">
+	<text>啊啊啊啊啊啊啊啊啊啊啊啊\n啊\fs{10}啊\n啊\fs{10}啊\n啊\fs{10}啊\n啊\fs{10}啊\n啊\fs{10}啊\n啊\fs{10}啊\n啊啊啊啊啊啊啊啊啊啊啊啊 /attr{time:144,life:3,size:40,row:1.6}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="40" color="16711680" playtime="144"/>
+</comment>
+<comment id="183661450" poolid="0" userhash="deadbeef" sendtime="1302389139">
+	<text>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\n啊\fs{16}啊\n啊\fs{16}啊\n啊\fs{16}啊\n啊\fs{16}啊\n啊\fs{16}啊\n啊\fs{16}啊\n啊\fs{16}啊\n啊\fs{16}啊\n啊\fs{16}啊\n啊\fs{16}啊\n啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 /attr{time:144,life:3,size:30}</text>
+	<attr id="0" mode="1" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="30" color="16711680" playtime="144"/>
+</comment>
+<comment id="129310961" poolid="0" userhash="deadbeef" sendtime="1302381435">
+	<text>字幕回炉预订</text>
+	<attr id="0" mode="2" showeffect="-1" hideeffect="-1" fonteffect="1" fontsize="24" color="16711680" playtime="0.9"/>
+</comment>
+</comments>
