@@ -1,15 +1,18 @@
-version=pmwiki-2.2.29 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
 author=
 cauthor=
 charset=UTF-8
 csum=
 host=127.0.0.1
 name=Main.HomePage
-rev=257
+rev=258
 targets=PmWiki.PmWiki
-text=任何建议和bug汇报请发送dm.mikufans@gmail.com%0a%0abug汇报最好附带wiki.d目录的打包。弹幕错误再加对应XMl文件。%0a%0a本站运行于DMF : {$DMFVersion}  [[PmWiki]]: {$Version}.%0a%0a%25white%25 蓝白弹幕祭认证产品%25%25
-time=1312475330
+text=任何建议和bug汇报请发送dm.mikufans@gmail.com%0a%0abug汇报最好附带wiki.d目录的打包。弹幕错误再加对应XMl文件。%0a%0a本站运行于DMF : {$DMFVersion}  [[PmWiki]]: {$Version}.%0a%0a%25white%25 蓝白弹幕祭, 拜年祭认证产品%25%25
+time=1327214521
+author:1327214521=
+diff:1327214521:1312475330:=7c7%0a%3c %25white%25 蓝白弹幕祭, 拜年祭认证产品%25%25%0a\ No newline at end of file%0a---%0a> %25white%25 蓝白弹幕祭认证产品%25%25%0a\ No newline at end of file%0a
+host:1327214521=127.0.0.1
 author:1312475330=
 diff:1312475330:1310745553:=7c7%0a%3c %25white%25 蓝白弹幕祭认证产品%25%25%0a\ No newline at end of file%0a---%0a> %25white%25 『既然无缘　何须誓言』 近日外群有感。%25%25%0a\ No newline at end of file%0a
 host:1312475330=127.0.0.1

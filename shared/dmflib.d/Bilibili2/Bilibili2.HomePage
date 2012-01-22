@@ -1,20 +1,26 @@
-version=pmwiki-2.2.19 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b12) Gecko/20100101 Firefox/4.0b12
-author=Admin
-cauthor=Admin
+version=pmwiki-2.2.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+author=
+cauthor=
 charset=UTF-8
 csum=
 ctime=1284730118
-host=222.95.38.30
+host=127.0.0.1
 name=Bilibili2.HomePage
 passwddelete=@lock
 passwdedit=@lock
 passwdupload=@lock
-rev=22
+rev=24
 targets=System.BiliFastPostNew,Bilibili2.HomePageFull
-text=(:Title {$Group}.首页:)%0a%0a总投稿量:(:pagelist group=Bilibili2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a新建页面:%0a* &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostNew|点此投稿]]%25%25%0a'''新版投稿说明企划中'''%0a'''目前投稿不支持单贴多视频'''%0a%0a最新25个视频%0a(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a%0a%0a[[HomePageFull|点此围观全部视频列表]]%0a(:nogroupfooter:)
-time=1298818661
+text=(:Title {$Group}.首页:)%0a%0a总投稿量:(:pagelist group=Bilibili2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a新建页面:%0a* &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostNew|点此投稿]]%25%25%0a%0a最新25个视频%0a(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a%0a%0a[[HomePageFull|点此围观全部视频列表]]%0a(:nogroupfooter:)
+time=1310745736
 title=Bilibili2.首页
+author:1310745736=
+diff:1310745736:1310745705:=6a7%0a> '''目前投稿不支持单贴多视频'''%0a
+host:1310745736=127.0.0.1
+author:1310745705=
+diff:1310745705:1298818661:=6a7%0a> '''新版投稿说明企划中'''%0a
+host:1310745705=127.0.0.1
 author:1298818604=Admin
 diff:1298818604:1298818454:=13,15d12%0a%3c %0a%3c [[HomePageFull|点此围观全部视频列表]]%0a%3c (:nogroupfooter:)%0a\ No newline at end of file%0a
 host:1298818604=222.95.38.30

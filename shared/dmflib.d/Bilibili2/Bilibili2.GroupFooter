@@ -1,17 +1,152 @@
-version=pmwiki-2.2.24 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
-author=Admin
-cauthor=Admin
+version=pmwiki-2.2.34 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+author=
+cauthor=
 charset=UTF-8
 csum=
 ctime=1285224823
 host=::1
 name=Bilibili2.GroupFooter
 passwdedit=@lock
-rev=19
+rev=64
 targets=
-text=(:ObjInit:)(:if equal "{*$Stats}" "true" :)%0a(:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a(:cell:)%0a>>recipeinfo%3c%3c%0a来源: {*$:sourcelink}%0a(:DMFMessage:)%0a>>%3c%3c%0a(:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a(:if2 equal "{*$IsMuti}" "true" :)%0a>>font-size:small%3c%3c%0a'''分P资料:'''%0a(:include {*$FullName}#Part#PartEnd :)%0a>>%3c%3c%0a-----%0a(:if2end:)%0a'''备注:'''(:include {*$BaseName}#comment#commentend :)%0a(:cellnr width=950  :)%0a----%0a(:DMBarLoader:)%0a>>id=flashcontent%3c%3c%0a>>%3c%3c%0a(:PlayerLoader:)%0a(:cellnr width=950 :)%0a----%0a(:if2 equal "{*$IsMuti}" "true" :)%0a切换Part: (:PartLinkLoader:)%0a(:if2end:)%0a切换播放器：(:PlayerLinkLoader:)%0a(:tableend:)%0a(:ifend:)
-time=1304056663
+text=(:ObjInit:)%0a(:if equal "{*$Stats}" "true" :)%0a(:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a(:cell:)%0a>>recipeinfo%3c%3c%0a(:if2 ! enabled LOCALVERSION:)%0a来源: {*$:sourcelink}%0a(:if2end:)%0a(:if2 auth edit:)%0a(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0aTags:	(:includeTag:)&nbsp;&nbsp;(:input text "Tags" size="6":)(:input submit value="追加Tag":)%0a(:input end:)%0a(:else2:)%0aTags:	(:includeTag:)&nbsp;&nbsp;%0a(:if2end:)%0a(:DMFMessage:)%0a(:messages:)%0a(:if [ ! auth admin && enabled LOCALVERSION ] :)%25red%25 乃还没有登录，弹幕发送不予保存。%25%25(:ifend:)%0a>>%3c%3c%0a(:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a(:if2 equal "{*$IsMuti}" "true" :)%0a>>font-size:small%3c%3c%0a'''分P资料:'''%0a(:include {*$FullName}#partinfo#partend :)%0a>>%3c%3c%0a-----%0a(:if2end:)%0a'''备注:'''(:include {*$BaseName}#comment#commentend :)%0a(:cellnr width=950  :)%0a----%0a(:DMBarLoader:)%0a>>id=flashcontent%3c%3c%0a>>%3c%3c%0a(:PlayerLoader:)%0a(:cellnr width=950 :)%0a----%0a(:if2 equal "{*$IsMuti}" "true" :)%0a切换Part: (:PartLinkLoader:)%0a(:if2end:)%0a切换播放器：(:PlayerLinkLoader:)%0a(:tableend:)%0a(:ifend:)
+time=1319034977
+author:1319034977=
+diff:1319034977:1314614410:=18d17%0a%3c (:if [ ! auth admin && enabled LOCALVERSION ] :)%25red%25 乃还没有登录，弹幕发送不予保存。%25%25(:ifend:)%0a
+host:1319034977=::1
+author:1314614410=
+diff:1314614410:1310874677:=17d16%0a%3c (:messages:)%0a
+host:1314614410=127.0.0.1
+author:1310874677=
+diff:1310874677:1310874429:=16a17%0a> (:googlePlusOne:)%0a
+host:1310874677=127.0.0.1
+author:1310874429=
+diff:1310874429:1310874270:=17d16%0a%3c (:googlePlusOne:)%0a
+host:1310874429=127.0.0.1
+author:1310874270=
+diff:1310874270:1310874262:=12a13%0a> %0a
+host:1310874270=127.0.0.1
+author:1310874262=
+diff:1310874262:1310874201:=13d12%0a%3c %0a
+host:1310874262=127.0.0.1
+author:1310874201=
+diff:1310874201:1310874186:=16a17%0a> %0a
+host:1310874201=127.0.0.1
+author:1310874186=
+diff:1310874186:1310874175:=17c17%0a%3c %0a---%0a> (:googlePlusOne:)%0a
+host:1310874186=127.0.0.1
+author:1310874175=
+diff:1310874175:1310630637:=17d16%0a%3c (:googlePlusOne:)%0a
+host:1310874175=127.0.0.1
+author:1310630637=
+diff:1310630637:1310630592:=9,14c9,13%0a%3c (:if2 auth edit:)%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;(:input text "Tags" size="6":)(:input submit value="追加Tag":)%0a%3c (:input end:)%0a%3c (:else2:)%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;%0a---%0a> Tags:	(:includeTag:)&nbsp;&nbsp;\%0a> (:if2 auth edit:)\%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> (:input text "Tags" size="6":)(:input submit value="追加Tag":)\%0a> (:input end:)\%0a15a15%0a> %0a
+host:1310630637=127.0.0.1
+author:1310630592=
+diff:1310630592:1310630507:=8a9%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a10,15c11,13%0a%3c (:if2 auth edit:)\%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a%3c (:input text "Tags" size="6":)(:input submit value="追加Tag":)\%0a%3c (:input end:)\%0a%3c (:if2end:)%0a%3c %0a---%0a> (:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a> (:input end:)%0a> ----%0a
+host:1310630592=127.0.0.1
+author:1310630507=
+diff:1310630507:1310630496:=10c10%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;\%0a---%0a> Tags:	(:includeTag:)\%0a
+host:1310630507=127.0.0.1
+author:1310630496=
+diff:1310630496:1310630484:=10,11c10,11%0a%3c Tags:	(:includeTag:)\%0a%3c (:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a---%0a> Tags:	(:includeTag:)(:input text "Tags" size="6":)%0a> (:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a
+host:1310630496=127.0.0.1
+author:1310630484=
+diff:1310630484:1310630475:=11c11%0a%3c (:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a---%0a> :if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a
+host:1310630484=127.0.0.1
+author:1310630475=
+diff:1310630475:1310630264:=9,11c9%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a%3c Tags:	(:includeTag:)(:input text "Tags" size="6":)%0a%3c :if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a---%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)Tags:	(:includeTag:)(:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a
+host:1310630475=127.0.0.1
+author:1310630264=
+diff:1310630264:1310630159:=9c9,10%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)Tags:	(:includeTag:)(:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a---%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> Tags:	(:includeTag:)(:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)\%0a
+host:1310630264=127.0.0.1
+author:1310630159=
+diff:1310630159:1310630094:=8a9%0a> Tags:	(:includeTag:)\%0a10c11,12%0a%3c Tags:	(:includeTag:)(:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)\%0a---%0a> (:input text "Tags" size="6":)\%0a> (:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)\%0a
+host:1310630159=127.0.0.1
+author:1310630094=
+diff:1310630094:1310630035:=9d8%0a%3c Tags:	(:includeTag:)\%0a11c10%0a%3c (:input text "Tags" size="6":)\%0a---%0a> Tags:	(:includeTag:)(:input text "Tags" size="6":)\%0a
+host:1310630094=127.0.0.1
+author:1310630035=
+diff:1310630035:1310629986:=9,12c9,12%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a%3c Tags:	(:includeTag:)(:input text "Tags" size="6":)\%0a%3c (:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)\%0a%3c (:input end:)%0a---%0a> Tags:	(:includeTag:)\%0a> (:if2 auth edit:)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> (:input text "Tags" size="6":)	(:input submit value="追加Tag":)\%0a> (:input end:) (:if2end:)%0a
+host:1310630035=127.0.0.1
+author:1310629986=
+diff:1310629986:1310629947:=9c9%0a%3c Tags:	(:includeTag:)\%0a---%0a> Tags:	(:includeTag:)%0a
+host:1310629986=127.0.0.1
+author:1310629947=
+diff:1310629947:1310628561:=9c9%0a%3c Tags:	(:includeTag:)%0a---%0a> Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a
+host:1310629947=127.0.0.1
+author:1310628561=
+diff:1310628561:1310628550:=13d12%0a%3c ----%0a
+host:1310628561=127.0.0.1
+author:1310628550=
+diff:1310628550:1310628488:=9c9%0a%3c Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a---%0a> %25style=diaplay:inline%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)\%0a12c12,13%0a%3c (:input end:) (:if2end:)%0a---%0a> (:input end:) (:if2end:)%25%25%0a> %0a
+host:1310628550=127.0.0.1
+author:1310628488=
+diff:1310628488:1310628449:=9c9%0a%3c %25style=diaplay:inline%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)\%0a---%0a> %25style=diaplay:inline%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%25%25%0a12c12%0a%3c (:input end:) (:if2end:)%25%25%0a---%0a> (:input end:) (:if2end:)%0a
+host:1310628488=127.0.0.1
+author:1310628449=
+diff:1310628449:1310628395:=9c9%0a%3c %25style=diaplay:inline%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%25%25%0a---%0a> %25apply=div%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%25%25%0a
+host:1310628449=127.0.0.1
+author:1310628395=
+diff:1310628395:1310628335:=9c9,10%0a%3c %25apply=div%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%25%25%0a---%0a> >>float%3c%3c%0a> Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a13c14%0a%3c %0a---%0a> >>%3c%3c%0a
+host:1310628395=127.0.0.1
+author:1310628335=
+diff:1310628335:1310627951:=9d8%0a%3c >>float%3c%3c%0a14d12%0a%3c >>%3c%3c%0a
+host:1310628335=127.0.0.1
+author:1310627951=
+diff:1310627951:1310627927:=9,11c9,10%0a%3c Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a%3c (:if2 auth edit:)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a%3c (:input text "Tags" size="6":)	(:input submit value="追加Tag":)\%0a---%0a> (:if2 auth edit:)Tags:	(:include {*$FullName}#tagInfo#tagEnd :)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> (:input text "Tags" size="6":)	(:input submit value="Go":)\%0a
+host:1310627951=127.0.0.1
+author:1310627927=
+diff:1310627927:1310627878:=9c9,10%0a%3c (:if2 auth edit:)Tags:	(:include {*$FullName}#tagInfo#tagEnd :)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a---%0a> Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a> (:if2 auth edit:)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a
+host:1310627927=127.0.0.1
+author:1310627878=
+diff:1310627878:1310627853:=9,11c9,10%0a%3c Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a%3c (:if2 auth edit:)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a%3c (:input text "Tags" size="6":)	(:input submit value="Go":)\%0a---%0a> (:if2 auth edit:)(:include {*$FullName}#tagInfo#tagEnd :)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> Tags:	(:input text "Tags" size="6":)	(:input submit value="Go":)\%0a
+host:1310627878=127.0.0.1
+author:1310627853=
+diff:1310627853:1310627732:=9c9%0a%3c (:if2 auth edit:)(:include {*$FullName}#tagInfo#tagEnd :)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a---%0a> (:include {*$FullName}#tagInfo#tagEnd :)(:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a
+host:1310627853=127.0.0.1
+author:1310627732=
+diff:1310627732:1310627687:=9c9,10%0a%3c (:include {*$FullName}#tagInfo#tagEnd :)(:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a---%0a> (:include {*$FullName}#tagInfo#tagEnd :)%0a> (:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a
+host:1310627732=127.0.0.1
+author:1310627687=
+diff:1310627687:1310627214:=9d8%0a%3c (:include {*$FullName}#tagInfo#tagEnd :)%0a
+host:1310627687=127.0.0.1
+author:1310627214=
+diff:1310627214:1310625634:=9c9%0a%3c (:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a---%0a> (:messages:)(:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a
+host:1310627214=127.0.0.1
+author:1310625634=
+diff:1310625634:1310625613:=9c9%0a%3c (:messages:)(:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a---%0a> (:messages:)(:if auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a11c11%0a%3c (:input end:) (:if2end:)%0a---%0a> (:input end:) (:ifend:)%0a
+host:1310625634=127.0.0.1
+author:1310625613=
+diff:1310625613:1310625592:=10c10%0a%3c Tags:	(:input text "Tags" size="6":)	(:input submit value="Go":)\%0a---%0a> Tags:	(:input text "Tags" size="40":)	(:input submit value="Go":)\%0a
+host:1310625613=127.0.0.1
+author:1310625592=KPX
+diff:1310625592:1306825783:=9,11d8%0a%3c (:messages:)(:if auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a%3c Tags:	(:input text "Tags" size="40":)	(:input submit value="Go":)\%0a%3c (:input end:) (:ifend:)%0a
+host:1310625592=127.0.0.1
+author:1306825783=
+diff:1306825783:1305976931:=15c15%0a%3c (:include {*$FullName}#partinfo#partend :)%0a---%0a> (:include {*$FullName}#Part#PartEnd :)%0a
+host:1306825783=127.0.0.1
+author:1305976931=Admin
+diff:1305976931:1305974745:=6d5%0a%3c (:if2 ! enabled LOCALVERSION:)%0a8d6%0a%3c (:if2end:)%0a
+host:1305976931=::1
+author:1305974745=Admin
+diff:1305974745:1305974735:=2c2%0a%3c (:if equal "{*$Stats}" "true" :)%0a---%0a> (:if equal {*$Stats} "true" :)%0a
+host:1305974745=::1
+author:1305974735=Admin
+diff:1305974735:1305974678:=1a2%0a> {*$Stats}%0a
+host:1305974735=::1
+author:1305974678=Admin
+diff:1305974678:1305974655:=2d1%0a%3c {*$Stats}%0a
+host:1305974678=::1
+author:1305974655=Admin
+diff:1305974655:1305974477:=2c2%0a%3c (:if equal {*$Stats} "true" :)%0a---%0a> (:if equal "{*$Stats}" "true" :)%0a
+host:1305974655=::1
+author:1305974477=Admin
+diff:1305974477:1305973879:=1a2%0a> {*$Stats}%0a
+host:1305974477=::1
+author:1305973879=Admin
+diff:1305973879:1304056663:=1,3c1%0a%3c (:ObjInit:)%0a%3c {*$Stats}%0a%3c (:if equal "{*$Stats}" "true" :)%0a---%0a> (:ObjInit:)(:if equal "{*$Stats}" "true" :)%0a
+host:1305973879=::1
 author:1304056663=Admin
 diff:1304056663:1299564019:=1c1,2%0a%3c (:ObjInit:)(:if equal "{*$Stats}" "true" :)%0a---%0a> (:ObjInit:)%0a> (:if ! equal "{$DMID}" "" :)%0a4a6%0a> {$TagList}%0a6d7%0a%3c (:DMFMessage:)%0a12c13%0a%3c (:include {*$FullName}#Part#PartEnd :)%0a---%0a> (:include Parts.{*$:SUID}{$BaseID} :)%0a16c17%0a%3c '''备注:'''(:include {*$BaseName}#comment#commentend :)%0a---%0a> '''简介:'''(:include {$BaseName}#comment#commentend :)%0a18a20%0a> (:messages:)%0a20,21c22,24%0a%3c >>id=flashcontent%3c%3c%0a%3c >>%3c%3c%0a---%0a> (:html:)%0a> %3cdiv id="flashcontent">%3c/div>%0a> (:htmlend:)%0a28a32,34%0a> (:cellnr:)%0a> (:comment 短地址: %25nofollow%25 http://{*$:SUID}.danmaku.us/{$Name} :)%0a> (:cell:)%0a
 host:1304056663=::1
