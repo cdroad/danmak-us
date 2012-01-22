@@ -369,6 +369,7 @@ $ActionTitle = FmtPageName(@$ActionTitleFmt[$action], $pagename);
 
 if (!@$HandleActions[$action] || !function_exists($HandleActions[$action])) 
   $action='browse';
+if ($EnableCodeIgniter) {include_once("$FarmD/cookbook/CodeIgniter/init.php");lock(0);return;}
 if (IsEnabled($EnableActions, 1)) HandleDispatch($pagename, $action);
 Lock(0);
 return;
