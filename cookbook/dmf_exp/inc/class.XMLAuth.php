@@ -4,19 +4,19 @@ class XMLAuth
     public static function IsRead($dmid, $group)
     {
         $pn = Utils::GetDMRPageName($dmid, $group);
-        return CondAuth('xmlread', $pn);
+        return CondAuth($pn, 'xmlread');
     }
     
     public static function IsEdit($dmid, $group)
     {
         $pn = Utils::GetDMRPageName($dmid, $group);
-        return CondAuth('xmledit', $pn);
+        return CondAuth($pn, 'xmledit');
     }
     
     public static function IsAdmin($dmid, $group)
     {
         $pn = Utils::GetDMRPageName($dmid, $group);
-        return CondAuth('xmladmin', $pn);
+        return CondAuth($pn, 'xmladmin');
     }
     
 }

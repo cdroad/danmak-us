@@ -31,8 +31,3 @@ $VisitorsLoggingDateFormat = '%Y-%m-%d';
 $VisitorsLoggingTimeFormat = '%H:%M:%S';
 $VisitorsLoggingIgnoreList = array('127.0.0.1');
 include_once("$FarmD/cookbook/visitorslogging1337.php");
-
-$FarmPubDirUrl = 'http://'.$_SERVER['HTTP_HOST'].'/shared/pub';
-$EnablePathInfo = 1;
-$ScriptUrl = "http://".$_SERVER['HTTP_HOST'];
-Player::$playerBase = 'http://'.$_SERVER['HTTP_HOST'].'/static/players/';

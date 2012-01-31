@@ -17,8 +17,9 @@ include_once(DMF_ROOT_PATH."inc/class.Utils.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoData.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoSource.php");
 include_once(DMF_ROOT_PATH."inc/class.GroupConfig.php");
+include_once(DMF_ROOT_PATH."inc/class.XMLAuth.php");
 include_once(DMF_ROOT_PATH."inc/action.SetDefaultPlayer.php");
-
+Player::$playerBase = $ScriptUrl.'/static/players/';
 
 
 
