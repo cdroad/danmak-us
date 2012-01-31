@@ -1,4 +1,5 @@
 <?php
+//Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Unauthorized access!");
 abstract class DanmakuPoolBaseIO
 {
 	protected $file;
@@ -35,17 +36,26 @@ EOF;
 
 class StaticPoolIO extends DanmakuPoolBaseIO
 {
-    private $AuthPage;
+    private $id;
+    private $group;
     
 	public function __construct($dmid, $group)
 	{
         if (empty($group)) throw new Exception("No group spec!");
 		parent::__construct(utils::GetXMLFilePath($dmid, $group));
-		$this->AuthPage = Utils::GetDMRPageName($dmid, $group);
+		$this->id    = $dmid;
+		$this->group = $group;
 	}
 	
 	public function Load()
 	{
+        //如果没有 读取 权限
+        if ( !XMLAuth::IsRead($this->id, $this->group) ) {
+            Utils::WriteLog('StaticPoolIO::Load()', "{$this->group} :: {$this->id}  :: Unauthorized access!");
+            return $this->NullXMLObj;
+        }
+        
+        //文件不存在的情况
 		if (!file_exists($this->file))
 		{
 			return $this->NullXMLObj;
@@ -55,7 +65,7 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 		
 		if ($Obj === FALSE)
 		{
-			Utils::WriteLog('StaticPoolIO::Load()', 'simplexml_load_file :: FALSE!');
+            Utils::WriteLog('StaticPoolIO::Load()', "{$this->group} :: {$this->id}  :: simplexml_load_file :: FALSE! XML Broken!");
 			return $this->GenErrorXMLObj('静态池加载失败，请尝试XML校验。');
 		} else {
 			return $Obj;
@@ -64,8 +74,9 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 	
 	public function Save(SimpleXMLElement $Obj)
 	{
-        if (!CondAuth('edit', $this->AuthPage)) {
-            Utils::WriteLog('StaticPoolIO::Save()', 'CondAuth :: FALSE!');
+        if ( !XMLAuth::IsEdit($this->id, $this->group) ) {
+            Utils::WriteLog('StaticPoolIO::Save()', "{$this->group} :: {$this->id}  :: Unauthorized access!");
+            return;
         }
         
 		if (file_exists($this->file))
@@ -76,9 +87,9 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 		$result = file_put_contents($this->file, $Obj->saveXML(), LOCK_EX);
 		if ($result == FALSE)
 		{
-            Utils::WriteLog('StaticPoolIO::Save()', 'file_put_contents :: FALSE!');
+            Utils::WriteLog('StaticPoolIO::Save()', "{$this->group} :: {$this->id}  :: file_put_contents() :: FALSE !");
 		} else {
-            Utils::WriteLog('StaticPoolIO::Save()', 'file_put_contents :: Success!');
+            Utils::WriteLog('StaticPoolIO::Save()', "{$this->group} :: {$this->id}  :: file_put_contents() :: Success.");
         }
 	}
 	
@@ -86,16 +97,26 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 
 class DynamicPoolIO extends DanmakuPoolBaseIO
 {
+    private $id;
+    private $group;
+    
 	public function __construct($dmid, $group)
 	{
         if (empty($group)) throw new Exception("No group spec!");
 		parent::__construct(Utils::GetDMRPageName($dmid, $group));
+		$this->id    = $dmid;
+		$this->group = $group;
 	}
 	
 	public function Load()
 	{
-		$auth = 'read';
-		$page = RetrieveAuthPage($this->file, $auth, FALSE, READPAGE_CURRENT);
+        if ( !XMLAuth::IsRead($this->id, $this->group) ) {
+            Utils::WriteLog('DynamicPoolIO::Load()', "{$this->group} :: {$this->id}  :: Unauthorized access!");
+            return $this->NullXMLObj;
+        } else {        
+            $auth = 'read';
+            $page = RetrieveAuthPage($this->file, $auth, FALSE, READPAGE_CURRENT);
+        }
         
 		if (empty($page['text']))
 		{
@@ -110,7 +131,7 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 
 		if ($Obj === FALSE)
 		{
-			Utils::WriteLog('DynamicPoolIO::Load()', 'simplexml_load_string :: FALSE!');
+            Utils::WriteLog('DynamicPoolIO::Load()', "{$this->group} :: {$this->id}  :: simplexml_load_string :: FALSE!");
 			return $this->GenErrorXMLObj('动态池加载失败，请尝试XML校验。');
 		} else {
 			return $Obj;
@@ -119,9 +140,11 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 	
 	public function Save(SimpleXMLElement $Obj)
 	{
-        if (!CondAuth('edit', $this->file)) {
-            Utils::WriteLog('DynamicPoolIO::Save()', 'CondAuth :: FALSE!');
+        if ( !XMLAuth::IsEdit($this->id, $this->group) ) {
+            Utils::WriteLog('DynamicPoolIO::Save()', "{$this->group} :: {$this->id}  :: Unauthorized access!");
+            return;
         }
+        
         $auth = 'edit';
 		$new = $old = RetrieveAuthPage($this->file, $auth, FALSE, 0);
 		$danmakuS = $Obj->comment;
@@ -130,8 +153,11 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 		{
 			$new['text'] .= PHP_EOL.$danmaku->asXML(); 
 		}
-		UpdatePage($this->file, $old, $new);
-        Utils::WriteLog('DynamicPoolIO::Save()', 'UpdatePage() :: Done!');
+		if (UpdatePage($this->file, $old, $new)) {
+            Utils::WriteLog('DynamicPoolIO::Save()', "{$this->group} :: {$this->id}  :: UpdatePage() :: Done!");
+        } else {
+            Utils::WriteLog('DynamicPoolIO::Save()', "{$this->group} :: {$this->id}  :: UpdatePage() :: False!");
+        }
 	}
 	
 }
