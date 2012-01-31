@@ -10,22 +10,12 @@ $DefaultPasswords['admin'] = array('@admins');
 $DefaultPasswords['upload'] = array('@admins');
 $HandleAuth['delete'] = 'admin';
 
-$HandleAuth['xmlread'] = 'read';
-$HandleAuth['xmledit'] = 'edit';
-$HandleAuth['xmladmin'] = 'admin';
-
 include_once("$FarmD/cookbook/openid/KAuth.php");
 include_once("$FarmD/scripts/authuser.php");
 
 
 $EnablePostAttrClearSession = 0;
 $Skin = 'pmwikiGPT';
-## PmWiki未公开功能 等稳定后启用
-/*
-$PageCacheDir = './static/page';
-$PageListCacheDir = './static/pagelist';
-$EnableHTMLCache = 1;
-*/
 $MarkupCss = true;
 $EnableIMSCaching = 0;
 $EnableRelativePageVars = 1;
@@ -87,7 +77,10 @@ include_once("$FarmD/cookbook/uploadform.php");
 include_once("$FarmD/cookbook/PageGenerationTime.php");
 include_once("$FarmD/cookbook/HtmlMarkup.php");
 include_once("$FarmD/cookbook/CreatedBy.php");
-
+if ($action=='diff') {
+    $DiffCountPerPage = 10;
+    include_once("$FarmD/cookbook/limitdiffsperpage2.php");
+}
 $XESTagAuth = 'edit';
 include_once("$FarmD/cookbook/tagpages.php");
 $WikiStyleCSS[] = 'line-height';
@@ -98,11 +91,11 @@ $GroupHeaderFmt =
   '(:include {$SiteGroup}.AllGroupHeader:)(:nl:)'
   .'(:include {$Group}.GroupHeader:)(:nl:)';
 
-
-include("./cookbook/dmf_exp/DMF.php");
-
 if ( !(bool)preg_match("/^\/([A-Z0-9\xa0-\xff\?].*)/", $_SERVER['REQUEST_URI'])
       && !($_SERVER['REQUEST_URI'] == "/") ) {
     $pagename = $_REQUEST['n'] = $_REQUEST['pagename'] = 'Main/HomePage';
     $EnableCodeIgniter = TRUE;
 }
+
+define("DMF_ROOT_PATH", './cookbook/dmf_exp/');
+include(DMF_ROOT_PATH."DMF.php");

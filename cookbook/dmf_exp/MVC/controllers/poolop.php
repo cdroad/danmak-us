@@ -1,8 +1,8 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-include_once("./cookbook/dmf_exp/config.Twodland1.php");
-include_once("./cookbook/dmf_exp/config.Bilibili2.php");
-include_once("./cookbook/dmf_exp/config.Acfun2.php");
-include_once("./cookbook/dmf_exp/config.AcfunN1.php");
+include_once(DMF_ROOT_PATH."config.Twodland1.php");
+include_once(DMF_ROOT_PATH."config.Bilibili2.php");
+include_once(DMF_ROOT_PATH."config.Acfun2.php");
+include_once(DMF_ROOT_PATH."config.AcfunN1.php");
 //PoolOp / command / group / dmid / params
 //post move clear valid download
 

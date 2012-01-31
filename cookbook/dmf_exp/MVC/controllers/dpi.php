@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-include_once("./cookbook/dmf_exp/config.Twodland1.php");
+include_once(DMF_ROOT_PATH."config.Twodland1.php");
 class Dpi extends CI_Controller {
 
     //http://www.2dland.cn/watch/data/player/201002/225.xml?baka=0.945524160284549

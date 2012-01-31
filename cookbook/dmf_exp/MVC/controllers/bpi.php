@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-include_once("./cookbook/dmf_exp/config.Bilibili2.php");
+include_once(DMF_ROOT_PATH."config.Bilibili2.php");
 //Bilibili Player Interfaces
 //Bili播放器接口
 class Bpi extends CI_Controller {

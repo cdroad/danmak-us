@@ -1,2 +1,2 @@
 <?php if (!defined('PmWiki')) exit();
-include_once("./cookbook/dmf_exp/config.Acfun2.php");
+include_once(DMF_ROOT_PATH."config.Acfun2.php");

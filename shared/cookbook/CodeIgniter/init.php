@@ -73,7 +73,7 @@ if (defined('ENVIRONMENT'))
  * NO TRAILING SLASH!
  *
  */
-	$application_folder = 'cookbook/dmf_exp/MVC';
+	$application_folder = DMF_ROOT_PATH."MVC";
 
 /*
  * --------------------------------------------------------------------
