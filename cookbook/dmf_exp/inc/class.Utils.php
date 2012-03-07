@@ -43,7 +43,11 @@ class Utils
 	public static function GetDMRPageName($dmid, $group)
 	{
         $gc = self::GetGroupConfig($group);
-		return "DMR.{$gc->SUID}{$dmid}";
+        if ($dmid == "*") {
+            return "DMR.Default";
+        } else {
+            return "DMR.{$gc->SUID}{$dmid}";
+        }
 	}
 	
 	public static function GetIOClass($group, $dmid, $typeStr)

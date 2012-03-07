@@ -12,7 +12,7 @@ class Dpi extends CI_Controller {
     
     public function memberinfo()
     {
-        if (CondAuth('PI/Twodland', 'edit')) {
+        if (XMLAuth::IsEdit("*",'twodland') {
             die('{"uid":"1","username":"DMF用户","groupid":"1"}');
         } else {
             die('{"uid":0,"username":"","groupid":7}');

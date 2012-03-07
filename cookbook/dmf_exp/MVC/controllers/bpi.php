@@ -32,8 +32,7 @@ class Bpi extends CI_Controller {
             $data['ChatId'] = 0;
         }
         
-        $pn = 'DMR.Bilibili';
-        if (CondAuth($pn,'edit')) {
+        if (XMLAuth::IsEdit($_REQUEST['id'], 'Bilibili2')) {
             $data['AuthLevelString'] = $BilibiliAuthLevel->Danmakuer;
         } else {
             $data['AuthLevelString'] = $BilibiliAuthLevel->DefaultLevel;

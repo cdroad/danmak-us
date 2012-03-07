@@ -17,7 +17,7 @@ include_once("$FarmD/scripts/authuser.php");
 $EnablePostAttrClearSession = 0;
 $Skin = 'pmwikiGPT';
 $MarkupCss = true;
-$EnableIMSCaching = 0;
+$EnableIMSCaching = 1;
 $EnableRelativePageVars = 1;
 $EnableUndefinedTemplateVars = 0;
 $EnablePostAuthorRequired = 1;
