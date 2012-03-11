@@ -10,8 +10,9 @@ class AcfunN1GroupConfig extends GroupConfig
         $this->SUID = 'AN';
         $this->XMLFolderPath = './uploads/AcfunN1';
         $this->PlayersSet
-                    ->add('ac20111115', new Player('ac20111115.swf', 'Acfun播放器 (20111116)', 950, 432)) //TODO:大小未知
-                    ->addDefault('ac20111115');
+                    ->add('ac20111115', new Player('ac20111115.swf', 'Acfun播放器 (20111116)', 950, 432)) 
+                    ->add('ac20120304', new Player('ac20120304.swf', 'Acfun播放器 (20120304)', 950, 432))
+                    ->addDefault('ac20120304');
         
         $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
         $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
@@ -44,6 +45,7 @@ class AcfunN1GroupConfig extends GroupConfig
             $xmlstr .= (string)$danmaku;
         }
         $xmlstr .= '</comments>';
+        
         return simplexml_load_string($xmlstr);
     }
     

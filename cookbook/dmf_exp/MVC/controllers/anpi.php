@@ -86,4 +86,9 @@ class Anpi extends CI_Controller {
     {
         die('[]');
     }
+    
+    public function adsjson()
+    {
+        die('');
+    }
 }
