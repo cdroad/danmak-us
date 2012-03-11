@@ -1,5 +1,5 @@
-version=pmwiki-2.2.34 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11
 author=
 cauthor=
 charset=UTF-8
@@ -7,11 +7,14 @@ csum=
 ctime=1321192467
 host=127.0.0.1
 name=AcfunN1.HomePage
-rev=2
-targets=System.AcFastPostNew,AcfunN1.HomePageFull
-text=(:Title {$Group}.首页:)%0a%0a总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a新建页面:%0a* &nbsp;&nbsp;%25newwin%25[[System.AcFastPostNew|点此投稿]]%25%25%0a'''新版投稿说明企划中'''%0a'''目前投稿不支持单贴多视频'''%0a%0a弹幕文件:请使用acfun弹幕文件%0a%0a最新25个视频%0a(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a%0a%0a[[HomePageFull|点此围观全部视频列表]]%0a(:nogroupfooter:)%0a%0a
-time=1321428288
+rev=3
+targets=System.AcN1FastPostNew,AcfunN1.HomePageFull
+text=(:Title {$Group}.首页:)%0a%0a总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a新建页面:%0a* &nbsp;&nbsp;%25newwin%25[[System.AcN1FastPostNew|点此投稿]]%25%25%0a'''新版投稿说明企划中'''%0a'''目前投稿不支持单贴多视频'''%0a%0a弹幕文件:请使用acfun弹幕文件%0a%0a最新25个视频%0a(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a%0a%0a[[HomePageFull|点此围观全部视频列表]]%0a(:nogroupfooter:)%0a
+time=1331480429
 title=AcfunN1.首页
+author:1331480429=
+diff:1331480429:1321428288:=3,4c3,4%0a%3c 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a> %0a6c6%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.AcN1FastPostNew|点此投稿]]%25%25%0a---%0a> * &nbsp;&nbsp;%25newwin%25[[System.AcFastPostNew|点此投稿]]%25%25%0a17a18%0a> %0a
+host:1331480429=127.0.0.1
 author:1321428288=
 diff:1321428288:1321192467:=1,18c1%0a%3c (:Title {$Group}.首页:)%0a%3c %0a%3c 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a%3c 新建页面:%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.AcFastPostNew|点此投稿]]%25%25%0a%3c '''新版投稿说明企划中'''%0a%3c '''目前投稿不支持单贴多视频'''%0a%3c %0a%3c 弹幕文件:请使用acfun弹幕文件%0a%3c %0a%3c 最新25个视频%0a%3c (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a%3c %0a%3c %0a%3c [[HomePageFull|点此围观全部视频列表]]%0a%3c (:nogroupfooter:)%0a%3c %0a---%0a> 坑%0a\ No newline at end of file%0a
 host:1321428288=127.0.0.1
