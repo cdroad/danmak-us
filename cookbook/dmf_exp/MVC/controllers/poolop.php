@@ -62,7 +62,7 @@ class PoolOp extends CI_Controller {
 		
 		//header("Content-type: text/xml");
 		header("Content-type: text/plain");
-		if ($attach == 'true') {
+		if ($_GET['attach'] == 'true') {
 			header("Content-disposition: ".
 				"attachment; filename=\"".$group."_$dmid".".xml\"");
 		}
