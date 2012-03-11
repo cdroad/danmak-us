@@ -7,7 +7,7 @@ class Dmf extends CI_Controller {
             exit;
         }
         
-        $AllowedFileType = array("flv", "mp4", "m4a", "m4r", "m4v");
+        $AllowedFileType = array("flv", "mp4", "m4a", "m4r", "m4v", "hlv", "mp3");
         $BaseUrl = 'http://localhost/uploads/LocalVideo/';
         $D = "./uploads/LocalVideo";
         
