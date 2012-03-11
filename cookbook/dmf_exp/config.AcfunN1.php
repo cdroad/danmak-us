@@ -29,6 +29,10 @@ class AcfunN1GroupConfig extends GroupConfig
     }
 
     public function UploadFilePreProcess($str) {
+        $test = simplexml_load_string($str);
+        
+        if ($test !== FALSE) {return $test;}
+        
         $json = json_decode($str);
         if (is_null($json)) return false;
         $xmlstr = '<?xml version="1.0" encoding="UTF-8"?><comments>';
