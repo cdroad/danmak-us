@@ -94,6 +94,8 @@ class AcfunN1GroupConfig extends GroupConfig
 				return $obj;
 			case "information":
 				return $this->ConvertFromDataFormat($obj);
+            case "c":
+                return $this->ConvertFromCLFormat($obj);
 			default:
 				throw new UnexpectedValueException();
 		}
@@ -103,15 +105,42 @@ class AcfunN1GroupConfig extends GroupConfig
 	{
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->data as $comment) {
-            $pool = 1;
-            if ($comment->message['mode'] == '8') $pool = 2;
+            $pool = 0;
 			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef');
-            $danmaku->AddAttr($comment->playTime, $comment->message['mode'],
-                        $comment->message['fontsize'], $comment->message['color']);
+            $attrs = array(
+                    'playtime'  => $comment->playTime,
+                    'mode'      => $comment->message['mode'],
+                    'fontsize'  => $comment->message['fontsize'],
+                    'color'     => $comment->message['color']);
+            $danmaku->AddAttr($attrs);
 			$XMLString .= (string)$danmaku;
 		}
 		$XMLString .= "\r\n</comments>";
         
+		return simplexml_load_string($XMLString);
+	}
+	
+	public function ConvertFromCLFormat(SimpleXMLElement $Obj)
+	{
+		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
+		foreach ($Obj->l as $comment) {
+            $pool = 0;
+			$arrs = explode(",", $comment['i']);
+            $attrs = array(
+                'playtime'  => $arrs[0],
+                'mode'      => $arrs[3],
+                'fontsize'  => $arrs[1],
+                'color'     => $arrs[2]);
+            $text = (string)$comment;
+            if ($arrs[3] == "7")
+            { 
+                $text = stripslashes($text);
+            }
+            $danmaku = new DanmakuBuilder($text, $pool, 'deadbeef');
+            $danmaku->AddAttr($attrs);
+			$XMLString .= (string)$danmaku;
+		}
+		$XMLString .= "\r\n</comments>";
 		return simplexml_load_string($XMLString);
 	}
     
