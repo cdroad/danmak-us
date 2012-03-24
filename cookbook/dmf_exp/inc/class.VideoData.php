@@ -22,20 +22,19 @@ function DMF_RV($x)
 
 function DMF_SetUpPageMarkUp()
 {
-	Markup("PlayerLoader", 'split',"/\\(:PlayerLoader:\\)/e",
+	Markup("PlayerLoader", 'directives',"/\\(:PlayerLoader:\\)/e",
 		'keep(DMF_RV("PlayerLoadCode"))');
-	Markup("DMF_Messages", '<split',"/\\(:DMFMessage:\\)/e",
+	Markup("DMF_Messages", 'directives',"/\\(:DMFMessage:\\)/e",
 		'DMF_RV("Messages")'); 
-	Markup("DMBarLoader", '<split',"/\\(:DMBarLoader:\\)/e",
-		'DMF_RV("DanmakuBarCode")'); 
+	Markup("DMBarLoader", 'directives',"/\\(:DMBarLoader:\\)/e",
+		'PRR(DMF_RV("DanmakuBarCode"))'); 
 	Markup("PlayerLinkLoader", '<inline',"/\\(:PlayerLinkLoader:\\)/e",
 		'DMF_RV("PlayerLinkCode")'); 
-	Markup("PartLinkLoader", 'split',"/\\(:PartLinkLoader:\\)/e",
+	Markup("PartLinkLoader", '<inline',"/\\(:PartLinkLoader:\\)/e",
 		'DMF_RV("PartIndexCode")');
-
 }
 
-Markup("ObjInit", '_begin', "/\\(:ObjInit:\\)/e", 'ObjLoadFunc()');
+Markup("ObjInit", '<{$var}', "/\\(:ObjInit:\\)/e", 'ObjLoadFunc()');
 function ObjLoadFunc()
 {
 	global $VDN;
@@ -45,17 +44,8 @@ function ObjLoadFunc()
 
 class VideoData
 {
-	private $source;
-	private $sourcetype;
-	private $partIndex;
-
-	private $player;
-	private $muti;
-	private $pagename;
-	private $groupConfig;
-	
-	private $dmid;
-	
+    private $vpd;
+    
 	private $PlayerLoadCode;
 	private $DanmakuBarCode;
 	private $PlayerLinkCode;
@@ -67,7 +57,10 @@ class VideoData
 	public function __construct($pn)
 	{
 		$this->PlayerLoadCode = $GLOBALS['playerCodeHeader'];
-		$this->initVars($pn);
+		$this->vpd = new VideoPageData($pn);
+
+		if ( empty($this->vpd->VideoStr) && empty($this->vpd->VideoType) )
+            $this->stat = false;
 		if ($this->stat)
 		{
 			$this->initCodes();
@@ -81,64 +74,20 @@ class VideoData
 		return $this->$name;
 	}
 	
-	private function initVars($pn)
-	{
-		if (!PageExists($pn))  {assert (FALSE);$this->setBroken();return;}
-		$this->pagename = $pn;
-        $group = PageVar($this->pagename, '$Group');
-		$this->groupConfig = Utils::GetGroupConfig($group);
-		
-		$page = ReadPage($this->pagename);
-		
-		$this->source = PageVar($this->pagename,'$:VideoStr');
-		
-		$this->partIndex = intval($_REQUEST['Part']) > 1 ? intval($_REQUEST['Part']) : 1;
-		
-		$isRequestPartIndexExist = ($part > 1);
-		$PageVarResult = PageVar($this->pagename, '$:P'.$this->partIndex);
-		$isRequestPartIndexVaild = !empty($PageVarResult);
-		
-		$PartPreferPlayer = $page["PartPlayer_P".$this->partIndex];
-		$UserPreferPlayer = $_REQUEST['Player'];
-		if ( $this->groupConfig->PlayersSet->$UserPreferPlayer !== FALSE )
-		{
-			$this->player = $this->groupConfig->PlayersSet->$UserPreferPlayer;
-		}
-		else
-		if ( $this->groupConfig->PlayersSet->$PartPreferPlayer !== FALSE )
-		{
-			$this->player = $this->groupConfig->PlayersSet->$PartPreferPlayer;
-		}
-		else
-		{
-			$this->player = $this->groupConfig->PlayersSet->Default;
-		}
-        
-		$vt = PageVar($this->pagename,'$:VideoType');
-		if (is_null($this->groupConfig->VideoSourceSet->$vt))  {$this->setBroken();return;}
-		$this->sourcetype = $this->groupConfig->VideoSourceSet->$vt->init($this);
-		$this->muti = $this->sourcetype->MutiAble && PageVar($this->pagename, '$:IsMuti') == 'true';
-		if ($this->muti && $isRequestPartIndexExist && $isRequestPartIndexVaild)
-		{
-			$this->partIndex = $this->partIndex;
-		} 
-		$this->dmid = $this->sourcetype->danmakuId;
-	}
-	
 	private function initCodes()
 	{
 		$this->initDanmakuBarCode();
 		$this->initPartIndexCode();
 		$this->initPlayerLinkCode();
 		$this->initPlayerLoadCode();
-		$this->Messages = "{$this->player->desc} -> {$this->sourcetype->getType()}( \"{$this->sourcetype->danmakuId}\" ))";
+		$this->Messages = "{$this->vpd->Player->desc} -> {$this->vpd->VideoType->getType()}( \"{$this->vpd->DanmakuId}\" ))";
 	}
 	
 	private function initPageVars()
 	{
-		$strBool = $this->muti ? "true" : "false";
+		$strBool = $this->vpd->IsMuti ? "true" : "false";
 		$this->saveFPV('$IsMuti', $strBool);
-		$this->saveFPV('$DMID', $this->dmid);
+		$this->saveFPV('$DMID', $this->vpd->DanmakuId);
 		$this->saveFPV('$Stats', "true");
 		$this->saveFPV('$host', $GLOBALS['ScriptUrl']);
 	}
@@ -154,7 +103,7 @@ class VideoData
 	
 	private function initPlayerLoadCode()
 	{
-		$AFVArray = $this->groupConfig->GenerateFlashVarArr($this);
+		$AFVArray = $this->vpd->GroupConfig->GenerateFlashVarArr($this->vpd);
 		$this->PlayerLoadCode .= $this->AFVArrayToJavascript($AFVArray);
 		
 		//加载SWF
@@ -163,9 +112,9 @@ class VideoData
 	
 	private function genSWFObjectCode()
 	{
-		return "swfobject.embedSWF(\"".$this->player->playerUrl.
-			"\", \"flashcontent\", \"".$this->player->width.
-			"\", \"".$this->player->height.
+		return "swfobject.embedSWF(\"".$this->vpd->Player->playerUrl.
+			"\", \"flashcontent\", \"".$this->vpd->Player->width.
+			"\", \"".$this->vpd->Player->height.
 			"\", \"10.0.0\",\"expressInstall.swf\", flashvars, params);</script>";	
 	}
 	
@@ -180,21 +129,21 @@ class VideoData
 	
 	private function initDanmakuBarCode()
 	{
-		$this->DanmakuBarCode = '||'.$this->groupConfig->DanmakuBarSet->getString($this).'||';
+		$this->DanmakuBarCode = '||'.$this->vpd->GroupConfig->DanmakuBarSet->getString($this).'||';
 	}
 	
 	private function initPlayerLinkCode()
 	{
-		$isPreferPlayerAuthed = CondAuth($this->pagename, 'admin');
-		$URL = PageVar($this->pagename, '$PageUrl');
-		foreach ($this->groupConfig->PlayersSet as $playerId => $playerObj)
+		$isPreferPlayerAuthed = CondAuth($this->vpd->Pagename, 'admin');
+		$URL = PageVar($this->vpd->Pagename, '$PageUrl');
+		foreach ($this->vpd->GroupConfig->PlayersSet as $playerId => $playerObj)
 		{
 			if ($playerId == 'default')
 			{
 				continue;
 			}
 
-			if ($this->player->playerUrl == $playerObj->playerUrl)
+			if ($this->vpd->Player->playerUrl == $playerObj->playerUrl)
 			{
 				$this->PlayerLinkCode .= 
 					"&nbsp;&nbsp;'''".$playerObj->desc."'''";
@@ -215,12 +164,12 @@ class VideoData
 	private function initPartIndexCode()
 	{
 		$index = 1;
-		$URL = PageVar($this->pagename, '$PageUrl');
-		while ($Part = PageVar($this->pagename, '$:P'.$index))
+		$URL = PageVar($this->vpd->Pagename, '$PageUrl');
+		while ($Part = PageVar($this->vpd->Pagename, '$:P'.$index))
 		{
 			assert(!empty($Part));
 			
-			if ($index == $this->partIndex)
+			if ($index == $this->vpd->PartNo)
 			{
 				$this->PartIndexCode .= 
 					'&nbsp;&nbsp;'."'''P$index'''".'&nbsp;&nbsp;';

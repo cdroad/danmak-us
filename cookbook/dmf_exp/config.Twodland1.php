@@ -31,18 +31,18 @@ class Twodland1GroupConfig extends GroupConfig
         return simplexml_load_string($str);
     }
     
-	public function GenerateFlashVarArr(VideoData $source)
+	public function GenerateFlashVarArr(VideoPageData $vdp)
 	{
 		$AFVArray = array();
-		$AFVArray['dir'] = strtoupper($source->sourcetype->getType());
-		$AFVArray['vid'] = $source->dmid;
+		$AFVArray['dir'] = strtoupper($vdp->VideoType->getType());
+		$AFVArray['vid'] = $vdp->DanmakuId;
         
-        if (strtoupper($source->sourcetype->getType()) == "NOR") {
+        if (strtoupper($vdp->VideoType->getType()) == "NOR") {
             $type = 'sina';
-            $part = "<vid>{$source->dmid}</vid>";
+            $part = "<vid>{$vdp->DanmakuId}</vid>";
         } else {
             $type = 'other';
-            $url = urldecode($source->sourcetype->source);
+            $url = urldecode($vdp->VideoStr);
             $part = "<url>$url</url>";
         }
         $contents = <<<CONT
@@ -53,7 +53,7 @@ class Twodland1GroupConfig extends GroupConfig
   </part>
 </parts>
 CONT;
-        $targetFile = './static/page/'.md5($source->dmid).'.xml';
+        $targetFile = './static/page/'.md5($vdp->DanmakuId).'.xml';
         file_put_contents($targetFile, $contents, LOCK_EX);
 		return $AFVArray;
 	}

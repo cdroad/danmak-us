@@ -1,0 +1,25 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+author=dm.mikufans@gmail.com
+cauthor=dm.mikufans@gmail.com
+charset=UTF-8
+csum=
+ctime=1332581432
+host=127.0.0.1
+name=System.VideoFooter
+rev=4
+targets=
+text=(:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a(:cell:)%0a>>recipeinfo%3c%3c%0a(:if2 ! enabled LOCALVERSION:)%0a来源: {*$:sourcelink}%0a(:if2end:)%0a(:if2 auth edit:)%0a(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0aTags:	(:includeTag:)&nbsp;&nbsp;(:input text "Tags" size="6":)(:input submit value="追加Tag":)%0a(:input end:)%0a(:else2:)%0aTags:	(:includeTag:)&nbsp;&nbsp;%0a(:if2end:)%0a(:DMFMessage:)%0a(:messages:)%0a(:if2 [ ! auth admin && enabled LOCALVERSION ] :)%25red%25 乃还没有登录，弹幕发送不予保存。%25%25(:if2end:)%0a>>%3c%3c%0a(:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a(:if2 equal "{*$IsMuti}" "true" :)%0a>>font-size:small%3c%3c%0a'''分P资料:'''%0a(:include {*$FullName}#partinfo#partend :)%0a>>%3c%3c%0a-----%0a(:if2end:)%0a'''备注:'''(:include {*$BaseName}#comment#commentend :)%0a(:cellnr width=950  :)%0a----%0a(:DMBarLoader:)%0a>>id=flashcontent%3c%3c%0a>>%3c%3c%0a(:PlayerLoader:)%0a(:cellnr width=950 :)%0a----%0a(:if2 equal "{*$IsMuti}" "true" :)%0a切换Part: (:PartLinkLoader:)%0a(:if2end:)%0a切换播放器：(:PlayerLinkLoader:)%0a(:tableend:)
+time=1332608523
+author:1332608523=dm.mikufans@gmail.com
+diff:1332608523:1332608496:=0a1%0a> {*$FullName}%0a
+host:1332608523=127.0.0.1
+author:1332608496=dm.mikufans@gmail.com
+diff:1332608496:1332608385:=1d0%0a%3c {*$FullName}%0a
+host:1332608496=127.0.0.1
+author:1332608385=dm.mikufans@gmail.com
+diff:1332608385:1332581432:=
+host:1332608385=127.0.0.1
+author:1332581432=dm.mikufans@gmail.com
+diff:1332581432:1332581432:=1,39d0%0a%3c (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a%3c (:cell:)%0a%3c >>recipeinfo%3c%3c%0a%3c (:if2 ! enabled LOCALVERSION:)%0a%3c 来源: {*$:sourcelink}%0a%3c (:if2end:)%0a%3c (:if2 auth edit:)%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;(:input text "Tags" size="6":)(:input submit value="追加Tag":)%0a%3c (:input end:)%0a%3c (:else2:)%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;%0a%3c (:if2end:)%0a%3c (:DMFMessage:)%0a%3c (:messages:)%0a%3c (:if2 [ ! auth admin && enabled LOCALVERSION ] :)%25red%25 乃还没有登录，弹幕发送不予保存。%25%25(:if2end:)%0a%3c >>%3c%3c%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a%3c (:if2 equal "{*$IsMuti}" "true" :)%0a%3c >>font-size:small%3c%3c%0a%3c '''分P资料:'''%0a%3c (:include {*$FullName}#partinfo#partend :)%0a%3c >>%3c%3c%0a%3c -----%0a%3c (:if2end:)%0a%3c '''备注:'''(:include {*$BaseName}#comment#commentend :)%0a%3c (:cellnr width=950  :)%0a%3c ----%0a%3c (:DMBarLoader:)%0a%3c >>id=flashcontent%3c%3c%0a%3c >>%3c%3c%0a%3c (:PlayerLoader:)%0a%3c (:cellnr width=950 :)%0a%3c ----%0a%3c (:if2 equal "{*$IsMuti}" "true" :)%0a%3c 切换Part: (:PartLinkLoader:)%0a%3c (:if2end:)%0a%3c 切换播放器：(:PlayerLinkLoader:)%0a%3c (:tableend:)%0a\ No newline at end of file%0a
+host:1332581432=127.0.0.1

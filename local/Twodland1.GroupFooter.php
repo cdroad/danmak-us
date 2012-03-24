@@ -1,0 +1,2 @@
+<?php
+DisableMarkup("ObjInit");

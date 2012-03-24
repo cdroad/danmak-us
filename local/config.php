@@ -17,7 +17,7 @@ include_once("$FarmD/scripts/authuser.php");
 $EnablePostAttrClearSession = 0;
 $Skin = 'pmwikiGPT';
 $MarkupCss = true;
-$EnableIMSCaching = 1;
+$EnableIMSCaching = 0;
 $EnableRelativePageVars = 1;
 $EnableUndefinedTemplateVars = 0;
 $EnablePostAuthorRequired = 1;
@@ -83,7 +83,15 @@ if ($action=='diff') {
 }
 $XESTagAuth = 'edit';
 include_once("$FarmD/cookbook/tagpages.php");
+include_once("./cookbook/QueryExpr.php");
 $WikiStyleCSS[] = 'line-height';
+
+if (empty($Author) && !empty($AuthId)) $Author = $AuthId;
+$RecentChangesFmt = array(
+  '$SiteGroup.AllRecentChanges' => 
+    '* [[{$Group}.{$Name}]]  . . . $CurrentTime $[by] $Author: [=$ChangeSummary=]',
+  '$Group.RecentChanges' =>
+    '* [[{$Group}/{$Name}]]  . . . $CurrentTime $[by] $Author: [=$ChangeSummary=]');
 
 //include_once("$FarmD/scripts/urlapprove.php");
 $UrlLinkFmt = "<a class='urllink' href='\$LinkUrl' >\$LinkText</a>";

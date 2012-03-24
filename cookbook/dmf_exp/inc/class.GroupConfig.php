@@ -30,7 +30,7 @@ abstract class GroupConfig
         $this->DanmakuBarSet = new DanmakuBarSet($this);
     }
     
-    public abstract function GenerateFlashVarArr(VideoData $source);
+    public abstract function GenerateFlashVarArr(VideoPageData $vdp);
     
     public abstract function ConvertToUniXML(SimpleXMLElement $obj);
 }

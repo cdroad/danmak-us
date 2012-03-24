@@ -14,6 +14,7 @@ include_once(DMF_ROOT_PATH."inc/class.DanmakuBuilder.php");
 include_once(DMF_ROOT_PATH."inc/class.DanmakuXPathBuilder.php");
 include_once(DMF_ROOT_PATH."inc/class.Player.php");
 include_once(DMF_ROOT_PATH."inc/class.Utils.php");
+include_once(DMF_ROOT_PATH."inc/class.VideoPageData.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoData.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoSource.php");
 include_once(DMF_ROOT_PATH."inc/class.GroupConfig.php");

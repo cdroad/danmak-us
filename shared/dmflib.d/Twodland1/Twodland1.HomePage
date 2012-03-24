@@ -1,17 +1,28 @@
-version=pmwiki-2.2.34 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
-author=
-cauthor=
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+author=dm.mikufans@gmail.com
+cauthor=dm.mikufans@gmail.com
 charset=UTF-8
 csum=
 ctime=1321160147
 host=127.0.0.1
 name=Twodland1.HomePage
-rev=2
-targets=System.2dFastPostNew,Twodland1.HomePageFull
-text=(:Title {$Group}.首页:)%0a%0a总投稿量:(:pagelist group=Twodland1 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a新建页面:%0a* &nbsp;&nbsp;%25newwin%25[[System.2dFastPostNew|点此投稿]]%25%25%0a%0a最新25个视频%0a(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a%0a%0a[[HomePageFull|点此围观全部视频列表]]%0a(:nogroupfooter:)
-time=1321863049
-title=Twodland1.首页
+rev=6
+targets=
+text=(:include System.HomePageTmpl#begin#end:)%0a(:nogroupfooter:)
+time=1332574455
+author:1332574455=dm.mikufans@gmail.com
+diff:1332574455:1332574152:=1c1%0a%3c (:include System.HomePageTmpl#begin#end:)%0a---%0a> (:include System.HomePageTmpl#begin#end PromptName=2DLand:)%0a
+host:1332574455=127.0.0.1
+author:1332574152=dm.mikufans@gmail.com
+diff:1332574152:1332573183:=1c1%0a%3c (:include System.HomePageTmpl#begin#end PromptName=2DLand:)%0a---%0a> (:include System.HomePageTmpl#begin#end PostPageName=System.2dFastPostNew:)%0a
+host:1332574152=127.0.0.1
+author:1332573183=
+diff:1332573183:1332572481:=1c1,12%0a%3c (:include System.HomePageTmpl#begin#end PostPageName=System.2dFastPostNew:)%0a---%0a> (:Title {$Group}.首页:)%0a> %0a> 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a> %0a> 新建页面:%0a> * &nbsp;&nbsp;%25newwin%25[[System.2dFastPostNew|点此投稿]]%25%25%0a> %0a> 投稿列表：%0a> (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a> %0a> %0a> [[HomePage?count=0|点此围观全部视频列表]]%0a
+host:1332573183=127.0.0.1
+author:1332572481=
+diff:1332572481:1321863049:=3,4c3,4%0a%3c 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist group=Twodland1 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a> %0a8,12c8,12%0a%3c 投稿列表：%0a%3c (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a%3c %0a%3c %0a%3c [[HomePage?count=0|点此围观全部视频列表]]%0a---%0a> 最新25个视频%0a> (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a> %0a> %0a> [[HomePageFull|点此围观全部视频列表]]%0a
+host:1332572481=127.0.0.1
 author:1321863049=
 diff:1321863049:1321160147:=6c6%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.2dFastPostNew|点此投稿]]%25%25%0a---%0a> * &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostNew|点此投稿]]%25%25%0a
 host:1321863049=127.0.0.1

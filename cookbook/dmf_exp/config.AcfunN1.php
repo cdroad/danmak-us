@@ -53,13 +53,13 @@ class AcfunN1GroupConfig extends GroupConfig
         return simplexml_load_string($xmlstr);
     }
     
-	public function GenerateFlashVarArr(VideoData $source)
+	public function GenerateFlashVarArr(VideoPageData $source)
 	{
 		$AFVArray = array();
-	    switch (strtoupper($source->sourcetype->getType()))
+	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
-	            $AFVArray['vid'] = $source->dmid;
+	            $AFVArray['vid'] = $source->DanmakuId;
 	        break;
 	        
 			case "QQ":
@@ -70,16 +70,16 @@ class AcfunN1GroupConfig extends GroupConfig
 			case "LINK":
 			case "BLINK":
 			case "LOCAL":
-				$AFVArray['id'] = $source->dmid;
-				$AFVArray['file'] = $source->sourcetype->source;
+				$AFVArray['id'] = $source->DanmakuId;
+				$AFVArray['file'] = $source->VideoStr;
 	        break;
 	        
 			case "YK":
-				$AFVArray['ykid'] = $source->dmid;
+				$AFVArray['ykid'] = $source->DanmakuId;
 	        break;
 	        
 			default:
-				echo "$source->sourcetype->getType(): $source->dmid : $source->sourcetype->source";
+				echo "$source->VideoType->getType(): $source->DanmakuId : $source->VideoStr";
 				assert(false);
 	        break;
 	    }

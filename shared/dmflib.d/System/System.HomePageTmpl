@@ -1,0 +1,47 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+author=dm.mikufans@gmail.com
+cauthor=dm.mikufans@gmail.com
+charset=UTF-8
+csum=
+ctime=1332572660
+host=127.0.0.1
+name=System.HomePageTmpl
+rev=11
+targets=System.UniPostPage,System.HomePage
+text=(:if false:)%0a[[#begin]]%0a(:Title {*$Group}.首页:)%0a%0a总投稿量:(:pagelist group={*$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a新建页面:%0a* &nbsp;&nbsp;%25newwin%25[[System.UniPostPage?group={*$Group}|点此投稿]]%25%25%0a%0a投稿列表：%0a(:pagelist group={*$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a%0a%0a[[{*$Group}/HomePage?count=0|点此围观全部视频列表]]%0a(:nogroupfooter:)%0a[[#end]]%0a(:ifend:)
+time=1332580466
+title=System.首页
+author:1332580466=dm.mikufans@gmail.com
+diff:1332580466:1332574569:=
+host:1332580466=127.0.0.1
+author:1332574569=dm.mikufans@gmail.com
+diff:1332574569:1332574547:=8c8%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.UniPostPage?group={*$Group}|点此投稿]]%25%25%0a---%0a> * &nbsp;&nbsp;%25newwin%25[[{System.UniPostPage?group={*$Group}}|点此投稿]]%25%25%0a
+host:1332574569=127.0.0.1
+author:1332574547=dm.mikufans@gmail.com
+diff:1332574547:1332573112:=8c8%0a%3c * &nbsp;&nbsp;%25newwin%25[[{System.UniPostPage?group={*$Group}}|点此投稿]]%25%25%0a---%0a> * &nbsp;&nbsp;%25newwin%25[[{$$PostPageName}|点此投稿]]%25%25%0a
+host:1332574547=127.0.0.1
+author:1332573112=
+diff:1332573112:1332573098:=14c14%0a%3c [[{*$Group}/HomePage?count=0|点此围观全部视频列表]]%0a---%0a> [[HomePage?count=0|点此围观全部视频列表]]%0a
+host:1332573112=127.0.0.1
+author:1332573098=
+diff:1332573098:1332573083:=3,4c3,4%0a%3c (:Title {*$Group}.首页:)%0a%3c %0a---%0a> (:Title {$Group}.首页:)%0a> %0a11c11%0a%3c (:pagelist group={*$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a---%0a> (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a
+host:1332573098=127.0.0.1
+author:1332573083=
+diff:1332573083:1332573060:=5c5%0a%3c 总投稿量:(:pagelist group={*$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a---%0a> 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a
+host:1332573083=127.0.0.1
+author:1332573060=
+diff:1332573060:1332573052:=5c5%0a%3c 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a---%0a> 总投稿量:(:pagelist group={=$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a
+host:1332573060=127.0.0.1
+author:1332573052=
+diff:1332573052:1332573038:=5c5%0a%3c 总投稿量:(:pagelist group={=$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a---%0a> 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a
+host:1332573052=127.0.0.1
+author:1332573038=
+diff:1332573038:1332572723:=5c5%0a%3c 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a---%0a> 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a
+host:1332573038=127.0.0.1
+author:1332572723=
+diff:1332572723:1332572660:=8c8%0a%3c * &nbsp;&nbsp;%25newwin%25[[{$$PostPageName}|点此投稿]]%25%25%0a---%0a> * &nbsp;&nbsp;%25newwin%25[[System.AcFastPostNew|点此投稿]]%25%25%0a
+host:1332572723=127.0.0.1
+author:1332572660=
+diff:1332572660:1332572660:=1,17d0%0a%3c (:if false:)%0a%3c [[#begin]]%0a%3c (:Title {$Group}.首页:)%0a%3c %0a%3c 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a%3c 新建页面:%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.AcFastPostNew|点此投稿]]%25%25%0a%3c %0a%3c 投稿列表：%0a%3c (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a%3c %0a%3c %0a%3c [[HomePage?count=0|点此围观全部视频列表]]%0a%3c (:nogroupfooter:)%0a%3c [[#end]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1332572660=127.0.0.1

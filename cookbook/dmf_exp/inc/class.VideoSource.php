@@ -7,41 +7,9 @@ abstract class VideoSourceBase
 	protected $MutiAble;
 	protected $UrlConvert;
 	
-	protected $danmakuId;
-	protected $source;
-	
 	abstract public function getType();
 	
-	public function init(VideoData $dataSource)
-	{
-		
-		if ($this->PageNameAsDanmakuId)
-		{
-			$this->danmakuId = PageVar($dataSource->pagename, '$Name');
-		} else {
-			$this->danmakuId = $dataSource->source;
-		}
-		
-		if ($this->MutiAble && $dataSource->PartIndex > 1)
-		{
-			$this->warpDanmakuId($dataSource);
-		}
-		
-		if ($this->UrlConvert)
-		{
-			$this->source = $this->convertVideoUrl($dataSource);
-		} else {
-			$this->source = $this->danmakuId;
-		}
-		return $this;
-	}
-	
-	public function warpDanmakuId($dataSource)
-	{
-		$this->danmakuId .= "P".$dataSource->partIndex; 
-	}
-	
-	public function convertVideoUrl(VideoData $dataSource)
+	public function convertVideoUrl($str)
 	{
 		
 	}
@@ -95,11 +63,11 @@ class QQSource extends VideoSourceBase
 		return "qq";
 	}
 	
-	public function convertVideoUrl($dataSource)
+	public function convertVideoUrl($str)
 	{
 		return rawurlencode(
 			'https://secure.bluehost.com/~twodland/dmf/index.php?n=Main.Flvcache&action=GetFlvUrl&vid='.
-			$dataSource->source);
+			$str);
 	}
 }
 
@@ -130,9 +98,9 @@ class URLSource extends VideoSourceBase
 		return "url";
 	}
 	
-	public function convertVideoUrl($dataSource)
+	public function convertVideoUrl($str)
 	{
-		return rawurlencode($dataSource->source);
+		return rawurlencode($str);
 	}
 }
 
@@ -149,10 +117,10 @@ class BURLSource extends VideoSourceBase
 		return "burl";
 	}
 	
-	public function convertVideoUrl($dataSource)
+	public function convertVideoUrl($str)
 	{
 		return rawurlencode('http://pl.bilibili.us/'.
-			str_replace(array("levelup"),"/",$dataSource->source).
+			str_replace(array("levelup"),"/",$str).
 			'.flv');
 	}
 }
@@ -170,9 +138,9 @@ class LocalSource extends VideoSourceBase
 		return "local";
 	}
 	
-	public function convertVideoUrl($dataSource)
+	public function convertVideoUrl($str)
 	{
-		return rawurlencode($dataSource->source);
+		return rawurlencode($str);
 	}
 }
 

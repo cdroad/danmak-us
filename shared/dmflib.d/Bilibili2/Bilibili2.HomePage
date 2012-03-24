@@ -1,5 +1,5 @@
-version=pmwiki-2.2.27 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
 author=
 cauthor=
 charset=UTF-8
@@ -10,11 +10,16 @@ name=Bilibili2.HomePage
 passwddelete=@lock
 passwdedit=@lock
 passwdupload=@lock
-rev=24
-targets=System.BiliFastPostNew,Bilibili2.HomePageFull
-text=(:Title {$Group}.首页:)%0a%0a总投稿量:(:pagelist group=Bilibili2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a新建页面:%0a* &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostNew|点此投稿]]%25%25%0a%0a最新25个视频%0a(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a%0a%0a[[HomePageFull|点此围观全部视频列表]]%0a(:nogroupfooter:)
-time=1310745736
-title=Bilibili2.首页
+rev=26
+targets=
+text=(:include System.HomePageTmpl#begin#end PostPageName=System.BiliFastPostNew:)%0a(:nogroupfooter:)
+time=1332573171
+author:1332573171=
+diff:1332573171:1332572457:=1c1,12%0a%3c (:include System.HomePageTmpl#begin#end PostPageName=System.BiliFastPostNew:)%0a---%0a> (:Title {$Group}.首页:)%0a> %0a> 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a> %0a> 新建页面:%0a> * &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostNew|点此投稿]]%25%25%0a> %0a> 投稿列表：%0a> (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a> %0a> %0a> [[HomePage?count=0|点此围观全部视频列表]]%0a
+host:1332573171=127.0.0.1
+author:1332572457=
+diff:1332572457:1310745736:=3,4c3,4%0a%3c 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist group=Bilibili2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a> %0a8,12c8,12%0a%3c 投稿列表：%0a%3c (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a%3c %0a%3c %0a%3c [[HomePage?count=0|点此围观全部视频列表]]%0a---%0a> 最新25个视频%0a> (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a> %0a> %0a> [[HomePageFull|点此围观全部视频列表]]%0a
+host:1332572457=127.0.0.1
 author:1310745736=
 diff:1310745736:1310745705:=6a7%0a> '''目前投稿不支持单贴多视频'''%0a
 host:1310745736=127.0.0.1
