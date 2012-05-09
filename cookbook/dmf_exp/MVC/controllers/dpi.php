@@ -7,7 +7,7 @@ class Dpi extends CI_Controller {
     {
         if ($para2 == null) return $this->forbidden();
         $file = './static/page/'.md5(substr($para2,0,-4)).'.xml';
-        echo readfile($file);exit;
+        echo file_get_contents($file);exit;
     }
     
     public function memberinfo()
