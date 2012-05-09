@@ -8,8 +8,8 @@ class Twodland1GroupConfig extends GroupConfig
         $this->AllowedXMLFormat = array('comments', 'raw');
         $this->SUID = 'D';
         $this->XMLFolderPath = './uploads/Twodland1';
-        $this->PlayersSet->add('2dl20111024', new Player('2dl20111024.swf', '2dland播放器(20111024)', 950, 512))
-                ->addDefault('2dl20111024');
+        $this->PlayersSet->add('2dl20111204', new Player('2dl20111204.swf', '2dland播放器(20111024)', 950, 512))
+                ->addDefault('2dl20111204');
         
         
         
