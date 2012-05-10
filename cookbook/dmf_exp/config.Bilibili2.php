@@ -116,12 +116,13 @@ class Bilibili2GroupConfig extends GroupConfig
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->d as $comment) {
 			$arr = explode(",", $comment['p']);
-			$danmaku = new DanmakuBuilder((string)$comment, $arr[5], 'deadbeef');
+			
             $attrs = array(
                     'playtime'  => $arr[0],
                     'mode'      => $arr[1],
                     'fontsize'  => $arr[2],
                     'color'     => $arr[3],);
+            $danmaku = new DanmakuBuilder((string)$comment, $arr[5], $arr[6]);
             $danmaku->AddAttr($attrs);
 			$XMLString .= (string)$danmaku;
 		}

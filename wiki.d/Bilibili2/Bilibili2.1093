@@ -1,0 +1,17 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+author=Admin
+cauthor=Admin
+charset=UTF-8
+csum=
+ctime=1336653609
+host=127.0.0.1
+name=Bilibili2.1093
+rev=1
+targets=
+text=%0a(:VideoStr:49347994:)%0a(:title 【U.N.】早乙女の遊戯そして流儀 :)%0a(:sourcelink:http://www.bilibili.tv/video/av75775/:)%0a(:VideoType:Nor:)%0a(:IsMuti::)%0a(:if false:)%0a[[#comment]]%0a%0a[[#commentend]]%0a[[#partinfo]]%0a[[#partend]]%0a(:ifend:)
+time=1336653609
+title=【U.N.】早乙女の遊戯そして流儀 
+author:1336653609=Admin
+diff:1336653609:1336653609:=1,13d0%0a%3c %0a%3c (:VideoStr:49347994:)%0a%3c (:title 【U.N.】早乙女の遊戯そして流儀 :)%0a%3c (:sourcelink:http://www.bilibili.tv/video/av75775/:)%0a%3c (:VideoType:Nor:)%0a%3c (:IsMuti::)%0a%3c (:if false:)%0a%3c [[#comment]]%0a%3c %0a%3c [[#commentend]]%0a%3c [[#partinfo]]%0a%3c [[#partend]]%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1336653609=127.0.0.1
