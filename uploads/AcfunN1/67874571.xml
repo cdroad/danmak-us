@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comments>
+<comment id="2118962490" poolid="0" userhash="55300" sendtime="1323861113">
+	<text>{"l":0,"n":"星空之所以美丽，","t":0,"c":0,"z":[{"t":1,"l":1},{"l":11},{"t":0,"l":1}],"b":true,"p":{"y":100,"x":100},"a":0}</text>
+	<attr id="0" playtime="0.3" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="196955203" poolid="0" userhash="55300" sendtime="1323861115">
+	<text>{"l":2,"n":"\r是因为不管黑暗如何蔓延，\r都有星星的光芒去把它照亮。","t":0,"c":0,"z":[{"t":1,"l":1},{"l":9},{"t":0,"l":1}],"b":true,"p":{"y":100,"x":100},"a":0}</text>
+	<attr id="0" playtime="0.3" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="881939057" poolid="0" userhash="55300" sendtime="1323861117">
+	<text>{"l":4.5,"n":"\r\r\r找到和自己一样的星星，\r把前方的路照亮吧！","t":0,"c":0,"z":[{"t":1,"l":1},{"l":6.5},{"t":0,"l":1}],"b":true,"p":{"y":100,"x":100},"a":0}</text>
+	<attr id="0" playtime="0.3" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="826557392" poolid="0" userhash="55300" sendtime="1323861520">
+	<text>{"l":7,"n":"\r\r\r\r\r所以，有绝望的地方，","t":0,"c":0,"z":[{"t":1,"l":1},{"l":4},{"t":0,"l":1}],"b":true,"p":{"y":100,"x":100},"a":0}</text>
+	<attr id="0" playtime="0.3" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1550681702" poolid="0" userhash="55300" sendtime="1323861522">
+	<text>{"l":9,"n":"\r\r\r\r\r\r就有希望产生……","t":0,"c":0,"z":[{"t":1,"l":1},{"l":2},{"t":0,"l":1}],"b":true,"p":{"y":100,"x":100},"a":0}</text>
+	<attr id="0" playtime="0.3" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1360073176" poolid="0" userhash="55300" sendtime="1323861767">
+	<text>{"l":10.7,"n":"\r\r\r\r\r\r\r对吧？","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":1},{"t":0,"l":1}],"b":true,"p":{"y":100,"x":100},"a":0}</text>
+	<attr id="0" playtime="0.3" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="96273536" poolid="0" userhash="55300" sendtime="1323863816">
+	<text>{"l":0,"n":"“爸爸，要去那么恐怖的黑洞，你不害怕吗？”","t":0,"c":0,"z":[{"t":1,"l":0.7},{"l":0.7},{"t":0,"l":0.7}],"b":true,"p":{"y":900,"x":20},"a":0}</text>
+	<attr id="0" playtime="292.4" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1527473303" poolid="0" userhash="55300" sendtime="1323863817">
+	<text>{"l":2.5,"n":"“当然害怕啊！”","t":0,"c":0,"z":[{"t":1,"l":0.7},{"l":0.7},{"t":0,"l":0.7}],"b":true,"p":{"y":900,"x":320},"a":0}</text>
+	<attr id="0" playtime="292.4" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1806831461" poolid="0" userhash="55300" sendtime="1323863819">
+	<text>{"l":5,"n":"“真不威风哎！”","t":0,"c":0,"z":[{"t":1,"l":0.7},{"l":0.7},{"t":0,"l":0.7}],"b":true,"p":{"y":900,"x":320},"a":0}</text>
+	<attr id="0" playtime="292.4" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="361129067" poolid="0" userhash="55300" sendtime="1323863820">
+	<text>{"l":7.5,"n":"“那你为什么还要做那些危险的事啊”","t":0,"c":0,"z":[{"t":1,"l":0.7},{"l":0.7},{"t":0,"l":0.7}],"b":true,"p":{"y":900,"x":120},"a":0}</text>
+	<attr id="0" playtime="292.4" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="971851049" poolid="0" userhash="55300" sendtime="1323863822">
+	<text>{"l":10,"n":"“因为在这宇宙里，永远存在着一种人啊。”","t":0,"c":0,"z":[{"t":1,"l":0.7},{"l":0.7},{"t":0,"l":0.7}],"b":true,"p":{"y":900,"x":50},"a":0}</text>
+	<attr id="0" playtime="292.4" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="512892668" poolid="0" userhash="55300" sendtime="1323864150">
+	<text>{"l":1.4,"n":"大","t":0,"c":0,"z":[{"t":1,"l":0},{"l":3.5},{"t":0,"l":0.7}],"b":true,"p":{"y":860,"x":525},"a":0}</text>
+	<attr id="0" playtime="304.6" color="16776960" mode="7" fontsize="50"/>
+</comment>
+<comment id="328983991" poolid="0" userhash="55300" sendtime="1323864151">
+	<text>{"l":1.9,"n":"  傻","t":0,"c":0,"z":[{"t":1,"l":0},{"l":3},{"t":0,"l":0.7}],"b":true,"p":{"y":860,"x":525},"a":0}</text>
+	<attr id="0" playtime="304.6" color="16776960" mode="7" fontsize="50"/>
+</comment>
+<comment id="260548936" poolid="0" userhash="55300" sendtime="1323864153">
+	<text>{"l":2.4,"n":"    瓜","t":0,"c":0,"z":[{"t":1,"l":0},{"l":2.5},{"t":0,"l":0.7}],"b":true,"p":{"y":860,"x":525},"a":0}</text>
+	<attr id="0" playtime="304.6" color="16776960" mode="7" fontsize="50"/>
+</comment>
+<comment id="315145582" poolid="0" userhash="55300" sendtime="1323864155">
+	<text>{"l":0,"n":"他们的名字是——","t":0,"c":0,"z":[{"t":1,"l":0.7},{"l":3},{"t":0,"l":0.7}],"b":true,"p":{"y":900,"x":100},"a":0}</text>
+	<attr id="0" playtime="304.6" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="2123347606" poolid="0" userhash="55300" sendtime="1323864605">
+	<text>{"l":0,"n":"(笑)","t":0,"c":0,"z":[{"t":1,"l":0.5},{"l":0.5},{"l":0.5},{"t":0,"l":0.5}],"b":true,"p":{"y":900,"x":820},"a":0}</text>
+	<attr id="0" playtime="308.1" color="16763904" mode="7" fontsize="25"/>
+</comment>
+<comment id="1811207649" poolid="0" userhash="55300" sendtime="1323867330">
+	<text>{"l":0,"n":"当我还是个小男孩的时候","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":235},"a":0}</text>
+	<attr id="0" playtime="12.7" color="10066329" mode="7" fontsize="25"/>
+</comment>
+<comment id="626863566" poolid="0" userhash="55300" sendtime="1323867331">
+	<text>{"l":0,"n":"当我还是个小男孩的时候","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":230},"a":0}</text>
+	<attr id="0" playtime="12.7" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1144241048" poolid="0" userhash="55300" sendtime="1323867333">
+	<text>{"l":0,"n":"我父亲曾带我进城","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":285},"a":0}</text>
+	<attr id="0" playtime="15.7" color="10066329" mode="7" fontsize="25"/>
+</comment>
+<comment id="1047587471" poolid="0" userhash="55300" sendtime="1323867334">
+	<text>{"l":0,"n":"我父亲曾带我进城","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":280},"a":0}</text>
+	<attr id="0" playtime="15.7" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1757216014" poolid="0" userhash="55300" sendtime="1323867493">
+	<text>{"l":0,"n":"去看那大游行","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":345},"a":0}</text>
+	<attr id="0" playtime="20.7" color="10066329" mode="7" fontsize="25"/>
+</comment>
+<comment id="1583136383" poolid="0" userhash="55300" sendtime="1323867494">
+	<text>{"l":0,"n":"去看那大游行","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":340},"a":0}</text>
+	<attr id="0" playtime="20.7" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="745466181" poolid="0" userhash="55300" sendtime="1323868050">
+	<text>{"l":0,"n":"他说：“孩子，当你长大的时候，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":155},"a":0}</text>
+	<attr id="0" playtime="25" color="6710886" mode="7" fontsize="25"/>
+</comment>
+<comment id="1259912341" poolid="0" userhash="55300" sendtime="1323868052">
+	<text>{"l":0,"n":"他说：“孩子，当你长大的时候，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":150},"a":0}</text>
+	<attr id="0" playtime="25" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1270061316" poolid="0" userhash="55300" sendtime="1323868054">
+	<text>{"l":0,"n":"你愿意成为那些毁灭、","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":255},"a":0}</text>
+	<attr id="0" playtime="28.5" color="6710886" mode="7" fontsize="25"/>
+</comment>
+<comment id="248218498" poolid="0" userhash="55300" sendtime="1323868055">
+	<text>{"l":0,"n":"你愿意成为那些毁灭、","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":250},"a":0}</text>
+	<attr id="0" playtime="28.5" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="614472345" poolid="0" userhash="55300" sendtime="1323868200">
+	<text>{"l":0,"n":"挫折和灾祸的救星吗？”","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":255},"a":0}</text>
+	<attr id="0" playtime="33.5" color="6710886" mode="7" fontsize="25"/>
+</comment>
+<comment id="1367531735" poolid="0" userhash="55300" sendtime="1323868202">
+	<text>{"l":0,"n":"挫折和灾祸的救星吗？”","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":250},"a":0}</text>
+	<attr id="0" playtime="33.5" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1998876693" poolid="0" userhash="55300" sendtime="1323868471">
+	<text>{"l":0,"n":"他说：“你能否击溃你心中的恶魔，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":3},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":125},"a":0}</text>
+	<attr id="0" playtime="37.7" color="6710886" mode="7" fontsize="25"/>
+</comment>
+<comment id="1530467995" poolid="0" userhash="55300" sendtime="1323868473">
+	<text>{"l":0,"n":"他说：“你能否击溃你心中的恶魔，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":3},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":120},"a":0}</text>
+	<attr id="0" playtime="37.7" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1618167377" poolid="0" userhash="55300" sendtime="1323869083">
+	<text>{"l":0,"n":"以及毫无信仰的狞妄之徒，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":225},"a":0}</text>
+	<attr id="0" playtime="41.3" color="6710886" mode="7" fontsize="25"/>
+</comment>
+<comment id="51773506" poolid="0" userhash="55300" sendtime="1323869085">
+	<text>{"l":0,"n":"以及毫无信仰的狞妄之徒，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":220},"a":0}</text>
+	<attr id="0" playtime="41.3" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="838656728" poolid="0" userhash="55300" sendtime="1323869271">
+	<text>{"l":0,"n":"并让那些邪恶计划全部破产么？”","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":175},"a":0}</text>
+	<attr id="0" playtime="46" color="6710886" mode="7" fontsize="25"/>
+</comment>
+<comment id="1649735598" poolid="0" userhash="55300" sendtime="1323869273">
+	<text>{"l":0,"n":"并让那些邪恶计划全部破产么？”","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":170},"a":0}</text>
+	<attr id="0" playtime="46" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1378056636" poolid="0" userhash="55300" sendtime="1323869658">
+	<text>{"l":0,"n":"因为，终有一天，我会离开你。","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.7},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":175},"a":0}</text>
+	<attr id="0" playtime="50.5" color="6710886" mode="7" fontsize="25"/>
+</comment>
+<comment id="1865017309" poolid="0" userhash="55300" sendtime="1323869660">
+	<text>{"l":0,"n":"因为，终有一天，我会离开你。","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.7},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":170},"a":0}</text>
+	<attr id="0" playtime="50.5" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="811142985" poolid="0" userhash="55300" sendtime="1323869825">
+	<text>{"l":0,"n":"那时，夏日的幻象将会引领着你","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":175},"a":0}</text>
+	<attr id="0" playtime="54" color="6710886" mode="7" fontsize="25"/>
+</comment>
+<comment id="1374888801" poolid="0" userhash="55300" sendtime="1323869826">
+	<text>{"l":0,"n":"那时，夏日的幻象将会引领着你","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":170},"a":0}</text>
+	<attr id="0" playtime="54" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1550638920" poolid="0" userhash="55300" sendtime="1323870149">
+	<text>{"l":0,"n":"去加入那个黑色的游行","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":925,"x":255},"a":0}</text>
+	<attr id="0" playtime="59" color="6710886" mode="7" fontsize="25"/>
+</comment>
+<comment id="905402073" poolid="0" userhash="55300" sendtime="1323870150">
+	<text>{"l":0,"n":"去加入那个黑色的游行","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.5},{"t":0,"l":0.3}],"b":true,"p":{"y":920,"x":250},"a":0}</text>
+	<attr id="0" playtime="59" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="703695970" poolid="0" userhash="55300" sendtime="1323871586">
+	<text>{"l":0,"n":"不管彩虹海在多遥远的地方，\r我一定会找到的！","t":0,"c":0,"z":[{"x":300,"l":0.1},{"x":200,"l":1},{"x":-1200,"l":0.1}],"b":true,"p":{"y":200,"x":1000},"a":1}</text>
+	<attr id="0" playtime="64.2" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1958236313" poolid="0" userhash="55300" sendtime="1323871587">
+	<text>{"l":0,"n":"不管你们的梦想有多莫名其妙，\r带好它，给我飞起来！","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":300,"l":1},{"x":1000,"l":0.1}],"b":true,"p":{"y":600,"x":-700},"a":1}</text>
+	<attr id="0" playtime="65.8" color="16776960" mode="7" fontsize="25"/>
+</comment>
+<comment id="194506862" poolid="0" userhash="55300" sendtime="1323871589">
+	<text>{"l":0,"n":"就算不能成为什么伟大的人物，\r如果能尽自己的能力，\r","t":0,"c":0,"z":[{"x":300,"l":0.1},{"x":200,"l":2},{"x":-700,"l":0.1}],"b":true,"p":{"y":350,"x":1000},"a":1}</text>
+	<attr id="0" playtime="67.4" color="16763904" mode="7" fontsize="25"/>
+</comment>
+<comment id="1841575731" poolid="0" userhash="55300" sendtime="1323871591">
+	<text>{"l":0,"n":"\r\r为别人带来一点幸福，\r应该也是很值得努力地事情了。","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":300,"l":2},{"x":1000,"l":0.1}],"b":true,"p":{"y":350,"x":-1000},"a":1}</text>
+	<attr id="0" playtime="67.4" color="16763904" mode="7" fontsize="25"/>
+</comment>
+<comment id="1123516058" poolid="0" userhash="55300" sendtime="1323872771">
+	<text>{"l":0,"n":"星学家的使命，就是让人们不再恐惧天空，\r为每个旅行的人照亮回家的路。","t":0,"c":0,"z":[{"y":100,"l":0.1},{"y":0,"l":5.4},{"y":-1000,"l":0.1}],"b":true,"p":{"y":1000,"x":100},"a":1}</text>
+	<attr id="0" playtime="70.5" color="65535" mode="7" fontsize="25"/>
+</comment>
+<comment id="415842731" poolid="0" userhash="55300" sendtime="1323872773">
+	<text>{"l":0,"n":"这个盾后面和平的未来，\r是我无论如何都要保护的。","t":0,"c":0,"z":[{"x":100,"l":0.1},{"x":0,"l":3.7},{"x":-1200,"l":0.1}],"b":true,"p":{"y":275,"x":1500},"a":1}</text>
+	<attr id="0" playtime="72.2" color="16763955" mode="7" fontsize="25"/>
+</comment>
+<comment id="543266491" poolid="0" userhash="55300" sendtime="1323872775">
+	<text>{"l":0,"n":"放心，我们可是马戏演员，\r只会让人开心，\r不会让人掉眼泪的。","t":0,"c":0,"z":[{"x":400,"l":0.1},{"x":480,"l":2.1},{"x":1480,"l":0.1}],"b":true,"p":{"y":475,"x":-100},"a":1}</text>
+	<attr id="0" playtime="73.8" color="16711935" mode="7" fontsize="25"/>
+</comment>
+<comment id="1209145863" poolid="0" userhash="55300" sendtime="1323873246">
+	<text>{"l":0,"n":"如果黑洞可以吞下一百亿个太阳，\r那我！就是一百亿零一！","t":0,"c":0,"z":[{"y":800,"l":0.1},{"y":820,"l":0.5},{"y":1000,"l":0.1}],"b":true,"p":{"y":-200,"x":200},"a":1}</text>
+	<attr id="0" playtime="75.4" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1765184339" poolid="0" userhash="55300" sendtime="1323874702">
+	<text>{"l":0,"n":"当我还是","t":0,"c":0,"z":[{"y":350,"f":0,"l":1.6,"x":500,"g":0}],"b":true,"p":{"y":400,"x":120},"a":1}</text>
+	<attr id="0" playtime="76.4" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="1268406909" poolid="0" userhash="55300" sendtime="1323874704">
+	<text>{"l":0,"n":"一个男孩","t":0,"c":0,"z":[{"y":350,"f":0,"l":1.6,"x":500,"g":0}],"b":true,"p":{"y":400,"x":120},"a":1}</text>
+	<attr id="0" playtime="78.2" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="1370674061" poolid="0" userhash="55300" sendtime="1323874706">
+	<text>{"l":0,"n":"我的父亲","t":0,"c":0,"z":[{"y":350,"f":0,"l":1.6,"x":500,"g":0}],"b":true,"p":{"y":400,"x":120},"a":1}</text>
+	<attr id="0" playtime="79.8" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="1268392826" poolid="0" userhash="55300" sendtime="1323874707">
+	<text>{"l":0,"n":"曾带我进城","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.8,"x":500,"g":0}],"b":true,"p":{"y":400,"x":20},"a":1}</text>
+	<attr id="0" playtime="81.2" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="1640084404" poolid="0" userhash="55300" sendtime="1323874709">
+	<text>{"l":0,"n":"去看那大游行","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.3,"x":500,"g":0}],"b":true,"p":{"y":400,"x":-50},"a":1}</text>
+	<attr id="0" playtime="84.6" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="1593702194" poolid="0" userhash="55300" sendtime="1323874711">
+	<text>{"l":0,"n":"他说:孩子","t":0,"c":0,"z":[{"y":350,"f":0,"l":2,"x":500,"g":0}],"b":true,"p":{"y":400,"x":100},"a":1}</text>
+	<attr id="0" playtime="89" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="2093630427" poolid="0" userhash="55300" sendtime="1323874712">
+	<text>{"l":0,"n":"当你长大","t":0,"c":0,"z":[{"y":350,"f":0,"l":1.3,"x":500,"g":0}],"b":true,"p":{"y":400,"x":150},"a":1}</text>
+	<attr id="0" playtime="91" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="234991273" poolid="0" userhash="55300" sendtime="1323875120">
+	<text>{"l":0,"n":"你意成为","t":0,"c":0,"z":[{"y":350,"f":0,"l":1.5,"x":500,"g":0}],"b":true,"p":{"y":400,"x":150},"a":1}</text>
+	<attr id="0" playtime="92.5" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="662776298" poolid="0" userhash="55300" sendtime="1323875122">
+	<text>{"l":0,"n":"拯救毁灭","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.8,"x":500,"g":0}],"b":true,"p":{"y":400,"x":150},"a":1}</text>
+	<attr id="0" playtime="94.1" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="750399868" poolid="0" userhash="55300" sendtime="1323875124">
+	<text>{"l":0,"n":"挫折和灾祸\r 的救星吗","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.9,"x":500,"g":0}],"b":true,"p":{"y":300,"x":50},"a":1}</text>
+	<attr id="0" playtime="97.4" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="1741061500" poolid="0" userhash="55300" sendtime="1323875718">
+	<text>{"l":0,"n":"　意","t":0,"c":0,"z":[{"y":350,"f":0,"l":1.5,"x":500,"g":0}],"b":false,"p":{"y":400,"x":150}}</text>
+	<attr id="0" playtime="92.5" color="0" mode="7" fontsize="99"/>
+</comment>
+<comment id="1903793233" poolid="0" userhash="55300" sendtime="1323875719">
+	<text>{"l":0,"n":"你愿成为","t":0,"c":0,"z":[{"y":350,"f":0,"l":1.5,"x":500,"g":0}],"b":true,"p":{"y":400,"x":150}}</text>
+	<attr id="0" playtime="92.5" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="1574746716" poolid="0" userhash="55300" sendtime="1323879603">
+	<text>{"l":0,"n":"有时我会有种感觉，","t":0,"c":0,"z":[{"x":300,"l":0.1},{"x":200,"l":2.1},{"x":-1200,"l":0.1}],"b":true,"p":{"y":750,"x":1000}}</text>
+	<attr id="0" playtime="117.7" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1597579217" poolid="0" userhash="55300" sendtime="1323879604">
+	<text>{"l":0,"n":"感觉她在注视着我。","t":0,"c":0,"z":[{"x":300,"l":0.1},{"x":400,"l":2},{"x":1000,"l":0.1}],"b":true,"p":{"y":750,"x":-1000}}</text>
+	<attr id="0" playtime="120.2" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="22008890" poolid="0" userhash="55300" sendtime="1323879606">
+	<text>{"l":0,"n":"我觉得是到起航的时候了！","t":0,"c":0,"z":[{"x":300,"l":0.1},{"x":200,"l":3.2},{"x":-1000,"l":0.1}],"b":true,"p":{"y":750,"x":1000}}</text>
+	<attr id="0" playtime="122.7" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1406355692" poolid="0" userhash="55300" sendtime="1323879607">
+	<text>{"l":0,"n":"要经历世间所有沉浮,","t":0,"c":0,"z":[{"x":250,"l":0.1},{"x":350,"l":2.5},{"x":1000,"l":0.1}],"b":true,"p":{"y":750,"x":-1000}}</text>
+	<attr id="0" playtime="127.4" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="764696342" poolid="0" userhash="55300" sendtime="1323879609">
+	<text>{"l":0,"n":"穿过布满尸骸的街道","t":0,"c":0,"z":[{"x":350,"l":0.1},{"x":250,"l":2.2},{"x":-1000,"l":0.1}],"b":true,"p":{"y":750,"x":1000}}</text>
+	<attr id="0" playtime="130.1" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="3824947" poolid="0" userhash="55300" sendtime="1323879611">
+	<text>{"l":0,"n":"当你离去之时，我们会让所有人知道：","t":0,"c":0,"z":[{"x":100,"l":0.1},{"x":200,"l":3.4},{"x":1000,"l":0.1}],"b":true,"p":{"y":750,"x":-1000}}</text>
+	<attr id="0" playtime="132.7" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1770395337" poolid="0" userhash="55300" sendtime="1323881185">
+	<text>{"f":-1,"l":0,"n":"We'll Carry on！","t":0,"c":0,"z":[{"x":170,"l":0.1},{"l":2.5},{"y":500,"c":16711680,"l":0.1,"g":1},{"l":2.4},{"x":-1170,"l":0.1}],"b":false,"p":{"y":800,"x":1170}}</text>
+	<attr id="0" playtime="136.2" color="16776960" mode="7" fontsize="50"/>
+</comment>
+<comment id="1413268732" poolid="0" userhash="55300" sendtime="1323881187">
+	<text>{"l":0,"n":"我们会坚持下去！","t":0,"c":0,"z":[{"x":170,"l":0.1},{"l":2.5},{"y":800,"c":16776960,"l":0.1,"g":-1},{"l":2.4},{"x":-1170,"l":0.1}],"b":false,"p":{"y":500,"x":1170}}</text>
+	<attr id="0" playtime="136.2" color="16711680" mode="7" fontsize="50"/>
+</comment>
+<comment id="1646772516" poolid="0" userhash="55300" sendtime="1323881189">
+	<text>{"l":0,"n":"_______________","t":0,"c":0,"z":[{"x":170,"l":0.1},{"l":5},{"x":-1170,"l":0.1}],"b":false,"p":{"y":525,"x":1170}}</text>
+	<attr id="0" playtime="136.2" color="16750848" mode="7" fontsize="50"/>
+</comment>
+<comment id="1642763975" poolid="0" userhash="55300" sendtime="1323882233">
+	<text>{"l":0,"n":"虽然你已离去，但请相信我","t":0,"c":0,"z":[{"x":100,"l":0.1},{"x":300,"l":3.5},{"x":1000,"l":0.1}],"b":true,"p":{"y":750,"x":-1000}}</text>
+	<attr id="0" playtime="141.2" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="690225850" poolid="0" userhash="55300" sendtime="1323882234">
+	<text>{"l":0,"n":"你的精神会传承下去","t":0,"c":0,"z":[{"x":350,"l":0.1},{"x":250,"l":3.5},{"x":-1000,"l":0.1}],"b":true,"p":{"y":750,"x":1000}}</text>
+	<attr id="0" playtime="144.9" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="95671805" poolid="0" userhash="55300" sendtime="1323882236">
+	<text>{"l":0,"n":"We'll carry on\r我们会坚持下去","t":0,"c":0,"z":[{"x":150,"l":0.1},{"l":2.3,"x":250,"c":16776960},{"x":1000,"l":0.1}],"b":true,"p":{"y":570,"x":-1000}}</text>
+	<attr id="0" playtime="148.6" color="16711680" mode="7" fontsize="50"/>
+</comment>
+<comment id="1837462926" poolid="0" userhash="55300" sendtime="1323882635">
+	<text>{"l":0,"n":"我没有办法抑制心头的这份感情","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":100,"l":3.5},{"x":-1000,"l":0.1}],"b":true,"p":{"y":750,"x":1000}}</text>
+	<attr id="0" playtime="151.1" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="471023351" poolid="0" userhash="55300" sendtime="1323882637">
+	<text>{"l":0,"n":"即使多么华美的赞美诗也不能表达","t":0,"c":0,"z":[{"x":150,"l":0.1},{"x":250,"l":2.2},{"x":1000,"l":0.1}],"b":true,"p":{"y":750,"x":-1000}}</text>
+	<attr id="0" playtime="154.8" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="195111319" poolid="0" userhash="55300" sendtime="1323883132">
+	<text>{"l":0,"n":"我们必定会把你从杀戮噩梦中解脱出来","t":0,"c":0,"z":[{"x":150,"l":0.1},{"x":50,"l":4.4},{"x":-1000,"l":0.1}],"b":true,"p":{"y":750,"x":1000}}</text>
+	<attr id="0" playtime="157.4" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="313824099" poolid="0" userhash="55300" sendtime="1323883133">
+	<text>{"l":0,"n":"即使你的痛苦和悔恨会杀掉我们所有人","t":0,"c":0,"z":[{"x":50,"l":0.1},{"x":175,"l":3.5},{"x":1000,"l":0.1}],"b":true,"p":{"y":750,"x":-1000}}</text>
+	<attr id="0" playtime="162.1" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1315664825" poolid="0" userhash="55300" sendtime="1323883582">
+	<text>{"l":0,"n":"所以，把它涂黑，并将它收回","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":100,"l":4.7},{"x":-1000,"l":0.1}],"b":true,"p":{"y":690,"x":1000}}</text>
+	<attr id="0" playtime="167" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1232510264" poolid="0" userhash="55300" sendtime="1323883584">
+	<text>{"l":0,"n":"让我们高声且清晰的呼喊出来：","t":0,"c":0,"z":[{"x":100,"l":0.1},{"x":200,"l":4.7},{"x":1000,"l":0.1}],"b":true,"p":{"y":750,"x":-1000}}</text>
+	<attr id="0" playtime="167" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1531997414" poolid="0" userhash="55300" sendtime="1323883813">
+	<text>{"l":0,"n":"奋战到底！","t":0,"c":0,"z":[{"x":300,"l":0.1},{"x":400,"l":2.9},{"x":1000,"l":0.1}],"b":true,"p":{"y":690,"x":-1000}}</text>
+	<attr id="0" playtime="172.2" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1099683863" poolid="0" userhash="55300" sendtime="1323883815">
+	<text>{"l":0,"n":"我们听见高声的呼喊：","t":0,"c":0,"z":[{"x":350,"l":0.1},{"x":250,"l":2.9},{"x":-1000,"l":0.1}],"b":true,"p":{"y":750,"x":1000}}</text>
+	<attr id="0" playtime="172.2" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1536538552" poolid="0" userhash="55300" sendtime="1323884418">
+	<text>{"l":0,"n":"To carry on ","t":0,"c":0,"z":[{"x":300,"l":0.1},{"l":2.3,"x":200,"c":16711680},{"x":-1000,"l":0.1}],"b":true,"p":{"y":620,"x":1000}}</text>
+	<attr id="0" playtime="175.8" color="16776960" mode="7" fontsize="40"/>
+</comment>
+<comment id="123125182" poolid="0" userhash="55300" sendtime="1323884420">
+	<text>{"l":0,"n":"\r会坚持下去的！","t":0,"c":0,"z":[{"x":200,"l":0.1},{"l":2.3,"x":300,"c":16711680},{"x":1000,"l":0.1}],"b":true,"p":{"y":620,"x":-1000}}</text>
+	<attr id="0" playtime="175.8" color="16776960" mode="7" fontsize="40"/>
+</comment>
+<comment id="1189327252" poolid="0" userhash="55300" sendtime="1323884421">
+	<text>{"l":0,"n":"We'll carry on!","t":0,"c":0,"z":[{"x":200,"l":0.1},{"l":2.1,"x":300,"c":16776960},{"x":1000,"l":0.1}],"b":true,"p":{"y":620,"x":-1000}}</text>
+	<attr id="0" playtime="178.3" color="16711680" mode="7" fontsize="40"/>
+</comment>
+<comment id="2132672875" poolid="0" userhash="55300" sendtime="1323884423">
+	<text>{"l":0,"n":"\r我们会坚持下去！","t":0,"c":0,"z":[{"x":300,"l":0.1},{"l":2.1,"x":200,"c":16776960},{"x":-1000,"l":0.1}],"b":true,"p":{"y":620,"x":1000}}</text>
+	<attr id="0" playtime="178.3" color="16711680" mode="7" fontsize="40"/>
+</comment>
+<comment id="1221951828" poolid="0" userhash="55300" sendtime="1323885334">
+	<text>{"l":0,"n":"Carry on","t":0,"c":0,"z":[{"y":600,"f":1.4000000000000057,"t":0,"l":2.1,"x":300,"g":1.4000000000000057}],"b":true,"p":{"y":650,"x":350}}</text>
+	<attr id="0" playtime="146.4" color="16776960" mode="7" fontsize="40"/>
+</comment>
+<comment id="1574337234" poolid="0" userhash="55300" sendtime="1323886124">
+	<text>{"l":0,"n":"虽然你已离去，但请一定相信我","t":0,"c":0,"z":[{"x":100,"l":0.1},{"x":200,"l":3.4},{"x":1000,"l":0.1}],"b":true,"p":{"y":750,"x":-1000}}</text>
+	<attr id="0" playtime="180.8" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1645364214" poolid="0" userhash="55300" sendtime="1323886126">
+	<text>{"l":0,"n":"你的精神会传承下去","t":0,"c":0,"z":[{"x":300,"l":0.1},{"x":200,"l":3.4},{"x":-1000,"l":0.1}],"b":true,"p":{"y":750,"x":1000}}</text>
+	<attr id="0" playtime="184.5" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="368428684" poolid="0" userhash="55300" sendtime="1323886127">
+	<text>{"l":0,"n":"Carry on","t":0,"c":0,"z":[{"f":1.4000000000000057,"t":0,"l":2,"x":300,"y":600,"c":16776960,"g":1.4000000000000057}],"b":true,"p":{"y":650,"x":350}}</text>
+	<attr id="0" playtime="186" color="16711680" mode="7" fontsize="40"/>
+</comment>
+<comment id="1988847482" poolid="0" userhash="55300" sendtime="1323886674">
+	<text>{"l":0,"n":"We'll carry on！\r我们会坚持下去！","t":0,"c":0,"z":[{"x":200,"l":0.1},{"l":1.5,"x":250,"t":1},{"l":1},{"l":0.1,"x":1000,"t":0}],"b":true,"p":{"y":625,"x":-1000},"a":0.5}</text>
+	<attr id="0" playtime="188.2" color="16711680" mode="7" fontsize="40"/>
+</comment>
+<comment id="1837316022" poolid="0" userhash="55300" sendtime="1323886675">
+	<text>{"l":0,"n":"We'll carry on！\r我们会坚持下去！","t":0,"c":0,"z":[{"x":300,"l":0.1},{"l":1.5,"x":250,"t":1},{"l":1},{"l":0.1,"x":-1000,"t":0}],"b":true,"p":{"y":625,"x":1000},"a":0.5}</text>
+	<attr id="0" playtime="188.2" color="16711680" mode="7" fontsize="40"/>
+</comment>
+<comment id="1912400609" poolid="0" userhash="55300" sendtime="1323887720">
+	<text>{"l":0,"n":"尽管你已被击垮并倒下","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":300,"l":3.3},{"x":1000,"l":0.1}],"b":true,"p":{"y":760,"x":-1000}}</text>
+	<attr id="0" playtime="190.8" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1833888096" poolid="0" userhash="55300" sendtime="1323887721">
+	<text>{"l":0,"n":"但你那些疲累的未亡人","t":0,"c":0,"z":[{"x":300,"l":0.1},{"x":200,"l":2.8},{"x":-1000,"l":0.1}],"b":true,"p":{"y":760,"x":1000}}</text>
+	<attr id="0" playtime="194.3" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="2080753092" poolid="0" userhash="55300" sendtime="1323887723">
+	<text>{"l":0,"n":"会和我们一起鼓足勇气，跨过恐惧！","t":0,"c":0,"z":[{"x":100,"l":0.1},{"x":200,"l":2.6},{"x":1000,"l":0.1}],"b":true,"p":{"y":760,"x":-1000}}</text>
+	<attr id="0" playtime="197.3" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="150306152" poolid="0" userhash="55300" sendtime="1323888232">
+	<text>{"l":0,"n":" 噢","t":0,"c":0,"z":[{"y":470,"f":1.5,"t":0,"l":1,"x":200,"g":1.5}],"b":true,"p":{"y":570,"x":300}}</text>
+	<attr id="0" playtime="200.4" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="385809642" poolid="0" userhash="55300" sendtime="1323888234">
+	<text>{"l":0,"n":" 啊","t":0,"c":0,"z":[{"y":470,"f":1.5,"t":0,"l":1,"x":200,"g":1.5}],"b":true,"p":{"y":570,"x":300}}</text>
+	<attr id="0" playtime="201" color="16750848" mode="7" fontsize="99"/>
+</comment>
+<comment id="1069983700" poolid="0" userhash="55300" sendtime="1323888235">
+	<text>{"l":0,"n":" 哈","t":0,"c":0,"z":[{"y":470,"f":1.5,"t":0,"l":1,"x":200,"g":1.5}],"b":true,"p":{"y":570,"x":300}}</text>
+	<attr id="0" playtime="201.6" color="16776960" mode="7" fontsize="99"/>
+</comment>
+<comment id="1737025631" poolid="0" userhash="55300" sendtime="1323888928">
+	<text>{"l":0,"n":"请忘记旁人那些失望的面孔！","t":0,"c":0,"z":[{"x":250,"l":0.1},{"x":150,"l":2.6},{"x":-1000,"l":0.1}],"b":true,"p":{"y":760,"x":1000}}</text>
+	<attr id="0" playtime="202.2" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1503943854" poolid="0" userhash="55300" sendtime="1323888930">
+	<text>{"l":0,"n":" 噢","t":0,"c":0,"z":[{"y":470,"f":1.5,"t":0,"l":1,"x":200,"g":1.5}],"b":true,"p":{"y":570,"x":300}}</text>
+	<attr id="0" playtime="205.4" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="1141525781" poolid="0" userhash="55300" sendtime="1323888933">
+	<text>{"l":0,"n":" 哈","t":0,"c":0,"z":[{"y":470,"f":1.5,"t":0,"l":1,"x":200,"g":1.5}],"b":true,"p":{"y":570,"x":300}}</text>
+	<attr id="0" playtime="206.6" color="16776960" mode="7" fontsize="99"/>
+</comment>
+<comment id="914644248" poolid="0" userhash="55300" sendtime="1323889499">
+	<text>{"l":0,"n":"看着我吧！","t":0,"c":0,"z":[{"y":700,"x":350,"l":0.1},{"x":250,"l":1.5},{"x":-1000,"l":0.1}],"b":true,"p":{"y":700,"x":1000}}</text>
+	<attr id="0" playtime="207.1" color="16711680" mode="7" fontsize="50"/>
+</comment>
+<comment id="1472120183" poolid="0" userhash="55300" sendtime="1323889501">
+	<text>{"l":0,"n":"因为我","t":0,"c":0,"z":[{"x":100,"l":0.1},{"l":0.4},{"t":0,"l":3.5}],"b":true,"p":{"y":700,"x":-1000}}</text>
+	<attr id="0" playtime="209" color="16711680" mode="7" fontsize="50"/>
+</comment>
+<comment id="710337501" poolid="0" userhash="55300" sendtime="1323890523">
+	<text>{"f":2,"l":0,"e":2,"n":"義","t":0,"c":0,"z":[{"y":650,"f":1,"l":0.2,"x":390,"g":1},{"y":640,"l":0.1},{"y":660,"l":0.1},{"y":640,"l":0.1},{"y":660,"l":0.1},{"y":650,"l":0.1},{"l":2.3},{"t":0,"l":1.5}],"b":true,"p":{"y":650,"x":390}}</text>
+	<attr id="0" playtime="209.5" color="16776960" mode="7" fontsize="70"/>
+</comment>
+<comment id="266838651" poolid="0" userhash="55300" sendtime="1323890524">
+	<text>{"f":2,"l":0,"e":2,"n":"　無","t":0,"c":0,"z":[{"y":650,"f":1,"l":0.2,"x":390,"g":1},{"y":640,"l":0.1},{"y":660,"l":0.1},{"y":640,"l":0.1},{"y":660,"l":0.1},{"y":650,"l":0.1},{"l":1.5},{"t":0,"l":1.5}],"b":true,"p":{"y":650,"x":290}}</text>
+	<attr id="0" playtime="210.3" color="16776960" mode="7" fontsize="70"/>
+</comment>
+<comment id="236960531" poolid="0" userhash="55300" sendtime="1323890526">
+	<text>{"f":2,"l":0,"e":2,"n":"　　反","t":0,"c":0,"z":[{"y":650,"f":1,"l":0.2,"x":390,"g":1},{"y":640,"l":0.1},{"y":660,"l":0.1},{"y":640,"l":0.1},{"y":660,"l":0.1},{"y":650,"l":0.1},{"l":1},{"t":0,"l":1.5}],"b":true,"p":{"y":650,"x":190}}</text>
+	<attr id="0" playtime="210.8" color="16776960" mode="7" fontsize="70"/>
+</comment>
+<comment id="61207810" poolid="0" userhash="55300" sendtime="1323890527">
+	<text>{"f":2,"l":0,"e":2,"n":"　　　顧","t":0,"c":0,"z":[{"y":650,"f":1,"l":0.2,"x":390,"g":1},{"y":640,"l":0.1},{"y":660,"l":0.1},{"y":640,"l":0.1},{"y":660,"l":0.1},{"y":650,"l":0.1},{"l":0.3},{"t":0,"l":1.5}],"b":true,"p":{"y":650,"x":-10}}</text>
+	<attr id="0" playtime="211.5" color="16776960" mode="7" fontsize="70"/>
+</comment>
+<comment id="434577181" poolid="0" userhash="55300" sendtime="1323891220">
+	<text>{"f":2,"l":0,"e":2,"n":"把\r最\r恐\r怖\r的\r地\r方\r变\r成\r最\r美\r丽\r的\r景\r色\r，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":5}],"b":true,"p":{"y":20,"x":900},"a":0}</text>
+	<attr id="0" playtime="212.7" color="16711680" mode="7" fontsize="10"/>
+</comment>
+<comment id="13408658" poolid="0" userhash="55300" sendtime="1323891222">
+	<text>{"f":2,"l":3,"e":2,"n":"这\r│\r│\r才\r是\r男\r人\r的\r梦\r想\r！","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2}],"b":true,"p":{"y":20,"x":855},"a":0}</text>
+	<attr id="0" playtime="212.7" color="16711680" mode="7" fontsize="10"/>
+</comment>
+<comment id="683234081" poolid="0" userhash="55300" sendtime="1323891774">
+	<text>{"f":2,"l":0,"e":2,"n":"不管那个宣言有多不可能，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":5.3}],"b":true,"p":{"y":700,"x":25},"a":0}</text>
+	<attr id="0" playtime="218.2" color="16750848" mode="7" fontsize="10"/>
+</comment>
+<comment id="1393041785" poolid="0" userhash="55300" sendtime="1323891776">
+	<text>{"f":2,"l":2.7,"e":2,"n":"\r我希望有一天","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.6}],"b":true,"p":{"y":700,"x":25},"a":0}</text>
+	<attr id="0" playtime="218.2" color="16750848" mode="7" fontsize="10"/>
+</comment>
+<comment id="77819799" poolid="0" userhash="55300" sendtime="1323891777">
+	<text>{"f":2,"l":4.2,"e":2,"n":"\r　　　　　　能再听到一次！","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":1.1}],"b":true,"p":{"y":700,"x":25},"a":0}</text>
+	<attr id="0" playtime="218.2" color="16750848" mode="7" fontsize="10"/>
+</comment>
+<comment id="180034517" poolid="0" userhash="55300" sendtime="1323892113">
+	<text>{"f":2,"l":0,"e":2,"n":"当灾难从天而降时，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4}],"b":true,"p":{"y":150,"x":525},"a":0}</text>
+	<attr id="0" playtime="224" color="16763904" mode="7" fontsize="10"/>
+</comment>
+<comment id="394286345" poolid="0" userhash="55300" sendtime="1323892115">
+	<text>{"f":2,"l":2.3,"e":2,"n":"\r我会为你们抵挡一切的！","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":1.7}],"b":true,"p":{"y":150,"x":525},"a":0}</text>
+	<attr id="0" playtime="224" color="16763904" mode="7" fontsize="10"/>
+</comment>
+<comment id="2114053889" poolid="0" userhash="55300" sendtime="1323892654">
+	<text>{"f":2,"l":0,"e":2,"n":"找到一颗和自己一样的星星，","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":5.6}],"b":true,"p":{"y":350,"x":25},"a":0}</text>
+	<attr id="0" playtime="228.5" color="65535" mode="7" fontsize="10"/>
+</comment>
+<comment id="2057447756" poolid="0" userhash="55300" sendtime="1323892656">
+	<text>{"f":2,"l":2.8,"e":2,"n":"\r把通往自由的路","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":2.8}],"b":true,"p":{"y":350,"x":25},"a":0}</text>
+	<attr id="0" playtime="228.5" color="65535" mode="7" fontsize="10"/>
+</comment>
+<comment id="1324583238" poolid="0" userhash="55300" sendtime="1323892657">
+	<text>{"f":2,"l":4.5,"e":2,"n":"\r　　　　　　　照亮吧！","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":1.1}],"b":true,"p":{"y":350,"x":25},"a":0}</text>
+	<attr id="0" playtime="228.5" color="65535" mode="7" fontsize="10"/>
+</comment>
+<comment id="1229797955" poolid="0" userhash="55300" sendtime="1323892995">
+	<text>{"f":2,"l":0,"e":2,"n":"在我背后……\r","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":4.2}],"b":true,"p":{"y":250,"x":675},"a":0}</text>
+	<attr id="0" playtime="234.5" color="13395456" mode="7" fontsize="10"/>
+</comment>
+<comment id="1096611751" poolid="0" userhash="55300" sendtime="1323892997">
+	<text>{"f":2,"l":2.8,"e":2,"n":"\r微笑着活下去吧！","t":0,"c":0,"z":[{"t":1,"l":0.3},{"l":1.4}],"b":true,"p":{"y":250,"x":675},"a":0}</text>
+	<attr id="0" playtime="234.5" color="13395456" mode="7" fontsize="10"/>
+</comment>
+<comment id="2092240914" poolid="0" userhash="55300" sendtime="1323893240">
+	<text>{"f":2,"l":0,"e":2,"n":"一直活到弱者也可以幸福的时代！","t":0,"c":0,"z":[{"t":1,"l":0.5},{"c":16711680,"l":1.6},{"l":1}],"b":true,"p":{"y":750,"x":25},"a":0}</text>
+	<attr id="0" playtime="239.2" color="13395456" mode="7" fontsize="12"/>
+</comment>
+<comment id="342756435" poolid="0" userhash="55300" sendtime="1323893845">
+	<text>{"l":0,"n":"决一死战！","t":0,"c":0,"z":[{"x":400,"l":0.1},{"l":1.1},{"x":-400,"l":0.1}],"b":true,"p":{"y":910,"x":1000},"a":1}</text>
+	<attr id="0" playtime="212.5" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1796888073" poolid="0" userhash="55300" sendtime="1323893846">
+	<text>{"l":0,"n":"你打不倒我！","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":1.3},{"x":-350,"l":0.1}],"b":true,"p":{"y":910,"x":1000},"a":1}</text>
+	<attr id="0" playtime="213.9" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1509268475" poolid="0" userhash="55300" sendtime="1323893848">
+	<text>{"l":0,"n":"就算是全世界，","t":0,"c":0,"z":[{"x":300,"l":0.1},{"l":1},{"x":-300,"l":0.1}],"b":true,"p":{"y":910,"x":1000},"a":1}</text>
+	<attr id="0" playtime="215.4" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="616744483" poolid="0" userhash="55300" sendtime="1323893849">
+	<text>{"l":0,"n":"也夺不走我的心跳！","t":0,"c":0,"z":[{"x":250,"l":0.1},{"l":1.3},{"x":-1250,"l":0.3}],"b":true,"p":{"y":910,"x":1000},"a":1}</text>
+	<attr id="0" playtime="216.7" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1086845037" poolid="0" userhash="55300" sendtime="1323894620">
+	<text>{"l":0,"n":"尽管试吧, ","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":1.1},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="218.2" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="680168754" poolid="0" userhash="55300" sendtime="1323894621">
+	<text>{"l":0,"n":"你永远也打不倒我！","t":0,"c":0,"z":[{"x":250,"l":0.1},{"l":1.1},{"x":-250,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="219.5" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1107463426" poolid="0" userhash="55300" sendtime="1323894623">
+	<text>{"l":0,"n":"想要的一切,","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":1},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="220.3" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1613672525" poolid="0" userhash="55300" sendtime="1323894625">
+	<text>{"l":0,"n":"就是我要扮演的这个角色！","t":0,"c":0,"z":[{"x":200,"l":0.1},{"l":1.3},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="222.2" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="969094253" poolid="0" userhash="55300" sendtime="1323895012">
+	<text>{"l":0,"n":"我不会解释，","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":1},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="223.4" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="699912988" poolid="0" userhash="55300" sendtime="1323895014">
+	<text>{"l":0,"n":"也不会道歉！","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":1.1},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="224.9" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1005479415" poolid="0" userhash="55300" sendtime="1323895015">
+	<text>{"l":0,"n":"更不会羞愧，","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":0.9},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="226.4" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="660138342" poolid="0" userhash="55300" sendtime="1323895017">
+	<text>{"l":0,"n":"我会展示我的伤疤！","t":0,"c":0,"z":[{"x":250,"l":0.1},{"l":1.3},{"x":-1250,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="227.6" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="914284322" poolid="0" userhash="55300" sendtime="1323895445">
+	<text>{"l":0,"n":"喝采吧，","t":0,"c":0,"z":[{"x":400,"l":0.1},{"l":1.1},{"x":-400,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="229" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1963259271" poolid="0" userhash="55300" sendtime="1323895446">
+	<text>{"l":0,"n":"为这些伤痛！","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":1.2},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="230.3" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="2076125348" poolid="0" userhash="55300" sendtime="1323895448">
+	<text>{"l":0,"n":"听著,","t":0,"c":0,"z":[{"x":425,"l":0.1},{"l":1},{"x":-425,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="231.8" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1747173975" poolid="0" userhash="55300" sendtime="1323895450">
+	<text>{"l":0,"n":"这就是真正的我们！","t":0,"c":0,"z":[{"x":250,"l":0.1},{"l":1},{"x":-450,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="233.3" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1509538914" poolid="0" userhash="55300" sendtime="1323896070">
+	<text>{"l":0,"n":"我只是凡人,","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":0.9},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="234.5" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="1990316542" poolid="0" userhash="55300" sendtime="1323896071">
+	<text>{"l":0,"n":"并不是什么英雄！","t":0,"c":0,"z":[{"x":300,"l":0.1},{"l":1.2},{"x":-400,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="235.9" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="333042736" poolid="0" userhash="55300" sendtime="1323896073">
+	<text>{"l":0,"n":"我只是个,","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":1.1},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="237.3" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="706727445" poolid="0" userhash="55300" sendtime="1323896074">
+	<text>{"l":0,"n":"高唱此歌的男孩！","t":0,"c":0,"z":[{"x":300,"l":0.1},{"l":1.2},{"x":-500,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="238.7" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="2116564901" poolid="0" userhash="55300" sendtime="1323896076">
+	<text>{"l":0,"n":"我只是我,","t":0,"c":0,"z":[{"x":350,"l":0.1},{"l":1},{"x":-350,"l":0.1}],"b":true,"p":{"y":905,"x":1000},"a":1}</text>
+	<attr id="0" playtime="240" color="16711680" mode="7" fontsize="27"/>
+</comment>
+<comment id="766404032" poolid="0" userhash="55300" sendtime="1323896078">
+	<text>{"l":0,"n":"不是什么英雄！","t":0,"c":0,"z":[{"y":450,"l":0.1},{"l":1.2},{"y":-450,"l":0.1}],"b":true,"p":{"y":1000,"x":250},"a":1}</text>
+	<attr id="0" playtime="241.3" color="16711680" mode="7" fontsize="40"/>
+</comment>
+<comment id="2033240765" poolid="0" userhash="55300" sendtime="1323896666">
+	<text>{"f":1,"l":0,"e":1,"n":"可我","t":0,"c":0,"z":[{"y":150,"f":2.5,"t":0,"l":1.3,"x":0,"g":2.5}],"b":true,"p":{"y":350,"x":325},"a":1}</text>
+	<attr id="0" playtime="242.5" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="80116102" poolid="0" userhash="55300" sendtime="1323896667">
+	<text>{"f":1,"l":0,"e":1,"n":"毫不","t":0,"c":0,"z":[{"y":150,"f":2.5,"t":0,"l":1.3,"x":0,"g":2.5}],"b":true,"p":{"y":350,"x":325},"a":1}</text>
+	<attr id="0" playtime="243.8" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="271881025" poolid="0" userhash="55300" sendtime="1323896669">
+	<text>{"f":1,"l":0,"e":1,"n":"在乎！","t":0,"c":0,"z":[{"y":150,"f":2.5,"t":0,"l":1.3,"x":0,"g":2.5}],"b":true,"p":{"y":350,"x":325},"a":1}</text>
+	<attr id="0" playtime="245.1" color="16711680" mode="7" fontsize="99"/>
+</comment>
+<comment id="1553186135" poolid="0" userhash="55300" sendtime="1323898846">
+	<text>{"l":0,"n":"Carry on\r坚持下去！","t":0,"c":0,"z":[{"f":1.5,"t":0,"l":2.2,"x":100,"y":200,"c":16711680,"g":1.5}],"b":true,"p":{"y":300,"x":200}}</text>
+	<attr id="0" playtime="246.2" color="16776960" mode="7" fontsize="70"/>
+</comment>
+<comment id="2119659162" poolid="0" userhash="55300" sendtime="1323898847">
+	<text>{"l":0,"n":"We'll Carry on \r我们会坚持下去！","t":0,"c":0,"z":[{"f":1.5,"t":0,"l":2.2,"x":-100,"y":240,"c":16711680,"g":1.5}],"b":true,"p":{"y":300,"x":100}}</text>
+	<attr id="0" playtime="248.5" color="16776960" mode="7" fontsize="60"/>
+</comment>
+<comment id="1268623748" poolid="0" userhash="55300" sendtime="1323899442">
+	<text>{"l":0,"n":"即使你已离去 但请依然相信我 ","t":0,"c":0,"z":[{"x":100,"l":0.1},{"x":0,"l":3.3},{"x":-1000,"l":0.1}],"b":true,"p":{"y":720,"x":1000}}</text>
+	<attr id="0" playtime="251.1" color="16711680" mode="7" fontsize="35"/>
+</comment>
+<comment id="1770973037" poolid="0" userhash="55300" sendtime="1323899443">
+	<text>{"l":0,"n":"你的精神会一直传承下去！","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":100,"l":3.4},{"x":-1000,"l":0.1}],"b":true,"p":{"y":720,"x":1000}}</text>
+	<attr id="0" playtime="254.8" color="16711680" mode="7" fontsize="35"/>
+</comment>
+<comment id="1012575659" poolid="0" userhash="55300" sendtime="1323899445">
+	<text>{"l":0,"n":"Carry on","t":0,"c":0,"z":[{"x":400,"l":0.1},{"l":2,"x":300,"c":16711680},{"x":-1000,"l":0.1}],"b":true,"p":{"y":570,"x":1000}}</text>
+	<attr id="0" playtime="256.2" color="16776960" mode="7" fontsize="50"/>
+</comment>
+<comment id="1118214539" poolid="0" userhash="55300" sendtime="1323900720">
+	<text>{"l":0,"n":"We'll Carry on \r我们会坚持下去！","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":100,"l":2.5},{"x":-1000,"l":0.1}],"b":false,"p":{"y":570,"x":1000}}</text>
+	<attr id="0" playtime="258.4" color="16776960" mode="7" fontsize="50"/>
+</comment>
+<comment id="1110396821" poolid="0" userhash="55300" sendtime="1323900721">
+	<text>{"l":0,"n":"尽管你已被击垮并倒下","t":0,"c":0,"z":[{"x":250,"l":0.1},{"x":150,"l":3.3},{"x":-1150,"l":0.1}],"b":true,"p":{"y":720,"x":1000}}</text>
+	<attr id="0" playtime="261" color="16711680" mode="7" fontsize="35"/>
+</comment>
+<comment id="926551629" poolid="0" userhash="55300" sendtime="1323900723">
+	<text>{"l":0,"n":"但那些疲惫的未亡人\r  依旧与我们同行","t":0,"c":0,"z":[{"x":250,"l":0.1},{"x":150,"l":3.5},{"l":3.5,"x":50,"t":0}],"b":true,"p":{"y":650,"x":1000}}</text>
+	<attr id="0" playtime="261" color="16711680" mode="7" fontsize="35"/>
+</comment>
+<comment id="381425592" poolid="0" userhash="55300" sendtime="1323900792">
+	<text>{"l":0,"n":"We'll carry on\r一直坚持下去！","t":0,"c":0,"z":[{"y":250,"f":1.5,"t":0,"l":9.2,"x":0,"g":1.5}],"b":false,"p":{"y":350,"x":200}}</text>
+	<attr id="0" playtime="266.8" color="16776960" mode="7" fontsize="50"/>
+</comment>
+<comment id="244511746" poolid="0" userhash="55300" sendtime="1323901487">
+	<text>{"l":0,"n":"We'll Carry on \r我们会坚持下去！","t":0,"c":0,"z":[{"y":250,"f":1.5,"t":0,"l":9.1,"x":0,"g":1.5}],"b":false,"p":{"y":350,"x":200}}</text>
+	<attr id="0" playtime="276.1" color="16750848" mode="7" fontsize="50"/>
+</comment>
+<comment id="2108911144" poolid="0" userhash="55300" sendtime="1323901489">
+	<text>{"l":0,"n":"We'll Carry on \r我们会坚持下去！","t":0,"c":0,"z":[{"y":250,"f":1.5,"t":0,"l":8.5,"x":0,"g":1.5}],"b":false,"p":{"y":350,"x":200}}</text>
+	<attr id="0" playtime="284" color="16737792" mode="7" fontsize="50"/>
+</comment>
+<comment id="1018513779" poolid="0" userhash="55300" sendtime="1323903151">
+	<text>{"l":6,"e":20,"n":"█\r█","t":0,"c":0,"z":[{"t":0,"l":1}],"b":false,"p":{"y":650,"x":-100}}</text>
+	<attr id="0" playtime="261" color="16776960" mode="7" fontsize="35"/>
+</comment>
+<comment id="1142707597" poolid="0" userhash="55300" sendtime="1323903153">
+	<text>{"l":0,"n":"\r尽管你已被击垮并倒下","t":0,"c":0,"z":[{"x":250,"l":0.1},{"x":150,"l":2.2},{"x":-1000,"l":0.1}],"b":true,"p":{"y":650,"x":1000}}</text>
+	<attr id="0" playtime="261" color="16711680" mode="7" fontsize="35"/>
+</comment>
+<comment id="628399229" poolid="0" userhash="55300" sendtime="1323903154">
+	<text>{"l":0,"n":"但那些疲惫的未亡人\r  依旧与我们同行","t":0,"c":0,"z":[{"x":250,"l":0.1},{"x":150,"l":3.5},{"l":3.5,"x":50,"t":0}],"b":true,"p":{"y":650,"x":1000}}</text>
+	<attr id="0" playtime="264.6" color="16711680" mode="7" fontsize="35"/>
+</comment>
+<comment id="1661492095" poolid="0" userhash="55300" sendtime="1323903455">
+	<text>{"l":0,"n":"We'll Carry on \r我们会坚持下去！","t":0,"c":0,"z":[{"t":1,"l":6.7},{"t":0,"l":3}],"b":false,"p":{"y":350,"x":90},"a":0}</text>
+	<attr id="0" playtime="286.3" color="16711680" mode="7" fontsize="60"/>
+</comment>
+<comment id="1843222619" poolid="0" userhash="55300" sendtime="1323906483">
+	<text>{"l":0,"n":"决一死战！你打不倒我！","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":100,"l":2.4},{"x":-1100,"l":2.4}],"b":false,"p":{"y":910,"x":1000}}</text>
+	<attr id="0" playtime="267.7" color="16776960" mode="7" fontsize="30"/>
+</comment>
+<comment id="87412928" poolid="0" userhash="55300" sendtime="1323906485">
+	<text>{"l":0,"n":"就算是全世界，也夺不走我的心跳！","t":0,"c":0,"z":[{"x":150,"l":0.1},{"x":50,"l":2.4},{"x":-1150,"l":0.1}],"b":false,"p":{"y":910,"x":1000}}</text>
+	<attr id="0" playtime="270.2" color="16776960" mode="7" fontsize="30"/>
+</comment>
+<comment id="885487531" poolid="0" userhash="55300" sendtime="1323906487">
+	<text>{"l":0,"n":"尽管试吧, 你永远也打不倒我！","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":100,"l":2.4},{"x":-1100,"l":0.1}],"b":false,"p":{"y":910,"x":1000}}</text>
+	<attr id="0" playtime="272.9" color="16776960" mode="7" fontsize="30"/>
+</comment>
+<comment id="1419063778" poolid="0" userhash="55300" sendtime="1323906488">
+	<text>{"l":0,"n":"想要的一切,就是我要扮演的这个角色！","t":0,"c":0,"z":[{"x":100,"l":0.1},{"x":0,"l":2.4},{"x":-1000,"l":0.1}],"b":false,"p":{"y":910,"x":1000}}</text>
+	<attr id="0" playtime="275.4" color="16776960" mode="7" fontsize="30"/>
+</comment>
+<comment id="164489602" poolid="0" userhash="55300" sendtime="1323907699">
+	<text>{"l":0,"n":"不管彩虹海在多遥远的地方，\r我一定会找到的！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":550,"x":200}}</text>
+	<attr id="0" playtime="280" color="16711680" mode="7" fontsize="30"/>
+</comment>
+<comment id="1226595672" poolid="0" userhash="55300" sendtime="1323907700">
+	<text>{"l":0,"n":"如果傻瓜才能坚持梦想，\r那就叫我大傻瓜吧！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":150,"x":100}}</text>
+	<attr id="0" playtime="280.5" color="16724838" mode="7" fontsize="30"/>
+</comment>
+<comment id="1835017501" poolid="0" userhash="55300" sendtime="1323907702">
+	<text>{"l":0,"n":"\r不可能这三个字你说的太多了。\r","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":350,"x":400}}</text>
+	<attr id="0" playtime="281" color="16737792" mode="7" fontsize="30"/>
+</comment>
+<comment id="961006468" poolid="0" userhash="55300" sendtime="1323907703">
+	<text>{"l":0,"n":"不管你们的梦想有多莫名其妙，\r带好它，给我飞起来！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":650,"x":50}}</text>
+	<attr id="0" playtime="281.5" color="3407871" mode="7" fontsize="30"/>
+</comment>
+<comment id="1756786830" poolid="0" userhash="55300" sendtime="1323907705">
+	<text>{"l":0,"n":"\r牺牲别人换来的明天，\r还能装得下什么梦想啊？","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":750,"x":650}}</text>
+	<attr id="0" playtime="282" color="13311" mode="7" fontsize="30"/>
+</comment>
+<comment id="760547170" poolid="0" userhash="55300" sendtime="1323907707">
+	<text>{"l":0,"n":"不能去打到别人，\r就没有资格实现梦想吗？","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":50,"x":550}}</text>
+	<attr id="0" playtime="282.5" color="6749952" mode="7" fontsize="30"/>
+</comment>
+<comment id="732649951" poolid="0" userhash="55300" sendtime="1323907708">
+	<text>{"l":0,"n":"如果是这样，\r我才不稀罕在这种世界里活下去！！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":50,"x":50}}</text>
+	<attr id="0" playtime="283" color="6737049" mode="7" fontsize="30"/>
+</comment>
+<comment id="1856676344" poolid="0" userhash="55300" sendtime="1323907710">
+	<text>{"l":0,"n":"但王冠真正的意义是，当灾难从天而降时，\r我会为你们抵挡一切，永远让你们只看到金色的希望。 ","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":450,"x":0}}</text>
+	<attr id="0" playtime="283.5" color="16776960" mode="7" fontsize="30"/>
+</comment>
+<comment id="2029403403" poolid="0" userhash="55300" sendtime="1323907711">
+	<text>{"l":0,"n":"放心，我们可是马戏演员，\r只会让人开心，\r不会让人掉眼泪的。","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":800,"x":250}}</text>
+	<attr id="0" playtime="284" color="16711935" mode="7" fontsize="30"/>
+</comment>
+<comment id="559317563" poolid="0" userhash="55300" sendtime="1323907713">
+	<text>{"l":0,"n":"为航行者带来自由的乌拉拉，\r不可能属于只会摧毁自由的你！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":0,"x":0}}</text>
+	<attr id="0" playtime="284.5" color="39423" mode="7" fontsize="30"/>
+</comment>
+<comment id="1267310061" poolid="0" userhash="55300" sendtime="1323907714">
+	<text>{"l":0,"n":"星学家的使命，就是让人们不再恐惧天空，\r为每个旅行的人照亮回家的路。","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":900,"x":0}}</text>
+	<attr id="0" playtime="285" color="26367" mode="7" fontsize="30"/>
+</comment>
+<comment id="4353404" poolid="0" userhash="55300" sendtime="1323907716">
+	<text>{"l":0,"n":"真正相信奇迹的家伙，\r本身和奇迹一样了不起啊！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":500,"x":500}}</text>
+	<attr id="0" playtime="285.5" color="3342591" mode="7" fontsize="30"/>
+</comment>
+<comment id="584470959" poolid="0" userhash="55300" sendtime="1323907718">
+	<text>{"l":0,"n":"就算不能成为什么伟大的人物，\r如果能尽自己的能力，\r为别人带来一点幸福，\r应该也是很值得努力地事情了。","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":800,"x":200}}</text>
+	<attr id="0" playtime="286" color="10053120" mode="7" fontsize="30"/>
+</comment>
+<comment id="835465453" poolid="0" userhash="55300" sendtime="1323907719">
+	<text>{"l":0,"n":"在我背后微笑地活下去吧！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":400,"x":-100}}</text>
+	<attr id="0" playtime="286.5" color="16737792" mode="7" fontsize="30"/>
+</comment>
+<comment id="2068350068" poolid="0" userhash="55300" sendtime="1323907721">
+	<text>{"l":0,"n":"这个盾后面和平的未来，\r是我无论如何都要保护的。","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":111,"x":377}}</text>
+	<attr id="0" playtime="287" color="10040268" mode="7" fontsize="30"/>
+</comment>
+<comment id="2066918157" poolid="0" userhash="55300" sendtime="1323907722">
+	<text>{"l":0,"n":"如果黑洞可以吞下一百亿个太阳，\r那我！就是一百亿零一！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":700,"x":0}}</text>
+	<attr id="0" playtime="287.5" color="16724736" mode="7" fontsize="30"/>
+</comment>
+<comment id="1663338968" poolid="0" userhash="55300" sendtime="1323907778">
+	<text>{"l":0,"n":"为越多的人带来幸福，\r才能称为越大的梦想。","t":0,"c":0,"z":[{"y":350,"f":0,"l":5,"x":500,"g":0}],"b":false,"p":{"y":400,"x":250}}</text>
+	<attr id="0" playtime="288" color="16711680" mode="7" fontsize="30"/>
+</comment>
+<comment id="91564726" poolid="0" userhash="55300" sendtime="1323908152">
+	<text>{"l":0,"n":"歌名:Welcome To The Black Parade","t":0,"c":0,"z":[{"x":200,"l":0.1},{"x":100,"l":3},{"x":-1100,"l":0.1}],"b":true,"p":{"y":900,"x":1000}}</text>
+	<attr id="0" playtime="108" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="1724602176" poolid="0" userhash="55300" sendtime="1323908153">
+	<text>{"l":0,"n":"高级弹幕制作：55300","t":0,"c":0,"z":[{"x":300,"l":0.1},{"x":200,"l":3},{"x":-1100,"l":0.1}],"b":true,"p":{"y":900,"x":1000}}</text>
+	<attr id="0" playtime="112" color="16711680" mode="7" fontsize="25"/>
+</comment>
+<comment id="2064963542" poolid="0" userhash="55300" sendtime="1323933121">
+	<text>{"l":0,"n":"啊","t":0,"c":0,"z":[{"y":470,"f":1.5,"t":0,"l":0.8,"x":350,"g":1.5}],"b":true,"p":{"y":570,"x":390}}</text>
+	<attr id="0" playtime="206" color="16750848" mode="7" fontsize="99"/>
+</comment>
+<comment id="1177342658" poolid="0" userhash="55300" sendtime="1323933938">
+	<text>{"l":0,"n":"把最恐怖的地方变成最美丽的景色，\r这才是男人的梦想！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":400,"x":-300}}</text>
+	<attr id="0" playtime="281.9" color="16711680" mode="7" fontsize="30"/>
+</comment>
+<comment id="1093680994" poolid="0" userhash="55300" sendtime="1323933939">
+	<text>{"l":0,"n":"不管那个宣言有多不可能，\r我希望有一天能再听到一次！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":200,"x":-400}}</text>
+	<attr id="0" playtime="284.4" color="16750848" mode="7" fontsize="30"/>
+</comment>
+<comment id="456795989" poolid="0" userhash="55300" sendtime="1323933941">
+	<text>{"l":0,"n":"当灾难从天而降时，\r我会你们抵挡一切！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":600,"x":700}}</text>
+	<attr id="0" playtime="284.9" color="52479" mode="7" fontsize="30"/>
+</comment>
+<comment id="1651687250" poolid="0" userhash="55300" sendtime="1323933942">
+	<text>{"l":0,"n":"找到一颗和自己一样的星星，\r把通往自由的路照亮吧！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":100,"x":-200}}</text>
+	<attr id="0" playtime="286.7" color="65535" mode="7" fontsize="30"/>
+</comment>
+<comment id="343244424" poolid="0" userhash="55300" sendtime="1323933944">
+	<text>{"l":0,"n":"在我背后微笑着活下去吧，\r一直活到弱者也可以幸福的时代！","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":600,"x":-200}}</text>
+	<attr id="0" playtime="285.1" color="16711833" mode="7" fontsize="30"/>
+</comment>
+<comment id="1227289041" poolid="0" userhash="55300" sendtime="1323933946">
+	<text>{"l":0,"n":"无论输赢，打完不许记仇啊 ","t":0,"c":0,"z":[{"y":350,"f":0,"l":2.5,"x":500,"g":0}],"b":false,"p":{"y":200,"x":700}}</text>
+	<attr id="0" playtime="285.1" color="16711680" mode="7" fontsize="30"/>
+</comment></comments>

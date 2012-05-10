@@ -30,10 +30,10 @@ class AcfunN1GroupConfig extends GroupConfig
 
     public function UploadFilePreProcess($str) {
         $test = simplexml_load_string($str);
-        
+
         if ($test !== FALSE) {return $test;}
-        
         $json = json_decode($str);
+
         if (is_null($json)) return false;
         $xmlstr = '<?xml version="1.0" encoding="UTF-8"?><comments>';
         foreach ($json as $item) {
@@ -50,7 +50,8 @@ class AcfunN1GroupConfig extends GroupConfig
         }
         $xmlstr .= '</comments>';
         
-        return simplexml_load_string($xmlstr);
+        $xml = simplexml_load_string($xmlstr);
+        return $xml;
     }
     
 	public function GenerateFlashVarArr(VideoPageData $source)
@@ -59,7 +60,8 @@ class AcfunN1GroupConfig extends GroupConfig
 	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
-	            $AFVArray['vid'] = $source->DanmakuId;
+	            $AFVArray['id'] = $source->DanmakuId;
+	            $AFVArray['type'] = "video";
 	        break;
 	        
 			case "QQ":
