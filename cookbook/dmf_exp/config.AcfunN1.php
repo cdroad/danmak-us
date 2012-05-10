@@ -32,8 +32,12 @@ class AcfunN1GroupConfig extends GroupConfig
         $test = simplexml_load_string($str);
 
         if ($test !== FALSE) {return $test;}
+        if($str[0] == chr(0xef) && $str[1] == chr(0xbb) && $str[2] == chr(0xbf))
+        {	// UTF-8 BOMを取り除く
+            $str = substr($str, 3);
+        }
         $json = json_decode($str);
-
+        
         if (is_null($json)) return false;
         $xmlstr = '<?xml version="1.0" encoding="UTF-8"?><comments>';
         foreach ($json as $item) {
