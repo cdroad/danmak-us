@@ -1,7 +1,7 @@
 <?php
 /*
     PmWiki
-    Copyright 2001-2011 Patrick R. Michaud
+    Copyright 2001-2012 Patrick R. Michaud
     pmichaud@pobox.com
     http://www.pmichaud.com/
 
@@ -48,6 +48,8 @@ $BlockPattern = 'form|div|table|t[rdh]|p|[uo]l|d[ltd]|h[1-6r]|pre|blockquote';
 $WikiWordPattern = '[[:upper:]][[:alnum:]]*(?:[[:upper:]][[:lower:]0-9]|[[:lower:]0-9][[:upper:]])[[:alnum:]]*';
 $WikiDir = new PageStore('wiki.d/{$FullName}');
 $WikiLibDirs = array(&$WikiDir,new PageStore('$FarmD/wikilib.d/{$FullName}'));
+$PageFileEncodeFunction = 'PUE'; # only used if $WikiDir->encodefilenames is set
+$PageFileDecodeFunction = 'urldecode';
 $LocalDir = 'local';
 $InterMapFiles = array("$FarmD/scripts/intermap.txt",
   "$FarmD/local/farmmap.txt", '$SiteGroup.InterMap', 'local/localmap.txt');
@@ -916,10 +918,17 @@ function CmpPageAttr($a, $b) {
 class PageStore {
   var $dirfmt;
   var $iswrite;
+  var $encodefilenames;
   var $attr;
+  var $recodefn;
   function PageStore($d='$WorkDir/$FullName', $w=0, $a=NULL) { 
     $this->dirfmt = $d; $this->iswrite = $w; $this->attr = (array)$a;
     $GLOBALS['PageExistsCache'] = array();
+    if (function_exists('iconv') && @iconv("UTF-8", "WINDOWS-1252//IGNORE", 'test')=='test' ) 
+      $this->recodefn = create_function('$s,$from,$to', 'return iconv($from,"$to//IGNORE",$s);');
+    elseif (function_exists('mb_convert_encoding') && @mb_convert_encoding("test", "WINDOWS-1252", "UTF-8")=="test")
+      $this->recodefn = create_function('$s,$from,$to', 'return mb_convert_encoding($s,$to,$from);');
+    else $this->recodefn = false;
   }
   function pagefile($pagename) {
     global $FarmD;
@@ -927,13 +936,23 @@ class PageStore {
     if ($pagename > '') {
       $pagename = str_replace('/', '.', $pagename);
       if ($dfmt == 'wiki.d/{$FullName}')               # optimizations for
-        return "wiki.d/$pagename";                     # standard locations
+        return $this->PFE("wiki.d/$pagename");         # standard locations
       if ($dfmt == '$FarmD/wikilib.d/{$FullName}')     # 
-        return "$FarmD/wikilib.d/$pagename";           #
+        return $this->PFE("$FarmD/wikilib.d/$pagename");
       if ($dfmt == 'wiki.d/{$Group}/{$FullName}')
-        return preg_replace('/([^.]+).*/', 'wiki.d/$1/$0', $pagename);
+        return $this->PFE(preg_replace('/([^.]+).*/', 'wiki.d/$1/$0', $pagename));
     }
-    return FmtPageName($dfmt, $pagename);
+    return $this->PFE(FmtPageName($dfmt, $pagename));
+  }
+  function PFE($f) { # pagefile_encode
+    if (!$this->encodefilenames) return $f;
+    global $PageFileEncodeFunction;
+    return $PageFileEncodeFunction($f);
+  }
+  function PFD($f) { # pagefile_decode
+    if (!$this->encodefilenames) return $f;
+    global $PageFileDecodeFunction;
+    return $PageFileDecodeFunction($f);
   }
   function read($pagename, $since=0) {
     $newline = '';
@@ -1029,7 +1048,7 @@ class PageStore {
         if ($pagefile{0} == '.') continue;
         if ($dirslash < $maxslash && is_dir("$dir/$pagefile"))
           { array_push($dirlist,"$dir/$pagefile"); continue; }
-        if ($dirslash == $maxslash) $o[] = $pagefile;
+        if ($dirslash == $maxslash) $o[] = $this->PFD($pagefile);
       }
       closedir($dfp);
       StopWatch("PageStore::ls merge {$this->dirfmt}");
@@ -1047,16 +1066,15 @@ class PageStore {
     if (@$DefaultPageCharset[$a['charset']]>'')  # wrong pre-2.2.30 encs. *-2, *-9, *-13
       $a['charset'] = $DefaultPageCharset[$a['charset']];
     if (!$a['charset'] || $Charset==$a['charset']) return $a;
-    $from = ($a['charset']=='ISO-8859-1') ? 'Windows-1252' : $a['charset'];
-    $to = ($Charset=='ISO-8859-1') ? 'Windows-1252' : $Charset;
-    if (function_exists('iconv'))
-      $F = create_function('$s', "return iconv('$from', '$to//IGNORE', \$s);");
-    elseif (function_exists('mb_convert_encoding'))
-      $F = create_function('$s', "return mb_convert_encoding(\$s, '$to', '$from');");
-    elseif ($Charset=='UTF-8' && $a['charset']=='ISO-8859-1') $F = 'utf8_encode'; # utf8 wiki & pre-2.2.30 doc
-    elseif ($Charset=='ISO-8859-1' && $a['charset']=='UTF-8') $F = 'utf8_decode'; # 2.2.31+ documentation
+    $from = ($a['charset']=='ISO-8859-1') ? 'WINDOWS-1252' : $a['charset'];
+    $to = ($Charset=='ISO-8859-1') ? 'WINDOWS-1252' : $Charset;
+    if ($this->recodefn) $F = $this->recodefn;
+    elseif ($to=='UTF-8' && $from=='WINDOWS-1252') # utf8 wiki & pre-2.2.30 doc
+      $F = create_function('$s,$from,$to', 'return utf8_encode($s);');
+    elseif ($to=='WINDOWS-1252' && $from=='UTF-8') # 2.2.31+ documentation
+      $F = create_function('$s,$from,$to', 'return utf8_decode($s);');
     else return $a;
-    foreach($a as $k=>$v) $a[$k] = $F($v);
+    foreach($a as $k=>$v) $a[$k] = $F($v,$from,$to);
     $a['charset'] = $Charset;
     return $a;
   }
@@ -1251,12 +1269,13 @@ function CondText($pagename,$condspec,$condtext) {
 ##  or false if a requested beginning anchor isn't in the text.
 function TextSection($text, $sections, $args = NULL) {
   $args = (array)$args;
-  $npat = '[[:alpha:]][-\\w*]*';
+  $npat = '[[:alpha:]][-\\w.]*';
   if (!preg_match("/#($npat)?(\\.\\.)?(#($npat)?)?/", $sections, $match))
     return $text;
   @list($x, $aa, $dots, $b, $bb) = $match;
   if (!$dots && !$b) $bb = $npat;
   if ($aa) {
+    $aa = preg_replace('/\\.\\.$/', '', $aa);
     $pos = strpos($text, "[[#$aa]]");  if ($pos === false) return false;
     if (@$args['anchors']) 
       while ($pos > 0 && $text[$pos-1] != "\n") $pos--;
@@ -1296,7 +1315,6 @@ function IncludeText($pagename, $inclspec) {
   global $MaxIncludes, $IncludeOpt, $InclCount, $PCache;
   SDV($MaxIncludes,50);
   SDVA($IncludeOpt, array('self'=>1));
-  $npat = '[[:alpha:]][-\\w]*';
   if ($InclCount++>=$MaxIncludes) return Keep($inclspec);
   $args = array_merge($IncludeOpt, ParseArgs($inclspec));
   while (count($args['#'])>0) {
