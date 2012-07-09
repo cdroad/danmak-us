@@ -37,7 +37,6 @@ $ACFUN = TRUE;
 $ACFUN2011 = TRUE;
 $BILIBILI = TRUE;
 $TWODLAND = TRUE;
-$FmtPV['$DMFVersion'] = '"DMF-5.2.0 alpha"';
 $CheckPerfs = FALSE;
 $EnableAutoTimeShift = TRUE;
 $EnableSysLog = TRUE;
