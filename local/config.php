@@ -1,8 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
 
-$WikiTitle = "弹幕塚-本地版 ~少壮不努力，一生在内地~";
-$PageLogoUrl = "$ScriptUrl/static/logo.jpg";
-
 $AuthUser['Admin'] = crypt('/n/n/n/n');
 $AuthUser['@admins'] = array('Admin', 'dm.mikufans@gmail.com');
 $DefaultPasswords['edit'] = 'id:*';

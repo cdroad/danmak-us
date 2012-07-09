@@ -1,5 +1,9 @@
 <?php if (!defined('PmWiki')) exit();
 
+
+$WikiTitle = "弹幕塚-本地版 ~少壮不努力，一生在内地~";
+$PageLogoUrl = "$ScriptUrl/static/logo.jpg";
+
 $EnableBlocklist = 0;
 $EnableWhyBlocked = 1; 
 $EnablePostAuthorRequired = 0;
