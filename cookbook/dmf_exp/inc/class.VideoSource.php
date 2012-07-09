@@ -66,7 +66,7 @@ class QQSource extends VideoSourceBase
 	public function convertVideoUrl($str)
 	{
 		return rawurlencode(
-			'https://secure.bluehost.com/~twodland/dmf/index.php?n=Main.Flvcache&action=GetFlvUrl&vid='.
+			'https://2dland.sinaapp.com/video.php?action=video&type=qq&vid='.
 			$str);
 	}
 }
