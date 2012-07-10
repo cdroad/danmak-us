@@ -1,15 +1,21 @@
-version=pmwiki-2.2.36 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
-author=
-cauthor=
+version=pmwiki-2.2.38 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11
+author=Admin
+cauthor=Admin
 charset=UTF-8
 csum=
 host=127.0.0.1
 name=Main.HomePage
-rev=258
-targets=PmWiki.PmWiki
-text=任何建议和bug汇报请发送dm.mikufans@gmail.com%0a%0abug汇报最好附带wiki.d目录的打包。弹幕错误再加对应XMl文件。%0a%0a本站运行于DMF : {$DMFVersion}  [[PmWiki]]: {$Version}.%0a%0a%25white%25 蓝白弹幕祭, 拜年祭认证产品%25%25
-time=1327214521
+rev=260
+targets=
+text=(:if enabled LOCALVERSION:)%0a任何建议和bug汇报请发送dm.mikufans@gmail.com%0a%0abug汇报最好附带wiki.d目录的打包。弹幕错误再加对应XMl文件。%0a(:else:)%0a%0a(:ifend:)%0a%0a本站运行于DMF : {$DMFVersion} {$Version}.%0a%25white%25 蓝白弹幕祭, 拜年祭认证产品%25%25
+time=1341842487
+author:1341842487=Admin
+diff:1341842487:1341842464:=9c9%0a%3c 本站运行于DMF : {$DMFVersion} {$Version}.%0a---%0a> 本站运行于DMF : {$DMFVersion}  [[PmWiki]]: {$Version}.%0a
+host:1341842487=127.0.0.1
+author:1341842464=Admin
+diff:1341842464:1327214521:=1d0%0a%3c (:if enabled LOCALVERSION:)%0a5,8c4%0a%3c (:else:)%0a%3c %0a%3c (:ifend:)%0a%3c %0a---%0a> %0a9a6%0a> %0a
+host:1341842464=127.0.0.1
 author:1327214521=
 diff:1327214521:1312475330:=7c7%0a%3c %25white%25 蓝白弹幕祭, 拜年祭认证产品%25%25%0a\ No newline at end of file%0a---%0a> %25white%25 蓝白弹幕祭认证产品%25%25%0a\ No newline at end of file%0a
 host:1327214521=127.0.0.1
