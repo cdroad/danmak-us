@@ -80,7 +80,7 @@ class VideoData
 		$this->initPartIndexCode();
 		$this->initPlayerLinkCode();
 		$this->initPlayerLoadCode();
-		$this->Messages = "{$this->vpd->Player->desc} -> {$this->vpd->VideoType->getType()}( \"{$this->vpd->DanmakuId}\" ))";
+		$this->Messages = "{$this->vpd->Player->desc} -> {$this->vpd->VideoType->getType()}( \"{$this->vpd->DanmakuId}\" )";
 	}
 	
 	private function initPageVars()
