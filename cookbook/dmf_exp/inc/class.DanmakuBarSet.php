@@ -48,11 +48,12 @@ class DanmakuBarSet
         {
             if ($Auth >= $item->auth()) {
                 $res = $item->getString($this->gc);
-                if ($res != '<br />') {
-                    $str .= '%danmakubar% '.$res.'%%&nbsp;&nbsp;';
-                } else {
+                if ($item->selfStyle()) {
                     $str .= $res;
+                } else {
+                    $str .= '%danmakubar% '.$res.'%%&nbsp;&nbsp;';
                 }
+                
             }
         }
 		return $str;
