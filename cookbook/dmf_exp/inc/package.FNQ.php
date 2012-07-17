@@ -14,9 +14,11 @@ abstract class FNQClass
     protected $username;
     protected $password;
     protected $gc;
+    protected $url;
     
     public function Init($url)
     {
+        $this->url = $url;
         $this->Login();
         $this->html = $this->DownloadWebPage($url);
         $this->gc = Utils::GetGroupConfig($url);
@@ -32,7 +34,7 @@ abstract class FNQClass
     
     public function __toString()
     {
-        $str = "";
+        $str = $this->url."\r\n";
         $str .= $this->GetTitle();
         $str .= "\r\n".$this->GetDesc();
         $id = $this->GetDanmakuId();
@@ -74,7 +76,7 @@ class Bilibili2FNQClass extends FNQClass
     
     protected function DownloadWebPage($url)
     {
-        preg_match('/www\.bilibili\.tv\/video\/av([0-9]+)(?:\/index_([0-9]+)\.html)?/', $url, $m);
+        preg_match('/bilibili\.tv\/video\/av([0-9]+)(?:\/index_([0-9]+)\.html)?/', $url, $m);
         $vid = $m[1]; $page = $m[2];
         $str = "http://api.bilibili.tv/view?type=json&appkey=fc9f37b4c428e5be&id={$vid}&page={$page}";
         
@@ -89,10 +91,13 @@ class Bilibili2FNQClass extends FNQClass
 
 class AcfunN1FNQClass extends FNQClass
 {
+    private $jsonObj = null;
+    
     public function __construct($url)
     {
         $this->cookieFile = './shared/temp/Acfun.txt';
         $this->Init($url);
+        
     }
     
     protected function GetDesc()
@@ -109,9 +114,13 @@ class AcfunN1FNQClass extends FNQClass
     
     protected function GetDanmakuId()
     {
-        preg_match('/(.*shockwave.*embed>)/',$this->html,$matches);
-        preg_match('/id=([0-9a-zA-Z]*)(\"|&| |\?)/',$matches[0],$matches2);
-        return $matches2[1];
+        if (is_null($this->jsonObj)) {
+            preg_match('/\'id\':\'([0-9]*)\'/',$this->html,$matches2);
+            $videoid = $matches2[1];
+            $jsonStr = file_get_contents("http://www.acfun.tv/api/getVideoByID.aspx?vid={$videoid}");
+            $this->jsonObj = json_decode($jsonStr);
+        }
+        return $this->jsonObj->cid;
     }
     
     protected function GetXMLData()
@@ -139,28 +148,6 @@ class AcfunN1FNQClass extends FNQClass
     protected function Login()
     {
         return;
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, "http://www.bilibili.tv/member/ajax_loginsta.php");
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
-        curl_setopt($ch, CURLOPT_ENCODING, "");
-        curl_setopt($ch, CURLOPT_COOKIEJAR, $this->cookieFile);
-        curl_setopt($ch, CURLOPT_COOKIEFILE, $this->cookieFile);
-        $test = curl_exec($ch);
-        curl_close($ch);
-        if (strpos($test, "welcome") !== false) {return true;}
-        $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, "http://www.bilibili.tv/member/index_do.php");
-        curl_setopt($ch, CURLOPT_POST, TRUE);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
-        curl_setopt($ch, CURLOPT_ENCODING, "");
-        curl_setopt($ch, CURLOPT_POSTFIELDS, 'fmdo=login&dopost=login&refurl=http%3A%2F%2Fwww.bilibili.tv%2F&keeptime=604800&userid=SHK&pwd=A98532E21655&keeptime=2592000');
-        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
-        curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, FALSE);
-        curl_setopt($ch, CURLOPT_COOKIEJAR, $this->cookieFile);
-        curl_setopt($ch, CURLOPT_COOKIEFILE, $this->cookieFile);
-        $test2 = curl_exec($ch);
-        if (strpos($test2, 'javascript:history.go(-1)') === false) {return true;}
-        return false;;
     }
 }
 
