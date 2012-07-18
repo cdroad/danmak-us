@@ -1,5 +1,5 @@
-version=pmwiki-2.2.36 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+version=pmwiki-2.2.38 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
 author=Admin
 cauthor=dm.mikufans@gmail.com
 charset=UTF-8
@@ -7,11 +7,14 @@ csum=
 ctime=1332572660
 host=127.0.0.1
 name=System.HomePageTmpl
-rev=14
+rev=15
 targets=System.HomePage
-text=(:if false:)%0a[[#begin]]%0a(:Title {*$Group}.首页:)%0a%0a添加视频：%0a(:include System/UniPostPage :)%0a%0a总投稿量:(:pagelist group={*$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a投稿列表：%0a(:pagelist group={*$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a%0a%0a[[{*$Group}/HomePage?count=0|点此围观全部视频列表]]%0a(:nogroupfooter:)%0a[[#end]]%0a(:ifend:)
-time=1336648594
+text=(:if false:)%0a[[#begin]]%0a(:Title {*$Group}.首页:)%0a%0a(:if auth edit:)%0a添加视频：%0a(:include System/UniPostPage :)%0a(:ifend:)%0a%0a总投稿量:(:pagelist group={*$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%0a投稿列表：%0a(:pagelist group={*$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a%0a%0a[[{*$Group}/HomePage?count=0|点此围观全部视频列表]]%0a(:nogroupfooter:)%0a[[#end]]%0a(:ifend:)
+time=1342532783
 title=System.首页
+author:1342532783=Admin
+diff:1342532783:1336648594:=5d4%0a%3c (:if auth edit:)%0a8d6%0a%3c (:ifend:)%0a
+host:1342532783=127.0.0.1
 author:1336648594=Admin
 diff:1336648594:1336648575:=5d4%0a%3c 添加视频：%0a
 host:1336648594=127.0.0.1
