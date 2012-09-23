@@ -1,2 +1,2 @@
 <?php
-include('./shared/pmwiki.php'); 
+include('pmwiki.php'); 

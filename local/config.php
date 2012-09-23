@@ -19,6 +19,9 @@ $EnableRelativePageVars = 1;
 $EnableUndefinedTemplateVars = 0;
 $EnablePostAuthorRequired = 1;
 $EnableDiffInline = 1;
+$FarmPubDirUrl = 'http://'.$_SERVER['HTTP_HOST'].'/shared/pub';
+$EnablePathInfo = 1;
+$ScriptUrl = "http://".$_SERVER['HTTP_HOST'];
 $HTMLPNewline = '<br />'; 
 $SearchPatterns['default'][] = '!^PmWiki\\.!';
 //调试

@@ -48,7 +48,7 @@ class Bilibili2FNQClass extends FNQClass
 {
     public function __construct($url)
     {
-        $this->cookieFile = './shared/temp/bilibili.txt';
+        $this->cookieFile = './uploads/temp/bilibili.txt';
         $this->Init($url);
     }
     
@@ -94,7 +94,7 @@ class AcfunN1FNQClass extends FNQClass
     
     public function __construct($url)
     {
-        $this->cookieFile = './shared/temp/Acfun.txt';
+        $this->cookieFile = './uploads/temp/Acfun.txt';
         $this->Init($url);
         
     }
@@ -154,7 +154,7 @@ class Twodland1FNQClass extends FNQClass
 {
     public function __construct($url)
     {
-        $this->cookieFile = './shared/temp/2dland.txt';
+        $this->cookieFile = './uploads/temp/2dland.txt';
         $this->Init($url);
     }
     

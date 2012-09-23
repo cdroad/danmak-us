@@ -1,28 +1,12 @@
-<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
-Header set Cache-Control "max-age=604800, public"
-</FilesMatch>
+# This file is cookbook/.htaccess -- the default distribution contains this
+# file to prevent cookbook/ scripts from being accessed directly by browsers
+# (this is a potential, albeit very unlikely, security hole).
+#
+# If you alter or replace this file, it will likely be overwritten when
+# you upgrade from one version of PmWiki to another.  Be sure to save
+# a copy of your alterations in another location so you can restore them,
+# and you might try changing this file to be read-only to prevent a PmWiki
+# upgrade from overwriting your altered version.
 
-<FilesMatch "\.(html|htm)$">
-Header set Cache-Control "max-age=7200, must-revalidate"
-</FilesMatch>
-
-Options -Indexes
-RewriteEngine on
-#####################################################
-RewriteRule ^playtag        PI/Bilibili?action=Playtag&id=$1        [L]
-RewriteRule ^dmerror        PI/Bilibili?action=dmerror              [L]
-RewriteRule ^dad.php        PI/Bilibili?action=Dad				    [QSA,L]
-RewriteRule ^dmduration     PI/Bilibili?action=dmduration           [L]
-RewriteRule ^rec            PI/Bilibili?action=rec                  [L]
-RewriteRule ^member/dmm.php PI/Bilibili?action=dmm                  [L]
-RewriteRule ^dmpost         DMR/Bilibili?action=BiDMR               [L]
-
-RewriteRule ^dm,([^?]*)  API/XMLTool?action=XMLLoad&group=bilibili&id=$1				[QSA,L]
-
-RewriteRule ^newflvplayer/xmldata/(.*)P01/ API/XMLTool?action=XMLLoad&group=acfun&id=$1P0  [L]
-RewriteRule ^newflvplayer/xmldata/(.*)/    API/XMLTool?action=XMLLoad&group=acfun&id=$1    [L]
-
-#RewriteRule ^p/A(.*)P01        API/XMLTool?action=XMLLoad&group=acfun&id=$1P0   [QSA,L]
-#RewriteRule ^p/A([0-9a-zA-Z]*) API/XMLTool?action=XMLLoad&group=acfun&id=$1     [QSA,L]
-#Ò³ÃæÌø×ª##################################
-RewriteRule ^([A-Z0-9\xa0-\xff].*)$ index.php?n=$1  [QSA,L]
+Order Deny,Allow
+Allow from all
