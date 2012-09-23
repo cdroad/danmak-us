@@ -5,7 +5,6 @@ function GetFNQClass($url)
     return new $class($url);
 }
 
-Header("Content-Type: text/plain");
 abstract class FNQClass
 {
     protected $html;

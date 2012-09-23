@@ -4,7 +4,6 @@ Header set Cache-Control "max-age=604800, public"
 
 Options -Indexes
 RewriteEngine on
-#RewriteRule ^/static/min/([bfg]=.*)  /static/min/index.php?$1 [L,NE]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
