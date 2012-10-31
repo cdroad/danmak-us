@@ -1,49 +1,4 @@
 <?php
-
-$playerCodeHeader = <<<STR
-<script type="text/javascript">
-var flashvars = {};
-var params = {};
-params.menu = "true";
-params.allowscriptaccess = "always";
-params.allowfullscreen = "true";
-params.bgcolor = "#FFFFFF";
-params.autostart = "false";
-params.play = "false";
-params.wmode = 'direct';
-params.allowFullscreenInteractive = true;
-
-STR;
-
-function DMF_RV($x)
-{
-	global $VDN;
-
-	return $VDN->$x;
-}
-
-function DMF_SetUpPageMarkUp()
-{
-	Markup("PlayerLoader", 'directives',"/\\(:PlayerLoader:\\)/e",
-		'keep(DMF_RV("PlayerLoadCode"))');
-	Markup("DMF_Messages", 'directives',"/\\(:DMFMessage:\\)/e",
-		'DMF_RV("Messages")'); 
-	Markup("DMBarLoader", 'directives',"/\\(:DMBarLoader:\\)/e",
-		'PRR(DMF_RV("DanmakuBarCode"))'); 
-	Markup("PlayerLinkLoader", '<inline',"/\\(:PlayerLinkLoader:\\)/e",
-		'DMF_RV("PlayerLinkCode")'); 
-	Markup("PartLinkLoader", '<inline',"/\\(:PartLinkLoader:\\)/e",
-		'DMF_RV("PartIndexCode")');
-}
-
-Markup("ObjInit", '<{$var}', "/\\(:ObjInit:\\)/e", 'ObjLoadFunc()');
-function ObjLoadFunc()
-{
-	global $VDN;
-	$VDN = new VideoData($GLOBALS['pagename']);
-	DMF_SetUpPageMarkUp();
-}
-
 class VideoData
 {
     private $vpd;

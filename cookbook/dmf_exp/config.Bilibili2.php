@@ -1,13 +1,4 @@
 <?php
-//弹幕权限表
-$BilibiliAuthLevel = new DefinedEnum( array
-(
-    'DefaultLevel' => '10000,1001',
-	'Guest'	=> '0',
-	'User'	=> '10000,1001',
-	'Danmakuer' => '20000,1001'
-));
-
 class Bilibili2GroupConfig extends GroupConfig
 {
     //是否允许代码弹幕(高级弹幕)

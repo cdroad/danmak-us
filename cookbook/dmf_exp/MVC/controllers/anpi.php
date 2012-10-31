@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 //Acfun (新) 播放器接口
-include_once(DMF_ROOT_PATH."config.AcfunN1.php");
+//include_once(DMF_ROOT_PATH."config.AcfunN1.php");
 class Anpi extends CI_Controller {
     public function getlogo()
     {

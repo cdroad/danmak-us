@@ -1,14 +1,86 @@
 <?php
 libxml_use_internal_errors(true);
+spl_autoload_register(function ($class) {
+    $p = DMF_ROOT_PATH."inc/class.{$class}.php";
+    
+    if (file_exists($p)) {
+        $f = $p;
+    } else if (stripos($class,  'GroupConfig') !== FALSE) {
+        $c = substr($class, 0, stripos($class,  'GroupConfig'));
+        $f = DMF_ROOT_PATH."config.{$c}.php";
+    }
+    
+
+    if (file_exists($f)) {
+        include $f;
+        return;
+    } else {
+        //echo $class."||||".$f;
+        //exit;
+    }
+    
+});
+$playerCodeHeader = <<<STR
+<script type="text/javascript">
+var flashvars = {};
+var params = {};
+params.menu = "true";
+params.allowscriptaccess = "always";
+params.allowfullscreen = "true";
+params.bgcolor = "#FFFFFF";
+params.autostart = "false";
+params.play = "false";
+params.wmode = 'direct';
+params.allowFullscreenInteractive = true;
+
+STR;
+
+//弹幕权限表
+$BilibiliAuthLevel = new DefinedEnum( array
+(
+    'DefaultLevel' => '10000,1001',
+	'Guest'	=> '0',
+	'User'	=> '10000,1001',
+	'Danmakuer' => '20000,1001'
+));
+
+function DMF_RV($x)
+{
+	global $VDN;
+
+	return $VDN->$x;
+}
+
+function DMF_SetUpPageMarkUp()
+{
+	Markup("PlayerLoader", 'directives',"/\\(:PlayerLoader:\\)/e",
+		'keep(DMF_RV("PlayerLoadCode"))');
+	Markup("DMF_Messages", 'directives',"/\\(:DMFMessage:\\)/e",
+		'DMF_RV("Messages")'); 
+	Markup("DMBarLoader", 'directives',"/\\(:DMBarLoader:\\)/e",
+		'PRR(DMF_RV("DanmakuBarCode"))'); 
+	Markup("PlayerLinkLoader", '<inline',"/\\(:PlayerLinkLoader:\\)/e",
+		'DMF_RV("PlayerLinkCode")'); 
+	Markup("PartLinkLoader", '<inline',"/\\(:PartLinkLoader:\\)/e",
+		'DMF_RV("PartIndexCode")');
+}
+
+Markup("ObjInit", '<{$var}', "/\\(:ObjInit:\\)/e", 'ObjLoadFunc()');
+function ObjLoadFunc()
+{
+	global $VDN;
+	$VDN = new VideoData($GLOBALS['pagename']);
+	DMF_SetUpPageMarkUp();
+}
+
+/*
 include_once(DMF_ROOT_PATH."inc/class.Enum.php");
 include_once(DMF_ROOT_PATH."inc/class.DefinedEnum.php");
 include_once(DMF_ROOT_PATH."inc/class.FlagsEnum.php");
-include_once(DMF_ROOT_PATH."inc/class.DanmakuPoolBase.php");
-include_once(DMF_ROOT_PATH."inc/class.DanmakuPoolBaseIO.php");
 include_once(DMF_ROOT_PATH."inc/class.Set.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoSourceSet.php");
 include_once(DMF_ROOT_PATH."inc/class.PlayerSet.php");
-include_once(DMF_ROOT_PATH."inc/class.DanmakuBarItem.php");
+
 include_once(DMF_ROOT_PATH."inc/class.DanmakuBarSet.php");
 include_once(DMF_ROOT_PATH."inc/class.DanmakuBuilder.php");
 include_once(DMF_ROOT_PATH."inc/class.DanmakuXPathBuilder.php");
@@ -16,9 +88,13 @@ include_once(DMF_ROOT_PATH."inc/class.Player.php");
 include_once(DMF_ROOT_PATH."inc/class.Utils.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoPageData.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoData.php");
-include_once(DMF_ROOT_PATH."inc/class.VideoSource.php");
 include_once(DMF_ROOT_PATH."inc/class.GroupConfig.php");
 include_once(DMF_ROOT_PATH."inc/class.XMLAuth.php");
+*/
+include_once(DMF_ROOT_PATH."inc/class.DanmakuPoolBase.php");
+include_once(DMF_ROOT_PATH."inc/class.DanmakuPoolBaseIO.php");
+include_once(DMF_ROOT_PATH."inc/class.DanmakuBarItem.php");
+include_once(DMF_ROOT_PATH."inc/class.VideoSource.php");
 include_once(DMF_ROOT_PATH."inc/action.SetDefaultPlayer.php");
 include_once(DMF_ROOT_PATH."DMF_Version.php");
 Player::$playerBase = $ScriptUrl.'/static/players/';
