@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class PlayerSet extends Set
 {
     protected function get($name)

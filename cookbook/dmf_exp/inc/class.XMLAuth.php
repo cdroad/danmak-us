@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class XMLAuth
 {
     public static function IsRead($dmid, $group)

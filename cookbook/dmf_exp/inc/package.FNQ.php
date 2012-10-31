@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 function GetFNQClass($url)
 {
     $class = Utils::GetGroup($url)."FNQClass";

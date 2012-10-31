@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 $HandleActions['setdef'] = 'Handlesetdef';
 $HandleAuth['setdef'] = 'admin';
 function Handlesetdef($pn,$auth = 'admin')

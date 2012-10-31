@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 //abstract class GroupConfig
 abstract class GroupConfig
 {

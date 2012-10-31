@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class VideoSourceSet extends Set
 {
     protected function get($name)

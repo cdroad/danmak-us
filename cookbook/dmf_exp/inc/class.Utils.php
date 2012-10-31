@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class Utils
 {
 	public static function display_xml_error($error, $xmlstr = NULL)

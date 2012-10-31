@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class FlagsEnum extends Enum {
     public function __construct( /*...*/ ) {
         $args = func_get_args();

@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 libxml_use_internal_errors(true);
 spl_autoload_register(function ($class) {
     $p = DMF_ROOT_PATH."inc/class.{$class}.php";
@@ -80,7 +80,6 @@ include_once(DMF_ROOT_PATH."inc/class.FlagsEnum.php");
 include_once(DMF_ROOT_PATH."inc/class.Set.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoSourceSet.php");
 include_once(DMF_ROOT_PATH."inc/class.PlayerSet.php");
-
 include_once(DMF_ROOT_PATH."inc/class.DanmakuBarSet.php");
 include_once(DMF_ROOT_PATH."inc/class.DanmakuBuilder.php");
 include_once(DMF_ROOT_PATH."inc/class.DanmakuXPathBuilder.php");

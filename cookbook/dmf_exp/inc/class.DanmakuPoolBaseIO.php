@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 //Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Unauthorized access!");
 abstract class DanmakuPoolBaseIO
 {

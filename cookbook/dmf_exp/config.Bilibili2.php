@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class Bilibili2GroupConfig extends GroupConfig
 {
     //是否允许代码弹幕(高级弹幕)

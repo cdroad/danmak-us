@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class Twodland1GroupConfig extends GroupConfig
 {
     protected function __construct()

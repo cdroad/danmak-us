@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class Acfun4pGroupConfig extends GroupConfig
 {
     

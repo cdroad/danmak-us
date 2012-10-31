@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class Enum {
     protected $self = array();
     public function __construct( /*...*/ ) {
