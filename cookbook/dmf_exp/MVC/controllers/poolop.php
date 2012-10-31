@@ -3,6 +3,7 @@ include_once(DMF_ROOT_PATH."config.Twodland1.php");
 include_once(DMF_ROOT_PATH."config.Bilibili2.php");
 include_once(DMF_ROOT_PATH."config.Acfun2.php");
 include_once(DMF_ROOT_PATH."config.AcfunN1.php");
+include_once(DMF_ROOT_PATH."config.Acfun4p.php");
 //PoolOp / command / group / dmid / params
 //post move clear valid download
 

@@ -10,6 +10,8 @@ params.allowfullscreen = "true";
 params.bgcolor = "#FFFFFF";
 params.autostart = "false";
 params.play = "false";
+params.wmode = 'direct';
+params.allowFullscreenInteractive = true;
 
 STR;
 

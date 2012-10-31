@@ -1,0 +1,40 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+author=dm.mikufans@gmail.com
+cauthor=dm.mikufans@gmail.com
+charset=UTF-8
+csum=
+ctime=1321428351
+host=127.0.0.1
+name=AcfunN1.GroupFooter
+rev=9
+targets=
+text=(:ObjInit:)%0a(:if equal "{*$Stats}" "true" :)%0a(:include System.VideoFooter self=1:)%0a(:ifend:)
+time=1332608543
+author:1332608543=dm.mikufans@gmail.com
+diff:1332608543:1332581618:=1,4c1,8%0a%3c (:ObjInit:)%0a%3c (:if equal "{*$Stats}" "true" :)%0a%3c (:include System.VideoFooter self=1:)%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> (:if ! equal "{*$:VideoStr}" "" :)%0a> That's True 1%0a> (:if2 equal "{*$Stats}" "true" :)%0a> That's True 2%0a> (:if2end:)%0a> (:ifend:)%0a> %0a> [@(:ObjInit:)@]%0a\ No newline at end of file%0a
+host:1332608543=127.0.0.1
+author:1332581618=dm.mikufans@gmail.com
+diff:1332581618:1332581574:=
+host:1332581618=127.0.0.1
+author:1332581574=dm.mikufans@gmail.com
+diff:1332581574:1332581558:=1c1%0a%3c (:if ! equal "{*$:VideoStr}" "" :)%0a---%0a> (:if equal "{*$:VideoStr}" "true" :)%0a
+host:1332581574=127.0.0.1
+author:1332581558=dm.mikufans@gmail.com
+diff:1332581558:1332581481:=1,2c1,2%0a%3c (:if equal "{*$:VideoStr}" "true" :)%0a%3c That's True 1%0a---%0a> (:if ! equal "x" "":)%0a> (:ObjInit:)%0a4c4%0a%3c That's True 2%0a---%0a> That's True%0a6,8c6%0a%3c (:ifend:)%0a%3c %0a%3c [@(:ObjInit:)@]%0a\ No newline at end of file%0a---%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1332581558=127.0.0.1
+author:1332581481=dm.mikufans@gmail.com
+diff:1332581481:1332581274:=1c1%0a%3c (:if ! equal "x" "":)%0a---%0a> (:if ! equal "x" "")%0a
+host:1332581481=127.0.0.1
+author:1332581274=dm.mikufans@gmail.com
+diff:1332581274:1332581258:=
+host:1332581274=127.0.0.1
+author:1332581258=dm.mikufans@gmail.com
+diff:1332581258:1332580885:=2c2%0a%3c (:ObjInit:)%0a---%0a> (:ObjInit_:)%0a
+host:1332581258=127.0.0.1
+author:1332580885=dm.mikufans@gmail.com
+diff:1332580885:1321428351:=1,4c1,7%0a%3c (:if ! equal "x" "")%0a%3c (:ObjInit_:)%0a%3c (:if2 equal "{*$Stats}" "true" :)%0a%3c That's True%0a---%0a> (:ObjInit:)%0a> (:if equal "{*$Stats}" "true" :)%0a> (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a> (:cell:)%0a> >>recipeinfo%3c%3c%0a> (:if2 ! enabled LOCALVERSION:)%0a> 来源: {*$:sourcelink}%0a5a9,41%0a> (:if2 auth edit:)%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a> Tags:	(:includeTag:)&nbsp;&nbsp;(:input text "Tags" size="6":)(:input submit value="追加Tag":)%0a> (:input end:)%0a> (:else2:)%0a> Tags:	(:includeTag:)&nbsp;&nbsp;%0a> (:if2end:)%0a> (:DMFMessage:)%0a> (:messages:)%0a> (:if [ ! auth admin && enabled LOCALVERSION ] :)%25red%25 乃还没有登录，弹幕发送不予保存。%25%25(:ifend:)%0a> >>%3c%3c%0a> (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a> (:if2 equal "{*$IsMuti}" "true" :)%0a> >>font-size:small%3c%3c%0a> '''分P资料:'''%0a> (:include {*$FullName}#partinfo#partend :)%0a> >>%3c%3c%0a> -----%0a> (:if2end:)%0a> '''备注:'''(:include {*$BaseName}#comment#commentend :)%0a> (:cellnr width=950  :)%0a> ----%0a> (:DMBarLoader:)%0a> >>id=flashcontent%3c%3c%0a> >>%3c%3c%0a> (:PlayerLoader:)%0a> (:cellnr width=950 :)%0a> ----%0a> (:if2 equal "{*$IsMuti}" "true" :)%0a> 切换Part: (:PartLinkLoader:)%0a> (:if2end:)%0a> 切换播放器：(:PlayerLinkLoader:)%0a> (:tableend:)%0a
+host:1332580885=127.0.0.1
+author:1321428351=
+diff:1321428351:1321428351:=1,42d0%0a%3c (:ObjInit:)%0a%3c (:if equal "{*$Stats}" "true" :)%0a%3c (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a%3c (:cell:)%0a%3c >>recipeinfo%3c%3c%0a%3c (:if2 ! enabled LOCALVERSION:)%0a%3c 来源: {*$:sourcelink}%0a%3c (:if2end:)%0a%3c (:if2 auth edit:)%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;(:input text "Tags" size="6":)(:input submit value="追加Tag":)%0a%3c (:input end:)%0a%3c (:else2:)%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;%0a%3c (:if2end:)%0a%3c (:DMFMessage:)%0a%3c (:messages:)%0a%3c (:if [ ! auth admin && enabled LOCALVERSION ] :)%25red%25 乃还没有登录，弹幕发送不予保存。%25%25(:ifend:)%0a%3c >>%3c%3c%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a%3c (:if2 equal "{*$IsMuti}" "true" :)%0a%3c >>font-size:small%3c%3c%0a%3c '''分P资料:'''%0a%3c (:include {*$FullName}#partinfo#partend :)%0a%3c >>%3c%3c%0a%3c -----%0a%3c (:if2end:)%0a%3c '''备注:'''(:include {*$BaseName}#comment#commentend :)%0a%3c (:cellnr width=950  :)%0a%3c ----%0a%3c (:DMBarLoader:)%0a%3c >>id=flashcontent%3c%3c%0a%3c >>%3c%3c%0a%3c (:PlayerLoader:)%0a%3c (:cellnr width=950 :)%0a%3c ----%0a%3c (:if2 equal "{*$IsMuti}" "true" :)%0a%3c 切换Part: (:PartLinkLoader:)%0a%3c (:if2end:)%0a%3c 切换播放器：(:PlayerLinkLoader:)%0a%3c (:tableend:)%0a%3c (:ifend:)%0a\ No newline at end of file%0a
+host:1321428351=127.0.0.1

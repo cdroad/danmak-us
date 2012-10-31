@@ -10,7 +10,7 @@ class DefaultController extends CI_Controller {
         $bak = $p = $this->input->server('REQUEST_URI');
         $this->_urlReplace("{^/static/(.*)}i", "/pub/$1", $p);
         $this->_urlReplace("{^/pub/players/player([^/]*)\.swf$}i", "/pub/players/ac/player$1.swf", $p);
-        $this->_urlReplace("{^/pub/players/bi([^/]*)\.swf$}i", "/pub/players/bi/player$1.swf", $p);
+        //$this->_urlReplace("{^/pub/players/bi([^/]*)\.swf$}i", "/pub/players/bi/player$1.swf", $p);
         
         $p = substr($p, 1);
         if (file_exists($p)) {

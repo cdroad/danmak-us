@@ -1,29 +1,18 @@
 <?php
-//弹幕权限表
-$BilibiliAuthLevel = new DefinedEnum( array
-(
-    'DefaultLevel' => '10000,1001',
-	'Guest'	=> '0',
-	'User'	=> '10000,1001',
-	'Danmakuer' => '20000,1001'
-));
-
-class Bilibili2GroupConfig extends GroupConfig
+class Acfun4pGroupConfig extends GroupConfig
 {
-    //是否允许代码弹幕(高级弹幕)
-    private $BiliEnableSA = TRUE;
     
     protected function __construct()
     {
         parent::__construct();
-        $this->GroupString = 'Bilibili2';
-        $this->AllowedXMLFormat = array('d', 'data', 'raw');
-        $this->SUID = 'B';
-        $this->XMLFolderPath = './uploads/Bilibili2';
-        $this->PlayersSet->add('bi20120427', new Player('bi20120427_DMF.swf', 'bilibili播放器(2012-04-27)', 950, 482))
-                         ->add('bi20121024', new Player('bi20121024.swf', 'bilibili播放器(2012-10-24_org)', 950, 482))
-                         ->addDefault('bi20121024');
-        $this->VideoSourceSet->add('yk', new YouKuSource());
+        $this->GroupString = 'Acfun4p';
+        $this->AllowedXMLFormat = array('json', 'raw', 'data');
+        $this->SUID = 'A4P';
+        $this->XMLFolderPath = './uploads/Acfun4p';
+        $this->PlayersSet
+                    ->add('ac201210171424', new Player('ACFlashPlayer.201210171424.swf', 'Acfun播放器 (2012-10-17)', 970, 480)) 
+                    ->add('ac201209241900', new Player('ACFlashPlayer.old.201209241900.swf', 'Acfun播放器 (2012-09-24)', 950, 445)) 
+                    ->addDefault('ac201210171424');
         
         $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
         $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
@@ -38,19 +27,45 @@ class Bilibili2GroupConfig extends GroupConfig
         $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
         $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
-    
+
     public function UploadFilePreProcess($str) {
-        return simplexml_load_string($str);
+        $test = simplexml_load_string($str);
+
+        if ($test !== FALSE) {return $test;}
+        if($str[0] == chr(0xef) && $str[1] == chr(0xbb) && $str[2] == chr(0xbf))
+        {	// UTF-8 BOMを取り除く
+            $str = substr($str, 3);
+        }
+        $json = json_decode($str);
+        
+        if (is_null($json)) return false;
+        $xmlstr = '<?xml version="1.0" encoding="UTF-8"?><comments>';
+        foreach ($json as $item) {
+            $a = explode(",", $item->c);
+            $danmaku = new DanmakuBuilder($item->m, 0, $a[4], $a[5]);
+            $attrs = array(
+                'playtime'  => $a[0],
+                'color'     => $a[1],
+                'mode'      => $a[2],
+                'fontsize'  => $a[3]
+            );
+            $danmaku->AddAttr($attrs);
+            $xmlstr .= (string)$danmaku;
+        }
+        $xmlstr .= '</comments>';
+        
+        $xml = simplexml_load_string($xmlstr);
+        return $xml;
     }
     
 	public function GenerateFlashVarArr(VideoPageData $source)
 	{
 		$AFVArray = array();
-		
 	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
 	            $AFVArray['vid'] = $source->DanmakuId;
+	            $AFVArray['type'] = "sina";
 	        break;
 	        
 			case "QQ":
@@ -61,14 +76,13 @@ class Bilibili2GroupConfig extends GroupConfig
 			case "LINK":
 			case "BLINK":
 			case "LOCAL":
-				$AFVArray['id'] = $source->DanmakuId;
-				$AFVArray['file'] = $source->VideoStr;
-	        break;
-	        
 			case "YK":
-				$AFVArray['ykid'] = $source->DanmakuId;
+	            //$AFVArray['url'] = $source->VideoStr;
+	            $AFVArray['vid'] = PageVar($source->Pagename, '$Name');
+	            $AFVArray['system'] = "Artemis";
+	            $AFVArray['type'] = "url";
 	        break;
-	        
+
 			default:
 				echo "$source->VideoType->getType(): $source->DanmakuId : $source->VideoStr";
 				assert(false);
@@ -85,8 +99,8 @@ class Bilibili2GroupConfig extends GroupConfig
 				return $obj;
 			case "information":
 				return $this->ConvertFromDataFormat($obj);
-			case "i":
-				return $this->ConvertFromIDForamt($obj);
+            case "c":
+                return $this->ConvertFromCLFormat($obj);
 			default:
 				throw new UnexpectedValueException();
 		}
@@ -96,8 +110,7 @@ class Bilibili2GroupConfig extends GroupConfig
 	{
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
 		foreach ($Obj->data as $comment) {
-            $pool = 1;
-            if ($comment->message['mode'] == '8') $pool = 2;
+            $pool = 0;
 			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef');
             $attrs = array(
                     'playtime'  => $comment->playTime,
@@ -111,24 +124,28 @@ class Bilibili2GroupConfig extends GroupConfig
         
 		return simplexml_load_string($XMLString);
 	}
-
-	public function ConvertFromIDForamt(SimpleXMLElement $Obj)
+	
+	public function ConvertFromCLFormat(SimpleXMLElement $Obj)
 	{
 		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
-		foreach ($Obj->d as $comment) {
-			$arr = explode(",", $comment['p']);
-			
+		foreach ($Obj->l as $comment) {
+            $pool = 0;
+			$arrs = explode(",", $comment['i']);
             $attrs = array(
-                    'playtime'  => $arr[0],
-                    'mode'      => $arr[1],
-                    'fontsize'  => $arr[2],
-                    'color'     => $arr[3],);
-            $danmaku = new DanmakuBuilder((string)$comment, $arr[5], $arr[6]);
+                'playtime'  => $arrs[0],
+                'mode'      => $arrs[3],
+                'fontsize'  => $arrs[1],
+                'color'     => $arrs[2]);
+            $text = (string)$comment;
+            if ($arrs[3] == "7")
+            { 
+                $text = stripslashes($text);
+            }
+            $danmaku = new DanmakuBuilder($text, $pool, 'deadbeef');
             $danmaku->AddAttr($attrs);
 			$XMLString .= (string)$danmaku;
 		}
 		$XMLString .= "\r\n</comments>";
-        
 		return simplexml_load_string($XMLString);
 	}
     
