@@ -24,8 +24,8 @@ class DefaultController extends K_Controller {
     
 	public function page_missing()
 	{
-        return "BBBBBBBBBBB";
-		$this->view('Site/PageNotFound');
+        //return "BBBBBBBBBBB";
+		echo $this->GetView('Site/PageNotFound');
 	}
 	
 	public function view($name = 'Main/HomePage')

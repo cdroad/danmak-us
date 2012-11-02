@@ -1,4 +1,6 @@
 <?php
+define("MVC_PATH", dirname(__FILE__));
+ob_start();
 spl_autoload_register(function ($class) {
     $p = "./controller/{$class}.php";
     if (file_exists($p)) 
