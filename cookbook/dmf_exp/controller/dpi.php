@@ -1,5 +1,4 @@
-<?php
-//include_once(DMF_ROOT_PATH."config.Twodland1.php");
+<?php if (!defined('PmWiki')) exit();
 class Dpi extends K_Controller {
 
     //http://www.2dland.cn/watch/data/player/201002/225.xml?baka=0.945524160284549

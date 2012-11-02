@@ -1,6 +1,5 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 //Acfun (新) 播放器接口
-//include_once(DMF_ROOT_PATH."config.AcfunN1.php");
 class Anpi extends K_Controller {
     public function getlogo()
     {

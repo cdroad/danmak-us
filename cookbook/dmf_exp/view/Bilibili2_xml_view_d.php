@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 echo <<<HEADER
 <?xml version="1.0" encoding="UTF-8"?>
 <i>

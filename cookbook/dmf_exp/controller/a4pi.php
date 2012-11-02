@@ -1,8 +1,5 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 //Acfun (新) 播放器接口
-//include_once(DMF_ROOT_PATH."config.Acfun4p.php");
-//include_once(DMF_ROOT_PATH."/inc/class.VideoPageData.php");
-
 class a4pi extends K_Controller {
     public function getlogo()
     {

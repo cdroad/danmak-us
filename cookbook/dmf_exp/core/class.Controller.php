@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 class K_Controller {
     public function K_Controller() {}
     

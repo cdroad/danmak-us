@@ -1,4 +1,4 @@
-<?php 
+<?php if (!defined('PmWiki')) exit();
 class DefaultController extends K_Controller {
     
     private function _urlReplace($pattern, $to, &$subject) {

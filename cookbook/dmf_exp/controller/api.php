@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 //Acfun (老) 播放器接口
 class Api extends K_Controller {
     public function filtrate()

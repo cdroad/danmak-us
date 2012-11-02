@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 $json = array();
 foreach ($Obj->comment as $node) {
     $attr = $node->attr[0]->attributes();

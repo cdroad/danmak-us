@@ -1,5 +1,4 @@
-<?php
-
+<?php if (!defined('PmWiki')) exit();
 class Dmf extends K_Controller {
 
     public function getLocalUploads() {

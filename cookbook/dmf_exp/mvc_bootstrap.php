@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 define("MVC_PATH", dirname(__FILE__));
 
 spl_autoload_register(function ($class) {

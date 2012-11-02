@@ -1,5 +1,4 @@
-<?php
-
+<?php if (!defined('PmWiki')) exit();
 class K_Input {
     private $get;
     private $file;

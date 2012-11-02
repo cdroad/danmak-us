@@ -1,7 +1,4 @@
-<?php
-//include_once(DMF_ROOT_PATH."config.Bilibili2.php");
-//Bilibili Player Interfaces
-//Bili播放器接口
+<?php if (!defined('PmWiki')) exit();
 class Bpi extends K_Controller {
 
 	public function index()
