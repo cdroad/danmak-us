@@ -1,6 +1,6 @@
 <?php
 //Acfun (老) 播放器接口
-class Api extends CI_Controller {
+class Api extends K_Controller {
     public function filtrate()
     {
         die('<?xml version="1.0" encoding="utf-8"?><information>

@@ -7,7 +7,7 @@ spl_autoload_register(function ($class) {
         $f = $p;
     } else if (stripos($class,  'GroupConfig') !== FALSE) {
         $c = substr($class, 0, stripos($class,  'GroupConfig'));
-        $f = DMF_ROOT_PATH."config.{$c}.php";
+        $f = DMF_ROOT_PATH."config/config.{$c}.php";
     }
     
 

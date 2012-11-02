@@ -102,8 +102,10 @@ $GroupHeaderFmt =
 if ( !(bool)preg_match("/^\/([A-Z0-9\xa0-\xff\?].*)/", $_SERVER['REQUEST_URI'])
       && !($_SERVER['REQUEST_URI'] == "/") ) {
     $pagename = $_REQUEST['n'] = $_REQUEST['pagename'] = 'Main/HomePage';
-    $EnableCodeIgniter = TRUE;
+    //$EnableCodeIgniter = TRUE;
+    $action = 'mvc';
 }
 
 define("DMF_ROOT_PATH", './cookbook/dmf_exp/');
 include(DMF_ROOT_PATH."DMF.php");
+include(DMF_ROOT_PATH."mvc_bootstrap.php");

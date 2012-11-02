@@ -9,7 +9,7 @@
 
 //弹幕操作接口
 //返回HTML
-class PoolOp extends CI_Controller {
+class PoolOp extends K_Controller {
     private static $GoBack = 
         "<script language='javascript'> setTimeout('history.go(-1)', 2000);</script>两秒后传送回家";
     
@@ -75,7 +75,7 @@ class PoolOp extends CI_Controller {
 		
 		$view = sprintf( "%s_xml_view_%s", $group, strtolower($format));
 		// 不做保存，纯粹合并
-        $this->load->view($view, array('Obj' => $staPool->GetXML()) );
+        $this->DisplayView($view, array('Obj' => $staPool->GetXML()) );
 	}
 	
 	public function post($group, $dmid) // GET : pool append
@@ -154,7 +154,7 @@ class PoolOp extends CI_Controller {
 	private function display($msg)
 	{
         $GLOBALS['MessagesFmt'] = $msg;
-        $this->load->view('pmwiki_view', array('name' => 'API.XMLTool'));
+        $this->DisplayView('pmwiki_view', array('name' => 'API.XMLTool'));
 	}
 	
 }

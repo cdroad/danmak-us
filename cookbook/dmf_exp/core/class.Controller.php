@@ -1,6 +1,6 @@
 <?php
 class K_Controller {
-    protected function K_Controller() {}
+    public function K_Controller() {}
     
     protected function DisplayView($viewName, $vars = array()) {
         //localize vars

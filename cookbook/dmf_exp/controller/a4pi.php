@@ -3,7 +3,7 @@
 //include_once(DMF_ROOT_PATH."config.Acfun4p.php");
 //include_once(DMF_ROOT_PATH."/inc/class.VideoPageData.php");
 
-class a4pi extends CI_Controller {
+class a4pi extends K_Controller {
     public function getlogo()
     {
         die(base64_decode('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAAXNSR0IArs4c6QAA'.
@@ -44,8 +44,7 @@ class a4pi extends CI_Controller {
         
         $page['text'] .= $xml;
         WritePage($_pagename, $page);
-        echo 'DMF_Local :: a4pi :: dmpost() :: success!';
-        exit;
+        die('DMF_Local :: a4pi :: dmpost() :: success!');
     }
     
     public function dmdelete()

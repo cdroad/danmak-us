@@ -1,6 +1,6 @@
 <?php
 
-class Dmf extends CI_Controller {
+class Dmf extends K_Controller {
 
     public function getLocalUploads() {
         if (!$GLOBALS['LOCALVERSION']) {

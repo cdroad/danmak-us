@@ -1,6 +1,6 @@
 <?php 
 class DefaultController extends K_Controller {
-
+    
     private function _urlReplace($pattern, $to, &$subject) {
         $subject = preg_replace($pattern, $to, $subject);
     }
@@ -24,8 +24,7 @@ class DefaultController extends K_Controller {
     
 	public function page_missing()
 	{
-        //return "BBBBBBBBBBB";
-		echo $this->GetView('Site/PageNotFound');
+		echo $this->view('Site/PageNotFound');
 	}
 	
 	public function view($name = 'Main/HomePage')

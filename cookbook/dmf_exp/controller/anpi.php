@@ -1,7 +1,7 @@
 <?php
 //Acfun (新) 播放器接口
 //include_once(DMF_ROOT_PATH."config.AcfunN1.php");
-class Anpi extends CI_Controller {
+class Anpi extends K_Controller {
     public function getlogo()
     {
         die(base64_decode('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAAXNSR0IArs4c6QAA'.

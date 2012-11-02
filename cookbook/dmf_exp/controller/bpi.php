@@ -2,7 +2,7 @@
 //include_once(DMF_ROOT_PATH."config.Bilibili2.php");
 //Bilibili Player Interfaces
 //Bili播放器接口
-class Bpi extends CI_Controller {
+class Bpi extends K_Controller {
 
 	public function index()
 	{
@@ -11,19 +11,19 @@ class Bpi extends CI_Controller {
     
     public function bpad()
     {
-        $this->load->view('bilibili_pad');
+        $this->DisplayView('bilibili_pad');
     }
     
     public function error()
 	{
         $GLOBALS['MessagesFmt'] = '你知道的太多了，小心大表哥。';
-        $this->load->view('pmwiki_view', array('name' => 'API.XMLTool'));
+        $this->DisplayView('pmwiki_view', array('name' => 'API.XMLTool'));
 	}
 	
 	public function dad()
 	{
         global $BilibiliAuthLevel;
-        $this->load->helper('dmid');
+        //$this->load->helper('dmid');
         $data = array();
         
         if (isset($_REQUEST['id'])) {
@@ -38,7 +38,7 @@ class Bpi extends CI_Controller {
             $data['AuthLevelString'] = $BilibiliAuthLevel->DefaultLevel;
         }
         
-        $this->load->view('bilibili_dad_xml', $data);
+        $this->DisplayView('bilibili_dad_xml', $data);
 	}
 	
 	public function advanceComment()

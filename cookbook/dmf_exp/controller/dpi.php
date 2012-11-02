@@ -1,6 +1,6 @@
 <?php
 //include_once(DMF_ROOT_PATH."config.Twodland1.php");
-class Dpi extends CI_Controller {
+class Dpi extends K_Controller {
 
     //http://www.2dland.cn/watch/data/player/201002/225.xml?baka=0.945524160284549
     public function getconfigxml($para1, $para2 = null)
