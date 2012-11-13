@@ -1,6 +1,12 @@
 <?php if (!defined('PmWiki')) exit();
 class Bpi extends K_Controller {
-
+    private $GroupConfig;
+    
+    public function __construct() {
+        $this->GroupConfig = Utils::GetGroupConfig("bilibili2");
+        parent::__construct();
+    }
+    
 	public function index()
 	{
         die("unknown action");
@@ -81,20 +87,8 @@ class Bpi extends K_Controller {
 	{
         
         $this->Helper(playerInterface);
+        //$this->requireVars($this->Post, array("islock", "color", "text", "size", "mode", "stime", "stimestamp", "poolid"));
         if (CmtPostArgChk()) {Abort("不允许直接访问");}
-
-        $auth = 'edit';
-        /*
-        vid=DMFWhite
-        mode=1
-        fontsize=25
-        pool=0
-        message=xxxxxxx
-        rnd=4633
-        date=2011-10-13 22:54:35
-        color=16777215
-        playTime=97.8
-        */
         
 		$pool = ($this->Input->Post->mode == '8') ? 2 : 1; //mode = 8 时 pool 必须 = 2
         $builder = new DanmakuBuilder($this->Input->Post->message, $pool, 'deadbeef');
@@ -104,18 +98,12 @@ class Bpi extends K_Controller {
                 'fontsize'  => $this->Input->Post->fontsize,
                 'color'     => $this->Input->Post->color);
 		$builder->AddAttr($attrs);
-		$xml = (string)$builder;
-        
-        //准备写入PmWiki
-        $vid = basename($this->Input->Post->vid);
-        $_pagename = 'DMR.B'.$vid;
-        $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
-        if (!$page) die("-55");
-        
-        $page['text'] .= $xml;
-        WritePage($_pagename, $page);
-        echo mt_rand();
-        exit;
+		
+        if (cmtSave($this->GroupConfig, $this->Input->Post->vid, $builder)) {
+            echo mt_rand();
+        } else {
+            die("-55");
+        }
 	}
 
     

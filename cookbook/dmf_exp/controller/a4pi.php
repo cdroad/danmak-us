@@ -1,6 +1,13 @@
 <?php if (!defined('PmWiki')) exit();
 
 class a4pi extends K_Controller {
+    private $GroupConfig;
+    
+    public function __construct() {
+        $this->GroupConfig = Utils::GetGroupConfig("acfun4p");
+        parent::__construct();
+    }
+    
     public function getlogo()
     {
         die(base64_decode('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAAXNSR0IArs4c6QAA'.
@@ -20,19 +27,12 @@ class a4pi extends K_Controller {
                 'fontsize'  => $this->Input->Post->size,
                 'color'     => $this->Input->Post->color);
 		$builder->AddAttr($attrs);
-		$xml = (string)$builder;
-		
-        //准备写入PmWiki
-        $vid = basename($this->Input->Post->poolid);
-        $_pagename = 'DMR.A4P'.$vid;
-		$auth = 'edit';
-        $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
-		
-        if (!$page) die("-55");
-        
-        $page['text'] .= $xml;
-        WritePage($_pagename, $page);
-        die('DMF_Local :: a4pi :: dmpost() :: success!');
+
+        if (cmtSave($this->GroupConfig, $this->Input->Post->poolid, $builder)) {
+            die('DMF_Local :: a4pi :: dmpost() :: success!');
+        } else {
+            die('DMF_Local :: a4pi :: dmpost() :: page fail!');
+        }
     }
     
     public function dmdelete()

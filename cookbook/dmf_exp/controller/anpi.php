@@ -1,6 +1,13 @@
 <?php if (!defined('PmWiki')) exit();
 //Acfun (新) 播放器接口
 class Anpi extends K_Controller {
+    private $GroupConfig;
+    
+    public function __construct() {
+        $this->GroupConfig = Utils::GetGroupConfig("acfunn");
+        parent::__construct();
+    }
+    
     public function getlogo()
     {
         die(base64_decode('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAAXNSR0IArs4c6QAA'.
@@ -20,20 +27,13 @@ class Anpi extends K_Controller {
                 'fontsize'  => $this->Input->Post->size,
                 'color'     => $this->Input->Post->color);
 		$builder->AddAttr($attrs);
-		$xml = (string)$builder;
-		
-        //准备写入PmWiki
-        $vid = basename($this->Input->Post->poolid);
-        $_pagename = 'DMR.AN'.$vid;
-		$auth = 'edit';
-        $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
-		
-        if (!$page) die("-55");
+
+        if (cmtSave($this->GroupConfig, $this->Input->Post->poolid, $builder)) {
+            die('DMF_Local :: anpi :: dmpost() :: success!');
+        } else {
+            die('DMF_Local :: anpi :: dmpost() :: page fail!');
+        }
         
-        $page['text'] .= $xml;
-        WritePage($_pagename, $page);
-        echo 'DMF_Local :: anpi :: dmpost() :: success!';
-        exit;
     }
     
     public function dmdelete()

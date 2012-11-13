@@ -1,6 +1,12 @@
 <?php if (!defined('PmWiki')) exit();
 class Dpi extends K_Controller {
-
+    private $GroupConfig;
+    
+    public function __construct() {
+        $this->GroupConfig = Utils::GetGroupConfig("2dland");
+        parent::__construct();
+    }
+    
     public function getconfigxml($para1, $para2 = null)
     {
         if ($para2 == null) return $this->forbidden();
@@ -29,6 +35,8 @@ class Dpi extends K_Controller {
 
     public function postcmt()
     {
+        $this->Helper('playerInterface');
+        
         $builder = new DanmakuBuilder($this->Input->Request->message, 0, 'deadbeef');
         $attrs = array(
                 "fontsize" => $this->Input->Request->font_size,
@@ -39,16 +47,12 @@ class Dpi extends K_Controller {
                 "fonteffect" => $this->Input->Request->font_effect,
                 "color" => $this->Input->Request->color);
         $builder->AddAttr($attrs);
-        $xml = (string)$builder;
-        $vid = $this->Input->Request->video_id;
-        //准备写入PmWiki
-        $_pagename = 'DMR.D'.$vid;
-        $auth = 'xmledit';
-        $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
-        if (!$page) die('{"ok":-1,"cmnt_id":1265}');
         
-        $page['text'] .= $xml;
-        WritePage($_pagename, $page);
-        die('{"ok":1,"cmnt_id":1265}');
+        if (cmtSave($this->GroupConfig, $this->Input->Request->video_id, $builder)) {
+            die('{"ok":-1,"cmnt_id":1265}');
+        } else {
+            die('{"ok":1,"cmnt_id":1265}');
+        }
+        
     }
 }
