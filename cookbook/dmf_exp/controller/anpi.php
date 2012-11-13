@@ -10,29 +10,20 @@ class Anpi extends K_Controller {
     
     public function dmpost()
     {
-        if (	$_POST['islock']	== ''		||
-                $_POST["color"]	    == ''		||
-                $_POST["text"]		== ''		||
-                $_POST["size"]	    == ''		||
-                $_POST["mode"]		== ''		||
-                $_POST["stime"]		== ''		||
-                $_POST["timestamp"]	== ''		||
-				$_POST["poolid"]	== ''		)
-			{ Abort("不允许直接访问"); }
-		$text = stripmagic($_POST["text"]);
-        $pt = $_POST["stime"];
-		$vid = basename($_POST['poolid']);
+        $this->Helper(playerInterface);
+        if (CmtPostArgChk()) {Abort("不允许直接访问");}
         
-        $builder = new DanmakuBuilder($text, 0, 'deadbeef');
+        $builder = new DanmakuBuilder($this->Input->Post->text, 0, 'deadbeef');
         $attrs = array(
-                'playtime'  => $pt,
-                'mode'      => $_POST["mode"],
-                'fontsize'  => $_POST["size"],
-                'color'     => $_POST["color"]);
+                'playtime'  => $this->Input->Post->stime,
+                'mode'      => $this->Input->Post->mode,
+                'fontsize'  => $this->Input->Post->size,
+                'color'     => $this->Input->Post->color);
 		$builder->AddAttr($attrs);
 		$xml = (string)$builder;
 		
         //准备写入PmWiki
+        $vid = basename($this->Input->Post->poolid);
         $_pagename = 'DMR.AN'.$vid;
 		$auth = 'edit';
         $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
@@ -47,17 +38,17 @@ class Anpi extends K_Controller {
     
     public function dmdelete()
     {
-        if (	$_POST['islock']	== ''		||
-                $_POST["color"]	    == ''		||
-                $_POST["text"]		== ''		||
-                $_POST["size"]	    == ''		||
-                $_POST["mode"]		== ''		||
-                $_POST["stime"]		== ''		||
-                $_POST["timestamp"]	== ''		||
-				$_POST["poolid"]	== ''		)
-			{ Abort("不允许直接访问"); }
-		$key = $this->hashCmt($_POST["text"],$_POST["color"],$_POST["size"],$_POST["mode"],$_POST["stime"]);
-		$dynPool = new DanmakuPoolBase(Utils::GetIOClass('acfunn1', $_POST["poolid"], 'dynamic'));
+        $this->Helper(playerInterface);
+        if (CmtPostArgChk()) {Abort("不允许直接访问");}
+
+		$key = $this->hashCmt(
+            $this->Input->Post->text,
+            $this->Input->Post->color,
+            $this->Input->Post->size,
+            $this->Input->Post->mode,
+            $this->Input->Post->stime);
+        $vid = basename($this->Input->Post->poolid);
+		$dynPool = new DanmakuPoolBase(Utils::GetIOClass('acfunn1', $vid, 'dynamic'));
         foreach ($dynPool->GetXML()->comment as $node)
 		{
 			$K = $this->hashCmt( $node->text, $node->attr[0]["color"],$node->attr[0]["fontsize"],$node->attr[0]["mode"],$node->attr[0]["playtime"]);

@@ -1,4 +1,24 @@
 <?php if (!defined('PmWiki')) exit();
+class K_Array {
+    private $arr;
+    
+    public function K_Array ($vars) {
+        @$this->copyVars($this->arr, $vars);
+    }
+    
+    private function copyVars(&$arr, $vars)
+    {
+        foreach ($vars as $k => $v) {
+            $arr[$k] = stripmagic($v);
+        }
+    }
+    
+    public function __get($name) {
+        return @$this->arr[$name];
+    }
+}
+
+
 class K_Input {
     private $get;
     private $file;
@@ -7,17 +27,16 @@ class K_Input {
     private $request;
     
     public function K_Input () {
-        $this->server   = $_SERVER;
-        $this->get      = $_GET;
-        $this->post     = $_POST;
-        $this->file     = @$_FILE;
-        $this->request  = $_REQUEST;
+        $this->server  = new K_Array($_SERVER);
+        $this->get     = new K_Array($_GET);
+        $this->post    = new K_Array($_POST);
+        $this->file    = new K_Array($_FILE);
+        $this->request = new K_Array($_REQUEST);
     }
     
-    public function post($id)    {return $this->post[$id];   }
-    public function get($id)     {return $this->get[$id];    }
-    public function file($id)    {return $this->file[$id];   }
-    public function server($id)  {return $this->server[$id]; }
-    public function request($id) {return $this->request[$id];}
+    public function __get($name) {
+        $name = strtolower($name);
+        return $this->$name;
+    }
     
 }

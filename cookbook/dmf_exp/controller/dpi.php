@@ -1,7 +1,6 @@
 <?php if (!defined('PmWiki')) exit();
 class Dpi extends K_Controller {
 
-    //http://www.2dland.cn/watch/data/player/201002/225.xml?baka=0.945524160284549
     public function getconfigxml($para1, $para2 = null)
     {
         if ($para2 == null) return $this->forbidden();
@@ -27,25 +26,21 @@ class Dpi extends K_Controller {
     {
         die("test");
     }
-    /*
-        http://www.2dland.cn/watch/ajax.php?mod=comment&act=post
-        font%5Fsize=24&video%5Fid=12898&play%5Ftime=0%2E4&action=1&show%5Feffect=1&message=%E6%9C%89%E5%A5%B6%E3%80%82%E3%80%82%E3%80%82&hide%5Feffect=1&font%5Feffect=1&color=16777215
-        rep:{"ok":1,"cmnt_id":1265}
-    */
+
     public function postcmt()
     {
-        $builder = new DanmakuBuilder($_REQUEST['message'], 0, 'deadbeef');
+        $builder = new DanmakuBuilder($this->Input->Request->message, 0, 'deadbeef');
         $attrs = array(
-                "fontsize" => $_REQUEST['font_size'],
-                "playtime" => $_REQUEST['play_time'],
-                "mode" => $_REQUEST['action'],
-                "showeffect" => $_REQUEST['show_effect'],
-                "hideeffect" => $_REQUEST['hide_effect'],
-                "fonteffect" => $_REQUEST['font_effect'],
-                "color" => $_REQUEST['color']);
+                "fontsize" => $this->Input->Request->font_size,
+                "playtime" => $this->Input->Request->play_time,
+                "mode" => $this->Input->Request->action,
+                "showeffect" => $this->Input->Request->show_effect,
+                "hideeffect" => $this->Input->Request->hide_effect,
+                "fonteffect" => $this->Input->Request->font_effect,
+                "color" => $this->Input->Request->color);
         $builder->AddAttr($attrs);
         $xml = (string)$builder;
-        $vid = $_REQUEST['video_id'];
+        $vid = $this->Input->Request->video_id;
         //准备写入PmWiki
         $_pagename = 'DMR.D'.$vid;
         $auth = 'xmledit';

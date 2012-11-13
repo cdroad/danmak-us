@@ -20,16 +20,16 @@ class Bpi extends K_Controller {
 	public function dad()
 	{
         global $BilibiliAuthLevel;
-        //$this->load->helper('dmid');
+        
         $data = array();
         
-        if (isset($_REQUEST['id'])) {
-            $data['ChatId'] = dmid_to_idhash($_REQUEST['id']);
+        if (empty($this->Input->Request->id)) {
+            $data['ChatId'] = $this->dmid_to_idhash($this->Input->Request->id);
         } else {
             $data['ChatId'] = 0;
         }
         
-        if (XMLAuth::IsEdit($_REQUEST['id'], 'Bilibili2')) {
+        if (XMLAuth::IsEdit($this->Input->Request->id, 'Bilibili2')) {
             $data['AuthLevelString'] = $BilibiliAuthLevel->Danmakuer;
         } else {
             $data['AuthLevelString'] = $BilibiliAuthLevel->DefaultLevel;
@@ -71,23 +71,18 @@ class Bpi extends K_Controller {
     //播放器接口 。弹幕错误汇报
 	public function dmerror()
 	{
-        if (empty($_REQUEST['id']) || empty($_REQUEST['error']))
+        if ( empty($this->Input->Request->id) || empty($this->Input->Request->error) )
             exit;
-        $str = "播放器汇报错误{$_REQUEST['error']}, 返回视频vid : {$_REQUEST['id']}";
+        $str = "播放器汇报错误{$this->Input->Request->error}, 返回视频vid : {$this->Input->Request->id}";
         Utils::WriteLog('bpi::dmerror()', $str);
 	}
 	
 	public function dmpost()
 	{
         
-        if (	$_POST['date']			== ''		||
-                $_POST["playTime"]	    == ''		||
-                $_POST["mode"]			== ''		||
-                $_POST["fontsize"]	    == ''		||
-                $_POST["color"]		    == ''		||
-                $_POST["pool"]			== ''		||
-                $_POST["message"]		== ''		)
-			{ Abort("不允许直接访问"); }
+        $this->Helper(playerInterface);
+        if (CmtPostArgChk()) {Abort("不允许直接访问");}
+
         $auth = 'edit';
         /*
         vid=DMFWhite
@@ -101,54 +96,18 @@ class Bpi extends K_Controller {
         playTime=97.8
         */
         
-		$text = stripmagic($_POST["message"]);
-		$pool = ($_POST["mode"] == '8') ? 2 : 1; //mode = 8 时 pool 必须 = 2
-        $pt = $_POST["playTime"];
-		$vid = basename($_POST['vid']);
-        
-        global $EnableAutoTimeShift;
-        if ($EnableAutoTimeShift)
-        {
-            $Shift = 0.0;
-            $pp = 'Site.LastDanmakuCommit';
-            $n = @RetrieveAuthPage($pp, $auth, false, 0);;
-            if (!$n) die("-55");
-            $LastCommit = @unserialize($n[$vid]);
-            
-            if ( ($LastCommit !== FALSE) &&
-                 (floatval($LastCommit['playTime']) == floatval($pt)) )
-                {
-                    if ((time() - $LastCommit['lastTime']) > $GLOBALS['TimeShiftThreshold']) {
-                        $Shift = 0.0;
-                    } else {
-                        $Shift = floatval($LastCommit['lastShift']) + $GLOBALS['TimeShiftDelta'];
-                    }
-                }
-            
-            $dataArray = array
-            (
-                'playTime' => $LastCommit['playTime'],
-                'lastShift' => $Shift,
-                'lastTime' => time()
-            );
-            
-            $pt += $Shift;
-            
-            $n[$vid] = serialize($dataArray);
-            WritePage($pp, $n);
-        }
-        
-        
-        $builder = new DanmakuBuilder($text, $pool, 'deadbeef');
+		$pool = ($this->Input->Post->mode == '8') ? 2 : 1; //mode = 8 时 pool 必须 = 2
+        $builder = new DanmakuBuilder($this->Input->Post->message, $pool, 'deadbeef');
         $attrs = array(
-                'playtime'  => $pt,
-                'mode'      => $_POST["mode"],
-                'fontsize'  => $_POST["fontsize"],
-                'color'     => $_POST["color"]);
+                'playtime'  => $this->Input->Post->playTime,
+                'mode'      => $this->Input->Post->mode,
+                'fontsize'  => $this->Input->Post->fontsize,
+                'color'     => $this->Input->Post->color);
 		$builder->AddAttr($attrs);
 		$xml = (string)$builder;
         
         //准备写入PmWiki
+        $vid = basename($this->Input->Post->vid);
         $_pagename = 'DMR.B'.$vid;
         $page = @RetrieveAuthPage($_pagename, $auth, false, 0);
         if (!$page) die("-55");
@@ -165,11 +124,11 @@ class Bpi extends K_Controller {
     
 	public function update_comment_time()
 	{   
-        $this->load->helper('dmid');
         
-        $targetTime = intval($_REQUEST['time']);
-        $dmid = intval($_REQUEST['dmid']);
-        $poolId = idhash_to_dmid(intval($_REQUEST['dm_inid']));
+        
+        $targetTime = intval($this->Input->Request->time);
+        $dmid = intval($this->Input->Request->dmid);
+        $poolId = $this->idhash_to_dmid(intval($this->Input->Request->dm_inid));
         if (is_null($poolId)) die("2");
         
         $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
@@ -188,18 +147,18 @@ class Bpi extends K_Controller {
 	
 	public function del()
 	{
-        $this->load->helper('dmid');
+        
 
-        if (empty($_REQUEST['playerdel']))
+        if (empty($this->Input->Request->playerdel))
             die("1");
-        $poolId = idhash_to_dmid($_REQUEST['dm_inid']);
+        $poolId = $this->idhash_to_dmid($this->Input->Request->dm_inid);
         if (is_null($poolId)) die("2");
         
         $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
 
         $deleted = "";
         
-        foreach (explode(",", $_REQUEST['playerdel']) as $id)
+        foreach (explode(",", $this->Input->Request->playerdel) as $id)
         {
             $query = new DanmakuXPathBuilder();
             $result = $dynPool->Find($query->CommentId($id));
@@ -233,4 +192,26 @@ class Bpi extends K_Controller {
 	{
         die("0");
 	}
+	
+    private function dmid_to_idhash($dmid, $prefix = true)
+    {
+        $numb = $head ? substr(md5("DMR.B".$vid),0,4) : substr(md5($vid),0,4);
+        return intval($numb, 16);
+    }
+
+    private function idhash_to_dmid($hash)
+    {
+        $pn = null;
+        foreach ( ListPages("/DMR\.B/") as $page) {
+            if ( dmid_to_idhash($page, false) == $hash ) {
+                $pn = $page;
+            }
+        }
+        
+        if (is_null($pn)) return null;
+        
+        $dmid = pathinfo($pn, PATHINFO_EXTENSION);
+        $dmid = substr($dmid, 1);
+        return $dmid;
+    }
 }

@@ -73,23 +73,6 @@ function ObjLoadFunc()
 	DMF_SetUpPageMarkUp();
 }
 
-/*
-include_once(DMF_ROOT_PATH."inc/class.Enum.php");
-include_once(DMF_ROOT_PATH."inc/class.DefinedEnum.php");
-include_once(DMF_ROOT_PATH."inc/class.FlagsEnum.php");
-include_once(DMF_ROOT_PATH."inc/class.Set.php");
-include_once(DMF_ROOT_PATH."inc/class.VideoSourceSet.php");
-include_once(DMF_ROOT_PATH."inc/class.PlayerSet.php");
-include_once(DMF_ROOT_PATH."inc/class.DanmakuBarSet.php");
-include_once(DMF_ROOT_PATH."inc/class.DanmakuBuilder.php");
-include_once(DMF_ROOT_PATH."inc/class.DanmakuXPathBuilder.php");
-include_once(DMF_ROOT_PATH."inc/class.Player.php");
-include_once(DMF_ROOT_PATH."inc/class.Utils.php");
-include_once(DMF_ROOT_PATH."inc/class.VideoPageData.php");
-include_once(DMF_ROOT_PATH."inc/class.VideoData.php");
-include_once(DMF_ROOT_PATH."inc/class.GroupConfig.php");
-include_once(DMF_ROOT_PATH."inc/class.XMLAuth.php");
-*/
 include_once(DMF_ROOT_PATH."inc/class.DanmakuPoolBase.php");
 include_once(DMF_ROOT_PATH."inc/class.DanmakuPoolBaseIO.php");
 include_once(DMF_ROOT_PATH."inc/class.DanmakuBarItem.php");
@@ -115,8 +98,8 @@ $TWODLAND = TRUE;
 $CheckPerfs = FALSE;
 $EnableAutoTimeShift = TRUE;
 $EnableSysLog = TRUE;
-$TimeShiftDelta = 0.000001;
-$TimeShiftThreshold = 10 * 60; //两次弹幕发送间隔超过阈值后重置漂移。
+//$TimeShiftDelta = 0.000001;
+//$TimeShiftThreshold = 10 * 60; //两次弹幕发送间隔超过阈值后重置漂移。
 
 //权限设定
 $HandleAuth['xmlread'] = 'read';

@@ -4,7 +4,8 @@ class Router {
     public $controller;
     public $action;
     public $params;
-    public $rules = array();
+    public static $rules = array();
+    public $matched = false;
   
     public static function getInstance() {
         if (isset(self::$instance) and (self::$instance instanceof self)) {
@@ -20,11 +21,12 @@ class Router {
     }
     
     private function matchRules($uri) {
-       foreach ($this->rules as $cond => $resu) {
+       foreach (self::$rules as $cond => $resu) {
             if ( preg_match($cond, $uri) ) {
                 if  ((strpos($cond, '(') !== FALSE) && (strpos($resu, '$') !== FALSE)) {
                     $resu = preg_replace($cond, $resu, $uri);
                 }
+                $this->matched = true;
                 return $this->setRequest($resu);
             }
         }
@@ -39,9 +41,14 @@ class Router {
     }
     
     public function init(K_Input $input) {
-        $uri = substr($input->Server("REQUEST_URI"), 1);
+        $uri = substr($input->Server->REQUEST_URI, 1);
         $this->matchRules($uri);
     }
     
-    public function addRule($cond, $resu) {$this->rules[$cond] = $resu;}
+    public function toPath() {
+        $p = implode("/", $this->params);
+        return implode("/", self::deleteEmpty(array($this->controller, $this->action, $p)));
+    }
+    
+    public static function addRule($cond, $resu) {self::$rules[$cond] = $resu;}
 }
