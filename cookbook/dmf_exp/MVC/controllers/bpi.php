@@ -8,7 +8,14 @@ class Bpi extends CI_Controller {
 	{
         die("unknown action");
 	}
-    
+	public function msg()
+	{
+        die('');
+	}
+	public function cloudfilter()
+	{
+        die('{"user":[],"keyword":[]}');
+    }
     public function bpad()
     {
         $this->load->view('bilibili_pad');
@@ -27,7 +34,8 @@ class Bpi extends CI_Controller {
         $data = array();
         
         if (isset($_REQUEST['id'])) {
-            $data['ChatId'] = dmid_to_idhash($_REQUEST['id']);
+            //$data['ChatId'] = dmid_to_idhash($_REQUEST['id']);
+            $data['ChatId'] = $_REQUEST['id'];
         } else {
             $data['ChatId'] = 0;
         }
@@ -107,7 +115,11 @@ class Bpi extends CI_Controller {
 		$text = stripmagic($_POST["message"]);
 		$pool = ($_POST["mode"] == '8') ? 2 : 1; //mode = 8 时 pool 必须 = 2
         $pt = $_POST["playTime"];
-		$vid = basename($_POST['vid']);
+        if (empty($_POST['vid'])) {
+            $vid = basename($_POST['cid']);
+        } else {
+            $vid = basename($_POST['vid']);
+        };
         
         global $EnableAutoTimeShift;
         if ($EnableAutoTimeShift)
@@ -195,7 +207,8 @@ class Bpi extends CI_Controller {
 
         if (empty($_REQUEST['playerdel']))
             die("1");
-        $poolId = idhash_to_dmid($_REQUEST['dm_inid']);
+        //$poolId = idhash_to_dmid($_REQUEST['dm_inid']);
+        $poolId = $_REQUEST['dm_inid'];
         if (is_null($poolId)) die("2");
         
         $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
