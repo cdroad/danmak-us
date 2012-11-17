@@ -36,6 +36,12 @@ class Dpi extends K_Controller {
     public function postcmt()
     {
         $this->Helper('playerInterface');
+        if ($this->requireVars(
+                $this->Input->Post,
+                array("fontsize", "playtime", "mode", "showeffect",
+                    "hideeffect", "fonteffect", "color", "message", "video_id"))) {
+            Abort("不允许直接访问");
+        }
         
         $builder = new DanmakuBuilder($this->Input->Request->message, 0, 'deadbeef');
         $attrs = array(

@@ -18,7 +18,11 @@ class a4pi extends K_Controller {
     public function dmpost()
     {
         $this->Helper(playerInterface);
-        if (CmtPostArgChk()) {Abort("不允许直接访问");}
+        if ($this->requireVars(
+                $this->Input->Post,
+                array("islock", "color", "text", "size", "mode", "stime", "timestamp", "poolid"))) {
+            Abort("不允许直接访问");
+        }
         
         $builder = new DanmakuBuilder($this->Input->Post->text, 0, 'deadbeef');
         $attrs = array(
@@ -38,7 +42,11 @@ class a4pi extends K_Controller {
     public function dmdelete()
     {
         $this->Helper(playerInterface);
-        if (CmtPostArgChk()) {Abort("不允许直接访问");}
+        if ($this->requireVars(
+                $this->Input->Post,
+                array("islock", "color", "text", "size", "mode", "stime", "timestamp", "poolid"))) {
+            Abort("不允许直接访问");
+        }
 
 		$key = $this->hashCmt(
             $this->Input->Post->text,

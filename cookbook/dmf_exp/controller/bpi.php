@@ -85,10 +85,13 @@ class Bpi extends K_Controller {
 	
 	public function dmpost()
 	{
-        
         $this->Helper(playerInterface);
-        //$this->requireVars($this->Post, array("islock", "color", "text", "size", "mode", "stime", "stimestamp", "poolid"));
-        if (CmtPostArgChk()) {Abort("不允许直接访问");}
+        
+        if ($this->requireVars(
+                $this->Input->Post,
+                array("date", "playTime", "mode", "fontsize", "color", "pool", "message"))) {
+            Abort("不允许直接访问");
+        }
         
 		$pool = ($this->Input->Post->mode == '8') ? 2 : 1; //mode = 8 时 pool 必须 = 2
         $builder = new DanmakuBuilder($this->Input->Post->message, $pool, 'deadbeef');
