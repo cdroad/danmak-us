@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 $MarkupExpr['queryexpr'] = 'queryexpr($args[0], $args[1],$args[2],$args[3])';
 
 function queryexpr($qtype, $dtype, $name, $def)

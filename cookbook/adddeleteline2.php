@@ -1,4 +1,4 @@
-<?php
+<?php if (!defined('PmWiki')) exit();
 
 $AdlVersion = '2.0.3, 29.10.2006';
 
