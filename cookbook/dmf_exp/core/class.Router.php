@@ -41,7 +41,8 @@ class Router {
     }
     
     public function init(K_Input $input) {
-        $uri = substr($input->Server->REQUEST_URI, 1);
+        //$_SERVER["REQUEST_URI"],'?');
+        $uri = substr(strtok($input->Server->REQUEST_URI, '?'), 1);
         $this->matchRules($uri);
     }
     

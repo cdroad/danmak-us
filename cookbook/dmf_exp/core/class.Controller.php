@@ -40,7 +40,7 @@ class K_Controller {
     protected function requireVars($arr, $varNames)
     {
         foreach ($varNames as $name) {
-            if (!isset($arr[$name])) {
+            if (!isset($arr->$name)) {
                 return false;
             }
         }

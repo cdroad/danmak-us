@@ -11,10 +11,17 @@ class Bpi extends K_Controller {
 	{
         die("unknown action");
 	}
-    
+	public function msg()
+	{
+        die('');
+	}
+	public function cloudfilter()
+	{
+        die('{"user":[],"keyword":[]}');
+    }
     public function bpad()
     {
-        $this->DisplayView('bilibili_pad');
+        $this->load->view('bilibili_pad');
     }
     
     public function error()
@@ -30,7 +37,7 @@ class Bpi extends K_Controller {
         $data = array();
         
         if (empty($this->Input->Request->id)) {
-            $data['ChatId'] = $this->dmid_to_idhash($this->Input->Request->id);
+            $data['ChatId'] = $this->Input->Request->id;
         } else {
             $data['ChatId'] = 0;
         }
@@ -102,7 +109,7 @@ class Bpi extends K_Controller {
                 'color'     => $this->Input->Post->color);
 		$builder->AddAttr($attrs);
 		
-        if (cmtSave($this->GroupConfig, $this->Input->Post->vid, $builder)) {
+        if (cmtSave($this->GroupConfig, $this->Input->Post->cid, $builder)) {
             echo mt_rand();
         } else {
             die("-55");
@@ -119,7 +126,7 @@ class Bpi extends K_Controller {
         
         $targetTime = intval($this->Input->Request->time);
         $dmid = intval($this->Input->Request->dmid);
-        $poolId = $this->idhash_to_dmid(intval($this->Input->Request->dm_inid));
+        $poolId = intval($this->Input->Request->cid);
         if (is_null($poolId)) die("2");
         
         $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
@@ -142,7 +149,7 @@ class Bpi extends K_Controller {
 
         if (empty($this->Input->Request->playerdel))
             die("1");
-        $poolId = $this->idhash_to_dmid($this->Input->Request->dm_inid);
+        $poolId = $this->Input->Request->cid;
         if (is_null($poolId)) die("2");
         
         $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
