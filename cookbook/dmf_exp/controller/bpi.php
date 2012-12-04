@@ -146,11 +146,13 @@ class Bpi extends K_Controller {
 	public function del()
 	{
         
-
-        if (empty($this->Input->Request->playerdel))
-            die("1");
-        $poolId = $this->Input->Request->cid;
-        if (is_null($poolId)) die("2");
+        if ($this->requireVars(
+                $this->Input->Post,
+                array("playerdel", "dm_inid"))) {
+            Abort("不允许直接访问");
+        }
+        
+        $poolId = $this->Input->Request->dm_inid;
         
         $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
 
