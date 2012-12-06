@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2004-2011 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2012 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -199,9 +199,10 @@ function DiffRenderSource($in, $out, $which) {
   $line = array_shift($z2);
   $z2[0] = $line.$z2[0];
   foreach ($cnt as $a) $lines[] = implode('', array_slice($z2, $a[0], $a[1]));
-  $ret = trim(implode("\n", $lines));
+  $ret = implode("\n", $lines);
   $ret = str_replace(array('</del> <del>', '</ins> <ins>'), ' ', $ret);
-  return str_replace("\n","<br />",$ret);
+  $ret = preg_replace('/(<(ins|del)>|^) /', '$1&nbsp;', $ret);
+  return str_replace(array("  ", "\n ", "\n"),array("&nbsp; ", "<br />&nbsp;", "<br />"),$ret);
 }
 ## Split a line into pieces before passing it through `diff`
 function DiffPrepareInline($x) {

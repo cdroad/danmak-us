@@ -331,7 +331,7 @@ SDV($CurrentTimeISO, strftime($TimeISOFmt, $Now));
 if (IsEnabled($EnableStdConfig,1))
   include_once("$FarmD/scripts/stdconfig.php");
 
-if (is_array($PostConfig)) {
+if (isset($PostConfig) && is_array($PostConfig)) {
   asort($PostConfig, SORT_NUMERIC);
   foreach ($PostConfig as $k=>$v) {
     if (!$k || !$v || $v<0) continue;
@@ -928,9 +928,9 @@ class PageStore {
     $this->dirfmt = $d; $this->iswrite = $w; $this->attr = (array)$a;
     $GLOBALS['PageExistsCache'] = array();
     if (function_exists('iconv') && @iconv("UTF-8", "WINDOWS-1252//IGNORE", 'test')=='test' ) 
-      $this->recodefn = create_function('$s,$from,$to', 'return iconv($from,"$to//IGNORE",$s);');
+      $this->recodefn = create_function('$s,$from,$to', 'return @iconv($from,"$to//IGNORE",$s);');
     elseif (function_exists('mb_convert_encoding') && @mb_convert_encoding("test", "WINDOWS-1252", "UTF-8")=="test")
-      $this->recodefn = create_function('$s,$from,$to', 'return mb_convert_encoding($s,$to,$from);');
+      $this->recodefn = create_function('$s,$from,$to', 'return @mb_convert_encoding($s,$to,$from);');
     else $this->recodefn = false;
   }
   function pagefile($pagename) {
@@ -1065,9 +1065,9 @@ class PageStore {
     global $Charset, $PageRecodeFunction, $DefaultPageCharset, $EnableOldCharset;
     if (function_exists($PageRecodeFunction)) return $PageRecodeFunction($a);
     if (IsEnabled($EnableOldCharset)) $a['=oldcharset'] = @$a['charset'];
-    SDVA($DefaultPageCharset, array(''=>$Charset)); # pre-2.2.31 RecentChanges
+    SDVA($DefaultPageCharset, array(''=>@$Charset)); # pre-2.2.31 RecentChanges
     if (@$DefaultPageCharset[$a['charset']]>'')  # wrong pre-2.2.30 encs. *-2, *-9, *-13
-      $a['charset'] = $DefaultPageCharset[$a['charset']];
+      $a['charset'] = $DefaultPageCharset[@$a['charset']];
     if (!$a['charset'] || $Charset==$a['charset']) return $a;
     $from = ($a['charset']=='ISO-8859-1') ? 'WINDOWS-1252' : $a['charset'];
     $to = ($Charset=='ISO-8859-1') ? 'WINDOWS-1252' : $Charset;
@@ -2064,7 +2064,7 @@ function SessionAuth($pagename, $auth = NULL) {
   if (!IsEnabled($EnableSessionPasswords, 1)) $_SESSION['authpw'] = array();
   $AuthList = array_merge($AuthList, (array)@$_SESSION['authlist']);
   
-  if (!$sid) session_write_close();
+  if (!$sid) @session_write_close();
 }
 
 
