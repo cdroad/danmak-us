@@ -13,4 +13,4 @@
 <pid>1</pid>
 <acceptguest>false</acceptguest>
 <acceptaccel>false</acceptaccel>
-<server>localhost</server>
+<server></server>

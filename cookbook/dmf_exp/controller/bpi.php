@@ -11,10 +11,17 @@ class Bpi extends K_Controller {
 	{
         die("unknown action");
 	}
-	public function msg()
+	
+	public function nullResp()
 	{
         die('');
 	}
+	
+	public function msg()
+	{
+        die('<msg/>');
+	}
+	
 	public function cloudfilter()
 	{
         die('{"user":[],"keyword":[]}');
