@@ -64,6 +64,8 @@ class Utils
 	
 	public static function GetGroup($str)
 	{
+        if (stripos($str,'bilibili3') !== false ) return "Bilibili3";
+        if (stripos($str,'b3') !== false ) return "Bilibili3";
         if (stripos($str,'bilibili') !== false ) return "Bilibili2";
         if (stripos($str,'acfun4p') !== false ) return "Acfun4p";
         if (stripos($str,'acfun2') !== false ) return "Acfun2";

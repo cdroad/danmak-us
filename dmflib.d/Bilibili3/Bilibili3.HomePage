@@ -1,0 +1,92 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+author=
+cauthor=
+charset=UTF-8
+csum=
+ctime=1284730118
+host=127.0.0.1
+name=Bilibili2.HomePage
+passwddelete=@lock
+passwdedit=@lock
+passwdupload=@lock
+rev=26
+targets=
+text=(:include System.HomePageTmpl#begin#end PostPageName=System.BiliFastPostNew:)%0a(:nogroupfooter:)
+time=1332573171
+author:1332573171=
+diff:1332573171:1332572457:=1c1,12%0a%3c (:include System.HomePageTmpl#begin#end PostPageName=System.BiliFastPostNew:)%0a---%0a> (:Title {$Group}.首页:)%0a> %0a> 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a> %0a> 新建页面:%0a> * &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostNew|点此投稿]]%25%25%0a> %0a> 投稿列表：%0a> (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a> %0a> %0a> [[HomePage?count=0|点此围观全部视频列表]]%0a
+host:1332573171=127.0.0.1
+author:1332572457=
+diff:1332572457:1310745736:=3,4c3,4%0a%3c 总投稿量:(:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist group=Bilibili2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a> %0a8,12c8,12%0a%3c 投稿列表：%0a%3c (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count={(queryexpr GET number count 25)}:)%0a%3c %0a%3c %0a%3c [[HomePage?count=0|点此围观全部视频列表]]%0a---%0a> 最新25个视频%0a> (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a> %0a> %0a> [[HomePageFull|点此围观全部视频列表]]%0a
+host:1332572457=127.0.0.1
+author:1310745736=
+diff:1310745736:1310745705:=6a7%0a> '''目前投稿不支持单贴多视频'''%0a
+host:1310745736=127.0.0.1
+author:1310745705=
+diff:1310745705:1298818661:=6a7%0a> '''新版投稿说明企划中'''%0a
+host:1310745705=127.0.0.1
+author:1298818604=Admin
+diff:1298818604:1298818454:=13,15d12%0a%3c %0a%3c [[HomePageFull|点此围观全部视频列表]]%0a%3c (:nogroupfooter:)%0a\ No newline at end of file%0a
+host:1298818604=222.95.38.30
+author:1298818454=123456
+csum:1298818454=123456
+diff:1298818454:1295428413:minor=12a13,15%0a> %0a> [[HomePageFull|点此围观全部视频列表]]%0a> (:nogroupfooter:)%0a\ No newline at end of file%0a
+host:1298818454=124.117.74.221
+author:1295428413=Admin
+diff:1295428413:1295421453:=8a9,10%0a> %0a> 弹幕文件:请使用acfun弹幕文件%0a
+host:1295428413=114.249.59.152
+author:1295421453=aUser
+diff:1295421453:1295106542:=17c17,26%0a%3c (:nogroupfooter:)%0a\ No newline at end of file%0a---%0a> (:nogroupfooter:)%0a> %0a> 20100925 完成了getdanmaku的页面动作，允许用户通过此动作读取bilibili的XML文件。%0a> 20100926 修正了getdanmaku动作会清除页面历史的问题，加入了更新判断函数(sourcelink)%0a> 20101010 修正了Getdanmaku动作后引起邮件提醒失效的bug%0a> 20110107 整体性URL更换。修正少数bug，引入短链接.%0a> 20110107 增加某三个网站的跳转支持。为多弹幕支持做准备.%0a> 20110107 增加部分目录系统，为引入nico播放器做准备%0a> 20110111 增加201101版播放器 修正若干XHTML错误%0a> 20110115 调整缓存结构 增加输出压缩%0a\ No newline at end of file%0a
+host:1295421453=114.249.59.152
+author:1295106542=aUser
+diff:1295106542:1294728549:=25,26c25%0a%3c 20110111 增加201101版播放器 修正若干XHTML错误%0a%3c 20110115 调整缓存结构 增加输出压缩%0a\ No newline at end of file%0a---%0a> 20110111 增加201101版播放器 修正若干XHTML错误%0a\ No newline at end of file%0a
+host:1295106542=180.110.99.94
+author:1294728549=KPX
+diff:1294728549:1294412078:=24,25c24%0a%3c 20110107 增加部分目录系统，为引入nico播放器做准备%0a%3c 20110111 增加201101版播放器 修正若干XHTML错误%0a\ No newline at end of file%0a---%0a> 20100107 增加部分目录系统，为引入nico播放器做准备%0a\ No newline at end of file%0a
+host:1294728549=114.222.89.207
+author:1294412078=X
+diff:1294412078:1294411853:=18a19,36%0a> %0a> RoadMap:%0a> 引入播放器框架(Acfun2)✓ %0a> 引入播放器版本管理(Acfun2)✓ %0a> 完成投稿器✓ %0a> string  VideoStr✓ %0a> string  title✓ %0a> string[] keywords✓ %0a> string sourcelink✓ %0a> string videotype✓ %0a> string VideoComment✓ %0a> 多弹幕实现方法:转换为FTP实现.✓ \\%0a> http://d.bilibili.us/playtag,20100221levelupAV1063841797,5\\%0a> http://danmaku.us/pmfun/uploads/Bilibili2/20100221levelupAV1063841797,5.xml?r=360\\%0a> 准备新跳转脚本。%0a> 调教错误提示页%0a> %0a> %0a22,24c40%0a%3c 20110107 整体性URL更换。修正少数bug，引入短链接.%0a%3c 20110107 增加某三个网站的跳转支持。为多弹幕支持做准备.%0a%3c 20100107 增加部分目录系统，为引入nico播放器做准备%0a\ No newline at end of file%0a---%0a> 20110107 整体性URL更换。修正少数bug，引入短链接.%0a\ No newline at end of file%0a
+host:1294412078=58.212.225.122
+author:1294411853=X
+diff:1294411853:1290770648:=39,40c39%0a%3c 20101010 修正了Getdanmaku动作后引起邮件提醒失效的bug%0a%3c 20110107 整体性URL更换。修正少数bug，引入短链接.%0a\ No newline at end of file%0a---%0a> 20101010 修正了Getdanmaku动作后引起邮件提醒失效的bug%0a\ No newline at end of file%0a
+host:1294411853=58.212.225.122
+author:1290770648=aUser
+diff:1290770648:1286680262:=1a2,3%0a> %0a> %25red%25 本组尚未完工，最好不要投稿。。完毕 %25%25%0a
+host:1290770648=58.212.116.217
+author:1286680262=aUser
+diff:1286680262:1285487019:=25c25%0a%3c 完成投稿器✓ %0a---%0a> 完成投稿器%0a40,41c40%0a%3c 20100926 修正了getdanmaku动作会清除页面历史的问题，加入了更新判断函数(sourcelink)%0a%3c 20101010 修正了Getdanmaku动作后引起邮件提醒失效的bug%0a\ No newline at end of file%0a---%0a> 20100926 修正了getdanmaku动作会清除页面历史的问题，加入了更新判断函数(sourcelink)%0a\ No newline at end of file%0a
+host:1286680262=114.222.153.90
+author:1285487019=Admin
+diff:1285487019:1285486856:=23,37c23,36%0a%3c 引入播放器框架(Acfun2)✓ %0a%3c 引入播放器版本管理(Acfun2)✓ %0a%3c 完成投稿器%0a%3c string  VideoStr✓ %0a%3c string  title✓ %0a%3c string[] keywords✓ %0a%3c string sourcelink✓ %0a%3c string videotype✓ %0a%3c string VideoComment✓ %0a%3c 多弹幕实现方法:转换为FTP实现.✓ \\%0a%3c http://d.bilibili.us/playtag,20100221levelupAV1063841797,5\\%0a%3c http://danmaku.us/pmfun/uploads/Bilibili2/20100221levelupAV1063841797,5.xml?r=360\\%0a%3c 准备新跳转脚本。%0a%3c 调教错误提示页%0a%3c %0a---%0a> 引入播放器框架(Acfun2)%0a> 引入播放器版本管理(Acfun2)%0a> %0a> ykid=XMTAwMDE5MzQ4%0a> %0a> %0a> %0a> string  VideoStr%0a> string  title%0a> string[] keywords%0a> string sourcelink%0a> string videotype%0a> string VideoComment%0a> 多弹幕实现方法:转换为FTP实现.%0a
+host:1285487019=58.212.116.43
+author:1285486856=Admin
+diff:1285486856:1285486824:=2,3d1%0a%3c %0a%3c %25red%25 本组尚未完工，最好不要投稿。。完毕 %25%25%0a
+host:1285486856=58.212.116.43
+author:1285486824=Admin
+diff:1285486824:1285484089:=3,4c3,4%0a%3c 总投稿量:(:pagelist group=Bilibili2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a> %0a6c6%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostNew|点此投稿]]%25%25%0a---%0a> * &nbsp;&nbsp;%25newwin%25[[System.AcFastPostNew|点此投稿]]%25%25%0a
+host:1285486824=58.212.116.43
+author:1285484089=Admin
+diff:1285484089:1285305515:=34,37c34%0a%3c 多弹幕实现方法:转换为FTP实现.%0a%3c %0a%3c 20100925 完成了getdanmaku的页面动作，允许用户通过此动作读取bilibili的XML文件。%0a%3c 20100926 修正了getdanmaku动作会清除页面历史的问题，加入了更新判断函数(sourcelink)%0a\ No newline at end of file%0a---%0a> 多弹幕实现方法:转换为FTP实现.%0a\ No newline at end of file%0a
+host:1285484089=58.212.116.43
+author:1285305515=Admin
+diff:1285305515:1285303911:=0a1%0a> (:nogroupfooter:)%0a3,4c4,5%0a%3c 总投稿量:(:pagelist group=Acfun2 name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage fmt=count:)%0a%3c %0a---%0a> 总投稿量:(:pagelist group={$Group} name=-Groupheader,-Groupfooter,-HomePage,-RecipeList fmt=count Categories:)%0a> %0a6,11c7,8%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.AcFastPostNew|点此投稿]]%25%25%0a%3c '''新版投稿说明企划中'''%0a%3c '''目前投稿不支持单贴多视频'''%0a%3c %0a%3c 弹幕文件:请使用acfun弹幕文件%0a%3c %0a---%0a> * &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostUni2|普通投稿]]%25%25%0a> %0a13,15c10,12%0a%3c (:pagelist group={$Group} name=-GroupHeader,-GroupFooter,-RecipeList,-HomePageFull,-RecentChanges,-HomePage list=normal fmt=#title order=-name count=25:)%0a%3c %0a%3c %0a---%0a> (:pagelist group={$Group} name=-Groupheader,-Groupfooter,-RecipeList,-HomePageFull list=normal fmt=#title order=-name count=25 Summary:)%0a> %0a> %0a17d13%0a%3c (:nogroupfooter:)%0a
+host:1285305515=58.212.119.24
+author:1285303911=Admin
+diff:1285303911:1285224861:=29a30%0a> bool   IsMuti%0a
+host:1285303911=58.212.119.24
+author:1285224861=Admin
+diff:1285224861:1285224852:=1c1%0a%3c (:nogroupfooter:)%0a---%0a> (:nigroupfooter:)%0a
+host:1285224861=222.95.37.113
+author:1285224852=Admin
+diff:1285224852:1285208397:=1d0%0a%3c (:nigroupfooter:)%0a
+host:1285224852=222.95.37.113
+author:1285208397=Admin
+diff:1285208397:1284730178:=17,30c17%0a%3c 引入播放器版本管理(Acfun2)%0a%3c %0a%3c ykid=XMTAwMDE5MzQ4%0a%3c %0a%3c %0a%3c %0a%3c string  VideoStr%0a%3c string  title%0a%3c string[] keywords%0a%3c string sourcelink%0a%3c string videotype%0a%3c string VideoComment%0a%3c bool   IsMuti%0a%3c 多弹幕实现方法:转换为FTP实现.%0a\ No newline at end of file%0a---%0a> 引入播放器版本管理(Acfun2)%0a\ No newline at end of file%0a
+host:1285208397=222.95.37.113
+author:1284730178=Admin
+diff:1284730178:1284730118:=12,17c12%0a%3c [[HomePageFull|点此围观全部视频列表]]%0a%3c %0a%3c %0a%3c RoadMap:%0a%3c 引入播放器框架(Acfun2)%0a%3c 引入播放器版本管理(Acfun2)%0a\ No newline at end of file%0a---%0a> [[HomePageFull|点此围观全部视频列表]]%0a\ No newline at end of file%0a
+host:1284730178=58.212.225.230
+author:1284730118=Admin
+diff:1284730118:1284730118:=1,12d0%0a%3c (:Title {$Group}.首页:)%0a%3c %0a%3c 总投稿量:(:pagelist group={$Group} name=-Groupheader,-Groupfooter,-HomePage,-RecipeList fmt=count Categories:)%0a%3c %0a%3c 新建页面:%0a%3c * &nbsp;&nbsp;%25newwin%25[[System.BiliFastPostUni2|普通投稿]]%25%25%0a%3c %0a%3c 最新25个视频%0a%3c (:pagelist group={$Group} name=-Groupheader,-Groupfooter,-RecipeList,-HomePageFull list=normal fmt=#title order=-name count=25 Summary:)%0a%3c %0a%3c %0a%3c [[HomePageFull|点此围观全部视频列表]]%0a\ No newline at end of file%0a
+host:1284730118=58.212.225.230

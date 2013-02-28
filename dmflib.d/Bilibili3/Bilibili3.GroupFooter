@@ -1,0 +1,207 @@
+version=pmwiki-2.2.36 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
+author=dm.mikufans@gmail.com
+cauthor=dm.mikufans@gmail.com
+charset=UTF-8
+csum=
+ctime=1285224823
+host=127.0.0.1
+name=Bilibili2.GroupFooter
+passwdedit=@lock
+rev=65
+targets=
+text=(:ObjInit:)%0a(:if equal "{*$Stats}" "true" :)%0a(:include System.VideoFooter self=1:)%0a(:ifend:)
+time=1332608561
+author:1332608561=dm.mikufans@gmail.com
+diff:1332608561:1319034977:=3c3,41%0a%3c (:include System.VideoFooter self=1:)%0a---%0a> (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a> (:cell:)%0a> >>recipeinfo%3c%3c%0a> (:if2 ! enabled LOCALVERSION:)%0a> 来源: {*$:sourcelink}%0a> (:if2end:)%0a> (:if2 auth edit:)%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a> Tags:	(:includeTag:)&nbsp;&nbsp;(:input text "Tags" size="6":)(:input submit value="追加Tag":)%0a> (:input end:)%0a> (:else2:)%0a> Tags:	(:includeTag:)&nbsp;&nbsp;%0a> (:if2end:)%0a> (:DMFMessage:)%0a> (:messages:)%0a> (:if [ ! auth admin && enabled LOCALVERSION ] :)%25red%25 乃还没有登录，弹幕发送不予保存。%25%25(:ifend:)%0a> >>%3c%3c%0a> (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a> (:if2 equal "{*$IsMuti}" "true" :)%0a> >>font-size:small%3c%3c%0a> '''分P资料:'''%0a> (:include {*$FullName}#partinfo#partend :)%0a> >>%3c%3c%0a> -----%0a> (:if2end:)%0a> '''备注:'''(:include {*$BaseName}#comment#commentend :)%0a> (:cellnr width=950  :)%0a> ----%0a> (:DMBarLoader:)%0a> >>id=flashcontent%3c%3c%0a> >>%3c%3c%0a> (:PlayerLoader:)%0a> (:cellnr width=950 :)%0a> ----%0a> (:if2 equal "{*$IsMuti}" "true" :)%0a> 切换Part: (:PartLinkLoader:)%0a> (:if2end:)%0a> 切换播放器：(:PlayerLinkLoader:)%0a> (:tableend:)%0a
+host:1332608561=127.0.0.1
+author:1319034977=
+diff:1319034977:1314614410:=18d17%0a%3c (:if [ ! auth admin && enabled LOCALVERSION ] :)%25red%25 乃还没有登录，弹幕发送不予保存。%25%25(:ifend:)%0a
+host:1319034977=::1
+author:1314614410=
+diff:1314614410:1310874677:=17d16%0a%3c (:messages:)%0a
+host:1314614410=127.0.0.1
+author:1310874677=
+diff:1310874677:1310874429:=16a17%0a> (:googlePlusOne:)%0a
+host:1310874677=127.0.0.1
+author:1310874429=
+diff:1310874429:1310874270:=17d16%0a%3c (:googlePlusOne:)%0a
+host:1310874429=127.0.0.1
+author:1310874270=
+diff:1310874270:1310874262:=12a13%0a> %0a
+host:1310874270=127.0.0.1
+author:1310874262=
+diff:1310874262:1310874201:=13d12%0a%3c %0a
+host:1310874262=127.0.0.1
+author:1310874201=
+diff:1310874201:1310874186:=16a17%0a> %0a
+host:1310874201=127.0.0.1
+author:1310874186=
+diff:1310874186:1310874175:=17c17%0a%3c %0a---%0a> (:googlePlusOne:)%0a
+host:1310874186=127.0.0.1
+author:1310874175=
+diff:1310874175:1310630637:=17d16%0a%3c (:googlePlusOne:)%0a
+host:1310874175=127.0.0.1
+author:1310630637=
+diff:1310630637:1310630592:=9,14c9,13%0a%3c (:if2 auth edit:)%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;(:input text "Tags" size="6":)(:input submit value="追加Tag":)%0a%3c (:input end:)%0a%3c (:else2:)%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;%0a---%0a> Tags:	(:includeTag:)&nbsp;&nbsp;\%0a> (:if2 auth edit:)\%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> (:input text "Tags" size="6":)(:input submit value="追加Tag":)\%0a> (:input end:)\%0a15a15%0a> %0a
+host:1310630637=127.0.0.1
+author:1310630592=
+diff:1310630592:1310630507:=8a9%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a10,15c11,13%0a%3c (:if2 auth edit:)\%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a%3c (:input text "Tags" size="6":)(:input submit value="追加Tag":)\%0a%3c (:input end:)\%0a%3c (:if2end:)%0a%3c %0a---%0a> (:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a> (:input end:)%0a> ----%0a
+host:1310630592=127.0.0.1
+author:1310630507=
+diff:1310630507:1310630496:=10c10%0a%3c Tags:	(:includeTag:)&nbsp;&nbsp;\%0a---%0a> Tags:	(:includeTag:)\%0a
+host:1310630507=127.0.0.1
+author:1310630496=
+diff:1310630496:1310630484:=10,11c10,11%0a%3c Tags:	(:includeTag:)\%0a%3c (:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a---%0a> Tags:	(:includeTag:)(:input text "Tags" size="6":)%0a> (:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a
+host:1310630496=127.0.0.1
+author:1310630484=
+diff:1310630484:1310630475:=11c11%0a%3c (:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a---%0a> :if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a
+host:1310630484=127.0.0.1
+author:1310630475=
+diff:1310630475:1310630264:=9,11c9%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)%0a%3c Tags:	(:includeTag:)(:input text "Tags" size="6":)%0a%3c :if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a---%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)Tags:	(:includeTag:)(:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a
+host:1310630475=127.0.0.1
+author:1310630264=
+diff:1310630264:1310630159:=9c9,10%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)Tags:	(:includeTag:)(:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)%0a---%0a> (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> Tags:	(:includeTag:)(:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)\%0a
+host:1310630264=127.0.0.1
+author:1310630159=
+diff:1310630159:1310630094:=8a9%0a> Tags:	(:includeTag:)\%0a10c11,12%0a%3c Tags:	(:includeTag:)(:input text "Tags" size="6":)(:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)\%0a---%0a> (:input text "Tags" size="6":)\%0a> (:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)\%0a
+host:1310630159=127.0.0.1
+author:1310630094=
+diff:1310630094:1310630035:=9d8%0a%3c Tags:	(:includeTag:)\%0a11c10%0a%3c (:input text "Tags" size="6":)\%0a---%0a> Tags:	(:includeTag:)(:input text "Tags" size="6":)\%0a
+host:1310630094=127.0.0.1
+author:1310630035=
+diff:1310630035:1310629986:=9,12c9,12%0a%3c (:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a%3c Tags:	(:includeTag:)(:input text "Tags" size="6":)\%0a%3c (:if2 auth edit:)(:input submit value="追加Tag":)(:if2end:)\%0a%3c (:input end:)%0a---%0a> Tags:	(:includeTag:)\%0a> (:if2 auth edit:)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> (:input text "Tags" size="6":)	(:input submit value="追加Tag":)\%0a> (:input end:) (:if2end:)%0a
+host:1310630035=127.0.0.1
+author:1310629986=
+diff:1310629986:1310629947:=9c9%0a%3c Tags:	(:includeTag:)\%0a---%0a> Tags:	(:includeTag:)%0a
+host:1310629986=127.0.0.1
+author:1310629947=
+diff:1310629947:1310628561:=9c9%0a%3c Tags:	(:includeTag:)%0a---%0a> Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a
+host:1310629947=127.0.0.1
+author:1310628561=
+diff:1310628561:1310628550:=13d12%0a%3c ----%0a
+host:1310628561=127.0.0.1
+author:1310628550=
+diff:1310628550:1310628488:=9c9%0a%3c Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a---%0a> %25style=diaplay:inline%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)\%0a12c12,13%0a%3c (:input end:) (:if2end:)%0a---%0a> (:input end:) (:if2end:)%25%25%0a> %0a
+host:1310628550=127.0.0.1
+author:1310628488=
+diff:1310628488:1310628449:=9c9%0a%3c %25style=diaplay:inline%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)\%0a---%0a> %25style=diaplay:inline%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%25%25%0a12c12%0a%3c (:input end:) (:if2end:)%25%25%0a---%0a> (:input end:) (:if2end:)%0a
+host:1310628488=127.0.0.1
+author:1310628449=
+diff:1310628449:1310628395:=9c9%0a%3c %25style=diaplay:inline%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%25%25%0a---%0a> %25apply=div%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%25%25%0a
+host:1310628449=127.0.0.1
+author:1310628395=
+diff:1310628395:1310628335:=9c9,10%0a%3c %25apply=div%25 Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%25%25%0a---%0a> >>float%3c%3c%0a> Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a13c14%0a%3c %0a---%0a> >>%3c%3c%0a
+host:1310628395=127.0.0.1
+author:1310628335=
+diff:1310628335:1310627951:=9d8%0a%3c >>float%3c%3c%0a14d12%0a%3c >>%3c%3c%0a
+host:1310628335=127.0.0.1
+author:1310627951=
+diff:1310627951:1310627927:=9,11c9,10%0a%3c Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a%3c (:if2 auth edit:)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a%3c (:input text "Tags" size="6":)	(:input submit value="追加Tag":)\%0a---%0a> (:if2 auth edit:)Tags:	(:include {*$FullName}#tagInfo#tagEnd :)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> (:input text "Tags" size="6":)	(:input submit value="Go":)\%0a
+host:1310627951=127.0.0.1
+author:1310627927=
+diff:1310627927:1310627878:=9c9,10%0a%3c (:if2 auth edit:)Tags:	(:include {*$FullName}#tagInfo#tagEnd :)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a---%0a> Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a> (:if2 auth edit:)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a
+host:1310627927=127.0.0.1
+author:1310627878=
+diff:1310627878:1310627853:=9,11c9,10%0a%3c Tags:	(:include {*$FullName}#tagInfo#tagEnd :)%0a%3c (:if2 auth edit:)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a%3c (:input text "Tags" size="6":)	(:input submit value="Go":)\%0a---%0a> (:if2 auth edit:)(:include {*$FullName}#tagInfo#tagEnd :)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a> Tags:	(:input text "Tags" size="6":)	(:input submit value="Go":)\%0a
+host:1310627878=127.0.0.1
+author:1310627853=
+diff:1310627853:1310627732:=9c9%0a%3c (:if2 auth edit:)(:include {*$FullName}#tagInfo#tagEnd :)(:input form action={*$PageUrl}:)(:input hidden action xestagpages:)\%0a---%0a> (:include {*$FullName}#tagInfo#tagEnd :)(:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a
+host:1310627853=127.0.0.1
+author:1310627732=
+diff:1310627732:1310627687:=9c9,10%0a%3c (:include {*$FullName}#tagInfo#tagEnd :)(:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a---%0a> (:include {*$FullName}#tagInfo#tagEnd :)%0a> (:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a
+host:1310627732=127.0.0.1
+author:1310627687=
+diff:1310627687:1310627214:=9d8%0a%3c (:include {*$FullName}#tagInfo#tagEnd :)%0a
+host:1310627687=127.0.0.1
+author:1310627214=
+diff:1310627214:1310625634:=9c9%0a%3c (:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a---%0a> (:messages:)(:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a
+host:1310627214=127.0.0.1
+author:1310625634=
+diff:1310625634:1310625613:=9c9%0a%3c (:messages:)(:if2 auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a---%0a> (:messages:)(:if auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a11c11%0a%3c (:input end:) (:if2end:)%0a---%0a> (:input end:) (:ifend:)%0a
+host:1310625634=127.0.0.1
+author:1310625613=
+diff:1310625613:1310625592:=10c10%0a%3c Tags:	(:input text "Tags" size="6":)	(:input submit value="Go":)\%0a---%0a> Tags:	(:input text "Tags" size="40":)	(:input submit value="Go":)\%0a
+host:1310625613=127.0.0.1
+author:1310625592=KPX
+diff:1310625592:1306825783:=9,11d8%0a%3c (:messages:)(:if auth edit:)(:input form action={*$PageUrl}:) (:input hidden action xestagpages:)\%0a%3c Tags:	(:input text "Tags" size="40":)	(:input submit value="Go":)\%0a%3c (:input end:) (:ifend:)%0a
+host:1310625592=127.0.0.1
+author:1306825783=
+diff:1306825783:1305976931:=15c15%0a%3c (:include {*$FullName}#partinfo#partend :)%0a---%0a> (:include {*$FullName}#Part#PartEnd :)%0a
+host:1306825783=127.0.0.1
+author:1305976931=Admin
+diff:1305976931:1305974745:=6d5%0a%3c (:if2 ! enabled LOCALVERSION:)%0a8d6%0a%3c (:if2end:)%0a
+host:1305976931=::1
+author:1305974745=Admin
+diff:1305974745:1305974735:=2c2%0a%3c (:if equal "{*$Stats}" "true" :)%0a---%0a> (:if equal {*$Stats} "true" :)%0a
+host:1305974745=::1
+author:1305974735=Admin
+diff:1305974735:1305974678:=1a2%0a> {*$Stats}%0a
+host:1305974735=::1
+author:1305974678=Admin
+diff:1305974678:1305974655:=2d1%0a%3c {*$Stats}%0a
+host:1305974678=::1
+author:1305974655=Admin
+diff:1305974655:1305974477:=2c2%0a%3c (:if equal {*$Stats} "true" :)%0a---%0a> (:if equal "{*$Stats}" "true" :)%0a
+host:1305974655=::1
+author:1305974477=Admin
+diff:1305974477:1305973879:=1a2%0a> {*$Stats}%0a
+host:1305974477=::1
+author:1305973879=Admin
+diff:1305973879:1304056663:=1,3c1%0a%3c (:ObjInit:)%0a%3c {*$Stats}%0a%3c (:if equal "{*$Stats}" "true" :)%0a---%0a> (:ObjInit:)(:if equal "{*$Stats}" "true" :)%0a
+host:1305973879=::1
+author:1304056663=Admin
+diff:1304056663:1299564019:=1c1,2%0a%3c (:ObjInit:)(:if equal "{*$Stats}" "true" :)%0a---%0a> (:ObjInit:)%0a> (:if ! equal "{$DMID}" "" :)%0a4a6%0a> {$TagList}%0a6d7%0a%3c (:DMFMessage:)%0a12c13%0a%3c (:include {*$FullName}#Part#PartEnd :)%0a---%0a> (:include Parts.{*$:SUID}{$BaseID} :)%0a16c17%0a%3c '''备注:'''(:include {*$BaseName}#comment#commentend :)%0a---%0a> '''简介:'''(:include {$BaseName}#comment#commentend :)%0a18a20%0a> (:messages:)%0a20,21c22,24%0a%3c >>id=flashcontent%3c%3c%0a%3c >>%3c%3c%0a---%0a> (:html:)%0a> %3cdiv id="flashcontent">%3c/div>%0a> (:htmlend:)%0a28a32,34%0a> (:cellnr:)%0a> (:comment 短地址: %25nofollow%25 http://{*$:SUID}.danmaku.us/{$Name} :)%0a> (:cell:)%0a
+host:1304056663=::1
+author:1299564019=Admin
+diff:1299564019:1298987477:=1a2%0a> %25comment%25 ObjInit %25%25%0a
+host:1299564019=180.110.99.26
+author:1298987477=Admin
+diff:1298987477:1298983021:=2d1%0a%3c %25comment%25 ObjInit %25%25%0a
+host:1298987477=49.74.52.6
+author:1298983021=Admin
+diff:1298983021:1298039660:=1,2c1%0a%3c (:ObjInit:)%0a%3c (:if ! equal "{$DMID}" "" :)%0a---%0a> (:comment 定义变量: VideoStr,title,keywords,sourcelink,videotype,VideoComment :)%0a8a8%0a> (:comment 此if判断是否为多弹幕视频并加载右栏 :)%0a10c10%0a%3c (:if2 equal "{*$IsMuti}" "true" :)%0a---%0a> (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a13c13%0a%3c (:include Parts.{*$:SUID}{$BaseID} :)%0a---%0a> (:include Parts.{$PlayerVideoBaseID} :)%0a16c16%0a%3c (:if2end:)%0a---%0a> (:ifend:)%0a18a19%0a> (:comment 播放器加载:)%0a20,21c21,22%0a%3c (:messages:)%0a%3c (:DMBarLoader:)%0a---%0a> (:messages:)(:datapreproc:)%0a> (:danmakubar:)%0a25c26%0a%3c (:PlayerLoader:)%0a---%0a> (:playerproc:)%0a28,31c29,32%0a%3c (:if2 equal "{*$IsMuti}" "true" :)%0a%3c 切换Part: (:PartLinkLoader:)%0a%3c (:if2end:)%0a%3c 切换播放器：(:PlayerLinkLoader:)%0a---%0a> (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a> 切换Part  : (:makepartlink {$PlayerVideoBaseID}:)%0a> (:ifend:)%0a> 切换播放器：(:showplayer:)%0a33c34%0a%3c (:comment 短地址: %25nofollow%25 http://{*$:SUID}.danmaku.us/{$Name} :)%0a---%0a> 短地址: %25nofollow%25 http://b.danmaku.us/{$Name} %25%25%0a35,36c36%0a%3c (:tableend:)%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> (:tableend:)%0a\ No newline at end of file%0a
+host:1298983021=49.74.52.6
+author:1298039660=Admin
+diff:1298039660:1297820225:=34c34%0a%3c 短地址: %25nofollow%25 http://b.danmaku.us/{$Name} %25%25%0a---%0a> 短地址: %25nofollow%25 http://b.danmaku.us/{$Name}%0a
+host:1298039660=58.212.240.160
+author:1297820225=KPX
+diff:1297820225:1296101516:=22c22,31%0a%3c (:danmakubar:)%0a---%0a> (:comment ------------------------------以下为弹幕条加载模块------------------------------:)%0a> (:if expr ( ! equal "{$CreatedBy}" "" && equal "{$Author}" "{$CreatedBy}" ) || ( equal "{$LastModifiedBy}" "{$Author}" && ! equal "{$Author}" "" ) || authid :)%0a> (:if2 expr ( equal "{$IsMuti}" "True" ) :)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://danmaku.us/p/B{$PlayerVideoID}?r=aaaaaa|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[{*$PageUrl}?action=getdanmaku|从bilibili下载弹幕(测试)]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a> (:else2:)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://danmaku.us/p/B{$PlayerVideoID}?r=aaaaaa|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[{*$PageUrl}?action=getdanmaku|从bilibili下载弹幕(测试)]]%25%25(:input end:)%0a> (:if2end:)%0a> (:else:)%0a> %25newwin%25 [[http://danmaku.us/p/B{$PlayerVideoID}?r=aaaaaa|查看/下载弹幕]] %25%25 此视频已经保存.不允许直接更改弹幕.%0a> (:ifend:)%0a
+host:1297820225=114.249.56.131
+author:1294410552=X
+diff:1294410552:1294410517:=42,43d41%0a%3c (:cellnr:)%0a%3c 短地址: %25nofollow%25 http://b.danmaku.us/{$Name}%0a44a43,44%0a> ||border=0%0a> ||短地址: %25nofollow%25 http://b.danmaku.us/{$Name} || ||%0a
+host:1294410552=58.212.225.122
+author:1294410517=X
+diff:1294410517:1291967512:=43,44d42%0a%3c ||border=0%0a%3c ||短地址: %25nofollow%25 http://b.danmaku.us/{$Name} || ||%0a
+host:1294410517=58.212.225.122
+author:1291967512=aUser
+diff:1291967512:1289552836:=41c41%0a%3c 切换播放器：(:showplayer:)%0a---%0a> 切换播放器: [[{$PageFullUrl}?Player=bi201009|bilibili播放器 (201009)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=bi201011|bilibili播放器 (201011)]]%0a
+host:1291967512=180.110.96.39
+author:1289552836=Admin
+diff:1289552836:1289550850:=41c41%0a%3c 切换播放器: [[{$PageFullUrl}?Player=bi201009|bilibili播放器 (201009)]]&nbsp;&nbsp;[[{$PageFullUrl}?Player=bi201011|bilibili播放器 (201011)]]%0a---%0a> 切换播放器: [[{$PageFullUrl}?Player=bi201009|bilibili播放器 (201009)]]%0a
+host:1289552836=58.212.117.27
+author:1289550850=aUser
+csum:1289550850=移除js加载器
+diff:1289550850:1287921574:=32a33%0a> %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a
+host:1289550850=58.212.117.27
+author:1287921574=Admin
+diff:1287921574:1285476055:=30c30%0a%3c %25newwin%25 [[http://danmaku.us/p/B{$PlayerVideoID}?r=aaaaaa|查看/下载弹幕]] %25%25 此视频已经保存.不允许直接更改弹幕.%0a---%0a> %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|查看/下载弹幕]] %25%25 此视频已经保存.不允许直接更改弹幕.%0a
+host:1287921574=58.212.117.4
+author:1285476055=Admin
+diff:1285476055:1285312932:=25c25%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://danmaku.us/p/B{$PlayerVideoID}?r=aaaaaa|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[{*$PageUrl}?action=getdanmaku|从bilibili下载弹幕(测试)]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a---%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[{*$PageUrl}?action=getdanmaku|从bilibili下载弹幕(测试)]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a27c27%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://danmaku.us/p/B{$PlayerVideoID}?r=aaaaaa|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[{*$PageUrl}?action=getdanmaku|从bilibili下载弹幕(测试)]]%25%25(:input end:)%0a---%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[{*$PageUrl}?action=getdanmaku|从bilibili下载弹幕(测试)]]%25%25(:input end:)%0a
+host:1285476055=58.212.116.43
+author:1285312932=Admin
+diff:1285312932:1285306947:=25c25%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[{*$PageUrl}?action=getdanmaku|从bilibili下载弹幕(测试)]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a---%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a27c27%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[{*$PageUrl}?action=getdanmaku|从bilibili下载弹幕(测试)]]%25%25(:input end:)%0a---%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] %25%25(:input end:)%0a
+host:1285312932=58.212.119.24
+author:1285306947=Admin
+diff:1285306947:1285306926:=26c26%0a%3c (:else2:)%0a---%0a> (:else:)%0a
+host:1285306947=58.212.119.24
+author:1285306926=Admin
+diff:1285306926:1285306827:=24c24%0a%3c (:if2 expr ( equal "{$IsMuti}" "True" ) :)%0a---%0a> (:if2 expr ( equal "{*$IsMuti}" "True" ) :)%0a
+host:1285306926=58.212.119.24
+author:1285306827=Admin
+diff:1285306827:1285224823:=24,27c24,34%0a%3c (:if2 expr ( equal "{*$IsMuti}" "True" ) :)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a%3c (:else:)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] %25%25(:input end:)%0a---%0a> (:if2 expr ( equal "{*$:VideoType}" "Nor"  || equal "{*$:VideoType}" "QQ"  ) :)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoID}/comment_on.xml|点此获取AC弹幕]] %25%25(:input end:)%0a> (:if2end:)%0a> (:if2 expr ( equal "{*$:VideoType}" "MutiNor" || equal "{*$:VideoType}" "MutiQQ" ) :)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoBaseID}/comment_on.xml|点此获取AC弹幕]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a> (:if2end:)%0a> (:if2 equal "{*$:VideoType}" "ftp" :)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 %25%25(:input end:)%0a> (:if2end:)%0a> (:if2 equal "{*$:VideoType}" "Mutiftp" :)%0a> (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a
+host:1285306827=58.212.119.24
+author:1285224823=Admin
+diff:1285224823:1285224823:=1,51d0%0a%3c (:comment 定义变量: VideoStr,title,keywords,sourcelink,videotype,VideoComment :)%0a%3c (:table border=0 width=100%25 cellpadding=3 cellspacing=0:)%0a%3c (:cell:)%0a%3c >>recipeinfo%3c%3c%0a%3c {$TagList}%0a%3c 来源: {*$:sourcelink}%0a%3c >>%3c%3c%0a%3c (:comment 此if判断是否为多弹幕视频并加载右栏 :)%0a%3c (:cell rowspan=3 bgcolor=#f7f7f7 width=950 :)%0a%3c (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a%3c >>font-size:small%3c%3c%0a%3c '''分P资料:'''%0a%3c (:include Parts.{$PlayerVideoBaseID} :)%0a%3c >>%3c%3c%0a%3c -----%0a%3c (:ifend:)%0a%3c '''简介:'''(:include {$BaseName}#comment#commentend :)%0a%3c (:cellnr width=950  :)%0a%3c (:comment 播放器加载:)%0a%3c ----%0a%3c (:messages:)(:datapreproc:)%0a%3c (:comment ------------------------------以下为弹幕条加载模块------------------------------:)%0a%3c (:if expr ( ! equal "{$CreatedBy}" "" && equal "{$Author}" "{$CreatedBy}" ) || ( equal "{$LastModifiedBy}" "{$Author}" && ! equal "{$Author}" "" ) || authid :)%0a%3c (:if2 expr ( equal "{*$:VideoType}" "Nor"  || equal "{*$:VideoType}" "QQ"  ) :)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoID}/comment_on.xml|点此获取AC弹幕]] %25%25(:input end:)%0a%3c (:if2end:)%0a%3c (:if2 expr ( equal "{*$:VideoType}" "MutiNor" || equal "{*$:VideoType}" "MutiQQ" ) :)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] [[http://220.170.79.48/newflvplayer/xmldata/{$PlayerVideoBaseID}/comment_on.xml|点此获取AC弹幕]] [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a%3c (:if2end:)%0a%3c (:if2 equal "{*$:VideoType}" "ftp" :)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 %25%25(:input end:)%0a%3c (:if2end:)%0a%3c (:if2 equal "{*$:VideoType}" "Mutiftp" :)%0a%3c (:input form enctype='multipart/form-data' action={*$PageUrl}:)(:input hidden action postupload2:)(:input file uploadfile:)(:input hidden upname value="{$PlayerVideoID}.xml" :) (:input submit post Upload value="Upload":) %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|验证/保存弹幕]]  [[{*$PageUrl}?action=attr|设置上传密码]] acfun弹幕需手动处理 [[Parts.{$PlayerVideoBaseID}?action=edit|编辑分P文件]]%25%25(:input end:)%0a%3c (:if2end:)%0a%3c (:else:)%0a%3c %25newwin%25 [[http://dm.mikufans.cn/newflvplayer/xmldata/{$PlayerVideoID}/|查看/下载弹幕]] %25%25 此视频已经保存.不允许直接更改弹幕.%0a%3c (:ifend:)%0a%3c (:html:)%0a%3c %3cscript type="text/javascript" src="../../static/swfobject/swfobject.js">%3c/script>%0a%3c %3cdiv id="flashcontent">%3c/div>%0a%3c (:htmlend:)%0a%3c (:playerproc:)%0a%3c (:cellnr width=950 :)%0a%3c ----%0a%3c (:if expr ( equal "{*$:VideoType}" "MutiNor" ) || ( equal "{*$:VideoType}" "MutiQQ" ) || ( equal "{*$:VideoType}" "Mutiftp" ) :)%0a%3c 切换Part  : (:makepartlink {$PlayerVideoBaseID}:)%0a%3c (:ifend:)%0a%3c 切换播放器: [[{$PageFullUrl}?Player=bi201009|bilibili播放器 (201009)]]%0a%3c (:cell:)%0a%3c (:tableend:)%0a\ No newline at end of file%0a
+host:1285224823=222.95.37.113
