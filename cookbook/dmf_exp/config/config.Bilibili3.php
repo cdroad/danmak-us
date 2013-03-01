@@ -7,7 +7,7 @@ class Bilibili3GroupConfig extends GroupConfig
     protected function __construct()
     {
         parent::__construct();
-        $this->GroupString = 'Bilibili2';
+        $this->GroupString = 'Bilibili3';
         $this->AllowedXMLFormat = array('d', 'data', 'raw');
         $this->SUID = '3B';
         $this->XMLFolderPath = './uploads/Bilibili3';

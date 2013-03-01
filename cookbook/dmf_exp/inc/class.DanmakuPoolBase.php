@@ -2,22 +2,28 @@
 class DanmakuPoolBase
 {
 	private $IOClass;
-	/**
-	 * @var SimpleXMLElement 
-	 */
 	private $XMLObj;
+	private $loaded = false;
 	
+	public function __construct($group, $dmid, $pool, $load = LoadMode::lazy) {
+		$this->IOClass = Utils::GetIOClass($group, $dmid, $pool);
+		if ($load == LoadMode::inst) $this->Load();
+	}
 	
-	public function __construct($IOClass, $load = true)
-	{
-		$this->IOClass = $IOClass;
-		if ($load) {
-			$this->XMLObj = $IOClass->Load();
-		}
+	private function Load() {
+        try {
+            $this->XMLObj = $this->IOClass->Load();
+        } catch (XmlOperationException $e) {
+            $this->IOClass = new ErrorPoolIO($e);
+            $this->XMLObj  = $this->IOClass->Load();
+        }
+        $this->loaded = true;
 	}
 	
 	public function Find(DanmakuXPathBuilder $query)
 	{
+        if (!$this->loaded) $this->load();
+        
 		$result = $this->XMLObj->xpath($query->ToString());
         if ($result === FALSE) {
             Utils::WriteLog('DanmakuPoolBase::Find::SimpleXML::xpath()', "Synatx Error".$query->ToString());
@@ -30,6 +36,8 @@ class DanmakuPoolBase
 	
 	public function Delete(DanmakuXPathBuilder $query)
 	{
+        if (!$this->loaded) $this->load();
+        
 		$result = $this->Find($query);
 		foreach (array_reverse($result) as $node)
 		{
@@ -39,6 +47,8 @@ class DanmakuPoolBase
 	
 	public function Modify($obj)
 	{
+        if (!$this->loaded) $this->load();
+        
 		$query = new DanmakuXPathBuilder();
 		$query->CommentId( $obj->{"@id"} );
 		$result = $this->Find($query);
@@ -50,11 +60,13 @@ class DanmakuPoolBase
 	public function Clear()
 	{
 		$this->XMLObj = DanmakuPoolBase::GetEmpty();
+		$this->loaded = true;
 	}
 	
 	public function MoveFrom(DanmakuPoolBase $pool)
 	{
-		$this->merge($pool->GetXML());
+        if (!$this->loaded) $this->load();
+		$this->Merge($pool->GetXML());
 		$pool->Clear();
 	}
 	
@@ -65,22 +77,31 @@ class DanmakuPoolBase
 	
 	public function Save()
 	{
+        if (!$this->loaded) throw new Exception("Save() on unloaded pool");
 		$this->IOClass->Save($this->XMLObj);
-		return $this;
+	}
+	
+	public function SaveAndDispose()
+	{
+        $this->Save();
+        $this->Dispose();
 	}
 	
 	public function GetXML()
 	{
+        if (!$this->loaded) $this->load();
 		return $this->XMLObj;
 	}
 	
 	public function SetXML($obj)
 	{
 		$this->XMLObj = $obj;
+		$this->loaded = true;
 	}
 	
-	protected function merge(SimpleXMLElement $xml2)
+	protected function Merge(SimpleXMLElement $xml2)
 	{
+        if (!$this->loaded) $this->load();
 	   // convert SimpleXML objects into DOM ones
 	   $dom1 = dom_import_simplexml($this->XMLObj)->ownerDocument;
 	   $dom2 = dom_import_simplexml($xml2)->ownerDocument;

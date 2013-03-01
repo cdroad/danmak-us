@@ -80,11 +80,10 @@ include_once(DMF_ROOT_PATH."inc/class.VideoSource.php");
 include_once(DMF_ROOT_PATH."inc/action.SetDefaultPlayer.php");
 include_once(DMF_ROOT_PATH."DMF_Version.php");
 Player::$playerBase = $ScriptUrl.'/static/players/';
-
-
-
-
-
+SafeEnum::Create('PoolMode', 'S', 'D', 'A');
+SafeEnum::Create('LoadMode', 'lazy', 'inst');
+SafeEnum::Create('XmlAuth', 'read', 'write', 'admin');
+SafeEnum::Create("XmlErrorType", "NoError", "Auth", "Broken");
 
 /*
  * 基础设定

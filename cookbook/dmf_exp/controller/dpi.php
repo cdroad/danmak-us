@@ -16,7 +16,7 @@ class Dpi extends K_Controller {
     
     public function memberinfo()
     {
-        if (XMLAuth::IsEdit("*",'twodland')) {
+        if (XmlAuth('twodland', "*", XmlAuth::edit)) {
             die('{"uid":"1","username":"DMF用户","groupid":"1"}');
         } else {
             die('{"uid":0,"username":"","groupid":7}');

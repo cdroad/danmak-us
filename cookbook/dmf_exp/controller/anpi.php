@@ -17,7 +17,7 @@ class Anpi extends K_Controller {
     
     public function dmpost()
     {
-        $this->Helper(playerInterface);
+        $this->Helper("playerInterface");
         if ($this->requireVars(
                 $this->Input->Post,
                 array("islock", "color", "text", "size", "mode", "stime", "timestamp", "poolid"))) {
@@ -42,7 +42,7 @@ class Anpi extends K_Controller {
     
     public function dmdelete()
     {
-        $this->Helper(playerInterface);
+        $this->Helper("playerInterface");
         if ($this->requireVars(
                 $this->Input->Post,
                 array("islock", "color", "text", "size", "mode", "stime", "timestamp", "poolid"))) {

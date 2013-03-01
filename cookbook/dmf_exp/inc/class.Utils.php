@@ -50,29 +50,36 @@ class Utils
         }
 	}
 	
-	public static function GetIOClass($group, $dmid, $typeStr)
+	public static function GetIOClass($group, $dmid, $poolMode)
 	{
 		$group = self::GetGroup($group);
 		
-		if (stripos(strtolower($typeStr),'static') !== FALSE)
+		if ($poolMode == PoolMode::S) {
 			return new StaticPoolIO($dmid, $group);
-		if (stripos(strtolower($typeStr),'dynamic')!== FALSE)
+        } else if ($poolMode == PoolMode::D) {
 			return new DynamicPoolIO($dmid, $group);
-		
-		throw new Exception("Unexcepted IOClass Type");
+		} else {
+            throw new Exception("Unexcepted IOClass Type");
+        }
 	}
 	
 	public static function GetGroup($str)
 	{
-        if (stripos($str,'bilibili3') !== false ) return "Bilibili3";
-        if (stripos($str,'b3') !== false ) return "Bilibili3";
-        if (stripos($str,'bilibili') !== false ) return "Bilibili2";
-        if (stripos($str,'acfun4p') !== false ) return "Acfun4p";
-        if (stripos($str,'acfun2') !== false ) return "Acfun2";
-        if (stripos($str,'acfun') !== false ) return "AcfunN1";
-        if (stripos($str,'acfunn') !== false ) return "AcfunN1";
-        if (stripos($str,'twodland') !== false ) return "Twodland1";
-        if (stripos($str,'2dland') !== false ) return "Twodland1";
+        static $Mapping = array(
+            array("bilibili3", "Bilibili3"),
+            array("bilibili2", "bilibili2"),
+            array("acfun4p",   "Acfun4p"),
+            array("acfun2",    "Acfun2"),
+            array("twodland1", "Twodland1"),
+            array("acfun1n",   "AcfunN1"),
+            array("acfunn1",   "AcfunN1"),
+            array("acfun",     "Acfun2"), // 标准化后删除
+        );
+        reset($Mapping);
+        while( list(, list($from, $to)) = each($Mapping) ) {
+            if (stripos($str,$from) !== false ) return $to;
+        }
+        
         throw new Exception("Unknown group : {$str}");
 	}
     

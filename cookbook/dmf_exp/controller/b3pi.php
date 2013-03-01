@@ -49,7 +49,7 @@ class b3pi extends K_Controller {
             $data['ChatId'] = 0;
         }
         
-        if (XMLAuth::IsEdit($this->Input->Request->id, 'Bilibili3')) {
+        if (XmlAuth('Bilibili3', $this->Input->Request->id, XmlAuth::edit)) {
             $data['AuthLevelString'] = $BilibiliAuthLevel->Danmakuer;
         } else {
             $data['AuthLevelString'] = $BilibiliAuthLevel->DefaultLevel;
@@ -99,7 +99,7 @@ class b3pi extends K_Controller {
 	
 	public function dmpost()
 	{
-        $this->Helper(playerInterface);
+        $this->Helper("playerInterface");
         
         if ($this->requireVars(
                 $this->Input->Post,

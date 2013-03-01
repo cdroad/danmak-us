@@ -5,22 +5,18 @@
 //弹幕操作接口
 //返回HTML
 class PoolOp extends K_Controller {
-    private static $GoBack = 
-        "<script language='javascript'> setTimeout('history.go(-1)', 2000);</script>两秒后传送回家";
+    const GoBack = "<script language='javascript'> setTimeout('history.go(-1)', 2000);</script>两秒后传送回家";
+        
+    public function PoolOp() {
+        $this->Helper("danmakuPool");
+    }
     
-	public function index($group, $dmid)
+	public function clear($group, $dmid, $pool)
 	{
-		die("group : $group; dmid : $dmid;");
-	}
-	
-	public function clear($group, $dmid, $pair)
-	{
-		$group = Utils::GetGroup($group);
-		
-		$staPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'static'), false);
-		$dynPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'dynamic'), false);
-		if (!XMLAuth::IsAdmin($dmid, $group)) {
-            Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Unauthorized access!");
+		$staPool = GetPool($group, $dmid, PoolMode::S);
+		$dynPool = GetPool($group, $dmid, PoolMode::D);
+		if (!XmlAuth($group, $dmid, XmlAuth::admin)) {
+            Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: 权限不足");
             $this->display("越权访问。");
             return;
         }
@@ -29,33 +25,30 @@ class PoolOp extends K_Controller {
 		{
 			case "static":
 				$staPool->Clear();
-                Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Done!");
-				$staPool->Save()->Dispose();
+				$staPool->SaveAndDispose();
+				Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: {$pool} :: Done!");
 				break;
 			case "dynamic":
 				$dynPool->Clear();
-                Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Done!");
-				$dynPool->Save()->Dispose();
+				$dynPool->SaveAndDispose();
+				Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: {$pool} :: Done!");
 				break;
 			case "all":
 				$staPool->Clear();
                 $dynPool->Clear();
-                Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Done!");
-                $staPool->Save()->Dispose();
-				$dynPool->Save()->Dispose();
+                $staPool->SaveAndDispose();
+				$dynPool->SaveAndDispose();
+				Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: {$pool} ::Done!");
 				break;
 		}
         
-		$this->display("和谐弹幕池 $pair 完毕。".self::$GoBack);
-		
+		$this->display("和谐弹幕池 $pair 完毕。".self::GoBack);
 	}
+	
 	
 	public function loadxml($group, $dmid) // GET : format attach
 	{
-		$group = Utils::GetGroup($group);
         $gc = Utils::GetGroupConfig($group);
-		$format = is_null($_GET['format']) ? $gc->AllowedXMLFormat[0] : $_GET['format'] ;
-		
 		//header("Content-type: text/xml");
 		header("Content-type: text/plain");
 		if ($_GET['attach'] == 'true') {
@@ -63,11 +56,12 @@ class PoolOp extends K_Controller {
 				"attachment; filename=\"".$group."_$dmid".".xml\"");
 		}
 
-		$staPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'static'));
-		$dynPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, 'dynamic'));
+		$staPool = GetPool($group, $dmid, PoolMode::S);
+		$dynPool = GetPool($group, $dmid, PoolMode::D);
         
         $staPool->MoveFrom($dynPool);
 		
+		$format = is_null($_GET['format']) ? $gc->AllowedXMLFormat[0] : $_GET['format'] ;
 		$view = sprintf( "%s_xml_view_%s", $group, strtolower($format));
 		// 不做保存，纯粹合并
         $this->DisplayView($view, array('Obj' => $staPool->GetXML()) );
@@ -75,67 +69,71 @@ class PoolOp extends K_Controller {
 	
 	public function post($group, $dmid) // GET : pool append
 	{
-		$group = Utils::GetGroup($group);
-        $gc = Utils::GetGroupConfig($group);
-		
+        if (!XmlAuth($group, $dmid, XmlAuth::edit)) {
+            Utils::WriteLog('PoolOp::post()', "{$group} :: {$dmid} :: 权限不足");
+            return;
+        }
+        
 		//加载文件
-		if ($_FILES['uploadfile']['error'] != UPLOAD_ERR_OK)
+		if ($this->Input->File->uploadfile['error'] != UPLOAD_ERR_OK)
 		{
-            Utils::WriteLog('PoolOp::post()', "{$group} :: {$dmid} :: File Upload Fail!");
+            Utils::WriteLog('PoolOp::post()', "{$group} :: {$dmid} :: 文件上传失败");
 			$this->display("文件上传失败");
 			return;
 		}
-		
-		$xmldata = $gc->UploadFilePreProcess(file_get_contents($_FILES['uploadfile']['tmp_name']));
+	
 		if ($xmldata === FALSE) 
 		{
-            Utils::WriteLog('PoolOp::post()', "{$group} :: {$dmid} :: XMLInvalid!");
+            Utils::WriteLog('PoolOp::post()', "{$group} :: {$dmid} :: XML非法");
             $this->display("XML文件非法，拒绝上传请求");
 			return;
 		}
 		
-		$pool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $_POST['Pool']));
-		$XMLObj = $gc->ConvertToUniXML($xmldata);
-		$append = strtolower($_GET['append']) == 'true' ;
+        $pool = GetPool($group, $dmid, StrToPool($this->Input->Post->Pool));
+        
+		$gc = Utils::GetGroupConfig($group);
+		$xmldata = $gc->UploadFilePreProcess(file_get_contents($this->Input->File->uploadfile['tmp_name']));
+		$XMLObj = $gc->ConvertToUniXML($xmldata);unset($xmldata);
+		
+		$append = strtolower($this->Input->Get->append) == 'true' ;
 		if ($append) {
 			$pool->MergeFrom($XMLObj);
 		} else {
 			$pool->SetXML($XMLObj);
 		}
         
+        $pool->SaveAndDispose();
         Utils::WriteLog('PoolOp::post()', "{$group} :: {$dmid} :: Success!");
-        $pool->Save()->Dispose();
-		$this->display("非常抱歉，上传成功。".self::$GoBack);
+		$this->display("非常抱歉，上传成功。".self::GoBack);
 	}
 	
 	public function move($group, $dmid, $from, $to)
 	{
-		$group = Utils::GetGroup($group);
-        if (!XMLAuth::IsAdmin($dmid, $group)) {
+        if (!XmlAuth($group, $dmid, XmlAuth::admin)) {
             Utils::WriteLog('PoolOp::clear()', "{$group} :: {$dmid} :: Unauthorized access!");
             $this->display("越权访问。");
             return;
         }
-		$fromPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $from));
-		$toPool = new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $to));
+        
+		$fromPool =  GetPool($group, $dmid, StrToPool($from));
+		$toPool   =  GetPool($group, $dmid, StrToPool($to  ));
 		
 		$toPool->MoveFrom($fromPool);
 		
-        Utils::WriteLog('PoolOp::move()', "{$group} :: {$dmid} :: from {$from} to {$to} Done!");
-		$fromPool->Save()->Dispose();
-		$toPool->Save()->Dispose();
-		$this->display("弹幕池移动： $from -> $to 完毕。".self::$GoBack);
+		$fromPool->SaveAndDispose();
+		$toPool->SaveAndDispose();
+		Utils::WriteLog('PoolOp::move()', "{$group} :: {$dmid} :: 从 {$from} 移动到 {$to} 成功");
+		$this->display("弹幕池移动： $from -> $to 完毕。".self::GoBack);
 	}
 	
-	public function validate($group, $dmid, $pair = 'dynamic')
+	public function validate($group, $dmid, $pool = 'dynamic')
 	{
-        $group = Utils::GetGroup($group);
 		libxml_clear_errors();
-		new DanmakuPoolBase(Utils::GetIOClass($group, $dmid, $pair));
+		GetPool($group, $dmid, $pool, LoadMode::inst);
 		
 		$errors = libxml_get_errors();
         if (empty($errors)) {
-            $this->display("居然没有错误，不愧是冷酷的TD。".self::$GoBack);
+            $this->display("弹幕池{$pool}校验正常".self::GoBack);
             return;
         }
 		$errorStr = "";
@@ -143,7 +141,7 @@ class PoolOp extends K_Controller {
 			$errorStr .= display_xml_error($errors);
 		}
 		
-		$this->display("糟糕！居然有错？<br />".$errorStr);
+		$this->display($errorStr);
 	}
 	
 	private function display($msg)
