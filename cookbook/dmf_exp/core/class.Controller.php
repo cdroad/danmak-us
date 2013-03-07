@@ -31,6 +31,15 @@ class K_Controller {
         $this->_loadFile('view', $viewName, $vars);
     }
     
+    protected function DisplayStatic($name) {
+        $p = MVC_PATH."/static/{$file}";
+        if (file_exists($p)) {
+            include($p);
+        } else {
+            die("static file not found {$p}.");
+        }
+    }
+    
     protected function GetView($viewName, $vars = array()) {
         ob_flush();
         $this->DisplayView($viewName, $vars);

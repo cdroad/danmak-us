@@ -3,13 +3,12 @@
 class Api extends K_Controller {
     public function filtrate()
     {
-        die('<?xml version="1.0" encoding="utf-8"?><information>
-<filtrate name="普通关键字"><data>费大人</data></filtrate><filtrate name="超级关键字"><data>费大人</data></filtrate></information>');
+        $this->DisplayStatic('acfun_filter_10.xml');
     }
     
     public function filtrate2()
     {
-        die('<?xml version="1.0" encoding="utf-8"?><information><data>taobao</data></information>');
+        $this->DisplayStatic('acfun_filter2_10 .xml');
     }    
 
     public function ujson()

@@ -3,7 +3,7 @@ class Bpi extends K_Controller {
     private $GroupConfig;
     
     public function __construct() {
-        $this->GroupConfig = Utils::GetGroupConfig("bilibili2");
+        $this->GroupConfig = Utils::GetGroupConfig("Bilibili2");
         parent::__construct();
     }
     
@@ -28,7 +28,7 @@ class Bpi extends K_Controller {
     }
     public function bpad()
     {
-        $this->load->view('bilibili_pad');
+        $this->DisplayStatic('bilibili_pad.xml');
     }
     
     public function error()
@@ -136,7 +136,7 @@ class Bpi extends K_Controller {
         $poolId = intval($this->Input->Request->cid);
         if (is_null($poolId)) die("2");
         
-        $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
+        $dynPool = GetPool('Bilibili2', $poolId, PoolMode::D);
         $query = new DanmakuXPathBuilder();
         $result = $dynPool->Find($query->CommentId($dmid));
         
@@ -161,7 +161,7 @@ class Bpi extends K_Controller {
         
         $poolId = $this->Input->Request->dm_inid;
         
-        $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili2', $poolId, 'dynamic'));
+        $dynPool = GetPool('Bilibili3', $poolId, PoolMode::D);
 
         $deleted = "";
         

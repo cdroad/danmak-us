@@ -3,7 +3,7 @@ class Dpi extends K_Controller {
     private $GroupConfig;
     
     public function __construct() {
-        $this->GroupConfig = Utils::GetGroupConfig("2dland");
+        $this->GroupConfig = Utils::GetGroupConfig("twodland1");
         parent::__construct();
     }
     
@@ -16,7 +16,7 @@ class Dpi extends K_Controller {
     
     public function memberinfo()
     {
-        if (XmlAuth('twodland', "*", XmlAuth::edit)) {
+        if (XmlAuth('twodland1', "*", XmlAuth::edit)) {
             die('{"uid":"1","username":"DMF用户","groupid":"1"}');
         } else {
             die('{"uid":0,"username":"","groupid":7}');
@@ -28,11 +28,6 @@ class Dpi extends K_Controller {
         die('<?xml version="1.0" encoding="UTF-8"?><keywords/>');
     }
     
-    public function test()
-    {
-        die("test");
-    }
-
     public function postcmt()
     {
         $this->Helper('playerInterface');

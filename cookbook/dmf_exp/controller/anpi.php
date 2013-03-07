@@ -4,7 +4,7 @@ class Anpi extends K_Controller {
     private $GroupConfig;
     
     public function __construct() {
-        $this->GroupConfig = Utils::GetGroupConfig("acfunn");
+        $this->GroupConfig = Utils::GetGroupConfig("AcfunN1");
         parent::__construct();
     }
     
@@ -55,8 +55,8 @@ class Anpi extends K_Controller {
             $this->Input->Post->size,
             $this->Input->Post->mode,
             $this->Input->Post->stime);
-        $vid = basename($this->Input->Post->poolid);
-		$dynPool = new DanmakuPoolBase(Utils::GetIOClass('acfunn1', $vid, 'dynamic'));
+        $dmid = basename($this->Input->Post->poolid);
+		$dynPool = GetPool('AcfunN1', $dmid, PoolMode::D);
         foreach ($dynPool->GetXML()->comment as $node)
 		{
 			$K = $this->hashCmt( $node->text, $node->attr[0]["color"],$node->attr[0]["fontsize"],$node->attr[0]["mode"],$node->attr[0]["playtime"]);

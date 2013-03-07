@@ -28,7 +28,7 @@ class b3pi extends K_Controller {
     }
     public function bpad()
     {
-        $this->load->view('bilibili_pad');
+        $this->DisplayStatic('bilibili_pad.xml');
     }
     
     public function error()
@@ -42,7 +42,6 @@ class b3pi extends K_Controller {
         global $BilibiliAuthLevel;
         
         $data = array();
-        
         if (empty($this->Input->Request->id)) {
             $data['ChatId'] = $this->Input->Request->id;
         } else {
@@ -136,7 +135,7 @@ class b3pi extends K_Controller {
         $poolId = intval($this->Input->Request->cid);
         if (is_null($poolId)) die("2");
         
-        $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili3', $poolId, 'dynamic'));
+        $dynPool = GetPool('Bilibili3', $poolId, PoolMode::D);
         $query = new DanmakuXPathBuilder();
         $result = $dynPool->Find($query->CommentId($dmid));
         
@@ -160,9 +159,7 @@ class b3pi extends K_Controller {
         }
         
         $poolId = $this->Input->Request->dm_inid;
-        
-        $dynPool = new DanmakuPoolBase(Utils::GetIOClass('bilibili3', $poolId, 'dynamic'));
-
+        $dynPool = GetPool('Bilibili3', $poolId, PoolMode::D);
         $deleted = "";
         
         foreach (explode(",", $this->Input->Request->playerdel) as $id)

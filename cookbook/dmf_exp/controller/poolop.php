@@ -62,7 +62,7 @@ class PoolOp extends K_Controller {
         $staPool->MoveFrom($dynPool);
 		
 		$format = is_null($_GET['format']) ? $gc->AllowedXMLFormat[0] : $_GET['format'] ;
-		$view = sprintf( "%s_xml_view_%s", $group, strtolower($format));
+		$view = sprintf( "xml_view_%s", strtolower($format));
 		// 不做保存，纯粹合并
         $this->DisplayView($view, array('Obj' => $staPool->GetXML()) );
 	}
