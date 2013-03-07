@@ -84,7 +84,7 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 	
 	public function Save(SimpleXMLElement $Obj)
 	{
-        if ( !XmlAuth($this->group, $this->id, XmlAuth::write) ) {
+        if ( !XmlAuth($this->group, $this->id, XmlAuth::edit) ) {
             Utils::WriteLog('StaticPoolIO::Save()', "{$this->group} :: {$this->id}  :: 请求write权限失败");
             return;
         }
@@ -94,6 +94,11 @@ class StaticPoolIO extends DanmakuPoolBaseIO
 			rename($this->file, $this->file.",del-".time());
 		}
 		
+		$folder = pathinfo($this->file, PATHINFO_DIRNAME);
+		if (!file_exists($folder))
+		{
+            mkdir($folder, 0777, true);
+		}
 		$result = file_put_contents($this->file, $Obj->saveXML(), LOCK_EX);
 		if ($result == FALSE)
 		{
@@ -149,7 +154,7 @@ class DynamicPoolIO extends DanmakuPoolBaseIO
 	
 	public function Save(SimpleXMLElement $Obj)
 	{
-        if ( !XMLAuth::IsEdit($this->id, $this->group) ) {
+        if ( !XmlAuth($this->group, $this->id, XmlAuth::read) ) {
             Utils::WriteLog('DynamicPoolIO::Save()', "{$this->group} :: {$this->id}  :: 请求write权限失败");
             return;
         }

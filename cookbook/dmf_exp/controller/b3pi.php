@@ -40,7 +40,7 @@ class b3pi extends K_Controller {
 	public function dad()
 	{
         global $BilibiliAuthLevel;
-        
+        $this->Helper("danmakuPool");
         $data = array();
         if (empty($this->Input->Request->id)) {
             $data['ChatId'] = $this->Input->Request->id;

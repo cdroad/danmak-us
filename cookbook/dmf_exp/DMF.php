@@ -82,7 +82,7 @@ include_once(DMF_ROOT_PATH."DMF_Version.php");
 Player::$playerBase = $ScriptUrl.'/static/players/';
 SafeEnum::Create('PoolMode', 'S', 'D', 'A');
 SafeEnum::Create('LoadMode', 'lazy', 'inst');
-SafeEnum::Create('XmlAuth', 'read', 'write', 'admin');
+SafeEnum::Create('XmlAuth', 'read', 'edit', 'admin');
 SafeEnum::Create("XmlErrorType", "NoError", "Auth", "Broken");
 
 /*

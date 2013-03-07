@@ -129,7 +129,7 @@ class PoolOp extends K_Controller {
 	public function validate($group, $dmid, $pool = 'dynamic')
 	{
 		libxml_clear_errors();
-		GetPool($group, $dmid, $pool, LoadMode::inst);
+		GetPool($group, $dmid, StrToPool($pool), LoadMode::inst);
 		
 		$errors = libxml_get_errors();
         if (empty($errors)) {

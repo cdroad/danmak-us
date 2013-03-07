@@ -27,8 +27,8 @@ function XmlAuth($group, $dmid, $auth) {
         case XmlAuth::read:
             return CondAuth($pn, 'xmlread');
             break;
-        case XmlAuth::write:
-            return CondAuth($pn, 'xmlwrite');
+        case XmlAuth::edit:
+            return CondAuth($pn, 'xmledit');
             break;
         case XmlAuth::admin:
             return CondAuth($pn, 'xmladmin');

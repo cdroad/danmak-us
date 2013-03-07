@@ -40,6 +40,7 @@ class Bpi extends K_Controller {
 	public function dad()
 	{
         global $BilibiliAuthLevel;
+        $this->Helper("danmakuPool");
         
         $data = array();
         
