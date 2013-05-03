@@ -61,12 +61,13 @@ class Acfun4pGroupConfig extends GroupConfig
     
 	public function GenerateFlashVarArr(VideoPageData $source)
 	{
-		$AFVArray = array();
+        $p = $source->Player;
+        $playerParams = new FlashParams($p->playerUrl, $p->width, $p->height);
 	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
-	            $AFVArray['vid'] = $source->DanmakuId;
-	            $AFVArray['type'] = "sina";
+                $playerParams->addVar('vid', $source->DanmakuId);
+                $playerParams->addVar('type', "sina");
 	        break;
 	        
 			case "QQ":
@@ -79,9 +80,9 @@ class Acfun4pGroupConfig extends GroupConfig
 			case "LOCAL":
 			case "YK":
 	            //$AFVArray['url'] = $source->VideoStr;
-	            $AFVArray['vid'] = PageVar($source->Pagename, '$Name');
-	            $AFVArray['system'] = "Artemis";
-	            $AFVArray['type'] = "url";
+	            $playerParams->addVar('vid', PageVar($source->Pagename, '$Name'));
+	            $playerParams->addVar('system', "Artemis" );
+	            $playerParams->addVar('type', "url" );
 	        break;
 
 			default:
@@ -89,7 +90,7 @@ class Acfun4pGroupConfig extends GroupConfig
 				assert(false);
 	        break;
 	    }
-		return $AFVArray;
+		return $playerParams;
 	}
 	
 	public function ConvertToUniXML(SimpleXMLElement $obj)

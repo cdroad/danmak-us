@@ -20,20 +20,7 @@ spl_autoload_register(function ($class) {
     }
     
 });
-$playerCodeHeader = <<<STR
-<script type="text/javascript">
-var flashvars = {};
-var params = {};
-params.menu = "true";
-params.allowscriptaccess = "always";
-params.allowfullscreen = "true";
-params.bgcolor = "#FFFFFF";
-params.autostart = "false";
-params.play = "false";
-params.wmode = 'direct';
-params.allowFullscreenInteractive = true;
 
-STR;
 
 //弹幕权限表
 $BilibiliAuthLevel = new DefinedEnum( array
@@ -44,31 +31,51 @@ $BilibiliAuthLevel = new DefinedEnum( array
 	'Danmakuer' => '20000,1001'
 ));
 
-function DMF_RV($x)
-{
-	global $VDN;
 
-	return $VDN->$x;
+Markup("PlayerPageDisplay", 'directives', "/\\(:PlayerPageDisplay:\\)/e", 'DMF_PlayerPageDisplay()');
+
+function DMF_PlayerPageDisplay() {
+    global $pagename, $LOCALVERSION;
+    $VDN = new VideoPageData($pagename);
+    $xtpl = new XTemplate(DMF_ROOT_PATH.'view/playPage.xpl');
+    
+    if ($LOCALVERSION) {
+        $xtpl->set_null_block('', 'main.source');
+    } else {
+        $xtpl->assign('SOURCE', $VDN->SourceLink);
+        $xtpl->parse("main.source");
+    }
+    
+    $tags = strip_tags(MarkupToHTML($pagename, '(:includeTag:)'), "<a>");
+    $xtpl->assign('TAGS', $tags);
+    if (CondAuth($pagename, 'edit')) {
+        $xtpl->set_null_block('', 'main.tagListNormal');
+        $xtpl->parse("main.tagListEditable");
+    } else {
+        $xtpl->set_null_block('', 'main.tagListEditable');
+        $xtpl->parse("main.tagListNormal");
+    }
+    $GLOBALS['MessagesFmt'] = "{$VDN->Player->desc} -> {$VDN->VideoType->getType()}( \"{$VDN->DanmakuId}\" )";
+    $messages = MarkupToHTML($pagename, "(:messages:)");
+    $xtpl->assign('MESSAGES', $messages);
+    $xtpl->parse("main.messages");
+    
+    $playerParams = $VDN->GroupConfig->GenerateFlashVarArr($VDN);
+    foreach ($playerParams->params as $name => $value) {
+        $xtpl->assign("FLASHVARS", array("Name" => $name, "Value" => $value));
+        $xtpl->parse("main.FlashVars");
+    }
+    $xtpl->assign("URL", $playerParams->url);
+    $xtpl->assign("HEIGHT", $playerParams->height);
+    $xtpl->assign("WIDTH", $playerParams->width);
+    $xtpl->parse("main.PlayerLoader");
+    $xtpl->parse("main");
+    return keep($xtpl->text());
 }
 
-function DMF_SetUpPageMarkUp()
-{
-	Markup("PlayerLoader", 'directives',"/\\(:PlayerLoader:\\)/e",
-		'keep(DMF_RV("PlayerLoadCode"))');
-	Markup("DMF_Messages", 'directives',"/\\(:DMFMessage:\\)/e",
-		'DMF_RV("Messages")'); 
-	Markup("DMBarLoader", 'directives',"/\\(:DMBarLoader:\\)/e",
-		'PRR(DMF_RV("DanmakuBarCode"))'); 
-	Markup("PlayerLinkLoader", '<inline',"/\\(:PlayerLinkLoader:\\)/e",
-		'DMF_RV("PlayerLinkCode")'); 
-	Markup("PartLinkLoader", '<inline',"/\\(:PartLinkLoader:\\)/e",
-		'DMF_RV("PartIndexCode")');
-}
-
-Markup("ObjInit", '<{$var}', "/\\(:ObjInit:\\)/e", 'ObjLoadFunc()');
 function ObjLoadFunc()
 {
-	global $VDN;
+	global $VDN;//
 	$VDN = new VideoData($GLOBALS['pagename']);
 	DMF_SetUpPageMarkUp();
 }

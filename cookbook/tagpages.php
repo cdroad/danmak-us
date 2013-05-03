@@ -83,8 +83,9 @@ function XESMergeCats($oldtext, $newtext){
 	sort($output);
 	$output = implode (" | ", array_unique($output));
 	$search = array ('/([A-Z-])/', '/([\d]+)/', '/[-][\d\w]/','/[ ]{2,}/');
-	$replace = array (' $1', ' $1', '- ', ' ');
+	$replace = array ('$1', '$1', '- ', ' ');
 	$output = trim(preg_replace($search, $replace, $output));
+	
 	#$other = preg_replace('/\(:div class\=category:\)(.*?)$\n\(:divend:\)/m', '', $oldtext);
 	#echo "$other\n\n\n\n\n$output";exit;
 	#return $other . "\n(:div class=category:)"  . $output . "\n(:divend:)";
@@ -107,7 +108,7 @@ function XESTag2Cat($Tags) {
 		if (($clean != "") && ($clean != "[[!]]")  ) $cat_clean[] = $clean;
 	}
 	// prep the return value
-	$text = "[[! " . (implode (']] [[! ', $cat_clean)) . "]] ";
+	$text = "[[!" . (implode (']] [[!', $cat_clean)) . "]] ";
 	// pass return value
 	return $text;
 }
