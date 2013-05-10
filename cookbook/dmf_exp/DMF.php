@@ -113,7 +113,7 @@ function DMF_PlayerPageDisplay() {
      */
     $xtpl->assign("GROUP", $VDN->GroupConfig->GroupString);
     $xtpl->assign("DANMAKUID", $VDN->DanmakuId);
-    $xtpl->assign("SUID", $VDN->SUID);
+    $xtpl->assign("SUID", $VDN->GroupConfig->SUID);
     
     foreach ($VDN->GroupConfig->AllowedXMLFormat as $format) {
         $xtpl->assign("FORMAT", $format);
