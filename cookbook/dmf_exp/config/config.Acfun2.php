@@ -16,19 +16,6 @@ class Acfun2GroupConfig extends GroupConfig
                     ->add('acnew', new Player('player1_new.swf', 'Acfun播放器 (2010711)', 950, 432))
                     ->add('ac20110209', new Player('player1_20110209.swf', 'Acfun播放器 (20110209)', 950, 432))
                     ->addDefault('mukio');
-        
-        $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarNewLine());
-        
-        $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
-        $groupA->add(new DanmakuBarValPool());
-        $groupA->add(new DanmakuBarEditPool());
-        $groupA->add(new DanmakuBarEditPart);
-        
-        $this->DanmakuBarSet->add($groupA);
-        $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
-        $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
     
     public function UploadFilePreProcess($str) {

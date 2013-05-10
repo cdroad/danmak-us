@@ -17,19 +17,6 @@ class Bilibili2GroupConfig extends GroupConfig
                          ->add('bi20121226', new Player('bi20121226.swf', 'bilibili播放器(2012-12-26_org)', 950, 482))
                          ->addDefault('bi20121226');
         $this->VideoSourceSet->add('yk', new YouKuSource());
-        
-        $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarNewLine());
-        
-        $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
-        $groupA->add(new DanmakuBarValPool());
-        $groupA->add(new DanmakuBarEditPool());
-        $groupA->add(new DanmakuBarEditPart);
-        
-        $this->DanmakuBarSet->add($groupA);
-        $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
-        $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
     
     public function UploadFilePreProcess($str) {

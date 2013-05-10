@@ -14,19 +14,6 @@ class Acfun4pGroupConfig extends GroupConfig
                     ->add('ac201210171424', new Player('ACFlashPlayer.201210171424.swf', 'Acfun播放器 (2012-10-17)', 970, 480)) 
                     ->add('ac201209241900', new Player('ACFlashPlayer.old.201209241900.swf', 'Acfun播放器 (2012-09-24)', 950, 445)) 
                     ->addDefault('ac20130118debug');
-        
-        $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarNewLine());
-        
-        $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
-        $groupA->add(new DanmakuBarValPool());
-        $groupA->add(new DanmakuBarEditPool());
-        $groupA->add(new DanmakuBarEditPart);
-        
-        $this->DanmakuBarSet->add($groupA);
-        $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
-        $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
 
     public function UploadFilePreProcess($str) {
@@ -80,7 +67,7 @@ class Acfun4pGroupConfig extends GroupConfig
 			case "LOCAL":
 			case "YK":
 	            //$AFVArray['url'] = $source->VideoStr;
-	            $playerParams->addVar('vid', PageVar($source->Pagename, '$Name'));
+	            $playerParams->addVar('vid', $source->DanmakuId);
 	            $playerParams->addVar('system', "Artemis" );
 	            $playerParams->addVar('type', "url" );
 	        break;

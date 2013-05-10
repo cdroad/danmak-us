@@ -175,11 +175,11 @@ class XTemplate {
 
 	/**
 	 * Template block end delimiter
-	 *
+	 * @fix KPX: 每个block不再输出为空行
 	 * @access public
 	 * @var string
 	 */
-	public $block_end_delim = '-->';
+	public $block_end_delim = '-->(?:[\r\n]{0,2}[ |\t]*)';
 
 	/**
 	 * Template block start word

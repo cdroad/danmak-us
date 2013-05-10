@@ -49,10 +49,10 @@ function DMF_PlayerPageDisplay() {
     $tags = strip_tags(MarkupToHTML($pagename, '(:includeTag:)'), "<a>");
     $xtpl->assign('TAGS', $tags);
     if (CondAuth($pagename, 'edit')) {
-        $xtpl->set_null_block('', 'main.tagListNormal');
+        //$xtpl->set_null_block('', 'main.tagListNormal');
         $xtpl->parse("main.tagListEditable");
     } else {
-        $xtpl->set_null_block('', 'main.tagListEditable');
+        //$xtpl->set_null_block('', 'main.tagListEditable');
         $xtpl->parse("main.tagListNormal");
     }
     $GLOBALS['MessagesFmt'] = "{$VDN->Player->desc} -> {$VDN->VideoType->getType()}( \"{$VDN->DanmakuId}\" )";
@@ -69,20 +69,72 @@ function DMF_PlayerPageDisplay() {
     $xtpl->assign("HEIGHT", $playerParams->height);
     $xtpl->assign("WIDTH", $playerParams->width);
     $xtpl->parse("main.PlayerLoader");
+    
+    $isAdmin = CondAuth($pagename, 'admin');
+    foreach ($VDN->GroupConfig->PlayersSet as $playerId => $playerObj)
+    {
+        if ($playerId == 'default')
+        {
+            continue;
+        }
+        
+        if ($VDN->Player->playerUrl == $playerObj->playerUrl)
+        {
+            $xtpl->assign("NAME", $playerObj->desc);
+            $xtpl->parse("main.PlayerLoaderCurrent");
+            continue;
+        }
+        $player = array(
+            "Name" => $playerObj->desc,
+            "URL" => "?Player=$playerId",
+            "SetDefaultUrl" => "?Player=$playerId?&action=setdef");
+        $xtpl->assign("PLAYER", $player);
+        if ($isAdmin)  {
+            $xtpl->parse("main.PlayerLoaderAdmin");
+        } else {
+            $xtpl->parse("main.PlayerLoaderNormal");
+        }
+    }
+    
+    $partText = MarkupToHTML($pagename, RetrieveAuthSection($pagename, '#partinfo#partend'));
+    $linkedPartText = preg_replace("|<dt>P([0-9]+)</dt>|", "<dt><a class='urllink' href='?Part=$1'>P$1</a></dt>", $partText);
+    $xtpl->assign("PARTTEXT", $linkedPartText);
+    $xtpl->parse("main.PARTDATA");
+    $descText = MarkupToHTML($pagename, RetrieveAuthSection($pagename, '#comment#commentend'));
+    $xtpl->assign("DESCTEXT", $descText);
+    $xtpl->parse("main.DESC");
+    
+    
+    /*
+     * 弹幕控制需要:
+     *   $GROUP
+     *   $DANMAKUID
+     *   $SUID
+     */
+    $xtpl->assign("GROUP", $VDN->GroupConfig->GroupString);
+    $xtpl->assign("DANMAKUID", $VDN->DanmakuId);
+    $xtpl->assign("SUID", $VDN->SUID);
+    
+    foreach ($VDN->GroupConfig->AllowedXMLFormat as $format) {
+        $xtpl->assign("FORMAT", $format);
+        $xtpl->parse("main.DanmakuBar.Download.Format");
+    }
+    $xtpl->parse("main.DanmakuBar.Download");
+    
+    if (CondAuth($pagename, 'edit')) {
+        $xtpl->parse("main.DanmakuBar.NewLine");
+        $xtpl->parse("main.DanmakuBar.Upload");
+        $xtpl->parse("main.DanmakuBar.DynamicPool");
+        if ($VDN->IsMuti) $xtpl->parse("main.DanmakuBar.PageOperation");
+        $xtpl->parse("main.DanmakuBar.PoolOperation");
+    }
+    $xtpl->parse("main.DanmakuBar");
     $xtpl->parse("main");
     return keep($xtpl->text());
 }
 
-function ObjLoadFunc()
-{
-	global $VDN;//
-	$VDN = new VideoData($GLOBALS['pagename']);
-	DMF_SetUpPageMarkUp();
-}
-
 include_once(DMF_ROOT_PATH."inc/class.DanmakuPoolBase.php");
 include_once(DMF_ROOT_PATH."inc/class.DanmakuPoolBaseIO.php");
-include_once(DMF_ROOT_PATH."inc/class.DanmakuBarItem.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoSource.php");
 include_once(DMF_ROOT_PATH."inc/action.SetDefaultPlayer.php");
 include_once(DMF_ROOT_PATH."DMF_Version.php");

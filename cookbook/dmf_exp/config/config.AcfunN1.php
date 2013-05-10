@@ -13,19 +13,6 @@ class AcfunN1GroupConfig extends GroupConfig
                     ->add('ac20111115', new Player('ac20111115.swf', 'Acfun播放器 (20111116)', 950, 432)) 
                     ->add('ac20120304', new Player('ac20120304.swf', 'Acfun播放器 (20120304)', 950, 445))
                     ->addDefault('ac20120304');
-        
-        $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarNewLine());
-        
-        $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
-        $groupA->add(new DanmakuBarValPool());
-        $groupA->add(new DanmakuBarEditPool());
-        $groupA->add(new DanmakuBarEditPart);
-        
-        $this->DanmakuBarSet->add($groupA);
-        $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
-        $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
 
     public function UploadFilePreProcess($str) {

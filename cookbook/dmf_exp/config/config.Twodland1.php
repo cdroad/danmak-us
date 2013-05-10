@@ -10,21 +10,6 @@ class Twodland1GroupConfig extends GroupConfig
         $this->XMLFolderPath = './uploads/Twodland1';
         $this->PlayersSet->add('2dl20111204', new Player('2dl20111204.swf', '2dland播放器(20111024)', 950, 512))
                 ->addDefault('2dl20111204');
-        
-        
-        
-        $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarNewLine());
-        
-        $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
-        $groupA->add(new DanmakuBarValPool());
-        $groupA->add(new DanmakuBarEditPool());
-        $groupA->add(new DanmakuBarEditPart);
-        
-        $this->DanmakuBarSet->add($groupA);
-        $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
-        $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
     
     public function UploadFilePreProcess($str) {
