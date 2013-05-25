@@ -1,16 +1,19 @@
-version=pmwiki-2.2.36 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
-author=dm.mikufans@gmail.com
+version=pmwiki-2.2.45 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36
+author=Admin
 cauthor=dm.mikufans@gmail.com
 charset=UTF-8
 csum=
 ctime=1321428351
 host=127.0.0.1
 name=AcfunN1.GroupFooter
-rev=9
+rev=10
 targets=
-text=(:ObjInit:)%0a(:if equal "{*$Stats}" "true" :)%0a(:include System.VideoFooter self=1:)%0a(:ifend:)
-time=1332608543
+text=(:include System.VideoFooter self=1:)%0a
+time=1369465785
+author:1369465785=Admin
+diff:1369465785:1332608543:=0a1,2%0a> (:ObjInit:)%0a> (:if equal "{*$Stats}" "true" :)%0a1a4%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1369465785=127.0.0.1
 author:1332608543=dm.mikufans@gmail.com
 diff:1332608543:1332581618:=1,4c1,8%0a%3c (:ObjInit:)%0a%3c (:if equal "{*$Stats}" "true" :)%0a%3c (:include System.VideoFooter self=1:)%0a%3c (:ifend:)%0a\ No newline at end of file%0a---%0a> (:if ! equal "{*$:VideoStr}" "" :)%0a> That's True 1%0a> (:if2 equal "{*$Stats}" "true" :)%0a> That's True 2%0a> (:if2end:)%0a> (:ifend:)%0a> %0a> [@(:ObjInit:)@]%0a\ No newline at end of file%0a
 host:1332608543=127.0.0.1

@@ -1,16 +1,22 @@
-version=pmwiki-2.2.36 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
-author=Admin
+version=pmwiki-2.2.43 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+author=dm.mikufans@gmail.com
 cauthor=Admin
 charset=UTF-8
 csum=
 ctime=1321192467
 host=127.0.0.1
-name=AcfunN1.HomePage
-rev=7
+name=Acfun4p.HomePage
+rev=9
 targets=
 text=(:include System.HomePageTmpl#begin#end:)%0a(:nogroupfooter:)
-time=1336648413
+time=1350832701
+author:1350832701=dm.mikufans@gmail.com
+diff:1350832701:1350832655:=2c2,5%0a%3c (:nogroupfooter:)%0a\ No newline at end of file%0a---%0a> (:nogroupfooter:)%0a> (:html:)%0a> %3cscript src="/pub/ac_kagami_core.js" type="text/javascript">%3c/script>%0a> (:htmlend:)%0a\ No newline at end of file%0a
+host:1350832701=127.0.0.1
+author:1350832655=dm.mikufans@gmail.com
+diff:1350832655:1336648413:=2,5c2%0a%3c (:nogroupfooter:)%0a%3c (:html:)%0a%3c %3cscript src="/pub/ac_kagami_core.js" type="text/javascript">%3c/script>%0a%3c (:htmlend:)%0a\ No newline at end of file%0a---%0a> (:nogroupfooter:)%0a\ No newline at end of file%0a
+host:1350832655=127.0.0.1
 author:1336648413=Admin
 diff:1336648413:1336648390:=1c1%0a%3c (:include System.HomePageTmpl#begin#end:)%0a---%0a> (:include System/UniPostPage :)%0a
 host:1336648413=127.0.0.1

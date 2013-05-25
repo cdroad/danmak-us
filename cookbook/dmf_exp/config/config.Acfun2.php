@@ -16,19 +16,6 @@ class Acfun2GroupConfig extends GroupConfig
                     ->add('acnew', new Player('player1_new.swf', 'Acfun播放器 (2010711)', 950, 432))
                     ->add('ac20110209', new Player('player1_20110209.swf', 'Acfun播放器 (20110209)', 950, 432))
                     ->addDefault('mukio');
-        
-        $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarNewLine());
-        
-        $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
-        $groupA->add(new DanmakuBarValPool());
-        $groupA->add(new DanmakuBarEditPool());
-        $groupA->add(new DanmakuBarEditPart);
-        
-        $this->DanmakuBarSet->add($groupA);
-        $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
-        $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
     
     public function UploadFilePreProcess($str) {
@@ -37,11 +24,12 @@ class Acfun2GroupConfig extends GroupConfig
     
 	public function GenerateFlashVarArr(VideoPageData $source)
 	{
-		$AFVArray = array();
+        $p = $source->Player;
+        $playerParams = new FlashParams($p->playerUrl, $p->width, $p->height);
 	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
-	            $AFVArray['id'] = $source->DanmakuId;
+                $playerParams->addVar('id', $source->DanmakuId);
 	        break;
 	        
 			case "QQ":
@@ -52,12 +40,12 @@ class Acfun2GroupConfig extends GroupConfig
 			case "LINK":
 			case "BLINK":
 			case "LOCAL":
-				$AFVArray['id'] = $source->DanmakuId;
-				$AFVArray['file'] = $source->VideoStr;
+                $playerParams->addVar('id'  , $source->DanmakuId);
+                $playerParams->addVar('file', $source->VideoStr);
 	        break;
 	        
 			case "YK":
-				$AFVArray['ykid'] = $source->DanmakuId;
+                $playerParams->addVar('ykid', $source->DanmakuId);
 	        break;
 	        
 			default:
@@ -65,39 +53,7 @@ class Acfun2GroupConfig extends GroupConfig
 				assert(false);
 	        break;
 	    }
-		return $AFVArray;
-	}	
-	public function ConvertToUniXML(SimpleXMLElement $obj)
-	{
-		switch (strtolower($obj->getName()))
-		{
-			case "comments":
-				return $obj;
-			case "information":
-				return $this->ConvertFromDataFormat($obj);
-			default:
-				throw new UnexpectedValueException();
-		}
-	}
-	
-	public function ConvertFromDataFormat(SimpleXMLElement $Obj)
-	{
-		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
-		foreach ($Obj->data as $comment) {
-            $pool = 1;
-            if ($comment->message['mode'] == '8') $pool = 2;
-			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef');
-            $attrs = array(
-                    'playtime'  => $comment->playTime,
-                    'mode'      => $comment->message['mode'],
-                    'fontsize'  => $comment->message['fontsize'],
-                    'color'     => $comment->message['color']);
-            $danmaku->AddAttr($attrs);
-			$XMLString .= (string)$danmaku;
-		}
-		$XMLString .= "\r\n</comments>";
-        
-		return simplexml_load_string($XMLString);
+		return $playerParams;
 	}
     
     public function __get($name) {

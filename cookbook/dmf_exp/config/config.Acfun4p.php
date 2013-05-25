@@ -14,19 +14,6 @@ class Acfun4pGroupConfig extends GroupConfig
                     ->add('ac201210171424', new Player('ACFlashPlayer.201210171424.swf', 'Acfun播放器 (2012-10-17)', 970, 480)) 
                     ->add('ac201209241900', new Player('ACFlashPlayer.old.201209241900.swf', 'Acfun播放器 (2012-09-24)', 950, 445)) 
                     ->addDefault('ac20130118debug');
-        
-        $this->DanmakuBarSet->add(new DanmakuBarUploadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarDownloadXML());
-        $this->DanmakuBarSet->add(new DanmakuBarNewLine());
-        
-        $groupA = new DanmakuBarGroup(DanmakuBarItem::$Auth->Member);
-        $groupA->add(new DanmakuBarValPool());
-        $groupA->add(new DanmakuBarEditPool());
-        $groupA->add(new DanmakuBarEditPart);
-        
-        $this->DanmakuBarSet->add($groupA);
-        $this->DanmakuBarSet->add(new DanmakuBarPoolMove());
-        $this->DanmakuBarSet->add(new DanmakuBarPoolClear());
     }
 
     public function UploadFilePreProcess($str) {
@@ -61,12 +48,13 @@ class Acfun4pGroupConfig extends GroupConfig
     
 	public function GenerateFlashVarArr(VideoPageData $source)
 	{
-		$AFVArray = array();
+        $p = $source->Player;
+        $playerParams = new FlashParams($p->playerUrl, $p->width, $p->height);
 	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
-	            $AFVArray['vid'] = $source->DanmakuId;
-	            $AFVArray['type'] = "sina";
+                $playerParams->addVar('vid', $source->DanmakuId);
+                $playerParams->addVar('type', "sina");
 	        break;
 	        
 			case "QQ":
@@ -79,9 +67,9 @@ class Acfun4pGroupConfig extends GroupConfig
 			case "LOCAL":
 			case "YK":
 	            //$AFVArray['url'] = $source->VideoStr;
-	            $AFVArray['vid'] = PageVar($source->Pagename, '$Name');
-	            $AFVArray['system'] = "Artemis";
-	            $AFVArray['type'] = "url";
+	            $playerParams->addVar('vid', $source->DanmakuId);
+	            $playerParams->addVar('system', "Artemis" );
+	            $playerParams->addVar('type', "url" );
 	        break;
 
 			default:
@@ -89,67 +77,9 @@ class Acfun4pGroupConfig extends GroupConfig
 				assert(false);
 	        break;
 	    }
-		return $AFVArray;
+		return $playerParams;
 	}
-	
-	public function ConvertToUniXML(SimpleXMLElement $obj)
-	{
-		switch (strtolower($obj->getName()))
-		{
-			case "comments":
-				return $obj;
-			case "information":
-				return $this->ConvertFromDataFormat($obj);
-            case "c":
-                return $this->ConvertFromCLFormat($obj);
-			default:
-				throw new UnexpectedValueException();
-		}
-	}
-	
-	public function ConvertFromDataFormat(SimpleXMLElement $Obj)
-	{
-		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
-		foreach ($Obj->data as $comment) {
-            $pool = 0;
-			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef');
-            $attrs = array(
-                    'playtime'  => $comment->playTime,
-                    'mode'      => $comment->message['mode'],
-                    'fontsize'  => $comment->message['fontsize'],
-                    'color'     => $comment->message['color']);
-            $danmaku->AddAttr($attrs);
-			$XMLString .= (string)$danmaku;
-		}
-		$XMLString .= "\r\n</comments>";
-        
-		return simplexml_load_string($XMLString);
-	}
-	
-	public function ConvertFromCLFormat(SimpleXMLElement $Obj)
-	{
-		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
-		foreach ($Obj->l as $comment) {
-            $pool = 0;
-			$arrs = explode(",", $comment['i']);
-            $attrs = array(
-                'playtime'  => $arrs[0],
-                'mode'      => $arrs[3],
-                'fontsize'  => $arrs[1],
-                'color'     => $arrs[2]);
-            $text = (string)$comment;
-            if ($arrs[3] == "7")
-            { 
-                $text = stripslashes($text);
-            }
-            $danmaku = new DanmakuBuilder($text, $pool, 'deadbeef');
-            $danmaku->AddAttr($attrs);
-			$XMLString .= (string)$danmaku;
-		}
-		$XMLString .= "\r\n</comments>";
-		return simplexml_load_string($XMLString);
-	}
-    
+	    
     public function __get($name) {
         return $this->$name;
     }

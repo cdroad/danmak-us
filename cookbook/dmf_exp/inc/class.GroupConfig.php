@@ -8,7 +8,6 @@ abstract class GroupConfig
 	protected $XMLFolderPath = './uploads/Twodland1';
     
     //×Ô¶¯ÉèÖÃ
-	protected $DanmakuBarSet;
 	protected $VideoSourceSet;
 	protected $PlayersSet;
     protected static $Inst;
@@ -27,10 +26,8 @@ abstract class GroupConfig
                 ->add('blink'	, new BURLSource());
                 
         $this->PlayersSet = new PlayerSet();
-        $this->DanmakuBarSet = new DanmakuBarSet($this);
     }
     
     public abstract function GenerateFlashVarArr(VideoPageData $vdp);
     
-    public abstract function ConvertToUniXML(SimpleXMLElement $obj);
 }
