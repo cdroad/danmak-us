@@ -30,5 +30,4 @@ abstract class GroupConfig
     
     public abstract function GenerateFlashVarArr(VideoPageData $vdp);
     
-    public abstract function ConvertToUniXML(SimpleXMLElement $obj);
 }

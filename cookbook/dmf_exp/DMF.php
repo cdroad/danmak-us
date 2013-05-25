@@ -31,7 +31,6 @@ $BilibiliAuthLevel = new DefinedEnum( array
 	'Danmakuer' => '20000,1001'
 ));
 
-
 Markup("PlayerPageDisplay", 'directives', "/\\(:PlayerPageDisplay:\\)/e", 'DMF_PlayerPageDisplay()');
 
 function DMF_PlayerPageDisplay() {

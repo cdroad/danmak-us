@@ -93,7 +93,8 @@ class PoolOp extends K_Controller {
         
 		$gc = Utils::GetGroupConfig($group);
 		$xmldata = $gc->UploadFilePreProcess(file_get_contents($this->Input->File->uploadfile['tmp_name']));
-		$XMLObj = $gc->ConvertToUniXML($xmldata);unset($xmldata);
+		$XMLObj = XMLConverter::ToUniXML($xmldata);
+		unset($xmldata);
 		
 		$append = strtolower($this->Input->Get->append) == 'true' ;
 		if ($append) {

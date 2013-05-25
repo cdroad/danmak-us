@@ -43,39 +43,6 @@ CONT;
 		return $AFVArray;
 	}
 	
-	public function ConvertToUniXML(SimpleXMLElement $obj)
-	{
-        if (strtolower($obj->getName()) == "comments") {
-            if (empty($obj->comment[0]->playTime)) {
-                //raw
-                return $obj;
-            } else {
-                return $this->ConvertFromCommentsFormat($obj);
-            }
-        }
-	}
-	
-	public function ConvertFromCommentsFormat(SimpleXMLElement $Obj)
-	{
-		$XMLString = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<comments>";
-		foreach ($Obj->comment as $comment) {
-            $pool = 0;
-            $time = (string)strtotime((string)$comment->sendTime);
-			$danmaku = new DanmakuBuilder((string)$comment->message, $pool, 'deadbeef', $time);
-            //var_dump($attrs);
-            foreach ($comment->attributes() as $k =>$v) {
-                $attrs[strtolower($k)] = $v;
-            }
-            
-            $attrs['playtime'] = (string)$comment->playTime;
-            unset($attrs['islocked']);
-            $danmaku->AddAttr($attrs);
-			$XMLString .= (string)$danmaku;
-		}
-		$XMLString .= "\r\n</comments>";
-		return simplexml_load_string($XMLString);
-	}
-    
     public function __get($name) {
         return $this->$name;
     }
