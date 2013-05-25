@@ -36,6 +36,12 @@ Markup("PlayerPageDisplay", 'directives', "/\\(:PlayerPageDisplay:\\)/e", 'DMF_P
 function DMF_PlayerPageDisplay() {
     global $pagename, $LOCALVERSION;
     $VDN = new VideoPageData($pagename);
+    
+    //不是视频页面
+    if (empty($VDN->VideoStr) || empty($VDN->VideoType) || empty($VDN->DanmakuId)) {
+        return;
+    }
+    
     $xtpl = new XTemplate(DMF_ROOT_PATH.'view/playPage.xpl');
     
     if ($LOCALVERSION) {

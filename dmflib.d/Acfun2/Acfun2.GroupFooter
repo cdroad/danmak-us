@@ -1,6 +1,6 @@
-version=pmwiki-2.2.36 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11
-author=dm.mikufans@gmail.com
+version=pmwiki-2.2.45 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36
+author=Admin
 cauthor=dm.mikufans@gmail.com
 charset=UTF-8
 csum=
@@ -8,10 +8,13 @@ ctime=1285224823
 host=127.0.0.1
 name=Acfun2.GroupFooter
 passwdedit=@lock
-rev=74
+rev=75
 targets=
-text=(:ObjInit:)%0a(:if equal "{*$Stats}" "true" :)%0a(:include System.VideoFooter self=1:)%0a(:ifend:)
-time=1332608530
+text=(:include System.VideoFooter self=1:)%0a
+time=1369465008
+author:1369465008=Admin
+diff:1369465008:1332608530:=0a1,2%0a> (:ObjInit:)%0a> (:if equal "{*$Stats}" "true" :)%0a1a4%0a> (:ifend:)%0a\ No newline at end of file%0a
+host:1369465008=127.0.0.1
 author:1332608530=dm.mikufans@gmail.com
 diff:1332608530:1332608527:=3c3%0a%3c (:include System.VideoFooter self=1:)%0a---%0a> (:include System.VideoFooter self=0:)%0a
 host:1332608530=127.0.0.1

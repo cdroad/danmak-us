@@ -25,12 +25,12 @@ class Bilibili2GroupConfig extends GroupConfig
     
 	public function GenerateFlashVarArr(VideoPageData $source)
 	{
-		$AFVArray = array();
-		
+        $p = $source->Player;
+        $playerParams = new FlashParams($p->playerUrl, $p->width, $p->height);
 	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
-	            $AFVArray['vid'] = $source->DanmakuId;
+	            $playerParams->addVar('vid', $source->DanmakuId);
 	        break;
 	        
 			case "QQ":
@@ -41,12 +41,12 @@ class Bilibili2GroupConfig extends GroupConfig
 			case "LINK":
 			case "BLINK":
 			case "LOCAL":
-				$AFVArray['id'] = $source->DanmakuId;
-				$AFVArray['file'] = $source->VideoStr;
+                $playerParams->addVar('id'  , $source->DanmakuId);
+                $playerParams->addVar('file', $source->VideoStr);
 	        break;
 	        
 			case "YK":
-				$AFVArray['ykid'] = $source->DanmakuId;
+				$playerParams->addVar('ykid', $source->DanmakuId);
 	        break;
 	        
 			default:

@@ -27,7 +27,7 @@ class Bilibili3GroupConfig extends GroupConfig
 	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
-	            $AFVArray['vid'] = $source->DanmakuId;
+	            $playerParams->addVar('vid', $source->DanmakuId);
 	        break;
 	        
 			case "QQ":
@@ -38,12 +38,12 @@ class Bilibili3GroupConfig extends GroupConfig
 			case "LINK":
 			case "BLINK":
 			case "LOCAL":
-				$AFVArray['id'] = $source->DanmakuId;
-				$AFVArray['file'] = $source->VideoStr;
+                $playerParams->addVar('id'  , $source->DanmakuId);
+                $playerParams->addVar('file', $source->VideoStr);
 	        break;
 	        
 			case "YK":
-				$AFVArray['ykid'] = $source->DanmakuId;
+				$playerParams->addVar('ykid', $source->DanmakuId);
 	        break;
 	        
 			default:

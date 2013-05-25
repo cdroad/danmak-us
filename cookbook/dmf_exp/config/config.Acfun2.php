@@ -24,11 +24,12 @@ class Acfun2GroupConfig extends GroupConfig
     
 	public function GenerateFlashVarArr(VideoPageData $source)
 	{
-		$AFVArray = array();
+        $p = $source->Player;
+        $playerParams = new FlashParams($p->playerUrl, $p->width, $p->height);
 	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
-	            $AFVArray['id'] = $source->DanmakuId;
+                $playerParams->addVar('id', $source->DanmakuId);
 	        break;
 	        
 			case "QQ":
@@ -39,12 +40,12 @@ class Acfun2GroupConfig extends GroupConfig
 			case "LINK":
 			case "BLINK":
 			case "LOCAL":
-				$AFVArray['id'] = $source->DanmakuId;
-				$AFVArray['file'] = $source->VideoStr;
+                $playerParams->addVar('id'  , $source->DanmakuId);
+                $playerParams->addVar('file', $source->VideoStr);
 	        break;
 	        
 			case "YK":
-				$AFVArray['ykid'] = $source->DanmakuId;
+                $playerParams->addVar('ykid', $source->DanmakuId);
 	        break;
 	        
 			default:
@@ -52,7 +53,7 @@ class Acfun2GroupConfig extends GroupConfig
 				assert(false);
 	        break;
 	    }
-		return $AFVArray;
+		return $playerParams;
 	}
     
     public function __get($name) {
