@@ -111,10 +111,10 @@ IsMuti
             <strong>{NAME}</strong>&nbsp;&nbsp;
             <!-- END: PlayerLoaderCurrent -->
             <!-- BEGIN: PlayerLoaderAdmin -->
-            <a class='urllink' href='{PLAYER.URL}'>{NAME}</a><a class='urllink' href='{PLAYER.SetDefaultUrl}'>&nbsp;<sup>Def</sup></a>&nbsp;&nbsp;
+            <a class='urllink' href='{PLAYER.URL}'>{PLAYER.Name}</a><a class='urllink' href='{PLAYER.SetDefaultUrl}'>&nbsp;<sup>Def</sup></a>&nbsp;&nbsp;
             <!-- END: PlayerLoaderAdmin -->
             <!-- BEGIN: PlayerLoaderNormal -->
-            <a class='urllink' href='{PLAYER.URL}'>{NAME}</a>&nbsp;&nbsp;
+            <a class='urllink' href='{PLAYER.URL}'>{PLAYER.Name}</a>&nbsp;&nbsp;
             <!-- END: PlayerLoaderNormal -->
         </td>
     </tr>
