@@ -10,10 +10,11 @@ class Acfun4pGroupConfig extends GroupConfig
         $this->SUID = 'A4P';
         $this->XMLFolderPath = './uploads/Acfun4p';
         $this->PlayersSet
+                    ->add('ACFlashPlayerX.201304171632', new Player('ACFlashPlayerX.201304171632_.swf', 'Acfun播放器 (2013-04-17 16:32)', 950, 445)) 
                     ->add('ac20130118debug', new Player('ac20130118debug.swf', 'Acfun播放器 测试版 (2013-01-18)', 950, 445)) 
                     ->add('ac201210171424', new Player('ACFlashPlayer.201210171424.swf', 'Acfun播放器 (2012-10-17)', 970, 480)) 
                     ->add('ac201209241900', new Player('ACFlashPlayer.old.201209241900.swf', 'Acfun播放器 (2012-09-24)', 950, 445)) 
-                    ->addDefault('ac20130118debug');
+                    ->addDefault('ACFlashPlayerX.201304171632');
     }
 
     public function UploadFilePreProcess($str) {
