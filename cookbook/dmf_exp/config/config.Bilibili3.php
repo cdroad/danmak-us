@@ -12,7 +12,8 @@ class Bilibili3GroupConfig extends GroupConfig
         $this->SUID = '3B';
         $this->XMLFolderPath = './uploads/Bilibili3';
         $this->PlayersSet->add('bi20130124', new Player('bi20130124.swf', 'bilibili播放器(2013-01-24)', 950, 482))
-                         ->addDefault('bi20130124');
+                         ->add('bi20130628', new Player('bi20130628_.swf', 'bilibili播放器(2013-06-28)', 950, 482))
+                         ->addDefault('bi20130628');
         $this->VideoSourceSet->add('yk', new YouKuSource());
     }
     
@@ -22,8 +23,8 @@ class Bilibili3GroupConfig extends GroupConfig
     
 	public function GenerateFlashVarArr(VideoPageData $source)
 	{
-		$AFVArray = array();
-		
+        $p = $source->Player;
+		$playerParams = new FlashParams($p->playerUrl, $p->width, $p->height);
 	    switch (strtoupper($source->VideoType->getType()))
 	    {
 	        case "NOR":
@@ -51,7 +52,7 @@ class Bilibili3GroupConfig extends GroupConfig
 				assert(false);
 	        break;
 	    }
-		return $AFVArray;
+		return $playerParams;
 	}
     
     public function __get($name) {
