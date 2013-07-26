@@ -1,12 +1,12 @@
-version=pmwiki-2.2.45 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+version=pmwiki-2.2.53 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36
 author=simon
 charset=UTF-8
 csum=Add summary, see how long a summary lasts?!
 host=127.0.0.1
 name=SiteAdmin.Status
-rev=38
+rev=39
 targets=
 text=(:Summary: PmWiki version {$Version} (VersionNum={$VersionNum}):)%0a(:comment Any local edits to this page may be lost!:)%0a%0aThis site is running {$Version} (VersionNum={$VersionNum}).%0a
-time=1355285443
-updatedto=2002045
+time=1374844851
+updatedto=2002053

@@ -21,7 +21,7 @@ class PoolOp extends K_Controller {
             return;
         }
         
-		switch (strtolower($pair))
+		switch (strtolower($pool))
 		{
 			case "static":
 				$staPool->Clear();
