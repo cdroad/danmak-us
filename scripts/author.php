@@ -1,5 +1,5 @@
 <?php if (!defined('PmWiki')) exit();
-/*  Copyright 2004-2009 Patrick R. Michaud (pmichaud@pobox.com)
+/*  Copyright 2004-2013 Patrick R. Michaud (pmichaud@pobox.com)
     This file is part of PmWiki; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published
     by the Free Software Foundation; either version 2 of the License, or
@@ -30,7 +30,7 @@ if (!isset($Author)) {
                 ENT_COMPAT);
 }
 if (!isset($AuthorPage)) $AuthorPage = 
-    FmtPageName('$AuthorGroup/$Name', MakePageName($pagename, $Author));
+    FmtPageName('$AuthorGroup/$Name', MakePageName("$AuthorGroup.$AuthorGroup", $Author));
 SDV($AuthorLink,($Author) ? "[[~$Author]]" : '?');
 
 if (IsEnabled($EnableAuthorSignature,1)) {
