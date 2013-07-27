@@ -143,7 +143,7 @@ include_once(DMF_ROOT_PATH."inc/class.DanmakuPoolBaseIO.php");
 include_once(DMF_ROOT_PATH."inc/class.VideoSource.php");
 include_once(DMF_ROOT_PATH."inc/action.SetDefaultPlayer.php");
 include_once(DMF_ROOT_PATH."DMF_Version.php");
-Player::$playerBase = $ScriptUrl.'/static/players/';
+Player::$playerBase = $ScriptUrl.'/pub/players/';
 SafeEnum::Create('PoolMode', 'S', 'D', 'A');
 SafeEnum::Create('LoadMode', 'lazy', 'inst');
 SafeEnum::Create('XmlAuth', 'read', 'edit', 'admin');
